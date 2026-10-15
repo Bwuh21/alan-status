@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:05",
+  "updated": "2026-10-15T17:56",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -511,27 +511,33 @@
       "subtasks": [
         {
           "text": "Start in a small boat; every ship you sink grows yours",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. Five hulls, launch to ship of the line. She is swapped on the water mid-fight."
         },
         {
           "text": "Multiplayer: battle other ships to become the biggest (agar.io feel)",
-          "status": "todo"
+          "status": "todo",
+          "note": "NOT built. Online this is still a 1v1 duel; a lobby of growing ships is its own build. Next up."
         },
         {
           "text": "Levels from kills upgrade durability, firepower and cannonball capacity",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. Hull, ball damage and guns a side (= balls per volley). Big ones are slower and turn worse."
         },
         {
           "text": "Remove the pause-the-game picks (powder monkeys, chain shot, rum ration)",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. The whole deck is gone, and the pause with it. Chain and grape went too (they were cards)."
         },
         {
           "text": "Remove pressing E to walk around the ship",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. One station: you never leave the wheel. Space fires the side that bears."
         },
         {
           "text": "Keep waves in single-player; aiming can improve later",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. Waves untouched; the King's ships now work up against your rating instead of your cards."
         }
       ]
     },
