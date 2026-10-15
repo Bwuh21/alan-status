@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:25",
+  "updated": "2026-10-15T18:10",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -95,7 +95,8 @@
         },
         {
           "text": "Toy Fury house: make it insanely well optimized",
-          "status": "todo"
+          "status": "doing",
+          "note": "10-15 — it already holds a locked 60 fps on a phone. The real find: its frame counter has been reporting 1 draw for every race, so nothing could measure it. Fixed and live; a real tuning pass can start from a true number"
         },
         {
           "text": "Deep dive: what it takes for the whole arcade to run on a potato",
