@@ -544,24 +544,28 @@
     },
     {
       "title": "Hangtime — touch-ups",
-      "status": "todo",
+      "status": "done",
       "insight": "\"Otherwise I think this is a fun game.\"",
       "subtasks": [
         {
           "text": "A better map: lose the odd background audience and the extra court rings — keep only the 3-point line",
-          "status": "todo"
+          "status": "done",
+          "note": "The crowd is a rock ridge now. Only the 3-point line is painted on the floor, and the orange dunk circle retires once you have dunked — it was a hint that never switched off."
         },
         {
           "text": "Dunking from behind the basket goes through the backboard — block it",
-          "status": "todo"
+          "status": "done",
+          "note": "The backboard is solid now. Fixed where your feet are held, so shots and passes stop going through it too."
         },
         {
           "text": "A swish sound on a clean 3",
-          "status": "todo"
+          "status": "done",
+          "note": "It was already playing — the crowd roar started on the same instant and buried it. The net goes first now, and a deep 3 snaps."
         },
         {
           "text": "Backing up for a 3 sometimes forces a moon dunk instead",
-          "status": "todo"
+          "status": "done",
+          "note": "The button said STEPBACK while the game ran a moon dunk. Both now read one rule: backing up is never a dunk."
         }
       ]
     },
