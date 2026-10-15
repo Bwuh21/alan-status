@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-15T13:10",
   "mainPoints": [
     {
       "id": "kc-sports-report",
@@ -32,6 +32,291 @@
         { "text": "Floor-wide: ink fix needs more games checked by eye", "status": "todo" },
         { "text": "Splatflag: tutorial covers every mechanic", "status": "todo" },
         { "text": "Skin Kick (AirHockey): fix the ball's look", "status": "todo" }
+      ]
+    },
+    {
+      "id": "lobby-controls",
+      "title": "Lobby & controls — getting in and getting out",
+      "status": "todo",
+      "insight": "His first item. Every exit must be impossible to miss.",
+      "subtasks": [
+        { "text": "Lock the character until Enter is pressed — no running around the lobby before you have entered", "status": "todo" },
+        { "text": "Escape menu button (circle with three lines) in ONE corner in every game — Hangtime has it halfway down the screen, Space Golf flips left and right", "status": "todo" },
+        { "text": "Replace the small underlined \"step away\" / \"put down the darts\" links with a big red LEAVE GAME button", "status": "todo" }
+      ]
+    },
+    {
+      "id": "performance",
+      "title": "Run on a potato — smoothness deep dive",
+      "status": "todo",
+      "insight": "\"The main point of this game is to make it super smooth and super optimised and right now it doesn't feel like that.\"",
+      "subtasks": [
+        { "text": "Flying around the lobby feels chunky and laggy — find out why and fix it", "status": "todo" },
+        { "text": "The shop takes a crazy long time to open — find what it is loading (aura?) and fix it", "status": "todo" },
+        { "text": "Islands far away drop their props and it looks bad — find the balance between culling and looks", "status": "todo" },
+        { "text": "Toy Fury house: make it insanely well optimized", "status": "todo" },
+        { "text": "Deep dive: what it takes for the whole arcade to run on a potato", "status": "todo" }
+      ]
+    },
+    {
+      "id": "aura",
+      "title": "Skins — aura rework",
+      "status": "todo",
+      "insight": "Better than before, still not right. Needs research and a new approach for high-tier skins.",
+      "subtasks": [
+        { "text": "Aura is still choppy and does not stay with the body moving forward and back; the character leans forward", "status": "todo" },
+        { "text": "Aura shows on glasses and items that should not glow — decide what actually earns aura", "status": "todo" },
+        { "text": "The aura outline on every skin does not look the best — find a new way to give high-tier skins their aura", "status": "todo" }
+      ]
+    },
+    {
+      "id": "skins-fixes",
+      "title": "Skins — Grand Regent & Pablo",
+      "status": "todo",
+      "subtasks": [
+        { "text": "Grand Regent: the cape clips into the body and flaps around weirdly", "status": "todo" },
+        { "text": "Grand Regent: the player model is broken in the shop", "status": "todo" },
+        { "text": "Rename the godly-tier rat to \"Pablo\" (keep him divine)", "status": "todo" },
+        { "text": "Pablo: missing a neck, cheese stuck in his body — redo the whole skin", "status": "todo" }
+      ]
+    },
+    {
+      "id": "lobby-layout",
+      "title": "Lobby — center island, bridges & carpets",
+      "status": "todo",
+      "insight": "\"I really love the main center island.\" Keep every table; the connections are what look bad.",
+      "subtasks": [
+        { "text": "Center island: keep everything (blackjack, roulette, locker), add the small details that make it look a lot better", "status": "todo" },
+        { "text": "Bridges to the outer islands land on top of the casino/roulette line — clipping; make the pathways much better", "status": "todo" },
+        { "text": "The small red carpets before the jump pads clip over island props", "status": "todo" },
+        { "text": "Corner (diagonal) islands connect at random — give them real connecting points that read from a top view", "status": "todo" }
+      ]
+    },
+    {
+      "id": "portals",
+      "title": "Portals",
+      "status": "todo",
+      "subtasks": [
+        { "text": "Check every portal: you run through it, never press E", "status": "todo" },
+        { "text": "Inside rooms, \"Exit\" doors are fine where a portal does not fit", "status": "todo" },
+        { "text": "Skate park: a skate-park-themed portal instead of the blue one", "status": "todo" },
+        { "text": "Toy Fury porch: the giant portal outside does not look good", "status": "todo" }
+      ]
+    },
+    {
+      "id": "stardust",
+      "title": "Stardust Cavern tavern — darts & pinball",
+      "status": "todo",
+      "insight": "Anything that costs a coin has to be so fun you cannot decide what to spend your coins on.",
+      "subtasks": [
+        { "text": "Dartboard is way too big; the cabinet sides clip into the dart scoreboard", "status": "todo" },
+        { "text": "Darts: let people play against each other", "status": "todo" },
+        { "text": "Darts is too easy — find hard-but-not-impossible; redo the whole dartboard", "status": "todo" },
+        { "text": "Pinball: rebuild it into a super fun pinball (2D is fine, dull is not)", "status": "todo" }
+      ]
+    },
+    {
+      "id": "pool",
+      "title": "Pool tavern island",
+      "status": "todo",
+      "subtasks": [
+        { "text": "Pool balls need numbers and to actually look like pool balls", "status": "todo" },
+        { "text": "The pool cue is half the size it should be", "status": "todo" },
+        { "text": "Jukebox: touch up the floating music notes", "status": "todo" },
+        { "text": "More detail on the bar and the pool table", "status": "todo" }
+      ]
+    },
+    {
+      "id": "bowling",
+      "title": "Bowling island",
+      "status": "todo",
+      "insight": "The main idea is good. Inside the alley is fine for now.",
+      "subtasks": [
+        { "text": "The demo ball crashes the pins every ~5 s — loud and annoying when you stand there; find a better way", "status": "todo" },
+        { "text": "Make the demo lane look better", "status": "todo" },
+        { "text": "The ball rack and the shoes need a lot more work", "status": "todo" }
+      ]
+    },
+    {
+      "id": "slab-city",
+      "title": "Slab City — tutorial & trick progression",
+      "status": "todo",
+      "insight": "A wall of controls is overwhelming. Teach the basics first, unlock tricks by levelling. A bigger park comes later.",
+      "subtasks": [
+        { "text": "A tutorial that walks through the basics of skating, not a wall of controls", "status": "todo" },
+        { "text": "An \"Open Trick Book\" button showing the tricks you have learned so far", "status": "todo" },
+        { "text": "Levels that unlock tricks (Skate 3 style: coffin, flips as higher-level moves) and parts of the park", "status": "todo" },
+        { "text": "Keep it multiplayer: skate around with others to level up", "status": "todo" },
+        { "text": "A stray skating sound plays in the lobby — music, or a leak from the skate park? Find out", "status": "todo" },
+        { "text": "Later: grow the park once tricks and basics are in", "status": "todo" }
+      ]
+    },
+    {
+      "id": "toyfury-island",
+      "title": "Toy Fury — lobby island & toy house",
+      "status": "todo",
+      "subtasks": [
+        { "text": "Island track: gaps at the turns; cars clip into the track and each other", "status": "todo" },
+        { "text": "Cars clip through the loop-de-loop and fall out of it", "status": "todo" },
+        { "text": "The toy decorations around the track need a lot more work", "status": "todo" },
+        { "text": "The carpet in the main area of the house is broken and clipping", "status": "todo" },
+        { "text": "Clipping in almost every room — objects inside objects; build it with more intention", "status": "todo" },
+        { "text": "The mini tracks in the house should look like the real race tracks", "status": "todo" },
+        { "text": "Shrinking down into a track looks buggy", "status": "todo" }
+      ]
+    },
+    {
+      "id": "toyfury-race",
+      "title": "Toy Fury — race revamp",
+      "status": "todo",
+      "insight": "\"There's a lot of potential for this game but it just feels like I'm not even really racing.\"",
+      "subtasks": [
+        { "text": "Driving: you bounce wall to wall and cannot hold the middle — make it feel like real racing, not just W + A/D", "status": "todo" },
+        { "text": "Drop the track picker after you already chose a track (offer mode / race type instead)", "status": "todo" },
+        { "text": "Booster pads look like car-wash wipers — redesign them", "status": "todo" },
+        { "text": "Wrecks and explosions should be a big part of it — your car can blow up and die", "status": "todo" },
+        { "text": "The game looks low resolution — find the cause", "status": "todo" }
+      ]
+    },
+    {
+      "id": "toyfury-cars",
+      "title": "Toy Fury — car collection",
+      "status": "todo",
+      "insight": "Hot Wheels: collect cars, race the cars you own, spend tickets on cars.",
+      "subtasks": [
+        { "text": "Design many more car models — spend real time on car design", "status": "todo" },
+        { "text": "Collect cars and race the ones you own", "status": "todo" },
+        { "text": "Showroom: a motorcycle is upside down; one car already has a driver in it", "status": "todo" },
+        { "text": "Wheels turn weirdly and some do not attach to the car; car parts clip", "status": "todo" }
+      ]
+    },
+    {
+      "id": "multiplayer",
+      "title": "Multiplayer — every game",
+      "status": "todo",
+      "insight": "\"You're thinking of it from a very narrow lens.\" Think through the whole party, not one match.",
+      "subtasks": [
+        { "text": "Pick sides: choose who is on which team", "status": "todo" },
+        { "text": "Team sizes beyond 2v2 where the game allows (3v3, 4v4)", "status": "todo" },
+        { "text": "\"Play again\" pulls every player back in", "status": "todo" },
+        { "text": "The host chooses whether to fill with bots", "status": "todo" },
+        { "text": "Knocked out or finished early: spectate and choose who to watch (Toy Fury, Space Golf), never get thrown to the lobby", "status": "todo" },
+        { "text": "Bots wear skins", "status": "todo" }
+      ]
+    },
+    {
+      "id": "arcade-hall",
+      "title": "Arcade hall — the big room",
+      "status": "todo",
+      "subtasks": [
+        { "text": "Cabinets clip a lot, especially the screens", "status": "todo" },
+        { "text": "Clean up the cabinets; the hall is a giant box — give it a real vibe", "status": "todo" },
+        { "text": "Split it: a single-player room and a multiplayer room", "status": "todo" },
+        { "text": "The Splatflag cabinet picture still shows the old map", "status": "todo" }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Coins & tickets — find the balance",
+      "status": "todo",
+      "insight": "One coin a game; 100 tickets buys a skin spin. People should be able to spend pretty normally.",
+      "subtasks": [
+        { "text": "Check daily coins actually refill (a vault note says claim_coins has never paid)", "status": "todo" },
+        { "text": "1 coin per game", "status": "todo" },
+        { "text": "Vs friends: players put tickets up against each other", "status": "todo" },
+        { "text": "Vs bots: the ticket payout scales with bot level", "status": "todo" },
+        { "text": "Balance payouts against the 100-ticket spin — lower the spin or raise payouts", "status": "todo" }
+      ]
+    },
+    {
+      "id": "game-shoveoff",
+      "title": "Shove Off",
+      "status": "todo",
+      "subtasks": [
+        { "text": "A cooler map: lean hard into the cartoony look, with outlines", "status": "todo" },
+        { "text": "Keep the falling-apart map", "status": "todo" },
+        { "text": "Bots come in wearing skins", "status": "todo" }
+      ]
+    },
+    {
+      "id": "game-sideways",
+      "title": "Sideways",
+      "status": "todo",
+      "insight": "A fun single-player start; it belongs in the single-player room.",
+      "subtasks": [
+        { "text": "The engine revving sound is annoying — rework it", "status": "todo" }
+      ]
+    },
+    {
+      "id": "game-icehockey",
+      "title": "Ice Hockey — make it fun",
+      "status": "todo",
+      "insight": "\"I don't want to remove the game. I just want to see how we can make the game better.\"",
+      "subtasks": [
+        { "text": "The loop is grab puck, skate to goal, shoot, repeat — deep dive on what would make it fun", "status": "todo" },
+        { "text": "Charging a shot looks goofy — make the stick swing look natural", "status": "todo" },
+        { "text": "Needs a better name — propose three", "status": "blocked", "note": "his pick" }
+      ]
+    },
+    {
+      "id": "game-broadside",
+      "title": "Broadside Bay (pirate ship) — pivot",
+      "status": "todo",
+      "insight": "Start small, sink ships, grow. No screens that pause the game.",
+      "subtasks": [
+        { "text": "Start in a small boat; every ship you sink grows yours", "status": "todo" },
+        { "text": "Multiplayer: battle other ships to become the biggest (agar.io feel)", "status": "todo" },
+        { "text": "Levels from kills upgrade durability, firepower and cannonball capacity", "status": "todo" },
+        { "text": "Remove the pause-the-game picks (powder monkeys, chain shot, rum ration)", "status": "todo" },
+        { "text": "Remove pressing E to walk around the ship", "status": "todo" },
+        { "text": "Keep waves in single-player; aiming can improve later", "status": "todo" }
+      ]
+    },
+    {
+      "id": "game-hangtime",
+      "title": "Hangtime — touch-ups",
+      "status": "todo",
+      "insight": "\"Otherwise I think this is a fun game.\"",
+      "subtasks": [
+        { "text": "A better map: lose the odd background audience and the extra court rings — keep only the 3-point line", "status": "todo" },
+        { "text": "Dunking from behind the basket goes through the backboard — block it", "status": "todo" },
+        { "text": "A swish sound on a clean 3", "status": "todo" },
+        { "text": "Backing up for a 3 sometimes forces a moon dunk instead", "status": "todo" }
+      ]
+    },
+    {
+      "id": "game-cometclash",
+      "title": "Comet Clash",
+      "status": "todo",
+      "subtasks": [
+        { "text": "Stop asking for a name — use the player's name; signed-out players get \"Player 1\"", "status": "todo" }
+      ]
+    },
+    {
+      "id": "game-skinkick",
+      "title": "Skin Kick",
+      "status": "todo",
+      "subtasks": [
+        { "text": "The ball has stars on it — give it a real soccer-ball pattern", "status": "todo" }
+      ]
+    },
+    {
+      "id": "game-dodgefall",
+      "title": "DodgeFall — both screens must agree, or the game goes",
+      "status": "todo",
+      "insight": "\"If we can't figure it out then it's pointless and we'll have to remove the game.\"",
+      "subtasks": [
+        { "text": "Deep dive on lag compensation: a kill must be obvious on BOTH screens", "status": "todo" },
+        { "text": "If it cannot be solved, removing the game is his call", "status": "blocked", "note": "his decision" }
+      ]
+    },
+    {
+      "id": "game-spacegolf",
+      "title": "Space Golf",
+      "status": "todo",
+      "subtasks": [
+        { "text": "Freezes when you are about to reach the final green", "status": "todo" },
+        { "text": "The camera gets stuck — sometimes you cannot look up or where you want", "status": "todo" }
       ]
     },
     {
