@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T18:10",
+  "updated": "2026-10-15T18:52",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -489,11 +489,13 @@
       "subtasks": [
         {
           "text": "The loop is grab puck, skate to goal, shoot, repeat — deep dive on what would make it fun",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. Measured 14 matches: from in close you scored 0 of 44, while a long shot scored 15% — the game paid you to hang back and fire, which is the loop you described. Close shots now pay best, and holding the steal button is a lunge that strips him but floors you if you miss."
         },
         {
           "text": "Charging a shot looks goofy — make the stick swing look natural",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. The stick was swinging right round sideways with the blade two metres in the air, and it held there while you glided. It loads back and low now, both hands on it, shoulders turned, and whips through the puck."
         },
         {
           "text": "Needs a better name — propose three",
