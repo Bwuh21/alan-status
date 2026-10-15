@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-15",
+  "mainPoints": [
+    {
+      "id": "kc-sports-report",
+      "title": "Sponsorship client — kickoff",
+      "status": "doing",
+      "urgent": true,
+      "due": "tonight (client meeting)",
+      "insight": "Kit and demo are built on our end. Every remaining gap is the client's to close, not ours.",
+      "subtasks": [
+        { "text": "Meeting with the client tonight", "status": "doing" },
+        { "text": "Client signs the agreement", "status": "blocked", "note": "client action" },
+        { "text": "Client sets sponsor exclusivity terms", "status": "blocked", "note": "client action" },
+        { "text": "Client gives sponsor numbers", "status": "blocked", "note": "client action" },
+        { "text": "Client pays the setup fee", "status": "blocked", "note": "client action" }
+      ]
+    },
+    {
+      "id": "arcade-polish",
+      "title": "The Arcade — polish pass",
+      "status": "doing",
+      "insight": "Self-feeding queue — it restarts itself the moment one item ships, no prompt needed.",
+      "subtasks": [
+        { "text": "Splatflag: fix the infinite-respawn-hit bug", "status": "doing" },
+        { "text": "Floor-wide: bring the outline-only games up to the cartoon-outline pass", "status": "todo" },
+        { "text": "Arcade lobby: fix choppy main-room movement", "status": "todo" },
+        { "text": "Floor-wide: refresh the stale teach-cards", "status": "todo" },
+        { "text": "Toy Fury: balance the booster gates", "status": "todo" },
+        { "text": "Toy Fury: hazard-variety pass on two tracks", "status": "todo" },
+        { "text": "Hangtime: sound rework (verify first)", "status": "todo" },
+        { "text": "Floor-wide: ink fix needs more games checked by eye", "status": "todo" },
+        { "text": "Splatflag: tutorial covers every mechanic", "status": "todo" },
+        { "text": "Skin Kick (AirHockey): fix the ball's look", "status": "todo" }
+      ]
+    },
+    {
+      "id": "surviveai",
+      "title": "Client game — retention build",
+      "status": "doing",
+      "insight": "The retention build shipped and has never been played by an actual kid yet.",
+      "subtasks": [
+        { "text": "Get a real kid to playtest the retention build", "status": "todo" }
+      ]
+    },
+    {
+      "id": "loose-ends",
+      "title": "Small loose ends",
+      "status": "todo",
+      "insight": "Cheap to close, easy to forget — each is one line.",
+      "subtasks": [
+        { "text": "Record a completed client site's payment", "status": "todo" },
+        { "text": "Decide whether to build the two free-tooling fixes for the Bible study app", "status": "blocked", "note": "decision" }
+      ]
+    }
+  ]
+}

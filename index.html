@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#030507">
+<title>Status Ledger</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23030507'/%3E%3Cpath d='M32 10 54 32 32 54 10 32Z' fill='none' stroke='%234dd8e8' stroke-width='3'/%3E%3Ccircle cx='32' cy='32' r='5' fill='%23a6f3ff'/%3E%3C/svg%3E">
+<style>
+  :root {
+    --bg: #030507; --panel: rgba(10,18,22,0.78); --panel-solid: #060c0f;
+    --line: rgba(77,216,232,0.22); --line-quiet: rgba(120,150,155,0.16);
+    --cyan: #4dd8e8; --cyan-hi: #a6f3ff; --cyan-dim: rgba(77,216,232,0.5);
+    --text: #d8ecf0; --text-dim: #6f8f96;
+    --done: #7fe0a0; --doing: #4dd8e8; --todo: #6f8f96; --blocked: #e8b84d;
+    --mono: 'Cascadia Mono', Consolas, 'SF Mono', monospace;
+    --sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; scrollbar-width: thin; scrollbar-color: rgba(77,216,232,0.3) transparent; }
+  ::-webkit-scrollbar { width: 9px; }
+  ::-webkit-scrollbar-thumb { background: rgba(77,216,232,0.22); border-radius: 999px; }
+  body { background: var(--bg); color: var(--text); font: 14.5px/1.55 var(--sans); min-height: 100dvh; }
+  body::before {
+    content: ""; position: fixed; inset: 0; z-index: 0; pointer-events: none;
+    background: repeating-linear-gradient(180deg, rgba(77,216,232,0.025) 0px, rgba(77,216,232,0.025) 1px, transparent 1px, transparent 3px),
+      radial-gradient(ellipse 80% 50% at 50% -10%, rgba(77,216,232,0.08), transparent 60%);
+  }
+  .wrap { position: relative; z-index: 1; max-width: 1080px; margin: 0 auto; padding: 24px 20px 90px; }
+  header { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; padding-bottom: 16px; border-bottom: 1px solid var(--line); }
+  header h1 { font: 700 20px/1.2 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--cyan-hi); text-shadow: 0 0 14px rgba(77,216,232,0.35); }
+  header h1::before { content: "// "; color: var(--cyan-dim); }
+  .sub { width: 100%; font: 12.5px var(--sans); color: var(--text-dim); margin-top: 3px; }
+  .counts { display: flex; gap: 10px; flex-wrap: wrap; margin: 18px 0 24px; }
+  .chip { font: 600 11px var(--mono); letter-spacing: 0.06em; text-transform: uppercase; padding: 5px 11px; border: 1px solid var(--line); color: var(--text-dim); background: rgba(77,216,232,0.04); }
+  .chip b { color: var(--text); font-size: 13px; margin-right: 5px; }
+  .chip.doing { color: var(--doing); border-color: rgba(77,216,232,0.4); }
+  .chip.todo { color: var(--todo); }
+  .chip.blocked { color: var(--blocked); border-color: rgba(232,184,77,0.35); }
+  .chip.done { color: var(--done); border-color: rgba(127,224,160,0.35); }
+  .point { position: relative; border: 1px solid var(--line); background: var(--panel); margin-bottom: 18px; padding: 16px 18px 14px; }
+  .point::before, .point::after { content: ""; position: absolute; width: 12px; height: 12px; border: 1px solid var(--cyan-dim); pointer-events: none; }
+  .point::before { top: -1px; left: -1px; border-right: 0; border-bottom: 0; }
+  .point::after { bottom: -1px; right: -1px; border-left: 0; border-top: 0; }
+  .point-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .point-head h2 { font: 600 15.5px var(--sans); color: var(--text); }
+  .pstatus { font: 600 10.5px var(--mono); letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 8px; border: 1px solid; }
+  .pstatus.doing { color: var(--doing); border-color: rgba(77,216,232,0.4); }
+  .pstatus.todo { color: var(--todo); border-color: var(--line-quiet); }
+  .pstatus.blocked { color: var(--blocked); border-color: rgba(232,184,77,0.35); }
+  .pstatus.done { color: var(--done); border-color: rgba(127,224,160,0.35); }
+  .due { font: 600 10.5px var(--mono); letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 8px; border: 1px solid rgba(232,184,77,0.5); color: var(--blocked); }
+  .insight { font: 12.5px var(--sans); color: var(--text-dim); margin-top: 6px; font-style: italic; }
+  ul.subs { list-style: none; margin-top: 12px; display: flex; flex-direction: column; gap: 7px; }
+  ul.subs li { position: relative; padding-left: 23px; font: 13.5px var(--sans); overflow-wrap: break-word; }
+  ul.subs li .glyph { position: absolute; left: 0; top: 0; font: 13px var(--mono); width: 14px; text-align: center; }
+  ul.subs li.done { color: var(--text-dim); text-decoration: line-through; text-decoration-color: rgba(111,143,150,0.5); }
+  ul.subs li.done .glyph { color: var(--done); }
+  ul.subs li.doing .glyph { color: var(--doing); }
+  ul.subs li.todo .glyph { color: var(--todo); }
+  ul.subs li.blocked .glyph { color: var(--blocked); }
+  ul.subs li .note { color: var(--blocked); font-size: 11.5px; font-family: var(--mono); margin-left: 4px; }
+  .placeholder { color: var(--text-dim); font-style: italic; padding: 30px 0; text-align: center; }
+  .updated { font: 11px var(--mono); color: var(--text-dim); margin-top: 26px; letter-spacing: 0.03em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Status Ledger</h1>
+    <div class="sub">What's being worked on right now, in order of what's time-sensitive.</div>
+  </header>
+  <div class="counts" id="counts"></div>
+  <div id="points"><div class="placeholder">reading…</div></div>
+  <div class="updated" id="updated"></div>
+</div>
+<script>
+  var GLYPH = { done: '✓', doing: '▸', todo: '○', blocked: '▲' };
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; }); }
+  function render(d) {
+    var pts = (d.mainPoints || []).slice().sort(function (a, b) { return (b.urgent ? 1 : 0) - (a.urgent ? 1 : 0); });
+    var counts = { done: 0, doing: 0, todo: 0, blocked: 0 };
+    pts.forEach(function (p) { (p.subtasks || []).forEach(function (s) { counts[s.status] = (counts[s.status] || 0) + 1; }); });
+    document.getElementById('counts').innerHTML = ['doing', 'todo', 'blocked', 'done'].map(function (k) {
+      return '<span class="chip ' + k + '"><b>' + (counts[k] || 0) + '</b>' + k + '</span>';
+    }).join('');
+    document.getElementById('points').innerHTML = pts.length ? pts.map(function (p) {
+      var subs = (p.subtasks || []).map(function (s) {
+        return '<li class="' + esc(s.status) + '"><span class="glyph">' + (GLYPH[s.status] || '?') + '</span>' +
+          '<span>' + esc(s.text) + '</span>' + (s.note ? '<span class="note">(' + esc(s.note) + ')</span>' : '') + '</li>';
+      }).join('');
+      return '<section class="point">' +
+        '<div class="point-head"><h2>' + esc(p.title) + '</h2><span class="pstatus ' + esc(p.status) + '">' + esc(p.status) + '</span>' + (p.due ? '<span class="due">due ' + esc(p.due) + '</span>' : '') + '</div>' +
+        (p.insight ? '<div class="insight">' + esc(p.insight) + '</div>' : '') +
+        '<ul class="subs">' + subs + '</ul></section>';
+    }).join('') : '<div class="placeholder">nothing on the ledger yet</div>';
+    document.getElementById('updated').textContent = 'updated ' + (d.updated || '?');
+  }
+  fetch('./data.json').then(function (r) { return r.json(); }).then(render)
+    .catch(function () { document.getElementById('points').innerHTML = '<div class="placeholder">could not load the ledger</div>'; });
+</script>
+</body>
+</html>
