@@ -95,8 +95,15 @@
     }).join('') : '<div class="placeholder">nothing on the ledger yet</div>';
     document.getElementById('updated').textContent = 'updated ' + (d.updated || '?');
   }
-  fetch('./data.json').then(function (r) { return r.json(); }).then(render)
-    .catch(function () { document.getElementById('points').innerHTML = '<div class="placeholder">could not load the ledger</div>'; });
+  // Re-read when the page comes back into view and every minute: a phone keeps the tab alive for hours.
+  function load() {
+    fetch('./data.json', { cache: 'no-store' }).then(function (r) { return r.json(); }).then(render)
+      .catch(function () { document.getElementById('points').innerHTML = '<div class="placeholder">could not load the ledger</div>'; });
+  }
+  load();
+  setInterval(load, 60000);
+  document.addEventListener('visibilitychange', function () { if (!document.hidden) load(); });
+  window.addEventListener('pageshow', function (e) { if (e.persisted) load(); });
 </script>
 </body>
 </html>
