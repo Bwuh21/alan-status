@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T18:52",
+  "updated": "2026-10-15T19:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -81,7 +81,7 @@
         {
           "text": "Flying around the lobby feels chunky and laggy — find out why and fix it",
           "status": "done",
-          "note": "live 10-15 — the lobby was never slow while flying (1.1 ms a frame). Your 165 Hz screen was being fed 55 frames a second; flying now gets 82.5. Needs your eyes to confirm"
+          "note": "live 10-15 — two fixes. Your 165 Hz screen was fed 55 frames a second while flying; it gets 82.5 now. And crossing into new ground used to build a whole ring of islands in one frame (138 ms); it now builds one a frame (31 ms). Needs your eyes to confirm"
         },
         {
           "text": "The shop takes a crazy long time to open — find what it is loading (aura?) and fix it",
