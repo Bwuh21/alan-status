@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:35",
+  "updated": "2026-10-15T17:25",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -90,8 +90,8 @@
         },
         {
           "text": "Islands far away drop their props and it looks bad — find the balance between culling and looks",
-          "status": "todo",
-          "note": "found it: cabinet screens switch off past 70 m. Cannot just raise it — two islands have 5 and 1 spare draw calls. Needs a cheap far-form first"
+          "status": "done",
+          "note": "live 10-15 — island detail switched off at 40 m but the plaza is 48 m away, so every island you could see was a bare deck. 60 m now, priced against 40/60/80: costs 5-8 draw calls"
         },
         {
           "text": "Toy Fury house: make it insanely well optimized",
