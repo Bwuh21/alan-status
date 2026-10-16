@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T22:10",
+  "updated": "2026-10-15T23:40",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -598,7 +598,8 @@
       "subtasks": [
         {
           "text": "Deep dive on lag compensation: a kill must be obvious on BOTH screens",
-          "status": "todo"
+          "status": "done",
+          "note": "live 10-15 — it was never the internet. The screen drew a body at one angle and the game judged it at another; when someone changed pose the game tested a body a hand's width from the one you aimed at. One angle now, and a kill finally has a thump when playing with friends."
         },
         {
           "text": "If it cannot be solved, removing the game is his call",
