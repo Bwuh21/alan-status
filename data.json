@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T10:15",
+  "updated": "2026-10-16T10:18",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -323,15 +323,18 @@
       "subtasks": [
         {
           "text": "Island track: gaps at the turns; cars clip into the track and each other",
-          "status": "todo"
+          "status": "done",
+          "note": "Each piece of road was a straight box turned onto the corner, so every joint on a turn left a third of a metre of daylight. The road is one continuous ribbon now. And the straight coming out of the loop ran right under the loop's own lower half with a foot of headroom, so cars drove through it every lap — the loop corkscrews now and the two straights are nearly three metres apart."
         },
         {
           "text": "Cars clip through the loop-de-loop and fall out of it",
-          "status": "todo"
+          "status": "done",
+          "note": "A toy car is stiff and that loop is tight: laid flat on it, the axles sit seven centimetres under the road and the nose and tail nearly twenty. Each car now rides a touch proud of the surface by exactly that amount, only where the road curves up into it — so the flat corners are untouched."
         },
         {
           "text": "The toy decorations around the track need a lot more work",
-          "status": "todo"
+          "status": "done",
+          "note": "Three scenes instead of scattered props: a pit lane with three numbered garages, spare shells on stands, tyre stacks and lap boards; a grandstand that went from three bears to nine on four rows under a striped canopy; and giant crayons, so you can tell the whole circuit is lying on a bedroom floor."
         },
         {
           "text": "The carpet in the main area of the house is broken and clipping",
