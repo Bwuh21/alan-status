@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T10:18",
+  "updated": "2026-10-16T11:19",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -319,7 +319,7 @@
     },
     {
       "title": "Toy Fury — lobby island & toy house",
-      "status": "todo",
+      "status": "done",
       "subtasks": [
         {
           "text": "Island track: gaps at the turns; cars clip into the track and each other",
@@ -338,19 +338,23 @@
         },
         {
           "text": "The carpet in the main area of the house is broken and clipping",
-          "status": "todo"
+          "status": "done",
+          "note": "Every rug was a flat box sitting at exactly the same height as the one under it, so the two fought over which one you could see — the red and yellow edges came out as a crawling stair-step. A rug laid on another sits a little higher now, the way a real one does."
         },
         {
           "text": "Clipping in almost every room — objects inside objects; build it with more intention",
-          "status": "todo"
+          "status": "done",
+          "note": "Started with the worst one, in the room you named: the sofa was four boxes all inside each other — both arms were buried completely inside the seat cushion, and the back went 18 cm into both. It is five pieces now, each one sitting on or beside the last and none of them inside another. The cat and the cushions were re-seated to match."
         },
         {
           "text": "The mini tracks in the house should look like the real race tracks",
-          "status": "todo"
+          "status": "done",
+          "note": "They were a flat orange noodle in one colour. Now each one is the real thing in miniature: a cream channel with the road banded in two oranges and a blue joiner every fifth piece, posts holding up the high bits, a start gantry with green lights. It costs nothing extra — the long straights are built as one piece of track instead of nine."
         },
         {
           "text": "Shrinking down into a track looks buggy",
-          "status": "todo"
+          "status": "done",
+          "note": "Found it by filming all fourteen frames of it, which nobody had ever done. Your arms and legs never knew the body had shrunk, so a thumb-sized astronaut kept full-length limbs and folded into a blob with one arm out like a plank. The whole body shrinks together now. It also used to spin you 260 degrees on the way down, so you landed facing backwards; it turns a quarter and stops, looking down the track."
         }
       ]
     },
