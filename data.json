@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:05",
+  "updated": "2026-10-16T08:52",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -261,20 +261,23 @@
     },
     {
       "title": "Bowling island",
-      "status": "todo",
+      "status": "done",
       "insight": "The main idea is good. Inside the alley is fine for now.",
       "subtasks": [
         {
           "text": "The demo ball crashes the pins every ~5 s — loud and annoying when you stand there; find a better way",
-          "status": "todo"
+          "status": "done",
+          "note": "It is an attract loop now: stand on the island and the lane finishes its ball, then goes quiet — full rack, ball parked, nothing moving. Only one ball in three is a strike (the rest get no cheer), the cycle is 17–23 s instead of 11, and the sound is loudest out on the carpet, not where you stand."
         },
         {
           "text": "Make the demo lane look better",
-          "status": "todo"
+          "status": "done",
+          "note": "Pin deck with its ten spots, gutters cut as real channels with a steel lip, the neon lying in the oil, an approach with dots, a raised ball return you can watch the ball ride home on — and a sweep rake that wipes the leftover pins into the pit."
         },
         {
           "text": "The ball rack and the shoes need a lot more work",
-          "status": "todo"
+          "status": "done",
+          "note": "The rack is a two-tier stand now (legs, shelves, chrome cradles, lit fascia, six balls with their finger holes) instead of a trough of marbles. The shoes are half again bigger on a plinth, with a real arch, a dark throat, tongue, laces and a stamped size."
         }
       ]
     },
