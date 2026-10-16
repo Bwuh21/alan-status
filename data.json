@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T03:30",
+  "updated": "2026-10-16T04:12",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -182,23 +182,27 @@
     },
     {
       "title": "Portals",
-      "status": "todo",
+      "status": "done",
       "subtasks": [
         {
           "text": "Check every portal: you run through it, never press E",
-          "status": "todo"
+          "status": "done",
+          "note": "live 10-16 -- 4 of 6 doors never opened to a run; all 10 do now"
         },
         {
           "text": "Inside rooms, \"Exit\" doors are fine where a portal does not fit",
-          "status": "todo"
+          "status": "done",
+          "note": "the tavern and the bowling alley keep their EXIT doors; both now open to a run too"
         },
         {
           "text": "Skate park: a skate-park-themed portal instead of the blue one",
-          "status": "todo"
+          "status": "done",
+          "note": "live 10-16 -- a vert wall with a channel: quarter pipes, coping, graffiti, cones"
         },
         {
           "text": "Toy Fury porch: the giant portal outside does not look good",
-          "status": "todo"
+          "status": "done",
+          "note": "live 10-16 -- a loop of orange toy track, half the height, out on the lawn"
         }
       ]
     },
