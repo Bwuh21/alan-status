@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T05:30",
+  "updated": "2026-10-16T06:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -213,7 +213,8 @@
       "subtasks": [
         {
           "text": "Dartboard is way too big; the cabinet sides clip into the dart scoreboard",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. It was a 2 m board in a room measured in metres — now a real one, 451 mm across. The cabinet sides were only wide because the board was, so the clip into the chalkboard went with it. The throw line moved to the real distance and the view pulls in so it still aims fine on a phone."
         },
         {
           "text": "Darts: let people play against each other",
