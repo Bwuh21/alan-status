@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:40",
+  "updated": "2026-10-16T07:25",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -208,7 +208,7 @@
     },
     {
       "title": "Stardust Cavern tavern — darts & pinball",
-      "status": "todo",
+      "status": "done",
       "insight": "Anything that costs a coin has to be so fun you cannot decide what to spend your coins on.",
       "subtasks": [
         {
@@ -218,7 +218,8 @@
         },
         {
           "text": "Darts: let people play against each other",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. Playing a person already worked if you were in a room with friends — but standing at the board alone it never said so, it just put you on Rusty. The panel now names who you are playing and there is a Play a friend button next to Hold to throw. Also found and fixed while looking at a phone shot: the board face was rendering as a blank brown circle from some angles."
         },
         {
           "text": "Darts is too easy — find hard-but-not-impossible; redo the whole dartboard",
