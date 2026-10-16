@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T23:40",
+  "updated": "2026-10-16T01:15",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -107,20 +107,23 @@
     },
     {
       "title": "Skins — aura rework",
-      "status": "todo",
-      "insight": "Better than before, still not right. Needs research and a new approach for high-tier skins.",
+      "status": "done",
+      "insight": "Live 10-15. The outline is gone — high tiers wear fire now, and the tier is how far it has climbed you. Lighter than the old one too: the shop dresses a skin 28% faster.",
       "subtasks": [
         {
           "text": "Aura is still choppy and does not stay with the body moving forward and back; the character leans forward",
-          "status": "todo"
+          "status": "done",
+          "note": "The old aura slid up to 0.7 m off the body on a step. The fire is welded to you now — measured at 0.03-0.05 m walking forward and back, on the live site."
         },
         {
           "text": "Aura shows on glasses and items that should not glow — decide what actually earns aura",
-          "status": "todo"
+          "status": "done",
+          "note": "Call made: the aura burns off YOU, not your kit. Glasses, hats, back pieces and wings are out of it. 0 of 128 flame points land on kit."
         },
         {
           "text": "The aura outline on every skin does not look the best — find a new way to give high-tier skins their aura",
-          "status": "todo"
+          "status": "done",
+          "note": "Outline deleted. High tiers wear fire instead, and the tier is how far it has climbed you — Rare to the hips, Epic to the chest, Legendary and Divine all of you."
         }
       ]
     },
