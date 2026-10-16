@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:05",
+  "updated": "2026-10-16T06:40",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -222,7 +222,8 @@
         },
         {
           "text": "Darts is too easy — find hard-but-not-impossible; redo the whole dartboard",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. Measured it first: just holding the key averaged 104 a turn with a 180 every seventeen turns — a professional — and you could not miss the board at all. A steady hand now averages 69, a 180 is rare, holding too long throws darts off the board, and Rusty moved with you so he is still beatable if you steady."
         },
         {
           "text": "Pinball: rebuild it into a super fun pinball (2D is fine, dull is not)",
