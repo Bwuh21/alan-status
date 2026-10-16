@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:52",
+  "updated": "2026-10-16T12:34",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -441,7 +441,8 @@
         },
         {
           "text": "Knocked out or finished early: spectate and choose who to watch (Toy Fury, Space Golf), never get thrown to the lobby",
-          "status": "todo"
+          "status": "doing",
+          "note": "Toy Fury DONE and live: wreck or finish and the board waits — the camera cuts to a car still running, with an arrow each way to pick who you watch, and your own result over it. It ends when the last friend is done. Space Golf next."
         },
         {
           "text": "Bots wear skins",
