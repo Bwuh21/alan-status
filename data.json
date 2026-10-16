@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:16",
+  "updated": "2026-10-16T14:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -478,28 +478,33 @@
     },
     {
       "title": "Coins & tickets — find the balance",
-      "status": "todo",
+      "status": "done",
       "insight": "One coin a game; 100 tickets buys a skin spin. People should be able to spend pretty normally.",
       "subtasks": [
         {
           "text": "Check daily coins actually refill (a vault note says claim_coins has never paid)",
-          "status": "todo"
+          "status": "done",
+          "note": "They refill. The old note is out of date — it was fixed on 10-08 and has paid 462 coins since. Checked again on the live site: five hours away paid ten coins, and a second ask paid nothing."
         },
         {
           "text": "1 coin per game",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. Every machine is one coin (it was 1, 2 or 3). Blend In is still free — it needs a friend and has no bots to beat — and the Undercroft door is free, its contracts take the coin."
         },
         {
           "text": "Vs friends: players put tickets up against each other",
-          "status": "todo"
+          "status": "done",
+          "note": "It already worked, but 16 of the 20 matches ever played were still holding 595 tickets: the refund only ran if someone asked for it, and nobody did once the room broke up. The arcade asks on arrival now, so stuck stakes come back."
         },
         {
           "text": "Vs bots: the ticket payout scales with bot level",
-          "status": "todo"
+          "status": "done",
+          "note": "Live, and wider: easy 4, normal 8, hard 16, brutal 30 (was 2/4/8/15). A win under 20 seconds now pays nothing — the ladder was collectable with no game played at all."
         },
         {
           "text": "Balance payouts against the 100-ticket spin — lower the spin or raise payouts",
-          "status": "todo"
+          "status": "done",
+          "note": "Raised the payouts; the spin stays at 100. 64% of rounds ever sold never paid anything because nothing settled them when you walked out — fixed first, since no number matters if nobody collects it. Every finished round now pays 3 win or lose. An average player reaches a spin in 23 minutes of play (it was 110)."
         }
       ]
     },
