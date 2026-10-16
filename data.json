@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T03:18",
+  "updated": "2026-10-16T03:30",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -365,24 +365,28 @@
     },
     {
       "title": "Toy Fury — car collection",
-      "status": "todo",
+      "status": "done",
       "insight": "Hot Wheels: collect cars, race the cars you own, spend tickets on cars.",
       "subtasks": [
         {
           "text": "Design many more car models — spend real time on car design",
-          "status": "todo"
+          "status": "done",
+          "note": "Ten rides, live: a dune buggy, a pickup with a real open bed, a delivery van, a chopped hot rod with a blower through the bonnet, and a wedge with a huge wing."
         },
         {
           "text": "Collect cars and race the ones you own",
-          "status": "todo"
+          "status": "done",
+          "note": "Buy with tickets, keep it until it breaks. The garage now says 3/10 in the garage so the collection counts."
         },
         {
           "text": "Showroom: a motorcycle is upside down; one car already has a driver in it",
-          "status": "todo"
+          "status": "done",
+          "note": "Your own character now sits in every ride on the shelf. A wrecked bike lies on its side instead of upside down."
         },
         {
           "text": "Wheels turn weirdly and some do not attach to the car; car parts clip",
-          "status": "todo"
+          "status": "done",
+          "note": "Turning wheels no longer tip over, the kart's front wheels are on a real axle, the bike has forks and a swingarm, and the racing stripe lies on the paint."
         }
       ]
     },
