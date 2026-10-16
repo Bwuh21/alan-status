@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:52",
+  "updated": "2026-10-16T09:35",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -288,23 +288,28 @@
       "subtasks": [
         {
           "text": "A tutorial that walks through the basics of skating, not a wall of controls",
-          "status": "todo"
+          "status": "done",
+          "note": "Six steps, one line at a time in the panel: get on, roll, steer, push, ollie, kickflip. Each one waits until you actually do it. There is a skip."
         },
         {
           "text": "An \"Open Trick Book\" button showing the tricks you have learned so far",
-          "status": "todo"
+          "status": "done",
+          "note": "The old wall of controls is shut on every device. One chip now: OPEN TRICK BOOK · LVL 1. Open, it shows a level bar, the moves you have, and the levels ahead."
         },
         {
           "text": "Levels that unlock tricks (Skate 3 style: coffin, flips as higher-level moves) and parts of the park",
-          "status": "todo"
+          "status": "todo",
+          "note": "Eight levels LIVE, ROOKIE to PRO, each opening a real trick that was dead until then. Still to come: the coffin, and I did NOT lock parts of the park — see the report."
         },
         {
           "text": "Keep it multiplayer: skate around with others to level up",
-          "status": "todo"
+          "status": "done",
+          "note": "XP is every combo you bank, so a session with friends levels you the same as skating alone. Two-player check green."
         },
         {
           "text": "A stray skating sound plays in the lobby — music, or a leak from the skate park? Find out",
-          "status": "todo"
+          "status": "done",
+          "note": "Found: the skate island's little ghost board carried its wheels 26 m. Now 15 m and fading fast, and silent while you are skating."
         },
         {
           "text": "Later: grow the park once tricks and basics are in",
