@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:14",
+  "updated": "2026-10-16T13:16",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -452,23 +452,27 @@
     },
     {
       "title": "Arcade hall — the big room",
-      "status": "todo",
+      "status": "done",
       "subtasks": [
         {
           "text": "Cabinets clip a lot, especially the screens",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. They were 2.5 m apart and the wide ones are 2.3 m across, so neighbours overlapped in every row. 3 m now."
         },
         {
           "text": "Clean up the cabinets; the hall is a giant box — give it a real vibe",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. Each room has its own low ceiling, carpet, a lit sign slung over every row, and posters up the walls. The old one was 7.5 m of black void over a 2 m machine."
         },
         {
           "text": "Split it: a single-player room and a multiplayer room",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. A foyer with two lit doorways: THE SOLO ROW (11 machines, cyan) and THE VERSUS FLOOR (25 with a seat for a friend, pink)."
         },
         {
           "text": "The Splatflag cabinet picture still shows the old map",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. The old picture was from September, four days before the yard was rebuilt. Retaken mid-match."
         }
       ]
     },
