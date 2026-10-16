@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T09:35",
+  "updated": "2026-10-16T10:15",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -298,8 +298,8 @@
         },
         {
           "text": "Levels that unlock tricks (Skate 3 style: coffin, flips as higher-level moves) and parts of the park",
-          "status": "todo",
-          "note": "Eight levels LIVE, ROOKIE to PRO, each opening a real trick that was dead until then. Still to come: the coffin, and I did NOT lock parts of the park — see the report."
+          "status": "done",
+          "note": "Eight levels, ROOKIE to PRO, each opening a trick that was dead until then. The COFFIN is in at level 7 — Q with S held, lie flat and roll. I did NOT lock parts of the park, on purpose: see the report."
         },
         {
           "text": "Keep it multiplayer: skate around with others to level up",
