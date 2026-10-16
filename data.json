@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:55",
+  "updated": "2026-10-16T02:35",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -617,15 +617,17 @@
     },
     {
       "title": "Space Golf",
-      "status": "todo",
+      "status": "done",
       "subtasks": [
         {
           "text": "Freezes when you are about to reach the final green",
-          "status": "todo"
+          "status": "done",
+          "note": "Touching the green ran the rest of the field to its finish in one frame — up to 106 seconds of dead page, worst on the long holes. Spread across frames now: worst stall 0.12 s. Live."
         },
         {
           "text": "The camera gets stuck — sometimes you cannot look up or where you want",
-          "status": "todo"
+          "status": "done",
+          "note": "A touch the browser steals left the VIEW button HELD, so the camera stayed locked 21 m overhead. All five buttons let go now, and alt-tab does too. Live."
         }
       ]
     },
