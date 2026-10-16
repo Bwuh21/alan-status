@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:15",
+  "updated": "2026-10-16T01:55",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -129,23 +129,27 @@
     },
     {
       "title": "Skins — Grand Regent & Pablo",
-      "status": "todo",
+      "status": "done",
       "subtasks": [
         {
           "text": "Grand Regent: the cape clips into the body and flaps around weirdly",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. The cape sat INSIDE his back where he is widest, so the vest showed through the blue; it is now held outside his own shape, pleats fold away from him, and the hem is uneven instead of a flag."
         },
         {
           "text": "Grand Regent: the player model is broken in the shop",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. He had NO arms on the shop peg, the card thumbnail or the plaza statue — the shop draws one arm width for every skin and he is too wide, so they were buried in his chest and epaulettes. Fixed for every wide skin, not just him."
         },
         {
           "text": "Rename the godly-tier rat to \"Pablo\" (keep him divine)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live in the shop now — Pablo, still Divine. Only the name changed, so everyone who already owns him keeps him."
         },
         {
           "text": "Pablo: missing a neck, cheese stuck in his body — redo the whole skin",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. He had no body at all between his shoulders and his chin — you could see the floor through it. He has a neck and a scruff now. The cheese was inside his chest in every shop and card picture and inside his hip when you walked; it is in his paw, bigger, with holes. Ears are round cups so he reads as a rat from behind, and the gold crack was half buried — it shows now. Still to do: his body is one smooth mass and he has no paws."
         }
       ]
     },
