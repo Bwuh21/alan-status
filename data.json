@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:47",
+  "updated": "2026-10-16T03:18",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -155,24 +155,28 @@
     },
     {
       "title": "Lobby — center island, bridges & carpets",
-      "status": "todo",
+      "status": "done",
       "insight": "\"I really love the main center island.\" Keep every table; the connections are what look bad.",
       "subtasks": [
         {
           "text": "Center island: keep everything (blackjack, roulette, locker), add the small details that make it look a lot better",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. Nothing removed. Added: a brass doorstep at each of the six exits, a pair of card-suit columns either side of the two corner exits, a red runner to all six (was four), and a velvet rope round the whole lip with gaps only at the doorways."
         },
         {
           "text": "Bridges to the outer islands land on top of the casino/roulette line — clipping; make the pathways much better",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. The roulette pockets and their gold frets stood higher than the carpet, so every bridge lay across them. The ring is now cut at each exit with a brass sill in the gap."
         },
         {
           "text": "The small red carpets before the jump pads clip over island props",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. 22 props were being covered. The carpets are now laid after the island's props exist: they thin to squeeze past one and break around one standing in the lane."
         },
         {
           "text": "Corner (diagonal) islands connect at random — give them real connecting points that read from a top view",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE. Both corner bridges leave at exactly 45 and 135 degrees and run on that line (they were 11 and 17 degrees off, dodging a column). Each lands on a brass landing with two lamps on the island rim, and the island's own red runner carries on to its door."
         }
       ]
     },
