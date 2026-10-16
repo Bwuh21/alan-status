@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T07:25",
+  "updated": "2026-10-16T08:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -235,23 +235,27 @@
     },
     {
       "title": "Pool tavern island",
-      "status": "todo",
+      "status": "done",
       "subtasks": [
         {
           "text": "Pool balls need numbers and to actually look like pool balls",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. The striped balls had their colour band running the wrong way round the ball, so racked up they showed as a white ball with a wedge down one side. The numbers were there but the white circle was half again too big, so it covered the top of every ball like cream. Both fixed, and every ball has a shine on it now — flat colour was why they read as beads."
         },
         {
           "text": "The pool cue is half the size it should be",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. Measured: the balls on that table are deliberately a third bigger than real so you can tell a striped one apart from across the room, but the cue was left at a real cue's size. It came to 20 ball-widths long where a real cue is 26. It is 26 now, and the cue leaning on the table matches it."
         },
         {
           "text": "Jukebox: touch up the floating music notes",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. There were no music notes anywhere in the arcade — the only thing floating near a jukebox was the sparkle round the big one's star, which is probably what you saw. Real notes now rise out of both jukeboxes. The one in the bar also got rebuilt: bubble tubes down its corners and a record turning behind the glass."
         },
         {
           "text": "More detail on the bar and the pool table",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. Bar: a rack of wine glasses hanging over the counter, a tip jar, a towel over the rail, peanuts, a cut lemon, napkins. Table: brass trim round the apron, brackets at every leg, a maker's badge, leather pocket nets instead of wooden cups, two more chalk cubes and the triangle hung on the side."
         }
       ]
     },
