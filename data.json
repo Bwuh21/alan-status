@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:35",
+  "updated": "2026-10-16T02:47",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -329,28 +329,33 @@
     },
     {
       "title": "Toy Fury — race revamp",
-      "status": "todo",
+      "status": "done",
       "insight": "\"There's a lot of potential for this game but it just feels like I'm not even really racing.\"",
       "subtasks": [
         {
           "text": "Driving: you bounce wall to wall and cannot hold the middle — make it feel like real racing, not just W + A/D",
-          "status": "todo"
+          "status": "done",
+          "note": "The car never straightened itself: let go of a key and it kept crabbing into a wall. It eases back down the road now. Time spent scraping a rail went from a fifth of the race to one part in seventy; corners got harder to pay for it."
         },
         {
           "text": "Drop the track picker after you already chose a track (offer mode / race type instead)",
-          "status": "todo"
+          "status": "done",
+          "note": "All eight tracks had been sitting open on the title screen permanently — the button that was meant to hide them never worked. Fixed, and once a track is chosen the race type and field are what the screen offers."
         },
         {
           "text": "Booster pads look like car-wash wipers — redesign them",
-          "status": "todo"
+          "status": "done",
+          "note": "They were two upright brushes you drove between. Now the rollers lie across the track like treadmill drums and turn forward, with an arrow on the road."
         },
         {
           "text": "Wrecks and explosions should be a big part of it — your car can blow up and die",
-          "status": "todo"
+          "status": "done",
+          "note": "Nothing could ever blow up before — fifteen races, zero damage. Now there is a fireball, black smoke, a shockwave that shoves whoever is near, and a car trails smoke when it is one hit from scrap."
         },
         {
           "text": "The game looks low resolution — find the cause",
-          "status": "todo"
+          "status": "done",
+          "note": "Found it: in the arcade the game drew three quarters of the width of your screen and the shell stretched it. It draws every pixel now, at the same frame rate."
         }
       ]
     },
