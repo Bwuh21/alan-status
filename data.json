@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T04:12",
+  "updated": "2026-10-16T05:30",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -225,7 +225,8 @@
         },
         {
           "text": "Pinball: rebuild it into a super fun pinball (2D is fine, dull is not)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live. Real recorded sound in place of the 8-bit beeps, a spinner on the right orbit that used to pay nothing, and STARDUST FRENZY — 22 seconds where the whole table pays 10x. Every ball now ends on a bonus counting up."
         }
       ]
     },
