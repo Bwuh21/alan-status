@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:19",
+  "updated": "2026-10-16T11:52",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -432,7 +432,8 @@
         },
         {
           "text": "\"Play again\" pulls every player back in",
-          "status": "todo"
+          "status": "done",
+          "note": "A match ends and both players get a PLAY AGAIN card instead of being dumped in the room. Pressing it sits you back at the same cabinet at the same stake, the card names who else came back, and two presses start a new match. Live, in every party game that reports its ending."
         },
         {
           "text": "The host chooses whether to fill with bots",
