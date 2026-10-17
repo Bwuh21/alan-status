@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T02:24",
+  "updated": "2026-10-17T02:58",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -77,7 +77,8 @@
         },
         {
           "text": "Toy Fury: friends on different wifi may still fail to connect",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. The round was agreed with two messages sent once each and never repeated: your 'I'm ready' and the host's 'we're off'. Lose either one — and on two different networks you will — and the race simply never happened: the host sat waiting on a friend who HAD hit ready, and the friend sat on a greyed-out READY button with no way out but closing the game. Both are repeated now until they land, and if the host starts without you, your button comes back instead of staying dead. The garage also told you nothing: 'Waiting for Zack' was the line whether the road was open or had never opened at all. Eight seconds of silence and it now says so by name, and tells the host it will start without them and when. Mid-race, a friend whose phone or signal dies used to leave a car sitting on the track looking alive, keeping its place and holding your results screen up to three minutes — it drops out after five seconds now, and comes straight back if their signal does, because a few seconds of nothing is usually a stutter, not a death. Proved on a test road that eats messages on purpose: four cases, all four broken before, all four fixed. One thing I could not fix from here: when two phones are on different mobile networks the connection needs a relay service we do not have an account for, and buying one is your call."
         },
         {
           "text": "Toy Fury: Knockout mode is disabled in friends races",
