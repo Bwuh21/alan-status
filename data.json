@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T10:05",
+  "updated": "2026-10-17T11:20",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -132,7 +132,8 @@
         },
         {
           "text": "KitchenClash: whoever gets the host seat wins more than they should",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17, and the answer was mostly no. I measured the kitchen itself first, with the same brain in both seats over 3,600 shifts and no network at all: neither seat wins more. The tie-break between two cooks grabbing at once already alternates, and the quick-plate crate already swaps sides every shift, so the two obvious causes were fixed before I got here. One real edge was left, and it was the person starting the game, not the rules: your friend's button had to wait its turn to be sent. The host's press counts on the very tick they press it; the guest's reached the kitchen one, two or three ticks later in a dead-even split, so on average a whole tick was handed over on every single press, before any internet delay at all. Buttons now leave the instant they are pressed -- same as the host -- and standing still costs exactly the same traffic it always did. Second thing while I was in there: on a keyboard you pressed SPACE and hoped. The phone's button has told you what it would do for months (GRAB, CHOP, COOK, SERVE), the desk never did. The bottom line now reads what SPACE does right now and what is in your hands. Play it on a laptop with a friend on a phone."
         },
         {
           "text": "TrapDoors: a results card sticks, camera crops part of the board",
