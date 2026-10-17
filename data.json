@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T00:40",
+  "updated": "2026-10-16T23:59",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -37,6 +37,86 @@
         },
         {
           "text": "Hangtime: sound rework (verify first)",
+          "status": "todo"
+        },
+        {
+          "text": "Phone games render in a tiny box, making touch controls hard to hit",
+          "status": "todo"
+        },
+        {
+          "text": "2v2 wagers only pay one teammate, not the whole team",
+          "status": "todo"
+        },
+        {
+          "text": "A few bot-less games can never pay out, nothing scores a winner",
+          "status": "todo"
+        },
+        {
+          "text": "Space Golf: final scoreboard clips a column on phone",
+          "status": "todo"
+        },
+        {
+          "text": "Toy Fury: a camera check reports fail on every track even when nothing's wrong",
+          "status": "todo"
+        },
+        {
+          "text": "Toy Fury: a frame-rate check has the same blind-fail problem",
+          "status": "todo"
+        },
+        {
+          "text": "Toy Fury: old screenshots from a scrapped early build still in the folder",
+          "status": "todo"
+        },
+        {
+          "text": "Toy Fury: a couple of outdated code comments",
+          "status": "todo"
+        },
+        {
+          "text": "Toy Fury: friends on different wifi may still fail to connect",
+          "status": "todo"
+        },
+        {
+          "text": "Toy Fury: Knockout mode is disabled in friends races",
+          "status": "todo"
+        },
+        {
+          "text": "Toy Fury: a half-built daily event sitting unused",
+          "status": "todo"
+        },
+        {
+          "text": "Deploy folder has a stray duplicate of the whole site sitting where a careless command could overwrite the live one",
+          "status": "todo"
+        },
+        {
+          "text": "Convoy: results screen doesn't show where your money came from",
+          "status": "todo"
+        },
+        {
+          "text": "Convoy: one mode may be paying zero tickets",
+          "status": "todo"
+        },
+        {
+          "text": "Cliffhanger: HUD looks off on ultra-wide monitors",
+          "status": "todo"
+        },
+        {
+          "text": "CloudStreet: two bits of HUD text overlap on phone",
+          "status": "todo"
+        },
+        {
+          "text": "DarkRoom: multiplayer check still flaky, plus a hitch at round start",
+          "status": "todo"
+        },
+        {
+          "text": "KitchenClash: whoever gets the host seat wins more than they should",
+          "status": "todo"
+        },
+        {
+          "text": "TrapDoors: a results card sticks, camera crops part of the board",
+          "status": "todo"
+        },
+        {
+          "text": "Undercroft: camera may clip through walls, tutorial text may block the action",
           "status": "todo"
         },
         {
