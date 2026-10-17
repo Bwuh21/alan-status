@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:20",
+  "updated": "2026-10-17T12:46",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -137,7 +137,8 @@
         },
         {
           "text": "TrapDoors: a results card sticks, camera crops part of the board",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. The sticking card does not happen any more -- I pressed both the start card and the end card once each, on a desk, a phone and a phone on its side, and all six cleared first press. The camera one was real and worse on a phone than anyone had written: when a tile gives way the lens dives in, and on a phone that left three tiles and one shoulder on screen -- the board gone, and three of the four people you are reading gone with it, during the one second the round actually resolves. On a desk it ate the whole near row. The reason is that every other distance this camera uses is worked out from what has to fit on screen, and the dive-in was the one number typed in by hand. It is worked out now: it holds the tile that gave way and the ring of tiles around it, so you see the hole, who went in, and where on the board it was. A third thing nobody had reported: the end card was printing straight through the last round's big shout, three layers of text in the same inch, every single match. And one more the pictures caught -- the shout was bare white letters over the board and landed exactly on the row of tile numbers, so I gave it the dark plate the NERVE readout already wears. Turning the phone sideways turned out to be a third screen nobody had ever photographed: the lesson card sat on two players' heads and the shout blanked half the board. Both fixed for that shape only. Play a round and watch what happens when a tile drops."
         },
         {
           "text": "Undercroft: camera may clip through walls, tutorial text may block the action",
