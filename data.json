@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T13:05",
+  "updated": "2026-10-17T20:11",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1005,6 +1005,37 @@
           "text": "Toy Fury: option to let a knocked-out friend rejoin next lap instead of spectating the rest of the race",
           "status": "todo",
           "note": "Noted as a live option in the Knockout-mode fix's own note -- not built, his call."
+        }
+      ]
+    },
+    {
+      "title": "Security audit -- every surface (his ask, 15:06)",
+      "status": "doing",
+      "insight": "Scope: anything a stranger could reach -- the live site, the portal-server admin login, Supabase, the Telegram bot, secrets in the repo. First pass launched as a background review 10-17; this point tracks what it finds, not a promise everything is already checked.",
+      "subtasks": [
+        {
+          "text": "Community-portal admin login (portal-server.js /api/login) -- auth strength, rate limiting, session handling",
+          "status": "doing"
+        },
+        {
+          "text": "Secrets committed to either repo (API keys, bot tokens, DB creds) in plaintext",
+          "status": "doing"
+        },
+        {
+          "text": "Supabase query surface -- injection risk, row-level security on plays/scores tables",
+          "status": "doing"
+        },
+        {
+          "text": "Telegram bot -- whitelist enforcement, command/gate injection (Jobs/handle-messages.md step-0 gate already covers content-vs-intent)",
+          "status": "doing"
+        },
+        {
+          "text": "Multiplayer relay (host-hosted rooms) -- cheating/spoofing a result, DoS on a room",
+          "status": "doing"
+        },
+        {
+          "text": "Deploy clone + Vercel -- exposed env vars, stray debug/admin routes shipped live",
+          "status": "doing"
         }
       ]
     }
