@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T02:58",
+  "updated": "2026-10-17T03:42",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -37,7 +37,8 @@
         },
         {
           "text": "Hangtime: sound rework (verify first)",
-          "status": "todo"
+          "status": "done",
+          "note": "Checked: the sound was already fixed and live, both notes were wrong. So I built the part of your message nobody had: dunking ON someone. The game could not tell a dunk over a man from an empty rim. Now he goes down, the screen says POSTERIZED over his name, and it is the loudest moment in the game. Live."
         },
         {
           "text": "Phone games render in a tiny box, making touch controls hard to hit",
