@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T14:05",
+  "updated": "2026-10-16T22:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -37,7 +37,8 @@
         },
         {
           "text": "Floor-wide: ink fix needs more games checked by eye",
-          "status": "todo"
+          "status": "done",
+          "note": "Live in 42 games. The cartoon outline was lifted brighter the darker the surface under it, so it ran hardest where there was least to light it -- Dark Room, a hide-in-the-dark game, was drawing its unlit room as a pale wireframe. The outline fades out with the light now and is untouched on anything lit. Only Toy Fury is left, deliberately: its file also holds booster work that is not live yet."
         },
         {
           "text": "Splatflag: tutorial covers every mechanic",
