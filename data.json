@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T09:32",
+  "updated": "2026-10-17T10:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -256,8 +256,8 @@
         },
         {
           "text": "Pablo: missing a neck, cheese stuck in his body — redo the whole skin",
-          "status": "done",
-          "note": "Live. He had no body at all between his shoulders and his chin — you could see the floor through it. He has a neck and a scruff now. The cheese was inside his chest in every shop and card picture and inside his hip when you walked; it is in his paw, bigger, with holes. Ears are round cups so he reads as a rat from behind, and the gold crack was half buried — it shows now. Still to do: his body is one smooth mass and he has no paws."
+          "status": "doing",
+          "note": "Live. He had no body at all between his shoulders and his chin — you could see the floor through it. He has a neck and a scruff now. The cheese was inside his chest in every shop and card picture and inside his hip when you walked; it is in his paw, bigger, with holes. Ears are round cups so he reads as a rat from behind, and the gold crack was half buried — it shows now. Set back to doing on a 10-17 audit: this subtask was marked done while its own note still named two unbuilt parts (see the new backlog-sweep item for the open half)."
         }
       ]
     },
@@ -847,6 +847,161 @@
           "text": "Decide whether to build the two free-tooling fixes for the Bible study app",
           "status": "blocked",
           "note": "decision"
+        }
+      ]
+    },
+    {
+      "title": "Backlog sweep -- found, not yet actioned",
+      "status": "todo",
+      "insight": "Pulled from real sources already on disk (the 10-12 front-door stranger run, the maintenance ledger's own 'found, not fixed' lines, the open-ask registry, client files) -- nothing invented. Each note names where it came from.",
+      "subtasks": [
+        {
+          "text": "Guest with 0 tickets hits a dead end: nothing in the shop or case screen says how a ticket is earned",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12: 'Sign in to open a case', tap does nothing; same open ask already on his phone list."
+        },
+        {
+          "text": "The first cabinet a stranger reaches (Broadside Bay) opens on a wall of orders/text before you can touch anything",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12, both blind reviewers."
+        },
+        {
+          "text": "Broadside Bay: the 'How to play 2 of 4' card sits over the ship and never advances under blind taps",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12: stuck at step 2 for 30s in both test shells."
+        },
+        {
+          "text": "Broadside Bay: dragging to steer isn't obviously doing anything to a new player",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12: camera ended up inside an enemy ship."
+        },
+        {
+          "text": "Games directory header is clipped on a phone -- title hidden behind the search box, \"About\" cut off",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12, both reviewers."
+        },
+        {
+          "text": "Cold load shows a black \"Loading the arcade...\" card for several seconds, worse on a slow/throttled phone",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12: one button for the whole boot; up to ~20s read by one reviewer, 4.9-9.2s measured."
+        },
+        {
+          "text": "favicon.ico 404s every session -- the one console error a stranger's browser logs",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12."
+        },
+        {
+          "text": "Guest economy messaging contradicts itself: coins \"refill on their own\", the purse count is hidden on the floor, every cabinet charges 3 coins, and a guest with 0 still gets to play",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12."
+        },
+        {
+          "text": "Cabinet \"Play\" prompt clips the price text on a 390px phone (\"Broadside Bay . 3 c...\")",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12."
+        },
+        {
+          "text": "The shop sits 44m behind spawn, off-screen from the hall -- easy for a guest to never find",
+          "status": "todo",
+          "note": "Front-door stranger run, 10-12: neither blind reviewer found it."
+        },
+        {
+          "text": "Hangtime: on a 390px phone the slam's blast-dome effect covers most of the court",
+          "status": "todo",
+          "note": "maintenance-ledger.md, 10-16, found not fixed (pre-existing, same effect as the moon dunk)."
+        },
+        {
+          "text": "Hangtime: the \"pick\" (intercepting a pass) mechanic is inert -- fires 0.1/game, no bot or button ever uses it",
+          "status": "todo",
+          "note": "maintenance-ledger.md: same inert-mechanic class as the fade was before its fix."
+        },
+        {
+          "text": "Hangtime: whether the 120ms dash-to-dunk timing window is fair needs an A/B -- not yet tested on real players",
+          "status": "todo",
+          "note": "maintenance-ledger.md: tune left untouched on purpose, his call."
+        },
+        {
+          "text": "Hangtime: the 10-15 lobby-flying smoothness fix still needs Zack's own eyes to confirm it feels right",
+          "status": "todo",
+          "note": "todo.json's own note on that subtask flags it unconfirmed."
+        },
+        {
+          "text": "DarkRoom: the nearest free torch isn't obvious once you lose yours",
+          "status": "todo",
+          "note": "maintenance-ledger.md, 10-17, found not fixed (10-05 stranger list)."
+        },
+        {
+          "text": "DarkRoom: the teach card's step 2 asks for a throw even when your torch is already gone",
+          "status": "todo",
+          "note": "maintenance-ledger.md, 10-17, found not fixed."
+        },
+        {
+          "text": "DarkRoom: bottom-left status text is tiny and wraps on a phone",
+          "status": "todo",
+          "note": "maintenance-ledger.md, 10-17, found not fixed."
+        },
+        {
+          "text": "DarkRoom: bodies pile up on the brazier into a blob",
+          "status": "todo",
+          "note": "maintenance-ledger.md, 10-17, found not fixed."
+        },
+        {
+          "text": "DarkRoom: no phone mute button -- M is desk-only",
+          "status": "todo",
+          "note": "maintenance-ledger.md, 10-17, found not fixed."
+        },
+        {
+          "text": "Toy Fury: muscle, van and monster cars still sit just under the 6% win-rate floor; 7 of 8 tracks' ride table was never measured",
+          "status": "todo",
+          "note": "maintenance-ledger.md: only the house track was tuned."
+        },
+        {
+          "text": "Skin audit: 20 fixes found across 60 skins (dark legs on dark floor x7, planks seen edge-on x7, tilted attachments x4, a part over the face x4) -- worst class first, not yet started",
+          "status": "todo",
+          "note": "Open ask, his 09-27 default: begin with dark legs/body on the floor."
+        },
+        {
+          "text": "Toy Fury: rivals play weaker when you are watching, so the in-game teach card may show an easier version than the real difficulty",
+          "status": "todo",
+          "note": "Open ask, his call whether to even it up or leave it."
+        },
+        {
+          "text": "Pablo skin: body is one smooth mass with no paws",
+          "status": "todo",
+          "note": "Its own ledger note said this was still owed while the subtask was marked done -- caught on a 10-17 audit, status corrected (see skins-fixes)."
+        },
+        {
+          "text": "Undercroft: two pillars in floor 1's hall sit 0.78m apart and against the wall, pocketing a player -- no minimum pillar spacing",
+          "status": "todo",
+          "note": "maintenance-ledger.md, dated -- recheck it still holds before building, per that game's own fresher passes."
+        },
+        {
+          "text": "Undercroft: the Blade enemy is near-unbeatable for an average player (0/24) vs a good one (16/24), never tuned",
+          "status": "todo",
+          "note": "maintenance-ledger.md: not tuned because nobody has actually played it. Recheck against the later combat-verb passes first."
+        },
+        {
+          "text": "Private task",
+          "status": "todo"
+        },
+        {
+          "text": "Private task",
+          "status": "todo"
+        },
+        {
+          "text": "Toy Fury: friends on different mobile networks may still fail to connect without a TURN relay",
+          "status": "todo",
+          "note": "Same blocker as the open Cloudflare-relay ask -- nothing to build until that account exists."
+        },
+        {
+          "text": "Hangtime: confirm the POSTERIZED call fires correctly for a man genuinely under the rim, now that the radius is 1.4",
+          "status": "todo",
+          "note": "maintenance-ledger.md: open, waiting on Zack's read."
+        },
+        {
+          "text": "Toy Fury: option to let a knocked-out friend rejoin next lap instead of spectating the rest of the race",
+          "status": "todo",
+          "note": "Noted as a live option in the Knockout-mode fix's own note -- not built, his call."
         }
       ]
     }
