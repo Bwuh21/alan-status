@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:52",
+  "updated": "2026-10-17T09:32",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -127,7 +127,8 @@
         },
         {
           "text": "DarkRoom: multiplayer check still flaky, plus a hitch at round start",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. The two halves split apart when I measured them. The flaky one was real and worse than written down: the game asked the arcade who it was, gave up after three seconds and then ignored the answer if it came late — and a player with no room counts as the host, so a friend on a slow phone did not end up playing alone, they ended up as a SECOND host. Two separate games, each thinking the other was in it, neither thumb reaching anybody. It now takes a late answer, and a harness that is late on purpose fails on the old build and passes on this one. The hitch was not there at all: the old 'a fifth of a second every round' number came off a machine drawing with no graphics card, and on the real card — desk, a real phone, and inside the arcade itself — not one frame drops at a round start. So the slot went to the thing the blind reviewers actually complained about: a brand new player was knocked flat two seconds in, with the lesson still on step one, which is also why they thought the lesson had frozen (you cannot finish 'walk' while you are on the floor). Nobody comes for you now until the lesson is done, your first point, or thirty seconds — three of four old runs floored the learner, none of three new ones did, and the bots play exactly as hard as before. The phone picture of that first round then caught two more: the readout was saying 'they can all see you' while three bots walked straight past, and the two lines along the bottom were printing on top of each other. Both fixed. Open it on your phone and start a round."
         },
         {
           "text": "KitchenClash: whoever gets the host seat wins more than they should",
