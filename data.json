@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:52",
+  "updated": "2026-10-17T08:04",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -117,7 +117,8 @@
         },
         {
           "text": "Cliffhanger: HUD looks off on ultra-wide monitors",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. True, and not only on an ultra-wide: the game pinned every number to the corners of the glass, so on a wide monitor the height, the clock and the pitch name sat a full arm's span apart and the climb bar hugged the far edge, a metre from the climb. Nobody had ever taken a picture of this game wider than 1100 pixels. They now hold a column the width of the normal desk screen, centred on the climber, however wide the monitor gets — on your own screen it was already 1687 pixels wide and is now 1260. Phone and desk are untouched, to the pixel. Two more came out of looking at it: the big gold word that marks a moment (DYNO, SLIPPED, the pitch name) was printing straight on top of the green prompt by the next hold and on the line that tells you why a move failed — on the phone too, not just wide — so the quiet two now stand aside for the 1.3 seconds it is up; and that word was counting frames instead of seconds, so it held about half a second on your 165 Hz screen and nearly three on a slow phone. Both fixed. Play it wide and the numbers are where your eye already is."
         },
         {
           "text": "CloudStreet: two bits of HUD text overlap on phone",
