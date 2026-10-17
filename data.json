@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:10",
+  "updated": "2026-10-17T12:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -58,7 +58,7 @@
         {
           "text": "A few bot-less games can never pay out, nothing scores a winner",
           "status": "doing",
-          "note": "3 of 13 fixed and live 10-17. The 'bot-less' half did not hold up: all eight games with no bots are off the floor and have no cabinet, so nobody can reach them. What IS live is worse -- 13 of the 25 games you can play with friends said nothing at the end of a match, so if anyone bet tickets on one the pot could never be won, only handed back five minutes later. Live Wire, Haunt and Trap Doors now call the winner, and a tie splits the pot. The hard part was not the calling: the person hosting and the people watching hold slightly different numbers, and if their two answers differ by one letter the pot refunds. Proved with two real browsers playing each other -- a version that got that wrong fails the test, this one passes. Ten games left, in order of how clean their winner is."
+          "note": "10 of 13 fixed and live 10-17. The 'bot-less' half did not hold up: all eight games with no bots are off the floor and have no cabinet, so nobody can reach them. What IS live is worse -- 13 of the 25 games you can play with friends said nothing at the end of a match, so if anyone bet tickets on one the pot could never be won, only handed back five minutes later. Now fixed and live: Live Wire, Haunt, Trap Doors, Comet Clash, Ice Hockey, Second Wind, Gnome Watch, Dark Room, Last Call, Last Hex. A tie splits the pot. The hard part was not the calling: the host and the people watching hold slightly different numbers, and if their two answers differ by one letter the pot refunds -- proved with two real browsers playing each other, 72 checks, and a version that gets it wrong fails. Three real bugs turned up on the way, all older than this job: Second Wind left a friend who joined a moment late watching the title screen for the whole match; it also hid the scoreboard from anyone whose connection hiccuped at the whistle; and Last Hex called the last player standing nothing at all unless that player was the host. Three games left: Cloud Street (a race, timed to fractions), Hangtime (two friends may end up on the SAME team, so a two-person bet there means nothing -- worth your call) and Broadside Bay."
         },
         {
           "text": "Space Golf: final scoreboard clips a column on phone",
