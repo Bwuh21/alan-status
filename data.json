@@ -57,11 +57,13 @@
         },
         {
           "text": "Toy Fury: a camera check reports fail on every track even when nothing's wrong",
-          "status": "todo"
+          "status": "done",
+          "note": "Done 10-17. Nothing about the game changed -- this was our own gauge lying. It claimed the camera was flinging your car 84 to 694 screen-widths off the screen on every track, including ones nobody had touched, which is not a thing that can happen. All six tracks measure 0.2 of the way to the screen edge today, so the complaint was pure instrument. It can't lie that way again: before it grades anything it checks it can see (a parked car has to appear in the middle of the frame), and a frame it genuinely cannot measure is now reported as 'cannot see' instead of being turned into a nonsense number. It also measures the thing you would actually feel -- the worst single-frame jolt of the camera -- and it is proven to still go red when the camera really is broken."
         },
         {
           "text": "Toy Fury: a frame-rate check has the same blind-fail problem",
-          "status": "todo"
+          "status": "done",
+          "note": "Done 10-17, same night as the camera gauge. The frame-rate check failed its big-screen test the same way on changed and unchanged tracks, so every run had to work out for itself that the number was noise. It now has three answers instead of two: fine, genuinely slow, or 'I could not measure this' -- the last one when every frame comes back exactly the same length, which means the machine capped the display, not that the game got heavier. Proved itself on the spot: another test browser was holding the graphics card tonight, so two of the four screen sizes came back 'cannot see' instead of crashing the run, which is what used to happen."
         },
         {
           "text": "Toy Fury: old screenshots from a scrapped early build still in the folder",
@@ -69,7 +71,8 @@
         },
         {
           "text": "Toy Fury: a couple of outdated code comments",
-          "status": "todo"
+          "status": "done",
+          "note": "Done and live 10-17, picked up free while the gauges were open. Two notes in the code disagreed about how long a lap is (one said 22 m, another said 60 m), so I measured all eight tracks: 18 m on the bathroom up to 60 m on the house. Three more lines still said there were six rooms when there are eight. Comments only -- nothing you can see in the game."
         },
         {
           "text": "Toy Fury: friends on different wifi may still fail to connect",
