@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:20",
+  "updated": "2026-10-17T10:25",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -47,7 +47,8 @@
         },
         {
           "text": "Phone games render in a tiny box, making touch controls hard to hit",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. Thirteen games played inside a small letterboxed panel on a phone instead of using the screen. Two of them — DodgeFall and Corner Pocket — did it even holding the phone upright, where the panel was less than a third of the screen and a normal button came out 14 pixels wide. The other eleven only did it sideways, and they had been deliberately left that way since 10-08: their title screen is a tall column of big text, and on a sideways phone the PLAY button falls off the bottom of the screen, so the panel was hiding a worse problem. The old note said fixing it meant rewriting eleven games one at a time. It was one problem, not eleven: those title screens size their text off the screen's WIDTH, so a wide short screen builds a giant title. The arcade now measures any game's title card and shrinks it to fit, once a second, so it keeps working when a card changes mid-game. All 41 games on the floor were then measured on both a tall phone and a sideways one: every one now uses the whole screen with nothing cut off, and no game that already worked was touched. Four more — Splatflag, Skin Kick, Hangtime and BlendIn — turn out to have been cut off sideways all along and are fixed by the same pass. Turn the phone sideways on Convoy or Last Call: that is the case that changed most."
         },
         {
           "text": "2v2 wagers only pay one teammate, not the whole team",
