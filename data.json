@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:08",
+  "updated": "2026-10-17T07:35",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -102,7 +102,8 @@
         },
         {
           "text": "Deploy folder has a stray duplicate of the whole site sitting where a careless command could overwrite the live one",
-          "status": "todo"
+          "status": "done",
+          "note": "Cleared 10-17. It was a whole second copy of the site -- 41 game folders, 7.3 MB -- dropped one level too high in the deploy folder on 10-04 by one mistyped command. It never went live and could never have gone live: the real site is the folder inside, and I proved it by checking that what the domain serves right now is byte-for-byte the inside one. The harm was quieter -- copying a single game into the fake copy looked like it worked and shipped nothing. Moved out to an archive folder (nothing deleted, and it can be rebuilt from scratch anyway). The deploy folder is now bare except for the real site, which is also the only proof we have of which folder the host publishes, so that bareness is now a written rule with a one-line check. Site untouched: same bytes before and after."
         },
         {
           "text": "Convoy: results screen doesn't show where your money came from",
