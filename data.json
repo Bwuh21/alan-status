@@ -1010,32 +1010,38 @@
     },
     {
       "title": "Security audit -- every surface (his ask, 15:06)",
-      "status": "doing",
-      "insight": "Scope: anything a stranger could reach -- the live site, the portal-server admin login, Supabase, the Telegram bot, secrets in the repo. First pass launched as a background review 10-17; this point tracks what it finds, not a promise everything is already checked.",
+      "status": "done",
+      "insight": "Scope: anything a stranger could reach -- the live site, the portal-server admin login, Supabase, the Telegram bot, secrets in the repo. First pass done 10-17, report at Logs/security/2026-10-17-audit.md -- no live-exploitable finding, see that file's own unchecked section for what this pass did not reach (live DB vs committed SQL, dependency CVEs, load testing).",
       "subtasks": [
         {
           "text": "Community-portal admin login (portal-server.js /api/login) -- auth strength, rate limiting, session handling",
-          "status": "doing"
+          "status": "done",
+          "note": "Auth itself is solid (scrypt+salt, timing-safe compare, httpOnly session); no rate limit on login, but the server isn't wired to the public tunnel -- local test only."
         },
         {
           "text": "Secrets committed to either repo (API keys, bot tokens, DB creds) in plaintext",
-          "status": "doing"
+          "status": "done",
+          "note": "Checked, nothing found -- grepped both repos and git history for AWS/OpenAI/Stripe/GitHub/Slack key patterns and private-key headers, zero hits."
         },
         {
           "text": "Supabase query surface -- injection risk, row-level security on plays/scores tables",
-          "status": "doing"
+          "status": "done",
+          "note": "RLS is on everywhere; the real guard is profiles' column-level UPDATE grant (only username), confirmed no later migration reopens it -- balance changes only via SECURITY DEFINER RPCs."
         },
         {
           "text": "Telegram bot -- whitelist enforcement, command/gate injection (Jobs/handle-messages.md step-0 gate already covers content-vs-intent)",
-          "status": "doing"
+          "status": "done",
+          "note": "Whitelist is enforced server-side off Telegram's own sender id, not client-claimed; message text never hits a shell string, it's passed as a file Claude reads."
         },
         {
           "text": "Multiplayer relay (host-hosted rooms) -- cheating/spoofing a result, DoS on a room",
-          "status": "doing"
+          "status": "done",
+          "note": "Host is authoritative over match state by design (can't be fixed without a server rewrite), but ticket payouts go through a separate unanimous-agreement escrow in Supabase that a cheating host/guest can't steal from, only force a refund."
         },
         {
           "text": "Deploy clone + Vercel -- exposed env vars, stray debug/admin routes shipped live",
-          "status": "doing"
+          "status": "done",
+          "note": "Checked, nothing found -- curled the live site for admin.html/.env/vercel.json/.git/config, all 404; shipped js/ has no keys."
         }
       ]
     }
