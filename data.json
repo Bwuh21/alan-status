@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:05",
+  "updated": "2026-10-17T12:08",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -62,7 +62,8 @@
         },
         {
           "text": "Space Golf: final scoreboard clips a column on phone",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. On a phone the end-of-round scoreboard cut hole 6 in half under the TOTAL column and put holes 7, 8 and 9 off the screen entirely, with nothing to tell you there was more to see — nine times '1:35.4' is simply wider than a phone. A pass last week answered it by letting the holes slide sideways, and its own check passed every single run, because it was measuring the two things that physically cannot fall off: the scrolling box, and the TOTAL column that is pinned in place. So the race is made to FIT instead. A race card does not need the clock on every hole, it needs where you lost it — each hole now shows the gap to whoever was fastest there (0 led it, +37 means 37 seconds behind), with a line under the table saying so. The whole race, all nine holes and every rival, is on one screen with no swiping. On a desktop it is unchanged, full times as before, and turning the phone mid-card can't break it. A friend with a long name used to cost you two holes; their name is shortened now instead. Checked on the live site on a phone, and the check was rewritten to measure what you can actually read — it now names the exact holes that are hidden, and is proven to go red against a copy with the fix removed."
         },
         {
           "text": "Toy Fury: a camera check reports fail on every track even when nothing's wrong",
