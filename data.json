@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T10:25",
+  "updated": "2026-10-17T10:30",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -52,7 +52,8 @@
         },
         {
           "text": "2v2 wagers only pay one teammate, not the whole team",
-          "status": "todo"
+          "status": "done",
+          "note": "LIVE: Splatflag names the whole winning side and the pot splits between them; the table says so before the match"
         },
         {
           "text": "A few bot-less games can never pay out, nothing scores a winner",
