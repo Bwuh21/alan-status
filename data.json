@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T22:12",
+  "updated": "2026-10-16T23:58",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -22,7 +22,8 @@
         },
         {
           "text": "Floor-wide: refresh the stale teach-cards",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-16. The cards themselves turned out to be right -- every game still teaches what it does. What was broken were the 40 tests that guard them: they looked for the old ALL-CAPS wording, and they gave up waiting after 3 seconds when the card deliberately holds each step up to 6 so you can read it. So those tests had been failing on every game, every run, since 10-08, and nobody could tell a real problem from the noise. Three of the five games named as 'the worst' were already fine -- the list was out of date, not the games. Fixed in 15 games, and a new check now refuses to let this rot a third time. The repaired tests immediately caught a real one: Last Call told you 'Got it' on the walking lesson without you touching the controls, because the bots shove you and it counted being thrown as walking. That one is live."
         },
         {
           "text": "Toy Fury: balance the booster gates",
