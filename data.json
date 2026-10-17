@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T22:05",
+  "updated": "2026-10-16T22:12",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -17,7 +17,8 @@
         },
         {
           "text": "Arcade lobby: fix choppy main-room movement",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-16. The room was giving you extra frames when you sprint or fly but NOT when you walk, so walking was the jerkiest way to move in it. Your 165 Hz screen now draws 82.5 frames a second walking instead of 55 (and a 144 Hz screen 72 instead of 48). Phones and ordinary 60 Hz laptops are untouched on purpose, and standing still still goes quiet. The 'render interpolation' guess in the title was wrong -- that was never this room's bug; the two real causes were fixed on 10-13 and 10-14 and this was the third. Walk a lap of the hall without sprinting -- that is the case that changed."
         },
         {
           "text": "Floor-wide: refresh the stale teach-cards",
