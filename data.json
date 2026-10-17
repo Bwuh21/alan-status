@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T04:05",
+  "updated": "2026-10-17T08:20",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -9,7 +9,12 @@
         {
           "text": "Splatflag: fix the infinite-respawn-hit bug",
           "status": "done",
-          "note": "live 10-15 -- a downed body had no collision for 4 s"
+          "note": "live 10-15 -- a downed body had no collision for 4 s. Re-checked 10-17 at the live site: still fixed."
+        },
+        {
+          "text": "Splatflag: \"a lot more colorful... a lot more to the game itself... still very incomplete\"",
+          "status": "doing",
+          "note": "Live 10-17, three of it done. You could not actually READ the game: the lines that tell you MATCH POINT, that your gun just refilled, and that you are standing in their paint and moving slow, were all pale grey on a bright yard -- the slow-paint warning scored 1.04 against 4.5 for readable, so it was invisible on the exact paint it was warning you about. They sit on dark badges now. Second: getting splatted puts you on the floor for four seconds, a quarter of the match, and the camera used to jam against whatever wall you died beside -- a flat slab over a third of a phone screen. It lifts you over the yard now so you watch the fight. Third: the big see-through circles on your screen when you get hit were literally circles, which read as smudges on glass; they are lobed paint thrown from one direction now, and they keep the middle of the screen clear. Still open: the sky is empty -- on a phone the top quarter of every frame is flat blue with nothing in it."
         },
         {
           "text": "Floor-wide: bring the outline-only games up to the cartoon-outline pass",
