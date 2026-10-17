@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:04",
+  "updated": "2026-10-17T08:52",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -122,7 +122,8 @@
         },
         {
           "text": "CloudStreet: two bits of HUD text overlap on phone",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. True, and worse than two bits. On a narrow phone (the common Android width, a little slimmer than yours) four players with long names folded the scoreboard onto a second row, which landed straight on the control line and clipped the climb number. Turn the phone sideways and the big shouted word sat on the control line as well, with the green LIFT arrow across it. The cause was one habit in three places: the control line, the shouted word and the LIFT arrow each had a number typed into them guessing how tall the scoreboard is, and none of them was ever right on a phone that was not yours. Nothing guesses now — the scoreboard is measured and the other three sit under whatever it actually is, and the board no longer wraps: four cards always fit one row, names shortened with a trailing dot. Checked on the live site at five screen shapes including sideways and a 320-wide phone, and I looked at the pictures. Open CloudStreet on your phone with three friends and turn it sideways."
         },
         {
           "text": "DarkRoom: multiplayer check still flaky, plus a hitch at round start",
