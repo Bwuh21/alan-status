@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T01:05",
+  "updated": "2026-10-17T01:52",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -84,7 +84,8 @@
         },
         {
           "text": "Toy Fury: a half-built daily event sitting unused",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. The Daily Derby was only daily in its name: sixteen cars on whatever room you were already in, a random field, open always — and a countdown that had been switched off because nothing actually happened at the hour it counted to. It is a real event now. Everybody who races it today gets the SAME sixteen cars, the same paint and the same starting slot, so two people can compare a result; it moves to a different room every day, all eight in eight days; and it rolls over at a fixed moment worldwide, which the clock in the garage counts down to honestly. Stand in the wrong room and the button tells you where today's is and takes you there in one tap, without changing your own favourite track. Your best place and time today is kept and shown with the number of goes, so running it again has a score on it. Today's is in the library."
         },
         {
           "text": "Deploy folder has a stray duplicate of the whole site sitting where a careless command could overwrite the live one",
