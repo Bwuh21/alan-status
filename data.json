@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T03:42",
+  "updated": "2026-10-17T04:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -83,7 +83,8 @@
         },
         {
           "text": "Toy Fury: Knockout mode is disabled in friends races",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. Knockout — last place is out every lap — was switched off the moment a friend was in the room, and if you had picked it you quietly got a different race instead, with no word either way. The reason was real: deciding who is last is a judgement, and each phone was making it for itself off its own lap counter, so two people would have been watching different races. One screen decides now — the host's, the same one that already deals the race — and it tells everyone, repeating until it lands, so a dropped message costs a fraction of a second instead of the round. Proved on two screens over a test road, including blacking the host out for three seconds on the exact moment it judged: the two screens never once named a different set of cars. The second half is that the rule now tells you first. The corner of the screen goes red and says YOU GO NEXT while you are in the cars that go when the leader comes round — before, the first you knew about it was being gone, which is a rule you cannot race against. That part is in solo races too. One thing left for you: a knocked-out friend watches the rest from the stands, and I can put them back in on the next lap instead if you would rather."
         },
         {
           "text": "Toy Fury: a half-built daily event sitting unused",
