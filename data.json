@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T23:58",
+  "updated": "2026-10-17T00:38",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -27,7 +27,8 @@
         },
         {
           "text": "Toy Fury: balance the booster gates",
-          "status": "done"
+          "status": "done",
+          "note": "Live 10-16, and the answer was NO. The change had been shipped on 10-15 owing a test nobody ran. I ran it: 480 races across two separate sets of seeds, and giving the losing cars a bigger boost made the fastest bike win MORE -- 1 race in 4 became 1 in 3. A boost is raw speed, and raw speed is worth most to the car that is already quickest, so it widened the gap it was meant to close. The ramps pay everyone the same again. What the test found instead was bigger and is fixed too: the expensive cars could not win. Four cars costing 300-480 tickets won almost nothing in 480 races each, and the free kart beat all of them. Now the dearest three win about 15% of their races and the cheapest three about 7%. Race the Fender Flame or the Crush Toy -- both were unplayable yesterday."
         },
         {
           "text": "Toy Fury: hazard-variety pass on two tracks",
