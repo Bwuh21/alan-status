@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:20",
+  "updated": "2026-10-17T12:52",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -107,11 +107,13 @@
         },
         {
           "text": "Convoy: results screen doesn't show where your money came from",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. The end card counted points in six tiles and never once said tickets, so a round that cost a real coin finished in silence. It now carries a gold money row under the points: what you paid, which bot you beat and what that was worth, the payout for seeing the route through, and the total for the run. Every number is the server's own, so the card cannot flatter you — a run too short to pay says why, and the daily ceiling says so by name. The cause turned out not to be Convoy's at all: the arcade WAS announcing the money, but that message was painted underneath the game itself, so it has been invisible in every paying cabinet on the floor, not just this one. That is fixed for all of them at once. Play a round of Convoy and look under the score."
         },
         {
           "text": "Convoy: one mode may be paying zero tickets",
-          "status": "todo"
+          "status": "done",
+          "note": "Checked 10-17, nothing to fix — the note behind it was out of date. All three modes pay. Measured 12 runs each against four standards of driving: easy is won 92% of the time by a good line, normal 75%, hard 33%. Hard was the worry, and it was true back on 09-30, but it was retuned on 10-04 for exactly that reason. Since 10-16 every round over 20 seconds also pays a few tickets whether you win or lose, so no mode pays nothing. One thing worth your call, not a bug: hard is an ace-only mode — a merely good line never takes it."
         },
         {
           "text": "Cliffhanger: HUD looks off on ultra-wide monitors",
