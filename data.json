@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:46",
+  "updated": "2026-10-17T13:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -142,7 +142,8 @@
         },
         {
           "text": "Undercroft: camera may clip through walls, tutorial text may block the action",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17. Both were real, and both were missed for the same reason: something was being treated as a point when it has a size. The camera was walked out of walls by testing the single spot the lens sits on, but a lens is a cone -- the front of it reaches about a sixth of a metre further -- so stone just that bit away was being cut open and you saw straight through the wall, while the check said the camera was clear. Over 33,000 camera frames of the crypt, the wall was cut open on 0.8% of them, and in one room 6%. The hit shake made it worse: it was added after every check had passed, up to a fifth of a metre of lens shoved sideways on exactly the blows that happen with your back to a wall, so a shaken frame clipped twice as often as a calm one. The camera now keeps a lens-sized ball of room (checked eight ways round, because a wall CORNER is reached on the diagonal), and a shake that would bury the lens is dropped for that frame -- you cannot see a shake from inside a wall anyway. Same frames after: 0.8% down to 0.4%, shaken 1.4% to 0.9%, and how often you can see the enemy is unmoved. The tutorial half was the guildmaster's lesson card: he teaches you while he swings, and the card sat where you stand. On the desk it covered your feet on all eight cards and your knees on three. On a phone held SIDEWAYS it was the bottom half of the screen -- it covered you head to feet on five cards of eight and covered him on three, while he was hitting you. The card now stands in the same column the job line and the boss bar already share, across the top, and takes the width it has: three lines wide instead of twelve lines deep. Upright phones were already clear and are untouched. Start a new character and do the yard lesson, and turn your phone sideways while he is swinging."
         },
         {
           "text": "Floor-wide: ink fix needs more games checked by eye",
