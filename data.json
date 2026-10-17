@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T01:52",
+  "updated": "2026-10-17T02:24",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -67,7 +67,8 @@
         },
         {
           "text": "Toy Fury: old screenshots from a scrapped early build still in the folder",
-          "status": "todo"
+          "status": "done",
+          "note": "Done 10-17. Six of them, not the five we had counted — all from the night-time city-racing build you scrapped, sitting unlabelled next to the real toy-world shots, which is how our own write-up last week picked one up thinking it was current. Moved to a folder that says what they are, with a note recording that nothing in the game reads them. Archived, not deleted. While in there I took the one thing the game's own notes called actually broken and had sat 8 days: whoever was leading took nearly every speed booster and everyone behind got a red light — the leader was taking 17 boosters for every 1 the second-placed car got. Being behind was taxed at every gate of every lap, which is why races ran away from you. The red light is now per car: the leader waits the full recharge, the back of the field waits a fraction of it. Overtaking went up and finishes got closer on both tracks tested, and no extra crashes. Live."
         },
         {
           "text": "Toy Fury: a couple of outdated code comments",
