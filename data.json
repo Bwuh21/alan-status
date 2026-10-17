@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T00:38",
+  "updated": "2026-10-17T00:40",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -32,7 +32,8 @@
         },
         {
           "text": "Toy Fury: hazard-variety pass on two tracks",
-          "status": "todo"
+          "status": "done",
+          "note": "Those two tracks already got their pass on 10-15 — four hazard zones each, live. So I did what that job left behind, and it was bigger. The house and library rooms build nine things that sit in the road on purpose — two rolling oranges, a wind-up robot, three pinball pop bumpers, two flippers and a marble — and the game had never once checked whether you hit any of them. You drove through all nine. They are solid now: the bumpers punt you sideways down the playfield (a spin in that narrow lane would just end your race), the rest bowl you over and skitter off down the road. Three of them could never have been hit even so: the oranges were aimed at the kitchen lane and sat half a metre wide of it, and the robot was walking underneath a raised, banked bit of road. All fixed and measured — the house plays no harder than before, same wreck count, two seconds slower a race. The house is the track you get first, so this is the one most people will notice."
         },
         {
           "text": "Hangtime: sound rework (verify first)",
