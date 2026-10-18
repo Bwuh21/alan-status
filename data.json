@@ -1117,16 +1117,18 @@
     },
     {
       "title": "The Arcade -- Zack's 10-18 list (keyboard paste, 15:33)",
-      "status": "todo",
+      "status": "doing",
       "insight": "Eight items, filed verbatim as polish-queue-20.md items 91-98 the same hour. The two he weighted himself: the in-arcade physical games (96, 'spend a whole lot of time') and the aura research-then-build (97, 'serious tokens'). Three are repeats of 10-15/16 items he says did not land (pool balls, bowling pins, aura).",
       "subtasks": [
         {
           "text": "Shop: the statue showing a random skin sometimes disappears (queue 91)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18. Walking far enough away from the plaza unloads it, and when you walked back the room was rebuilt but nobody put the figure back — so you came home to an empty lit plinth until the skin changed on its own, up to twenty minutes later. It is dressed the moment the room comes back now. Second cause fixed too: if a skin failed to build, the statue was cleared and then locked out of trying anyone else for the rest of that turn; a skin that will not build is now skipped and the next one goes up straight away."
         },
         {
           "text": "Music: deep dive, more tracks per spot, randomized (queue 92)",
-          "status": "todo"
+          "status": "doing",
+          "note": "research done 10-18 17:00: Research/music-deep-dive-2026-10-18.md; the build is next (lane)"
         },
         {
           "text": "Bowling: pins clip into the floor, rolling sound, pins glitchy from above (queue 93, repeat of 29)",
@@ -1134,11 +1136,13 @@
         },
         {
           "text": "Big arcade: neon room signs, expand the cramped hall, entrance signs readable without looking up (queue 94)",
-          "status": "todo"
+          "status": "done",
+          "note": "live 10-18 17:4x -- vault 3dbd93a8, clone efd0b9d: eleven solo cabinets off ALL (folders kept), THE GAMES ROOM wing, HALL spacing up, neonSign() plates on the walls, hall-tour walking-camera views"
         },
         {
           "text": "Big arcade: every single-player game off the floor, folders kept (queue 95)",
-          "status": "todo"
+          "status": "done",
+          "note": "live 10-18 17:4x -- vault 3dbd93a8, clone efd0b9d: eleven solo cabinets off ALL (folders kept), THE GAMES ROOM wing, HALL spacing up, neonSign() plates on the walls, hall-tour walking-camera views"
         },
         {
           "text": "Big arcade: real in-lobby games -- 3D air hockey, basketball shoot, skee ball, claw machine, coin pusher (queue 96)",
@@ -1146,7 +1150,8 @@
         },
         {
           "text": "Skins: aura research deep dive, then the new aura, then strip the old aura from every skin (queue 97, repeat of 23)",
-          "status": "todo"
+          "status": "doing",
+          "note": "research done 10-18 16:50: Research/aura-deep-dive-2026-10-18.md; the build is next (lane)"
         },
         {
           "text": "Tavern: pool island detail, numbered balls that read as pool balls (queue 98, repeat of 28; with session b6)",
