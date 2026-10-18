@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:40",
+  "updated": "2026-10-18T18:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -755,6 +755,11 @@
           "text": "Backing up for a 3 sometimes forces a moon dunk instead",
           "status": "done",
           "note": "The button said STEPBACK while the game ran a moon dunk. Both now read one rule: backing up is never a dunk."
+        },
+        {
+          "text": "\"Dash in the air to reach it\" did nothing, and POSTERIZED printed on top of a player's name",
+          "status": "done",
+          "note": "Live 10-18. Two things the last Hangtime pass wrote down and left. The game has been telling you to dash in the air to reach a pass since the move shipped, and it bought you no extra reach at all -- only a dash along the ground did. I measured it before touching anything: a leaping player reached exactly as far as one standing still doing nothing. Now a dash in the air reaches just as far as one on the floor, and the button says PICK while you are off the ground instead of going blank. It is still something you have to DO -- jumping without kicking at the ball takes nothing, which I checked, and the computer players don't use it, so the move is yours and the game plays the same otherwise. Second: on a wide screen, when you dunked on someone, the big red POSTERIZED landed directly on top of YOUR OWN floating name -- a grey tag with half its letters poking out of the word. Names under the banner now fade out of the way for the two seconds it is up. An upright phone was never affected, and I left it alone there. Jump at a pass between the two bots -- that is the move that was dead."
         }
       ]
     },
