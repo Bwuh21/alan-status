@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:45",
+  "updated": "2026-10-18T13:52",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -701,8 +701,8 @@
         },
         {
           "text": "Multiplayer: battle other ships to become the biggest (agar.io feel)",
-          "status": "todo",
-          "note": "NOT built. Online this is still a 1v1 duel; a lobby of growing ships is its own build. Next up."
+          "status": "done",
+          "note": "LIVE. Both captains now start in a little launch and the fight grows you: every plank you knock off her makes your own ship bigger, mid-fight, no pause. Her rung rides her name tag so you can see who is ahead. Still two players, not a lobby of ten -- say the word if you want more seats."
         },
         {
           "text": "Levels from kills upgrade durability, firepower and cannonball capacity",
