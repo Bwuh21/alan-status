@@ -1114,6 +1114,45 @@
           "note": "Cannot break anything that works today (RLS already denies those writes); it removes the layer nobody re-reads."
         }
       ]
+    },
+    {
+      "title": "The Arcade -- Zack's 10-18 list (keyboard paste, 15:33)",
+      "status": "todo",
+      "insight": "Eight items, filed verbatim as polish-queue-20.md items 91-98 the same hour. The two he weighted himself: the in-arcade physical games (96, 'spend a whole lot of time') and the aura research-then-build (97, 'serious tokens'). Three are repeats of 10-15/16 items he says did not land (pool balls, bowling pins, aura).",
+      "subtasks": [
+        {
+          "text": "Shop: the statue showing a random skin sometimes disappears (queue 91)",
+          "status": "todo"
+        },
+        {
+          "text": "Music: deep dive, more tracks per spot, randomized (queue 92)",
+          "status": "todo"
+        },
+        {
+          "text": "Bowling: pins clip into the floor, rolling sound, pins glitchy from above (queue 93, repeat of 29)",
+          "status": "todo"
+        },
+        {
+          "text": "Big arcade: neon room signs, expand the cramped hall, entrance signs readable without looking up (queue 94)",
+          "status": "todo"
+        },
+        {
+          "text": "Big arcade: every single-player game off the floor, folders kept (queue 95)",
+          "status": "todo"
+        },
+        {
+          "text": "Big arcade: real in-lobby games -- 3D air hockey, basketball shoot, skee ball, claw machine, coin pusher (queue 96)",
+          "status": "todo"
+        },
+        {
+          "text": "Skins: aura research deep dive, then the new aura, then strip the old aura from every skin (queue 97, repeat of 23)",
+          "status": "todo"
+        },
+        {
+          "text": "Tavern: pool island detail, numbered balls that read as pool balls (queue 98, repeat of 28; with session b6)",
+          "status": "todo"
+        }
+      ]
     }
   ]
 }
