@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T10:35",
+  "updated": "2026-10-18T11:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -175,8 +175,8 @@
         },
         {
           "text": "Escape menu button (circle with three lines) in ONE corner in every game — Hangtime has it halfway down the screen, Space Golf flips left and right",
-          "status": "doing",
-          "note": "built 14:15, deploying now"
+          "status": "done",
+          "note": "Live 10-18. The button stopped moving back on the 15th — measured again today, it lands on the exact same spot in every game on both a phone and the desk. What was still wrong is that it was sitting on top of the game's own scoreboard. In Space Golf the hole's name was completely unreadable underneath it; in Hangtime on a phone it clipped the score. Both scoreboards now step aside for it, so the corner belongs to the way out and nothing else. The reason this was missed: the measurement that picked the corner looked at every game on its title screen, where no game has drawn a scoreboard yet. Looking again with the games actually running, about eighteen more have a number hidden under the button — LastHex's floor counter is completely gone, for one. Same one-line fix each; that is the next item, and it is queued."
         },
         {
           "text": "Replace the small underlined \"step away\" / \"put down the darts\" links with a big red LEAVE GAME button",
