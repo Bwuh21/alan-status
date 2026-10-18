@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T20:11",
+  "updated": "2026-10-17T21:58",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -18,7 +18,8 @@
         },
         {
           "text": "Floor-wide: bring the outline-only games up to the cartoon-outline pass",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-17, all twenty of them — it was twenty, not twenty-six; six had been done since the list was written. Open Out Of The Sun and look down: the city under your plane used to be a pale smear with no edges on anything, and every rooftop and street is drawn in now. Whistle Herd is second — every sheep and every stone in the wall gets a line round it. Splatflag matters too, because your own body had almost no outline at all and now it does. That one had been written off eight days ago as 'makes it worse'; the check behind that verdict compared two shots taken minutes apart of a game that never plays the same twice, so it was never a measurement. I built one that renders the same single frame both ways — old outline and new — off the same scene and the same camera, and looked at every pair. The write-off was simply wrong. Two games, Broadside Bay and Toll Bridge, turned out never to have had the brighter-on-dark pen at all, which a note last week said was finished everywhere. Costs nothing: no game draws a single extra thing. Honest limit, and it leads rather than closes: seven dark games — Fire Line worst, then Blend In, Knock On, Stand Still, Rearview, Space Golf — still have no outline you can see, and this pass could not give them one. The line we draw lands within about 8% brightness of whatever it is drawn on, so it is there and invisible. That needs you to pick a colour by eye, and it is now its own job on the list."
         },
         {
           "text": "Arcade lobby: fix choppy main-room movement",
