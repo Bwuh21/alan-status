@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T21:58",
+  "updated": "2026-10-17T23:04",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -931,28 +931,28 @@
         },
         {
           "text": "DarkRoom: the nearest free torch isn't obvious once you lose yours",
-          "status": "todo",
-          "note": "maintenance-ledger.md, 10-17, found not fixed (10-05 stranger list)."
+          "status": "done",
+          "note": "LIVE 10-17: a chevron beside you points at the light the readout names, and goes out once you can see it."
         },
         {
           "text": "DarkRoom: the teach card's step 2 asks for a throw even when your torch is already gone",
-          "status": "todo",
-          "note": "maintenance-ledger.md, 10-17, found not fixed."
+          "status": "done",
+          "note": "LIVE 10-17: the step reads your hand, and follows it if a draft blows the torch out mid-step."
         },
         {
           "text": "DarkRoom: bottom-left status text is tiny and wraps on a phone",
-          "status": "todo",
-          "note": "maintenance-ledger.md, 10-17, found not fixed."
+          "status": "done",
+          "note": "LIVE 10-17: 14px on every phone shape, not just upright; the two caps could both be met and still cross, now they can't."
         },
         {
           "text": "DarkRoom: bodies pile up on the brazier into a blob",
-          "status": "todo",
-          "note": "maintenance-ledger.md, 10-17, found not fixed."
+          "status": "done",
+          "note": "LIVE 10-17: waiting bodies take a place each, 0.33m apart to 0.66m. Only when there IS a crowd, so the bench held."
         },
         {
           "text": "DarkRoom: no phone mute button -- M is desk-only",
-          "status": "todo",
-          "note": "maintenance-ledger.md, 10-17, found not fixed."
+          "status": "done",
+          "note": "LIVE 10-17: a speaker button top right, clear of the help button, and the tap never throws your torch."
         },
         {
           "text": "Toy Fury: muscle, van and monster cars still sit just under the 6% win-rate floor; 7 of 8 tracks' ride table was never measured",
