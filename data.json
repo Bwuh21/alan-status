@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T01:05",
+  "updated": "2026-10-17T23:19",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -709,6 +709,11 @@
           "text": "Keep waves in single-player; aiming can improve later",
           "status": "done",
           "note": "LIVE. Waves untouched; the King's ships now work up against your rating instead of your cards."
+        },
+        {
+          "text": "A stranger's first cabinet opened on a wall of text (from the blind-stranger run)",
+          "status": "done",
+          "note": "Live 10-17, and all three measured against the old build on the same machine. One: the opening screen made you read 324 characters on 13 lines - over half an upright phone - before you were allowed to touch anything, and three of those blocks were the controls the how-to-play card already teaches one at a time. Your first voyage now reads 90 characters on 3 lines; the full screen comes back on your second run, when the words mean something. Two: the how-to-play card stuck on step 2 for both strangers, for 30 seconds, because that step was waiting for a King's ship to drift into your gun line - something you cannot make happen. It now moves on when you do the thing it asks. A thumb that only ever does what the card says reached the last card in 3 runs of 3, against 1 of 3 before. Three: both strangers said dragging to steer 'did not obviously do anything', and the reason was the camera - it swings toward the nearest ship, and that swing was cancelling three quarters of your turn out of the picture. It gives most of it back while the wheel is over, and there is a HELM bar at the bottom now that moves the instant your thumb does and names the side. Start a run and drag sideways."
         }
       ]
     },
