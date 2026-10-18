@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T09:55",
+  "updated": "2026-10-18T10:35",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -920,8 +920,8 @@
         },
         {
           "text": "The shop sits 44m behind spawn, off-screen from the hall -- easy for a guest to never find",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12: neither blind reviewer found it."
+          "status": "done",
+          "note": "Live 10-18. Measured first: there were exactly two shop stands in the whole arcade and both were on the plaza, so the big arcade -- where you earn every ticket you own and where you spend the whole visit -- had none. The plaza centrepiece stays put; the shop came to you. The big arcade's prize counter was scenery under a sign promising soft toys nobody could buy, and it is a real stand now: walk up, press E, same shop, 98 skins and the 100-ticket case. It also moved, off the side wall and onto the lane between where you land and the way out, because on a 390px phone anything off to the side is simply gone. Walking out of the solo room the shop is in view 19 of 22 frames and the prompt comes up on its own; out of the versus room, 16 of 22. Checked on the live site, desk and phone."
         },
         {
           "text": "Hangtime: on a 390px phone the slam's blast-dome effect covers most of the court",
