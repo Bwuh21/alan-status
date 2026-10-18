@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:47",
+  "updated": "2026-10-18T17:34",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1023,8 +1023,8 @@
         },
         {
           "text": "Toy Fury: option to let a knocked-out friend rejoin next lap instead of spectating the rest of the race",
-          "status": "todo",
-          "note": "Noted as a live option in the Knockout-mode fix's own note -- not built, his call."
+          "status": "done",
+          "note": "Built and live. Knocked out, you now get one tap: REJOIN, and you are back in on the next lap, placed just behind the last car still running -- with a rocket so arriving is not a speed bump. One comeback each, per race, and only for a person: the field still shrinks every lap and a bot never comes back. Wrecking your ride still loses it for good; that is never offered a way back. Two things the new check caught in its own first runs: the button could be offered on the final lap, where there is no next judgement to honour it (so it was a button that could never land), and the corner was going red with KNOCKOUT - YOU GO NEXT on the last lap, threatening something the rule can no longer do -- the first thing a returning player read. Solo racing is bit-identical to before: 12 seeds, 46 knock-outs, the same cars at the same second."
         }
       ]
     },
