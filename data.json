@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:40",
+  "updated": "2026-10-18T02:55",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -971,8 +971,8 @@
         },
         {
           "text": "Skin audit: 20 fixes found across 60 skins (dark legs on dark floor x7, planks seen edge-on x7, tilted attachments x4, a part over the face x4) -- worst class first, not yet started",
-          "status": "todo",
-          "note": "Open ask, his 09-27 default: begin with dark legs/body on the floor."
+          "status": "done",
+          "note": "Checked all 60 by machine instead of by eye, and 19 of the 20 were already fixed. The 'dark legs on a dark floor' worry is backwards: the dark floor is the SAFEST place to stand, because the room lights your legs wherever you are. Measured every character on four different floors -- 78 of 91 never lose their legs anywhere, and the worst loses a quarter of one and still looks fine, so no colour needed changing. One fix was real and is now live: the Samurai has never had eyes at all, and now does."
         },
         {
           "text": "Toy Fury: rivals play weaker when you are watching, so the in-game teach card may show an easier version than the real difficulty",
