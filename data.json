@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:55",
+  "updated": "2026-10-18T00:40",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -886,18 +886,18 @@
         },
         {
           "text": "Games directory header is clipped on a phone -- title hidden behind the search box, \"About\" cut off",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12, both reviewers."
+          "status": "done",
+          "note": "Already fixed 10-12, and checked again 10-18 before touching anything rather than taken on trust: the title fits and About sits inside the screen on an upright phone, a sideways phone and the desk. Under 640 px wide the search box takes its own row. Nothing to do."
         },
         {
           "text": "Cold load shows a black \"Loading the arcade...\" card for several seconds, worse on a slow/throttled phone",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12: one button for the whole boot; up to ~20s read by one reviewer, 4.9-9.2s measured."
+          "status": "done",
+          "note": "Live 10-18. Measured on your real site on a slow phone first: eleven seconds of a card with not one moving pixel, so there was no way to tell a loading arcade from a hung one. Three things were wrong underneath. The arcade was waiting its turn for no reason -- the page finished arriving before the browser even thought to go and fetch the 3D library, so the two queued up instead of coming together; they now come together, and on a phone with decent signal you are in the room in under five seconds. A white \"Play from a plain list instead\" button was being shown to every single visitor from the first moment, as if the arcade had failed -- it was meant to appear only on a failure and had never worked, because of a rule this file had already patched thirty-five times in other places and never once here. And the card's own timers were counting from the wrong moment: they sat at the very bottom of a very large page, so they started when the browser finished reading, not when you arrived -- a \"twelve second\" rescue was firing at twenty-two. The card now has a sweeping bar and tells you where it has got to (loading, then building the room, then warming up the lights), the way out is offered after six seconds if you are genuinely waiting, and the \"it did not load\" message can no longer cry wolf on a load that is merely slow. Open the site cold on your phone and watch the card."
         },
         {
           "text": "favicon.ico 404s every session -- the one console error a stranger's browser logs",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12."
+          "status": "done",
+          "note": "Live 10-18. A yellow B on plum, in the site's own colours. One small file at the root rather than an edit to every page, because browsers ask for it whether a page mentions it or not -- so the error is gone from the arcade, the games list, About, the not-found page and all 62 game pages at once. A cold visit to the live site now logs no bad responses at all, where before it logged exactly this one."
         },
         {
           "text": "Guest economy messaging contradicts itself: coins \"refill on their own\", the purse count is hidden on the floor, every cabinet charges 3 coins, and a guest with 0 still gets to play",
