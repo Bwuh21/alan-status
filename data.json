@@ -526,6 +526,11 @@
           "text": "Wheels turn weirdly and some do not attach to the car; car parts clip",
           "status": "done",
           "note": "Turning wheels no longer tip over, the kart's front wheels are on a real axle, the bike has forks and a swingarm, and the racing stripe lies on the paint."
+        },
+        {
+          "text": "Three cars under the win-rate floor; the ride table was only ever measured on 1 of the 8 rooms",
+          "status": "done",
+          "note": "Measured all eight rooms this time, 960 races a car. The three cars named were fine once the other seven rooms counted — those numbers came from the house, which is the hardest room of the eight. The car that was actually broken was the 120-ticket Rally Pup: it won less often than the free kart, so your first purchase made you worse. It is now the quickest cheap car in a straight line and wins more than the kart. Second thing the eight-room run turned up: each car is strongest in a particular room, by a mile — the Carpet V8 wins 20 races in the garage and 1 in the bathroom. The garage card now tells you where each car wins, and stars it on the day the derby is in that room."
         }
       ]
     },
