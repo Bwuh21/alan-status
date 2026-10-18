@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T04:35",
+  "updated": "2026-10-18T09:55",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -536,16 +536,18 @@
     },
     {
       "title": "Multiplayer — every game",
-      "status": "todo",
+      "status": "done",
       "insight": "\"You're thinking of it from a very narrow lens.\" Think through the whole party, not one match.",
       "subtasks": [
         {
           "text": "Pick sides: choose who is on which team",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18. Sit at a team cabinet in a room and you get a SIDE A / SIDE B button, so two friends can be on the same team instead of being dealt opposite each other. It turned out not to be a job for each game at all: every one of them already works out teams from the order people sat down, so the room just hands the seats out in the order you asked for. Four cabinets so far — Splatflag, Ice Hockey, Dodgeball and Second Wind — and the button only appears where the game can actually obey it. One thing it does on its own: if you both pick the same side AND bots are off, one of you is moved across before the match starts, because a side with nobody in it is not a game. You see that happen on the button rather than finding out in the yard."
         },
         {
           "text": "Team sizes beyond 2v2 where the game allows (3v3, 4v4)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18, and \"where the game allows\" is doing real work here. Ice Hockey plays 3v3 AND 4v4 — the rink is wide enough for eight and both are formats real hockey plays. Splatflag and Dodgeball go to 3v3 and stop: the Splatflag courtyards are only clear for three a side, and a fourth would stand up inside a wall; the Dodgeball court is 26 across, so a fourth would be shoulder to shoulder with nowhere to dodge. Second Wind stays 2v2 on purpose — going down to become your partner's ambush needs a partner. The host picks the size at the cabinet and it is written on the board and the prompt, so nobody sits down to a different match than they agreed to."
         },
         {
           "text": "\"Play again\" pulls every player back in",
@@ -554,7 +556,8 @@
         },
         {
           "text": "The host chooses whether to fill with bots",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18. BOTS or LEAVE EMPTY, next to the stake at the cabinet, host only. Left empty, the spare seats come out rather than standing there — four friends in a 3v3 play 2v2, not two people against four ghosts. The switch only shows on cabinets that can honour it, which is the point: it would otherwise have appeared on all thirty-odd party machines and changed nothing on most of them."
         },
         {
           "text": "Knocked out or finished early: spectate and choose who to watch (Toy Fury, Space Golf), never get thrown to the lobby",
@@ -563,7 +566,8 @@
         },
         {
           "text": "Bots wear skins",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18. Bots in a party now wear real skins off the shop — a different one each, with its own name — instead of being team-coloured mannequins. The room deals the outfits once and sends them, so everybody's screen dresses the same bot the same way, and because they come off the live shop list, a skin you add tomorrow walks onto the floor as a bot with no game touched. A friend who leaves mid-match leaves a body behind that plays on in that seat's outfit rather than reverting to a blank. One real catch found and fixed: the shop list only loaded when somebody opened the shop, so every bot would have shipped undressed — opening a room fetches it now."
         }
       ]
     },
