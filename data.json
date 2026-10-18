@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:19",
+  "updated": "2026-10-17T23:55",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -866,8 +866,8 @@
       "subtasks": [
         {
           "text": "Guest with 0 tickets hits a dead end: nothing in the shop or case screen says how a ticket is earned",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12: 'Sign in to open a case', tap does nothing; same open ask already on his phone list."
+          "status": "done",
+          "note": "Live 10-17. The case now says what one costs and where tickets come from -- 100 tickets, every round pays 3, a hard bot up to 30 -- and the greyed-out button is a working 'Make a free account' instead."
         },
         {
           "text": "The first cabinet a stranger reaches (Broadside Bay) opens on a wall of orders/text before you can touch anything",
@@ -901,8 +901,8 @@
         },
         {
           "text": "Guest economy messaging contradicts itself: coins \"refill on their own\", the purse count is hidden on the floor, every cabinet charges 3 coins, and a guest with 0 still gets to play",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12."
+          "status": "done",
+          "note": "Live 10-17. One story now, told at the cashier: tap your purse and a card explains coins, tickets and skins in three lines, with every number read from the database. The tour had said two coins an hour for nine days while the server paid ten. A guest keeps a pill reading 'Guest - nothing saved' instead of nothing at all, and is let into every cabinet -- eight used to refuse them. A go is 1 coin, not 3; a guest is quoted Free, because that is what they pay."
         },
         {
           "text": "Cabinet \"Play\" prompt clips the price text on a 390px phone (\"Broadside Bay . 3 c...\")",
