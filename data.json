@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-18 18:40",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1127,8 +1127,8 @@
         },
         {
           "text": "Music: deep dive, more tracks per spot, randomized (queue 92)",
-          "status": "doing",
-          "note": "research done 10-18 17:00: Research/music-deep-dive-2026-10-18.md; the build is next (lane)"
+          "status": "done",
+          "note": "Live. 37 more songs, all free to use, so every spot has a deeper pool: the plaza and the big arcade hall went from 3 songs to 7, the tavern, bowling, skate park and toy house from 3 to 6, the crypt gate 2 to 5, the Undercroft guild hall 4 to 7. 100 songs in all. The shuffle was already there and was never the problem -- three songs was. Second fix: leave a spot for more than twenty seconds, or go play a cabinet, and you come back to a different song instead of the one you walked out on; step over an edge and straight back and it carries on uncut. Checked on the live site, desktop and phone."
         },
         {
           "text": "Bowling: pins clip into the floor, rolling sound, pins glitchy from above (queue 93, repeat of 29)",
