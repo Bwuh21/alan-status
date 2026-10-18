@@ -1146,7 +1146,8 @@
         },
         {
           "text": "Big arcade: real in-lobby games -- 3D air hockey, basketball shoot, skee ball, claw machine, coin pusher (queue 96)",
-          "status": "todo"
+          "status": "doing",
+          "note": "air hockey LIVE 10-18 18:4x (vault 7b92f9ea): walk up, press E, first to 7 vs the house, keys or finger; hoops, skee ball, claw, coin pusher still to build"
         },
         {
           "text": "Skins: aura research deep dive, then the new aura, then strip the old aura from every skin (queue 97, repeat of 23)",
