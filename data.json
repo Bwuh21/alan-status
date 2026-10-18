@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:25",
+  "updated": "2026-10-18T15:47",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -265,8 +265,8 @@
         },
         {
           "text": "Pablo: missing a neck, cheese stuck in his body — redo the whole skin",
-          "status": "doing",
-          "note": "Live. He had no body at all between his shoulders and his chin — you could see the floor through it. He has a neck and a scruff now. The cheese was inside his chest in every shop and card picture and inside his hip when you walked; it is in his paw, bigger, with holes. Ears are round cups so he reads as a rat from behind, and the gold crack was half buried — it shows now. Set back to doing on a 10-17 audit: this subtask was marked done while its own note still named two unbuilt parts (see the new backlog-sweep item for the open half)."
+          "status": "done",
+          "note": "Live. He had no body at all between his shoulders and his chin — you could see the floor through it. He has a neck and a scruff now. The cheese was inside his chest in every shop and card picture and inside his hip when you walked; it is in his paw, bigger, with holes. Ears are round cups so he reads as a rat from behind, and the gold crack was half buried — it shows now. Was set back to doing on a 10-17 audit because its own note still named two unbuilt parts; those were built and shipped 10-18 (paws, and a back with a shape) and it is done for real."
         }
       ]
     },
@@ -990,8 +990,8 @@
         },
         {
           "text": "Pablo skin: body is one smooth mass with no paws",
-          "status": "todo",
-          "note": "Its own ledger note said this was still owed while the subtask was marked done -- caught on a 10-17 audit, status corrected (see skins-fixes)."
+          "status": "done",
+          "note": "Live 10-18. He has four pink paws with toes now, and furry arms down to them -- before, his hands and feet were the plain cream balls every character starts with. His back has a shape: two haunches over his back legs with the gold crack running down the groove between them, where before it was one smooth slope from his neck to his tail. His pale chest is finally visible -- it was being drawn 2.5 mm in front of his fur, so the two were fighting over the same pixels and you saw neither. The cheese is smaller and sits in the paw instead of floating beside it: it had been sized against an empty hand, so it was two and a half times bigger than the hand holding it. One catch worth knowing: the paws only show on YOUR rat as you walk around -- the shop picture, the card and the statue draw simpler hands, so those now show the right colour but not the toes."
         },
         {
           "text": "Undercroft: two pillars in floor 1's hall sit 0.78m apart and against the wall, pocketing a player -- no minimum pillar spacing",
