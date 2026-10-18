@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:12",
+  "updated": "2026-10-18T01:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -976,13 +976,13 @@
         },
         {
           "text": "Undercroft: two pillars in floor 1's hall sit 0.78m apart and against the wall, pocketing a player -- no minimum pillar spacing",
-          "status": "todo",
-          "note": "maintenance-ledger.md, dated -- recheck it still holds before building, per that game's own fresher passes."
+          "status": "done",
+          "note": "Obsolete on re-check, 10-17. Measured all six contracts: zero slots a player fits through that a melee foe does not. Your body is 0.72m across and every melee foe is wider (skeleton 0.84, warden 0.96, brute 1.20), so that 0.72-0.84m band is the thing that matters and nothing is in it. The narrowest walkable slot anywhere is 0.881m, fixed guild-hall geometry, and a skeleton still fits. The old coordinates are not even in today's map. The row also inverted its source -- the original note says a person walks round it; it was a test robot that stalled. Shipped the missing spacing rule as a check that plants the old defect every run and must find it before it trusts a zero."
         },
         {
           "text": "Undercroft: the Blade enemy is near-unbeatable for an average player (0/24) vs a good one (16/24), never tuned",
-          "status": "todo",
-          "note": "maintenance-ledger.md: not tuned because nobody has actually played it. Recheck against the later combat-verb passes first."
+          "status": "done",
+          "note": "Obsolete on re-check, 10-17. The Blade was never an enemy -- it was one of two player kits, and that whole system was replaced by the five classes. Its descendant is the rogue. The harness that produced 0-of-24 cannot even attach to today's game any more. What the re-check DID find: the test robot was defending the rogue with a shield the rogue does not have, so it died 136 times. Fixed, and deaths fell to 39 with nothing in the game changed. A gap of about 2x against the knight survives on one seed, which is one sample and not enough to retune a class everyone plays -- a pooled run is queued."
         },
         {
           "text": "Private task",
