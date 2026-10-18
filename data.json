@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:05",
+  "updated": "2026-10-18T13:45",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -885,18 +885,18 @@
         },
         {
           "text": "The first cabinet a stranger reaches (Broadside Bay) opens on a wall of orders/text before you can touch anything",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12, both blind reviewers."
+          "status": "done",
+          "note": "Fixed and live 10-17; re-checked on the real site 10-18 -- a maiden voyage reads 3 short lines, not 13, and all 32 checks pass on phone and desk."
         },
         {
           "text": "Broadside Bay: the 'How to play 2 of 4' card sits over the ship and never advances under blind taps",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12: stuck at step 2 for 30s in both test shells."
+          "status": "done",
+          "note": "Fixed and live 10-17. Card 2 was waiting on a King's ship a newcomer cannot cause; it clears from the handspike now. Re-checked on the real site 10-18."
         },
         {
           "text": "Broadside Bay: dragging to steer isn't obviously doing anything to a new player",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12: camera ended up inside an enemy ship."
+          "status": "done",
+          "note": "Fixed and live 10-17. The chase camera was subtracting 78% of your own turn out of frame; 33% now, and the wheel has a needle. Re-checked on the real site 10-18."
         },
         {
           "text": "Games directory header is clipped on a phone -- title hidden behind the search box, \"About\" cut off",
@@ -920,8 +920,8 @@
         },
         {
           "text": "Cabinet \"Play\" prompt clips the price text on a 390px phone (\"Broadside Bay . 3 c...\")",
-          "status": "todo",
-          "note": "Front-door stranger run, 10-12."
+          "status": "done",
+          "note": "Live 10-18. It was 27 of 29 signs on the floor, not just this one, and only on an upright phone. All 29 read in full now -- the line takes a second row and never splits '3 coins'."
         },
         {
           "text": "The shop sits 44m behind spawn, off-screen from the hall -- easy for a guest to never find",
