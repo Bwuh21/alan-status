@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T11:05",
+  "updated": "2026-10-18T11:26",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -207,8 +207,8 @@
         },
         {
           "text": "Toy Fury house: make it insanely well optimized",
-          "status": "doing",
-          "note": "10-15 — it holds a locked 60 fps on a phone; its frame counter was reporting 1 draw per race and is fixed and live. Two likely savings checked and both were false (it is not pixel-bound, and its 3 MB of audio is all used). One real target left: a 0.4 s pause while it loads"
+          "status": "done",
+          "note": "Closed 10-18, live. It holds a locked 60 fps on a phone (re-measured: 16.7 ms a frame). The loading pause was the last thing open, so I photographed it instead of guessing: on a slow phone the game showed a flat purple screen with NOTHING on it for about two seconds. The time itself is real work — building the room and drawing the first picture — and I tried the one trick that was supposed to remove it and measured that it does not, so nobody tries it again. What is fixed is that the wait now shows the game's name, which room is being set up, and a bar that keeps moving, instead of a blank rectangle."
         },
         {
           "text": "Deep dive: what it takes for the whole arcade to run on a potato",
@@ -970,8 +970,8 @@
         },
         {
           "text": "Toy Fury: muscle, van and monster cars still sit just under the 6% win-rate floor; 7 of 8 tracks' ride table was never measured",
-          "status": "todo",
-          "note": "maintenance-ledger.md: only the house track was tuned."
+          "status": "done",
+          "note": "Answered 10-18, and the complaint was wrong. The old numbers came from one room, and the house is the harshest of the eight. Raced over all eight rooms, 480 races per car: muscle wins 16.7% of the time, monster 10.4%, van 7.5% — all three well clear. The car that really was too weak was the 120-ticket Rally Pup, the first car you can buy: it won LESS than the free kart, so your first purchase made you worse. It is quicker now and live. This row says the same thing as the 'car collection' row above it, which is why it came round twice."
         },
         {
           "text": "Skin audit: 20 fixes found across 60 skins (dark legs on dark floor x7, planks seen edge-on x7, tilted attachments x4, a part over the face x4) -- worst class first, not yet started",
