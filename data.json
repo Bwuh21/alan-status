@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:52",
+  "updated": "2026-10-18T13:58",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -985,8 +985,8 @@
         },
         {
           "text": "Toy Fury: rivals play weaker when you are watching, so the in-game teach card may show an easier version than the real difficulty",
-          "status": "todo",
-          "note": "Open ask, his call whether to even it up or leave it."
+          "status": "done",
+          "note": "Live 10-18. The rivals do not ease off: I ran the same race twice, once with the picture drawing and once with nothing on screen, and every one of the eight cars finished on the same millimetre. Nothing in the game asks whether anyone is looking, and the teach card never touches the difficulty. But chasing it turned up something worse that nobody had reported. Three of the eight rooms had a corner no car in the game can take -- the garage, the library and the classroom -- a bend tighter than the road is wide, right before the finish line. You lost a panel there on every single lap, so you lost the car itself three laps in, and a car is gone for good and costs tickets. Measured: on the EASIEST setting your car was wrecked 22 races in 112, and in the garage and the library it was every race, 8 out of 8. All three corners are re-laid as real curves -- still the hardest corner in their room, now ones a car can actually get round. Same test now: wrecked 5 races in 112, and two and a half cars finish a race where barely one did. It fixed the difficulty buttons as a side effect: ROOKIE, RACER and CHAMPION used to put the same driver in 4.6th, 5.0th and 4.9th place -- the hardest setting was the easy one -- and now read 2.8th, 4.1st and 5.6th, with 23 wins, 10 and 1. Still owed, and it is older than this: the moto and the wedge cannot finish the garage or the classroom at all."
         },
         {
           "text": "Pablo skin: body is one smooth mass with no paws",
