@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T11:50",
+  "updated": "2026-10-18T13:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -20,6 +20,11 @@
           "text": "Floor-wide: bring the outline-only games up to the cartoon-outline pass",
           "status": "done",
           "note": "Live 10-17, all twenty of them — it was twenty, not twenty-six; six had been done since the list was written. Open Out Of The Sun and look down: the city under your plane used to be a pale smear with no edges on anything, and every rooftop and street is drawn in now. Whistle Herd is second — every sheep and every stone in the wall gets a line round it. Splatflag matters too, because your own body had almost no outline at all and now it does. That one had been written off eight days ago as 'makes it worse'; the check behind that verdict compared two shots taken minutes apart of a game that never plays the same twice, so it was never a measurement. I built one that renders the same single frame both ways — old outline and new — off the same scene and the same camera, and looked at every pair. The write-off was simply wrong. Two games, Broadside Bay and Toll Bridge, turned out never to have had the brighter-on-dark pen at all, which a note last week said was finished everywhere. Costs nothing: no game draws a single extra thing. Honest limit, and it leads rather than closes: seven dark games — Fire Line worst, then Blend In, Knock On, Stand Still, Rearview, Space Golf — still have no outline you can see, and this pass could not give them one. The line we draw lands within about 8% brightness of whatever it is drawn on, so it is there and invisible. That needs you to pick a colour by eye, and it is now its own job on the list."
+        },
+        {
+          "text": "Floor-wide: seven dark games have no cartoon outline you can see — pick the pen colour by eye",
+          "status": "done",
+          "note": "Live 10-18 on four of them: Fire Line, Knock On, Blend In, Rearview. You do not need to pick a colour after all, because the colour was never really the question — I found the reason and it was an arithmetic one. The outline is drawn in a near-black plum, and the game does its brightness maths in a different scale than the one that colour was chosen in. In the scale that actually matters the plum is almost exactly as dark as a night-time floor, so the line was being drawn on top of the floor in the floor's own shade. It was always there — I built a picture of just the outline and it is a flawless line drawing, the whole cylinder, your whole body, every domino — we were painting it in invisible ink. Each of the four now uses a near-black pen chosen against its own floor, and the line you can actually see went up 4.8x on Fire Line, 2.4x on Knock On, 1.9x on Blend In. Open Fire Line: the blocks used to mush into one dark mass and now every tile has an edge. Two corrections. Stand Still does NOT have this problem — its pen already presses harder than any of the other six, and its low score is just an empty room with few things to draw, so I changed nothing there rather than fake the number. Space Golf is left: the tool that renders a game both ways will not drive it, and I will not ship a colour to a game I could not look at both ways. One thing still worth your eye: on a dark game the line can go dark (what I shipped, a cartoon outline) or bright (a rim of light). I shipped dark because that is the look the rest of the floor has. Say the word and bright is a one-line swap."
         },
         {
           "text": "Arcade lobby: fix choppy main-room movement",
