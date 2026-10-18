@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T18:05",
+  "updated": "2026-10-18",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1036,7 +1036,7 @@
     {
       "title": "Security audit -- every surface (his ask, 15:06)",
       "status": "done",
-      "insight": "Scope: anything a stranger could reach -- the live site, the portal-server admin login, Supabase, the Telegram bot, secrets in the repo. First pass done 10-17, report at Logs/security/2026-10-17-audit.md -- no live-exploitable finding, see that file's own unchecked section for what this pass did not reach (live DB vs committed SQL, dependency CVEs, load testing).",
+      "insight": "Scope: anything a stranger could reach -- the live site, the portal-server admin login, Supabase, the Telegram bot, secrets in the repo. First pass done 10-17, report at Logs/security/2026-10-17-audit.md -- no live-exploitable finding, see that file's own unchecked section for what this pass did not reach (live DB vs committed SQL, dependency CVEs, load testing). DEEP-DIVE 2026-10-18 (Logs/security/2026-10-18-deep-dive.md): the six unchecked items are closed; three new live findings, two of them need his elevated keyboard (the stray vault server on 8882, the relay restart), one his yes/no (the SQL).",
       "subtasks": [
         {
           "text": "Community-portal admin login (portal-server.js /api/login) -- auth strength, rate limiting, session handling",
@@ -1067,6 +1067,51 @@
           "text": "Deploy clone + Vercel -- exposed env vars, stray debug/admin routes shipped live",
           "status": "done",
           "note": "Checked, nothing found -- curled the live site for admin.html/.env/vercel.json/.git/config, all 404; shipped js/ has no keys."
+        },
+        {
+          "text": "Live database vs committed SQL (the first of the six unchecked)",
+          "status": "done",
+          "note": "10-18 07:1x, live probe: RLS on all 20 tables, economy guarded by the username-only column grant, 38 SECURITY DEFINER functions all set search_path. Dead table-level write grants on 18 tables -> harden-2026-10-18-grants.sql, PROPOSED, his yes/no."
+        },
+        {
+          "text": "Signal-server dependency CVE",
+          "status": "done",
+          "note": "10-18: ws 8.18.3 installed, past CVE-2024-37890; the only dependency."
+        },
+        {
+          "text": "Tailscale funnel / public exposure",
+          "status": "done",
+          "note": "10-18: no Tailscale funnel, but the relay IS public: cloudflared maps wss://play-ws.bwuhgames.com to :3001 (SIGNAL_ALLOW_ALL=1). Probed from outside, answers."
+        },
+        {
+          "text": "Load / DoS on the relay and the Supabase RPCs",
+          "status": "done",
+          "note": "10-18: the relay had NO caps and one malformed frame EXITED the process (proven on a copy: WS_ERR_INVALID_UTF8, exit 1) -- every room gone, repeatable every 5 s. Caps + error listener committed in bwuhgames-signal (0d96c2a), signal-check.js 10/10. LIVE ONLY AFTER HIS ELEVATED RESTART of the node on :3001. Supabase: auth rate limits are the platform defaults; anon writes limited to route_ghosts (closed by the proposed SQL)."
+        },
+        {
+          "text": "Party netcode, every game, adversarially (27 games + DodgeFall 3D)",
+          "status": "done",
+          "note": "10-18: systemic -- guests applied a host snapshot from ANY sender; at 3+ seats a guest forged winners/resets/events on other guests, and Ice Hockey + Dodgeball put raw snapshot values into innerHTML (script injection at the arcade origin). Gated in 14 games, shipped. Corner Pocket (wager 5) trusted the shooter's own result -> now replays the stroke. Self-report designs (SpaceGolf, DeepLine, RailRat, BroadsideBay, TowTruck, Sideways, KeyRace) stay as designed, no wager on them."
+        },
+        {
+          "text": "portal-server.js /api/login rate limit (and sign-up, cookie flags, reserved admin names)",
+          "status": "done",
+          "note": "10-18: failed-login lockout per address (20/15 min) and per account (8/15 min), sign-ups 5/hour/address, username rules, admin names unclaimable (PORTAL_ADMIN_PASSWORD bootstraps them), SameSite=Strict. limits-check.mjs 12/12, recovery-test.mjs 20/20. Still not wired to any public port."
+        },
+        {
+          "text": "STRAY VAULT FILE SERVER on the Wi-Fi: node http-server pid 109540, port 8882, 0.0.0.0, serving the vault ROOT since 10-15 (CLAUDE.md, Logs/, .git/config all readable from the LAN)",
+          "status": "todo",
+          "note": "10-18: found and could not stop it -- session-0 process, Access is denied from the keyboard shell and from a one-shot scheduled task. HIS: elevated `Stop-Process -Id 109540 -Force`. Firewall allows node.exe inbound on the Public profile and the Wi-Fi is Public."
+        },
+        {
+          "text": "Restart the live relay so the hardened server.js runs: elevated `Stop-Process -Id <node pid on :3001> -Force` (the wrapper relaunches it in 5 s)",
+          "status": "todo",
+          "note": "10-18: file committed and checked; the running process is the old one (probe: a 70 KB message stays open; the new code closes it 1009)."
+        },
+        {
+          "text": "Run supabase/harden-2026-10-18-grants.sql (revokes 18 dead table-level write grants, drops 2 dead policies) -- his yes/no",
+          "status": "todo",
+          "note": "Cannot break anything that works today (RLS already denies those writes); it removes the layer nobody re-reads."
         }
       ]
     }
