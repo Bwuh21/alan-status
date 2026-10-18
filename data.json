@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:04",
+  "updated": "2026-10-18T00:12",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -911,13 +911,13 @@
         },
         {
           "text": "Hangtime: on a 390px phone the slam's blast-dome effect covers most of the court",
-          "status": "todo",
-          "note": "maintenance-ledger.md, 10-16, found not fixed (pre-existing, same effect as the moon dunk)."
+          "status": "done",
+          "note": "It was a ring 45% as thick as it was wide, which at eight metres across and turned flat to the camera is not a ring, it is a disc -- and the screen flash was brightest exactly where the rim is. The explosion was covering the dunk it was advertising. It is a thin shockwave now that sweeps out past the frame, and the flash blows the edges and leaves the middle alone. Shot both builds at the same frame of the same staged dunk to compare: before, a solid pink disc over rim, dunker and victim; after, you can see all three. Live."
         },
         {
           "text": "Hangtime: the \"pick\" (intercepting a pass) mechanic is inert -- fires 0.1/game, no bot or button ever uses it",
-          "status": "todo",
-          "note": "maintenance-ledger.md: same inert-mechanic class as the fade was before its fix."
+          "status": "done",
+          "note": "It had a banner, a screen shake and a line reading 'you jumped the lane', and no way to jump a lane: a pass crosses at 16 m/s against a grab radius of two feet, so the whole window was a tenth of a second of standing in the right spot. The dash is the act now -- with no ball in your hands, a dash at a ball in the air reaches for it, and the button says PICK while the throw is live. Proved it is a verb and not just a wider net: same pass, same frames, standing still takes it 0 times and a dash takes it every time. 0.1 a game to 1.0 a game, and 24% of passes -- which is the number this game has claimed in its own comments since September and never once delivered. Live."
         },
         {
           "text": "Hangtime: whether the 120ms dash-to-dunk timing window is fair needs an A/B -- not yet tested on real players",
@@ -999,8 +999,8 @@
         },
         {
           "text": "Hangtime: confirm the POSTERIZED call fires correctly for a man genuinely under the rim, now that the radius is 1.4",
-          "status": "todo",
-          "note": "maintenance-ledger.md: open, waiting on Zack's read."
+          "status": "done",
+          "note": "Confirmed, and the answer was no. Measured over 400 games and 1026 dunks: of the men it named, 59% were further from the dunker than the radius allows by the time the word printed, 29% were behind the backboard, and the worst was nearly four metres away. No radius could have fixed it -- the game picked the victim early in the flight and the man then had most of a second to coast past the rim with nothing steering him, so the rule and the picture were taken at different moments. The word is decided at the rim now, from where everyone actually is. Same 400 games either side: it still fires as often (0.20 a game against 0.21) and the worst case fell from 3.85 m to 2.24 m. Live."
         },
         {
           "text": "Toy Fury: option to let a knocked-out friend rejoin next lap instead of spectating the rest of the race",
