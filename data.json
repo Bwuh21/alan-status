@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 21:00",
+  "updated": "2026-10-18 21:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1141,7 +1141,8 @@
         },
         {
           "text": "Tavern: pool island detail, numbered balls that read as pool balls (queue 98, repeat of 28; with session b6)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18 16:50 (vault 3936f2a0, clone bc2e35c), shipped by session b6; this row was left open. Each ball is one colour with a white band and a raised number on its spot, turned to face you; the table has its light, a bead scoreboard, leather pocket cups, the rack, a pint and the cues."
         }
       ]
     },
