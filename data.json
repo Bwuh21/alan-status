@@ -627,8 +627,8 @@
         },
         {
           "text": "None of the five machines pays a ticket",
-          "status": "todo",
-          "note": "The biggest one left. Winning a plush on the claw, rolling a 100 on the skee ball, beating the house at air hockey — all pay nothing. There is no payout for any of the five anywhere in the database, so it isn't a broken reward, it's a missing one. Needs a database change, so it gets its own run."
+          "status": "done",
+          "note": "Live for the three you named. A go at air hockey, skee ball or the claw now costs one coin like every cabinet, and winning pays tickets — 8 for beating the house to seven, 4 for a plush or for rolling 300 at skee, plus the usual 3 every go pays win or lose. Signed out, you still play free and win nothing. The hoop and the coin pusher are still free and still pay nothing; I left them out on purpose rather than add a payout nothing calls."
         },
         {
           "text": "The looks: air hockey's table, skee's lane, the claw's grabber",
