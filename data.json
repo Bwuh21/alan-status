@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 21:58",
+  "updated": "2026-10-18 21:45",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1132,7 +1132,7 @@
         {
           "text": "Big arcade: real in-lobby games -- 3D air hockey, basketball shoot, skee ball, claw machine, coin pusher (queue 96)",
           "status": "doing",
-          "note": "air hockey LIVE 10-18 18:4x (vault 7b92f9ea): walk up, press E, first to 7 vs the house, keys or finger; hoops, skee ball, claw, coin pusher still to build"
+          "note": "Air hockey LIVE 10-18 18:4x. HOOPS LIVE 10-18 21:38: an arcade hoop cabinet on the room's outer wall -- hold, let go in the green, 45 seconds, three in a row and you are on fire, the rim slides in the last 20 seconds. Played by a script on the live site, desk and phone. Skee ball, the claw and the coin pusher still to build."
         },
         {
           "text": "Skins: aura research deep dive, then the new aura, then strip the old aura from every skin (queue 97, repeat of 23)",
