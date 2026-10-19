@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 11:45",
+  "updated": "2026-10-19 12:40",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -604,6 +604,16 @@
           "text": "The Splatflag cabinet picture still shows the old map",
           "status": "done",
           "note": "Live. The old picture was from September, four days before the yard was rebuilt. Retaken mid-match."
+        },
+        {
+          "text": "One room, not two — the cabinets and the five machines together",
+          "status": "done",
+          "note": "Live. The games room had zero cabinets in 16 m of bare carpet; everything else was crammed next door. Now one floor: cabinets in rows down the middle, skee ball and the hoop left, the claw and the pusher right, air hockey at the end of the lit path. One wide door instead of two — on a phone you used to land facing a blank wall."
+        },
+        {
+          "text": "Air hockey, skee ball and the claw are terrible and need real work",
+          "status": "doing",
+          "note": "Next, one at a time. Air hockey first: the mallet is speed-capped so it trails your finger by up to a third of a second, which is the bad feel. Also found: none of the five machines pays a single ticket — there is no payout in the database at all."
         }
       ]
     },
