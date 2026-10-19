@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 12:40",
+  "updated": "2026-10-19 13:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -611,9 +611,14 @@
           "note": "Live. The games room had zero cabinets in 16 m of bare carpet; everything else was crammed next door. Now one floor: cabinets in rows down the middle, skee ball and the hoop left, the claw and the pusher right, air hockey at the end of the lit path. One wide door instead of two — on a phone you used to land facing a blank wall."
         },
         {
-          "text": "Air hockey, skee ball and the claw are terrible and need real work",
+          "text": "Air hockey: the mallet trails your finger",
+          "status": "done",
+          "note": "Live. Your mallet walked to where you pointed at 3.2 m/s — up to a third of a second behind your hand, every move. It goes where your hand is now: 12 m/s, seven frames down to two, measured on both builds with the same probe. The keys never had the problem, which is why every existing test passed on the bad version."
+        },
+        {
+          "text": "Air hockey, skee ball and the claw: the look, and making them pay",
           "status": "doing",
-          "note": "Next, one at a time. Air hockey first: the mallet is speed-capped so it trails your finger by up to a third of a second, which is the bad feel. Also found: none of the five machines pays a single ticket — there is no payout in the database at all."
+          "note": "Air hockey's feel is done; its look is not — plain white top, thin red lines, nothing lit under the table. Skee ball and the claw are untouched. And none of the five machines pays a single ticket: there is no payout for any of them in the database at all, so winning gets you nothing."
         }
       ]
     },
