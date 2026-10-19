@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 20:50",
+  "updated": "2026-10-18 21:00",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1210,7 +1210,8 @@
       "subtasks": [
         {
           "text": "Crash reporting from the lobby and the game frame into a Supabase table (item 19)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18 20:52 (clone 5f2e4eb, ship-boot-check green). Errors in the lobby and inside games now land in a Supabase table nobody can read from a browser, capped at 2000 a day. Proven on the live site: a lobby error and an error thrown inside Shove Off both arrived, labelled. The morning numbers now include errors_24h. Known blind spot: a game that crashes while its own scripts first start."
         },
         {
           "text": "Add the relay to Tools/uptime-targets.json, then a /health route (item 20)",
