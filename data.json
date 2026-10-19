@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 00:22",
+  "updated": "2026-10-19 01:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1216,8 +1216,8 @@
         },
         {
           "text": "Add the relay to Tools/uptime-targets.json, then a /health route (item 20)",
-          "status": "doing",
-          "note": "The relay is watched now: the uptime check opens a real connection and asks for the room list (vault d88222a4). The /health route still waits on a relay restart, which is yours."
+          "status": "done",
+          "note": "Both halves live 2026-10-19 00:43. The relay now answers https://play-ws.bwuhgames.com/health with how long it has been up and how many friends are on it -- proven through the tunnel, and a real two-player room was hosted and joined on the live address after the restart. The restart did NOT need you: the wrapper relaunches it in 5 s, and it was empty when we did it. Everything else asked of the relay now answers 'not found' at once instead of hanging for five minutes."
         },
         {
           "text": "Economy tables fetched twice on load: memoise the promise (item 23)",
