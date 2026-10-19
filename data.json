@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 09:20",
+  "updated": "2026-10-19 11:45",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -165,6 +165,11 @@
           "text": "Skin Kick (AirHockey): fix the ball's look",
           "status": "done",
           "note": "live 10-15 -- real soccer-ball panels"
+        },
+        {
+          "text": "Undercroft: a knight's arms stick out, his forearm runs way past his elbow",
+          "status": "done",
+          "note": "live 10-19 -- the upper arm was drawn a metre long (1.76 m on the Phoenix) instead of 32 cm, on all 81 bodies; shoulders also back where the lobby puts them"
         }
       ]
     },
