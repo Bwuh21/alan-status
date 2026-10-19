@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 13:35",
+  "updated": "2026-10-19 14:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -621,9 +621,19 @@
           "note": "Live. Two things: every prize was drawn facing exactly the same way on a neat grid, and the cabinet had no back, sides or roof at all — you were looking through the glass at the room behind it. The pile is tumbled now and the inside is a lit purple box. A grab still wins a prize the same way; nothing about the game changed, only what you see."
         },
         {
-          "text": "Skee ball, air hockey's look, and making all five machines pay",
+          "text": "Skee ball — you couldn't see past your own head",
+          "status": "done",
+          "note": "Live. Your own figure stood dead centre between the camera and the lane, so you couldn't see the ball, the lane or the board. It isn't drawn while you're standing at the lane now. Raising the camera was the obvious fix and was wrong — it tilts down at the same time and pushes the board off the top of the screen."
+        },
+        {
+          "text": "None of the five machines pays a ticket",
           "status": "todo",
-          "note": "Skee ball is untouched. Air hockey's table is still plain white with thin red lines. The big one: none of the five machines pays a single ticket — there is no payout for any of them in the database at all, so winning a plush or rolling a 100 gets you nothing."
+          "note": "The biggest one left. Winning a plush on the claw, rolling a 100 on the skee ball, beating the house at air hockey — all pay nothing. There is no payout for any of the five anywhere in the database, so it isn't a broken reward, it's a missing one. Needs a database change, so it gets its own run."
+        },
+        {
+          "text": "The looks: air hockey's table, skee's lane, the claw's grabber",
+          "status": "todo",
+          "note": "Smaller leftovers. Air hockey's top is plain white with thin red lines and nothing lit under it; skee's lane is a flat untextured plank; the claw's grabber is a small grey blob and its chute a raw pink slab."
         }
       ]
     },
