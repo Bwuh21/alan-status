@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 02:15",
+  "updated": "2026-10-19 07:52",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1286,7 +1286,8 @@
         },
         {
           "text": "Phone: the top-right buttons are pictures only (All games was found by guessing)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-19 (vault a06f1c05, clone 75d806c). Each key now says its word under the picture: Friends, Locker, Sound, Games, Sign in. The keys are the same size, so nothing else moved. Found while measuring: on a narrow phone a signed-in bar had squashed the account key below a thumb's size -- fixed too."
         },
         {
           "text": "Small: the Controls bubble stays open while you walk; the first screen shows buttons through the welcome card",
