@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 21:0x",
+  "updated": "2026-10-18 20:50",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1179,11 +1179,11 @@
         },
         {
           "text": "Private task",
-          "status": "todo"
+          "status": "done"
         },
         {
           "text": "Private task",
-          "status": "todo"
+          "status": "done"
         },
         {
           "text": "Private task",
@@ -1218,11 +1218,13 @@
         },
         {
           "text": "Economy tables fetched twice on load: memoise the promise (item 23)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18 20:45 (vault 10928417, clone 768cba4), ship-boot-check green. Each table is fetched once now (was twice), measured on the live site."
         },
         {
           "text": "Preconnect to Supabase, drop the unused Geist font (item 24)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-18 20:45 (vault 10928417, clone 768cba4), ship-boot-check green. The handshake to the database starts with the page; the unused font family is no longer requested."
         },
         {
           "text": "perf-probe.mjs reads 0 draws everywhere: count drawn frames (item 25)",
