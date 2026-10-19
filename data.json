@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 16:48",
+  "updated": "2026-10-19 17:25",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -351,7 +351,7 @@
         {
           "text": "Pinball: rebuild it into a super fun pinball (2D is fine, dull is not)",
           "status": "done",
-          "note": "Live. Real recorded sound in place of the 8-bit beeps, a spinner on the right orbit that used to pay nothing, and STARDUST FRENZY — 22 seconds where the whole table pays 10x. Every ball now ends on a bonus counting up. 10-19: you said it was buggy and kind of sucked, so I measured what you actually see. The table was using 71% of a desktop screen and 58% of a phone — a small object in the middle of a room — and on a desktop the buttons sat right on the drain, hiding the one spot you watch when you lose the ball. It fills the screen now (96% desktop, 94% sideways, 72% phone), and it works turned sideways, which it did not before. On a phone: hold anywhere on the table to launch, then tap the left or right half to flip. The table also tells you the trick it never mentioned — hold a flipper to trap the ball, then shoot. That is how you aim at the ramp."
+          "note": "Live. Real recorded sound in place of the 8-bit beeps, a spinner on the right orbit that used to pay nothing, and STARDUST FRENZY — 22 seconds where the whole table pays 10x. Every ball now ends on a bonus counting up. 10-19: you said it was buggy and kind of sucked, so I measured what you actually see. The table was using 71% of a desktop screen and 58% of a phone — a small object in the middle of a room — and on a desktop the buttons sat right on the drain, hiding the one spot you watch when you lose the ball. It fills the screen now (96% desktop, 94% sideways, 72% phone), and it works turned sideways, which it did not before. On a phone: hold anywhere on the table to launch, then tap the left or right half to flip. The table also tells you the trick it never mentioned — hold a flipper to trap the ball, then shoot. That is how you aim at the ramp. And it pays now — there was no payout for pinball at all, so a game into the millions earned you nothing. A go is one coin like every other machine, and beating 500,000 pays tickets. The nightly check that was supposed to catch that turned out to be blind to the whole tavern; it isn't now, and it says the pool table and the dartboard still pay nothing."
         }
       ]
     },
