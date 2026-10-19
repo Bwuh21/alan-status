@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 07:52",
+  "updated": "2026-10-19 13:20",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1291,7 +1291,8 @@
         },
         {
           "text": "Small: the Controls bubble stays open while you walk; the first screen shows buttons through the welcome card",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 10-19 (vault 70fe4170, clone 11a2b8e). The Controls bubble now closes once you have walked a few steps, every time -- it used to close once ever, on your very first step, so any one you opened after that stayed open all session. And the first screen is the welcome card and the room alone: the buttons and the loading line used to show through it for half a second while they faded out behind it."
         }
       ]
     }
