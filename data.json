@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 14:50",
+  "updated": "2026-10-19 15:35",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -631,9 +631,19 @@
           "note": "Live for the three you named. A go at air hockey, skee ball or the claw now costs one coin like every cabinet, and winning pays tickets — 8 for beating the house to seven, 4 for a plush or for rolling 300 at skee, plus the usual 3 every go pays win or lose. Signed out, you still play free and win nothing. The hoop and the coin pusher are still free and still pay nothing; I left them out on purpose rather than add a payout nothing calls."
         },
         {
-          "text": "The looks: air hockey's table, skee's lane, the claw's grabber",
+          "text": "Air hockey felt dead — nothing on the table reacted",
+          "status": "done",
+          "note": "Live. The mallet squashes when it strikes, harder the harder you hit; the puck stretches into a streak at speed so you can follow it; it flares as it crosses the line. Your own head was also sitting over your own goal — it steps out of shot now, same as skee ball."
+        },
+        {
+          "text": "The hoop and the coin pusher paid nothing either",
+          "status": "done",
+          "note": "Live. All five machines take a coin and pay now. Beat 24 at the hoop, or push more than 25 coins back out at the pusher. The pusher is no longer endless free play — that was a loophole once winning pays tickets."
+        },
+        {
+          "text": "The looks still left: skee's lane, the claw's grabber",
           "status": "todo",
-          "note": "Smaller leftovers. Air hockey's top is plain white with thin red lines and nothing lit under it; skee's lane is a flat untextured plank; the claw's grabber is a small grey blob and its chute a raw pink slab."
+          "note": "Smaller leftovers, not blocking anything. Skee's lane is a flat untextured plank; the claw's grabber is a small grey blob and its chute a raw pink slab."
         }
       ]
     },
