@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 17:25",
+  "updated": "2026-10-19 18:35",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1346,6 +1346,11 @@
       "status": "doing",
       "insight": "A hint fixed top-centre is on the door: every island’s door sits there, and so does the tour card.",
       "subtasks": [
+        {
+          "text": "Toy Fury's toy house: a whole lot of clipping -- objects through the ground, props through the track",
+          "status": "done",
+          "note": "Live 10-19. 275 of the 445 little objects on the eight play mats were hanging in mid-air -- 60 of the garage's 65 -- because building a mat throws away the thin uprights so you can see into it, and a desk leg, a fence post and the side of a bath are all thin uprights. The legs come back now, cut off at whatever they hold. In the race itself: the bed's blanket and pillow floated 4-6 cm over the mattress, the sofa stood on nothing with its feet beside it, and the bathroom climb ran through the folded edge of every towel -- which also wrecked the motorbike on every single run. Queue item 115."
+        },
         {
           "text": "The mouse-lock pill stood on the door, and behind the tour card for the whole tour",
           "status": "done",
