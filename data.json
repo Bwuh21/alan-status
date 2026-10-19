@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 13:20",
+  "updated": "2026-10-19 09:20",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1287,12 +1287,12 @@
         {
           "text": "Phone: the top-right buttons are pictures only (All games was found by guessing)",
           "status": "done",
-          "note": "Live 10-19 (vault a06f1c05, clone 75d806c). Each key now says its word under the picture: Friends, Locker, Sound, Games, Sign in. The keys are the same size, so nothing else moved. Found while measuring: on a narrow phone a signed-in bar had squashed the account key below a thumb's size -- fixed too."
+          "note": "Fixed overnight by polish item 109 (live, clone 75d806c): on a phone the top-right keys say what they do."
         },
         {
           "text": "Small: the Controls bubble stays open while you walk; the first screen shows buttons through the welcome card",
           "status": "done",
-          "note": "Live 10-19 (vault 70fe4170, clone 11a2b8e). The Controls bubble now closes once you have walked a few steps, every time -- it used to close once ever, on your very first step, so any one you opened after that stayed open all session. And the first screen is the welcome card and the room alone: the buttons and the loading line used to show through it for half a second while they faded out behind it."
+          "note": "Fixed overnight by polish item 110 (live, clone 11a2b8e): the first screen is the welcome card alone, and walking three metres puts the key list away."
         }
       ]
     }
