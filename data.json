@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 20:30",
+  "updated": "2026-10-18 20:40",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1087,11 +1087,11 @@
         },
         {
           "text": "Private task",
-          "status": "todo"
+          "status": "done"
         },
         {
           "text": "Private task",
-          "status": "todo"
+          "status": "done"
         },
         {
           "text": "Private task",
@@ -1151,15 +1151,15 @@
       "subtasks": [
         {
           "text": "Private task",
-          "status": "blocked"
+          "status": "done"
         },
         {
           "text": "Private task",
-          "status": "blocked"
+          "status": "done"
         },
         {
           "text": "Private task",
-          "status": "blocked"
+          "status": "done"
         },
         {
           "text": "Private task",
