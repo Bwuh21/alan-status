@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 16:45",
+  "updated": "2026-10-19 16:48",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1338,6 +1338,28 @@
           "text": "Small: the Controls bubble stays open while you walk; the first screen shows buttons through the welcome card",
           "status": "done",
           "note": "Fixed overnight by polish item 110 (live, clone 11a2b8e): the first screen is the welcome card alone, and walking three metres puts the key list away."
+        }
+      ]
+    },
+    {
+      "title": "Polish sweep 10-19 -- ten things found on the evidence (c0)",
+      "status": "doing",
+      "insight": "A hint fixed top-centre is on the door: every island’s door sits there, and so does the tour card.",
+      "subtasks": [
+        {
+          "text": "The mouse-lock pill stood on the door, and behind the tour card for the whole tour",
+          "status": "done",
+          "note": "Live 10-19 16:45 (clone a998750). \"Click to lock the mouse\" sits beside Controls now and dims after seven seconds. Driven through the real Enter: verify/_polish10/lock-pill.mjs. Queue item 120."
+        },
+        {
+          "text": "The tour card covers what it points at, and \"Skip the tour\" is a 14 px underlined word -- dock it, make Skip a real button",
+          "status": "todo",
+          "note": "Queue item 121. Measure with controls-tour-check and a phone arrival shot before and after; the card must never sit over the press-E prompt or a machine’s glass."
+        },
+        {
+          "text": "The game card’s ticket line reads like a price -- say \"win 8 tickets\", with \"1 coin\" on its own line",
+          "status": "todo",
+          "note": "Queue item 123. The 10-18 phone stranger read \"Easy 4 tickets / Normal 8\" as the cost to start."
         }
       ]
     }
