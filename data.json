@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 01:05",
+  "updated": "2026-10-19 01:58",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1231,7 +1231,8 @@
         },
         {
           "text": "perf-probe.mjs reads 0 draws everywhere: count drawn frames (item 25)",
-          "status": "todo"
+          "status": "done",
+          "note": "Done 10-19. The speed meter was reading the arcade as a 12 fps stuttering room at every island. That was the meter, not the room: it never told the browser the window was in front, and the arcade deliberately drops to 12 fps when nobody is looking. Real numbers now, first time ever: 59.6 fps on the desk at all 12 islands, 54-60 on a slow phone, and 59.5 on the live site -- the room never misses its target anywhere. Nothing on the site changed; this is the measuring tool. It also can no longer lie quietly: it refuses to print a number when it cannot see, and it flags any island under 50 fps."
         },
         {
           "text": "Six games: 1024 shadow maps down to 512 (item 26)",
