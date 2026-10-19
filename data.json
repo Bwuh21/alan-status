@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 22:45",
+  "updated": "2026-10-18 23:25",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1101,7 +1101,7 @@
     },
     {
       "title": "The Arcade -- Zack's 10-18 list (keyboard paste, 15:33)",
-      "status": "doing",
+      "status": "done",
       "insight": "Eight items, filed verbatim as polish-queue-20.md items 91-98 the same hour. The two he weighted himself: the in-arcade physical games (96, 'spend a whole lot of time') and the aura research-then-build (97, 'serious tokens'). Three are repeats of 10-15/16 items he says did not land (pool balls, bowling pins, aura).",
       "subtasks": [
         {
@@ -1131,8 +1131,8 @@
         },
         {
           "text": "Big arcade: real in-lobby games -- 3D air hockey, basketball shoot, skee ball, claw machine, coin pusher (queue 96)",
-          "status": "doing",
-          "note": "Air hockey LIVE 10-18 18:4x. Hoops LIVE 21:38. Skee ball LIVE 22:19. THE CLAW LIVE 22:38: a glass claw machine on the other wall -- steer it, drop it, and how well it holds is how well you centred it; prizes go down the chute. All four played by a script on the live site. The coin pusher is the last one."
+          "status": "done",
+          "note": "All five LIVE 10-18 in THE GAMES ROOM: air hockey (18:4x), hoops (21:38), skee ball (22:19), the claw (22:38), the coin pusher (23:18). Walk up, press E, play -- no page opens. Each one was played by a script on the live site, desk and phone, before it was called done."
         },
         {
           "text": "Skins: aura research deep dive, then the new aura, then strip the old aura from every skin (queue 97, repeat of 23)",
