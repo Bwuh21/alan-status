@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 23:25",
+  "updated": "2026-10-19 00:22",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1216,7 +1216,8 @@
         },
         {
           "text": "Add the relay to Tools/uptime-targets.json, then a /health route (item 20)",
-          "status": "todo"
+          "status": "doing",
+          "note": "The relay is watched now: the uptime check opens a real connection and asks for the room list (vault d88222a4). The /health route still waits on a relay restart, which is yours."
         },
         {
           "text": "Economy tables fetched twice on load: memoise the promise (item 23)",
@@ -1247,6 +1248,46 @@
         },
         {
           "text": "Next week: move the relay to a Cloudflare Worker, off the home PC (item 21)",
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "title": "Front door -- what two strangers hit in their first minute (10-18)",
+      "status": "doing",
+      "insight": "Two blind strangers, phone and desk, opened the site cold. Both found a game only through the All games button. The three things they agreed on are fixed and live; the rest is listed in Logs/stranger/2026-10-18-front-door/STATUS.md.",
+      "subtasks": [
+        {
+          "text": "The tour sent you at a wall after the coin door (\"Everything in here is a real game\")",
+          "status": "done",
+          "note": "Live 10-19 00:20 (vault 069c9a49, clone 214a619). The card is now \"Pick a door\" and says left = the games room, right = the versus floor. The wall you face has a neon sign per room with an arrow to its arch, in place of two blank posters. Shot on phone and desk from the real arrival camera."
+        },
+        {
+          "text": "The screen went flat purple when you looked around near a wall",
+          "status": "done",
+          "note": "Same ship. The camera was keeping a minimum distance that put it inside the wall. Now it moves in and rises over your head. Replayed with the strangers' own moves on the live site, phone and desk: passes."
+        },
+        {
+          "text": "Tapping or clicking the world threw an error",
+          "status": "done",
+          "note": "Same ship. The in-lobby machines broke the tap check. No new crash reports since."
+        },
+        {
+          "text": "Coins and tickets are described three different ways, and no ticket count shows anywhere",
+          "status": "todo",
+          "note": "Your call: the economy wording."
+        },
+        {
+          "text": "The plush prize counter by the landing looks usable and does nothing",
+          "status": "todo",
+          "note": "Your call: a sign, or a use."
+        },
+        {
+          "text": "Phone: the top-right buttons are pictures only (All games was found by guessing)",
+          "status": "todo"
+        },
+        {
+          "text": "Small: the Controls bubble stays open while you walk; the first screen shows buttons through the welcome card",
           "status": "todo"
         }
       ]
