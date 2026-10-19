@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 20:40",
+  "updated": "2026-10-18 21:0x",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1136,8 +1136,8 @@
         },
         {
           "text": "Skins: aura research deep dive, then the new aura, then strip the old aura from every skin (queue 97, repeat of 23)",
-          "status": "doing",
-          "note": "research done 10-18 16:50: Research/aura-deep-dive-2026-10-18.md; the build is next (lane)"
+          "status": "done",
+          "note": "Live 10-18. The old aura was soft glowing light, and this room has nothing to make light glow and draws a dark line round everything else -- so it came out as haze, and on a phone a Legendary was four green specks. The new one is painted fire: solid flames with a hard dark edge, so the arcade outlines them like everything else. The colour is now the RARITY's colour, the same one on the card you got it from -- before, the flame was the skin's own colour, so a gold Rare and a gold Legendary looked identical. Each step up adds more flames and they climb higher: Uncommon at the ankles, Divine over your head with three spinning stars. Four skins still wearing the old effect (Chrome, Gold Leaf, Sovereign, Halo) lost it -- Chrome and Gold Leaf were wearing two auras at once. And the shop got FASTER, not slower: dressing a skin takes a quarter of the time it did."
         },
         {
           "text": "Tavern: pool island detail, numbered balls that read as pool balls (queue 98, repeat of 28; with session b6)",
