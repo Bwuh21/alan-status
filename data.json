@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 18:40",
+  "updated": "2026-10-18 19:45",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1116,7 +1116,8 @@
         },
         {
           "text": "Bowling: pins clip into the floor, rolling sound, pins glitchy from above (queue 93, repeat of 29)",
-          "status": "todo"
+          "status": "done",
+          "note": "All three, and I measured each one on the live site before touching anything. The pins sank because a fallen pin was lifted 55 mm and a pin is 60 mm thick, on a deck 13 mm up — so every pin that went down lay 18 mm inside the wood with its belly sliced flat. They rest on it now. A pin knocked backwards used to drop 30 cm straight through the lane in one frame; only pins that reach the pit fall, and they fall properly. The glitchy look was the two red stripes: they were being smeared into one soft blob half the pin deep, worst on the island where the pins are four times life size. They are two crisp stripes again, and the giant pin on the sign — which had no stripes at all — has them. The roll was one flat drone at one pitch that cut off dead just before the crash; it follows the ball's speed now and fades into the crash. Live."
         },
         {
           "text": "Big arcade: neon room signs, expand the cramped hall, entrance signs readable without looking up (queue 94)",
