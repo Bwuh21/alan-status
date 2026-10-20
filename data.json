@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 18:35",
+  "updated": "2026-10-19 21:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1162,7 +1162,7 @@
         {
           "text": "Bowling: pins clip into the floor, rolling sound, pins glitchy from above (queue 93, repeat of 29)",
           "status": "done",
-          "note": "All three, and I measured each one on the live site before touching anything. The pins sank because a fallen pin was lifted 55 mm and a pin is 60 mm thick, on a deck 13 mm up — so every pin that went down lay 18 mm inside the wood with its belly sliced flat. They rest on it now. A pin knocked backwards used to drop 30 cm straight through the lane in one frame; only pins that reach the pit fall, and they fall properly. The glitchy look was the two red stripes: they were being smeared into one soft blob half the pin deep, worst on the island where the pins are four times life size. They are two crisp stripes again, and the giant pin on the sign — which had no stripes at all — has them. The roll was one flat drone at one pitch that cut off dead just before the crash; it follows the ball's speed now and fades into the crash. Live."
+          "note": "All three, and I measured each one on the live site before touching anything. The pins sank because a fallen pin was lifted 55 mm and a pin is 60 mm thick, on a deck 13 mm up — so every pin that went down lay 18 mm inside the wood with its belly sliced flat. They rest on it now. A pin knocked backwards used to drop 30 cm straight through the lane in one frame; only pins that reach the pit fall, and they fall properly. The glitchy look was the two red stripes: they were being smeared into one soft blob half the pin deep, worst on the island where the pins are four times life size. They are two crisp stripes again, and the giant pin on the sign — which had no stripes at all — has them. The roll was one flat drone at one pitch that cut off dead just before the crash; it follows the ball's speed now and fades into the crash. Live. — 10-19: you saw the clipping again and you were right. That pass fixed a fallen pin and left a STANDING one 13 mm down in the wood. Properly fixed and measured now; see the bowling row lower down."
         },
         {
           "text": "Big arcade: neon room signs, expand the cramped hall, entrance signs readable without looking up (queue 94)",
@@ -1355,6 +1355,11 @@
           "text": "The mouse-lock pill stood on the door, and behind the tour card for the whole tour",
           "status": "done",
           "note": "Live 10-19 16:45 (clone a998750). \"Click to lock the mouse\" sits beside Controls now and dims after seven seconds. Driven through the real Enter: verify/_polish10/lock-pill.mjs. Queue item 120."
+        },
+        {
+          "text": "Bowling: pins clip into the ground, pins need work, and the sweep that takes the fallen ones away (queue 119)",
+          "status": "done",
+          "note": "Live 10-19. You were right and the 10-18 fix only got half of it. I measured every pin's lowest point against the board under it on every frame of 671 balls: 799,605 frames out of 1,298,273 had a pin inside the wood. All ten stood 13 mm down in the maple, always — the lift was right for a pin lying flat and zero for one standing up, so the pins had no feet. It is measured off the board now and is clear at every angle, not just at the two ends: 0 frames out of 1,298,731. Two more came out of the same measuring. Every pin fell BACKWARDS, toward you instead of away — one inverted sign, true since the lane was built. And a pin going over the back edge put its nose half a metre down through the deck. Both fixed. Then the thing you described: STRIKE CITY had no pin machine at all, so the fallen pins blinked out and the next rack blinked in. Now the table comes down and lifts whatever is still standing clear, the rake sweeps the dead wood off the back into the pit, and the table sets your pins back on their spots — or a fresh ten comes down after a strike or a spare. Last: the lane's oil. The game has worked out a real oil pattern since the day it was written and never drawn it, so the hook came off something nobody could see; you can see it now, heaviest down the middle and drying out before the pins. Checked on the live site, desk and phone, over 6,307 frames."
         },
         {
           "text": "The tour card covers what it points at, and \"Skip the tour\" is a 14 px underlined word -- dock it, make Skip a real button",
