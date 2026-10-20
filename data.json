@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 21:05",
+  "updated": "2026-10-19 22:35",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1363,8 +1363,8 @@
         },
         {
           "text": "The tour card covers what it points at, and \"Skip the tour\" is a 14 px underlined word -- dock it, make Skip a real button",
-          "status": "todo",
-          "note": "Queue item 121. Measure with controls-tour-check and a phone arrival shot before and after; the card must never sit over the press-E prompt or a machine’s glass."
+          "status": "done",
+          "note": "Live 10-20, phone, desk and sideways. Both strangers lost the room under this card: it was 430 px wide at top centre, which on every screen is where the arcade stands its tall things up. On your phone it now docks low in the empty red carpet, in the only band that is neither the room's signs nor your own character — the big machine's sign reads straight through now, PLAYER 1, 25 GAMES INSIDE, IN THE COIN DOOR, which is the sign that tells you where to go. On a desk it sits down the left, out of the middle. Sideways it goes wider and shorter so it stays clear of the press-to-play bar. \"Skip the tour\" was an underlined word 85 by 40; it is a proper 44 px button now, the same pill as Controls. The cards also stopped changing size as you go — every one is the same height, and the phone copy is cut to the two lines that fit, which is the third time a stranger has said there are too many words before you get to play. Asking for the key list now puts the card away instead of stacking two panels of the same lesson. The checker that was supposed to be guarding all this had been failing on four counts since 10-18 — it still walked the tour through two steps that were deleted when the carpet route was written. Fixed, and taught to measure the real thing: every card, the prompt at its tallest, and every machine face within 16 m, on all three screens, with a canary that fails the run if the camera reading is stale."
         },
         {
           "text": "The game card’s ticket line reads like a price -- say \"win 8 tickets\", with \"1 coin\" on its own line",
