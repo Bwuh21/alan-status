@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 23:20",
+  "updated": "2026-10-20 05:05",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -642,8 +642,8 @@
         },
         {
           "text": "The looks still left: skee's lane, the claw's grabber",
-          "status": "todo",
-          "note": "Smaller leftovers, not blocking anything. Skee's lane is a flat untextured plank; the claw's grabber is a small grey blob and its chute a raw pink slab."
+          "status": "done",
+          "note": "Live, all three. The lane is seven maple boards with seams now instead of one orange plank, darkening toward the top where the ring box shades it. The claw is a claw: a hooked three-talon grabber on an amber hub — and it hangs where you can see it, because it used to park under the roof liner and read as four pixels. The chute is a real hole with a lit rim, not a pink slab painted on the floor; a won prize used to sink straight through it."
         }
       ]
     },
