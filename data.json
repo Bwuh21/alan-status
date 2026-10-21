@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 22:33",
+  "updated": "2026-10-20 23:58",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -175,6 +175,11 @@
           "text": "Undercroft: one crypt room's camera still slid inside the stone after the October fix",
           "status": "done",
           "note": "Live 10-20. The old note guessed the cause was an enemy standing where the camera wanted to be. I counted it instead, over 33,000 frames of the crypt, and that never happened once -- not a single frame. Two different things were doing it, and one of them was in a room nobody had written down, three times worse than the one in the note. First: when you put your back to a wall, the camera pulls its over-the-shoulder offset in until it is out of the stone -- but it SLIDES in over about a fifth of a second, and nothing was checking it on the way. It slid through the wall, and with an enemy right on top of you the camera is already pulled in tight, so there was nowhere left for it to escape to and it just sat there in the rock. Second: a boss's entrance. That 1.8-second look-at-the-boss shot skips every camera rule the game has, and its one safety check only knows about walls, not about the free-standing pillars -- so it flew the camera straight through one. Both now go through the same check as everything else, and there is a last resort that did not exist: if the camera can find nowhere clear at all, it comes to where you are standing, because the floor you are standing on is the one place that cannot be solid. A moment of looking out of your own eyes beats a moment of looking through a wall into nothing. Both rooms now read zero, the whole crypt reads zero (it was 63 bad frames), and on a phone the softer version of the same fault more than halved. Go fight something in the crypt with your back to a wall, and walk into a boss."
+        },
+        {
+          "text": "Undercroft: the edge of the camera's view still cut into stone, in every floor, not just the crypt",
+          "status": "done",
+          "note": "Live 10-20, later the same night. The fix above got the camera itself out of the walls. What it left behind, and wrote down rather than claimed: the CORNER of what the camera can see was still inside stone on about 90 frames of 33,000 in the crypt -- the wall sliced open at the edge of the picture. The reason was the shape we were guarding. Since the October fix the camera asked for a ball of clear space all round it, the same in every direction, including behind it -- where it cannot see anything, and where nothing is ever drawn. A room down there is two metres across, so that ball could never be found, and the camera quietly settled for the weaker check instead, every single time. It now asks about the four corners of what it can actually see, where they actually are, worked out from how wide the picture is on YOUR screen -- which also means a phone, where the picture is a different shape, gets the right answer for the first time. The second half: when nothing clear can be found near your shoulder, it now walks to where you are standing before giving up, instead of taking the first barely-acceptable spot. The crypt reads zero now, your phone reads zero, and the biggest win was somewhere nobody was looking -- the ATTIC floor went from 118 bad frames to 1, one of its rooms from 3.3% to nothing. Costs no speed: the camera's work per frame is unchanged. Go fight in the attic with your back to a shelf."
         }
       ]
     },
