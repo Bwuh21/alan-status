@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 10:55",
+  "updated": "2026-10-21 11:46",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -820,6 +820,11 @@
           "text": "\"Dash in the air to reach it\" did nothing, and POSTERIZED printed on top of a player's name",
           "status": "done",
           "note": "Live 10-18. Two things the last Hangtime pass wrote down and left. The game has been telling you to dash in the air to reach a pass since the move shipped, and it bought you no extra reach at all -- only a dash along the ground did. I measured it before touching anything: a leaping player reached exactly as far as one standing still doing nothing. Now a dash in the air reaches just as far as one on the floor, and the button says PICK while you are off the ground instead of going blank. It is still something you have to DO -- jumping without kicking at the ball takes nothing, which I checked, and the computer players don't use it, so the move is yours and the game plays the same otherwise. Second: on a wide screen, when you dunked on someone, the big red POSTERIZED landed directly on top of YOUR OWN floating name -- a grey tag with half its letters poking out of the word. Names under the banner now fade out of the way for the two seconds it is up. An upright phone was never affected, and I left it alone there. Jump at a pass between the two bots -- that is the move that was dead."
+        },
+        {
+          "text": "On a phone, a callout like SHOOK HIM was drawn on top of the word HANGTIME and neither could be read",
+          "status": "done",
+          "note": "Live 10-21. It was written up as two callouts stacking on top of each other while one faded. It was not that, and it could not have been: this game has exactly one callout on screen at a time, and a new one replaces the old rather than sitting under it. The other word was the court's own name, PAINTED ON THE FLOOR -- so of course it never faded. On a phone the callout drops to the lower part of the screen, and the note in the code explaining why says it goes there because the near floor is empty. The near floor was not empty. The court's name was lying on it. I tried moving one of the two out of the other's way first and measured it properly before giving up on it: the camera zooms in and out as you play, which slides anything painted on the floor about 150 pixels up and down through a strip of screen only 70 pixels tall. Held upright the word wants to be high, held sideways it wants to be low, and there is no spot that is safe in both. A word on the floor cannot dodge a word on the glass, so only one of them stays a word -- the name has come off the floor. The soft glow it was sitting in stays, so the floor still does not read as a hole, and I looked at before-and-after pictures of that patch of court to be sure. Two more while I was in there: the callout now sits on its own soft shadow, so it stays readable over players and the backboard as well; and a callout that happened to fire during the tip-off countdown used to get stuck 22% of the screen too high for its whole life, which is fixed. Play a match on your phone and shake a defender -- the word is alone on the floor now."
         }
       ]
     },
