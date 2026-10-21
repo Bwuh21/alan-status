@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 10:42",
+  "updated": "2026-10-20 22:33",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -170,6 +170,11 @@
           "text": "Undercroft: a knight's arms stick out, his forearm runs way past his elbow",
           "status": "done",
           "note": "live 10-19 -- the upper arm was drawn a metre long (1.76 m on the Phoenix) instead of 32 cm, on all 81 bodies; shoulders also back where the lobby puts them"
+        },
+        {
+          "text": "Undercroft: one crypt room's camera still slid inside the stone after the October fix",
+          "status": "done",
+          "note": "Live 10-20. The old note guessed the cause was an enemy standing where the camera wanted to be. I counted it instead, over 33,000 frames of the crypt, and that never happened once -- not a single frame. Two different things were doing it, and one of them was in a room nobody had written down, three times worse than the one in the note. First: when you put your back to a wall, the camera pulls its over-the-shoulder offset in until it is out of the stone -- but it SLIDES in over about a fifth of a second, and nothing was checking it on the way. It slid through the wall, and with an enemy right on top of you the camera is already pulled in tight, so there was nowhere left for it to escape to and it just sat there in the rock. Second: a boss's entrance. That 1.8-second look-at-the-boss shot skips every camera rule the game has, and its one safety check only knows about walls, not about the free-standing pillars -- so it flew the camera straight through one. Both now go through the same check as everything else, and there is a last resort that did not exist: if the camera can find nowhere clear at all, it comes to where you are standing, because the floor you are standing on is the one place that cannot be solid. A moment of looking out of your own eyes beats a moment of looking through a wall into nothing. Both rooms now read zero, the whole crypt reads zero (it was 63 bad frames), and on a phone the softer version of the same fault more than halved. Go fight something in the crypt with your back to a wall, and walk into a boss."
         }
       ]
     },
