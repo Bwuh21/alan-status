@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 06:52",
+  "updated": "2026-10-22 07:08",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1470,8 +1470,8 @@
         },
         {
           "text": "Toy Fury: a hidden host freezes the room, because there is no hidden-host timer",
-          "status": "todo",
-          "note": "The review found no hidden-host handling in Toy Fury or DodgeFall 3D -- if the host backgrounds the tab the room stops for everyone and never recovers. Run verify/host-hidden-check.mjs KeyRace first; the check exists and has never been pointed at this game."
+          "status": "done",
+          "note": "LIVE, the served file byte-for-byte the one that was tested. Measured against the old build first: a host that put its phone away went to 0 words a second (6.0 while watching), and on the friend's screen its car AND all six of its bots were written off as DROPPED OUT -- and were STILL out when it came back. Now the sim and the word to your friends keep going while the phone is away: the car holds its real road speed (x0.92 of the watched pace), the bots keep theirs, and nobody is written off. NOT host-only, unlike air hockey's version of this: every screen in Toy Fury drives its own car and reports it, so a hidden GUEST froze itself on everyone else's road the same way -- one guard where both route through. Two things the shape needed that air hockey's did not: the sender's clock has to keep moving or every word is thrown away as one already seen, and the touch stick has to be let go on hide or a thumb that was mid-drag drives in circles for the whole minute the phone is gone. The worst case was the garage, where it never recovered at all -- the host is what deals the race, so a pocketed phone left the friend on a greyed-out READY with no 30 s rescue coming; the bench now proves a hidden host still starts a race nobody else readied for. 24 checks in verify/hidden-host.mjs, 13 of them red against the old build. The arcade's own host-hidden-check.mjs could not answer this: it wants four WebGL contexts and cannot get them while the other lane's headless Chrome is up, which is why it had never been pointed at this game."
         },
         {
           "text": "DodgeFall 3D: a hidden host freezes the room, because there is no hidden-host timer",
