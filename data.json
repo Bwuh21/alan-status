@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 07:34",
+  "updated": "2026-10-22 08:58",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1465,8 +1465,8 @@
         },
         {
           "text": "The coin pusher drops coins onto the plate when the cabinet face is forward",
-          "status": "todo",
-          "note": "A coin released while the cabinet face is toward the camera lands on the plate instead of the shelf. One of the four one-afternoon hall bugs the review grouped together."
+          "status": "done",
+          "note": "LIVE on the domain, desk and phone, 22 checks green on each. Timing now matters at the pusher, and it never did before. Drop a coin while the pusher is slid forward under the hole and it lands ON the pusher, where it does nothing at all until the stroke pulls back -- up to about 1.7 seconds of a coin you paid for sitting on chrome. The first thing I did was measure the obvious version of this fix, and it would have changed nothing: the old code dropped your coin 11 cm further forward when the pusher was out, which LOOKED like it rewarded the worst moment, but it paid exactly the same, because the pusher shoves everything behind it back into line within a sixtieth of a second. Where a coin lands is erased instantly; only being somewhere the pusher cannot touch survives. Numbers, over 24 different starting piles: a player who waits for the right half of the stroke gets the same back as before (145% of what they put in, now 144%) and a player who hammers the button as fast as it lets them went from 125% to 102%. So the good line is untouched and only the careless one moved, which is the direction your own review asked for -- it called this machine too easy by name. Three things tell you which half you are in: the marker on the shelf is gold when the hole is clear and turns red and lifts onto the pusher when it is blocked, the DROP button lights up on the same test because on a phone your eyes are on your thumb, and the first time a coin of yours lands on the pusher the machine says so and holds that line for six seconds. Finding my own mistakes: the teach line was being painted over by 'GOLD! +5' a fifth of a second later, and the marker was sitting exactly on top of the coin it points at, hiding it."
         },
         {
           "text": "Toy Fury: a hidden host freezes the room, because there is no hidden-host timer",
