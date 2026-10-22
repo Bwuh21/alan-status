@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 03:3x",
+  "updated": "2026-10-22 04:15",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1430,8 +1430,8 @@
         },
         {
           "text": "Skee ball: the ball rattles in the cup before it drops, and the score number pops",
-          "status": "todo",
-          "note": "Today skeeLand sets st:drop and the ball sinks at once -- the rattle is a +-1.2 cm jitter on the landing point, a number and not a motion. Add 0.3 s of decaying bob at the landing point in skeeDraw (~6 lines), then the drop. Plus a floating +50 over #skbScore and the marquee repainted in the ring colour; today a win and a loss both end on bw_cheer."
+          "status": "done",
+          "note": "LIVE, verified on the domain, desk and phone. A scoring ball now runs the groove it landed in and the groove swallows it -- 2.3 turns for a 50, 3.0 for a corner 100 -- sinking from the board's face to behind the ring box's own front face, so the board cuts the ball and it is gone. The orbit is the ball's OWN arrival speed, so a tight cup whirls and a wide trough makes one lazy lap: the score is in the motion as well as the number. The marquee's points number swells (88 to 134 px of ink, same digits) and COUNTS UP, 10 20 28 35 40 44 48 49 50, with the HUD's number popping alongside it off the same value. A gutter does neither -- the silence is still the answer. Two changes from the plan written here, both deliberate: no bob and no floating +50. A bob at the landing point is still a ball sitting on paint, and a +50 that flies away leaves the number it came from unchanged -- making the score itself climb says the same thing in the place he is already looking. And NO cup geometry: a lip laid on a painted ring would sit on top of the one thing last night's fix lights."
         },
         {
           "text": "Skee ball: the power meter is measured straight only, so the 100 corner roll is unreadable",
