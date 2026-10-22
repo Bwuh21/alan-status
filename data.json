@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 07:08",
+  "updated": "2026-10-22 07:34",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1455,13 +1455,13 @@
         },
         {
           "text": "Hoops: hideMe was never applied, so your own figure stands in front of the ball",
-          "status": "todo",
-          "note": "Every other in-hall machine hides the player figure while you play it; hoops never got the call, so your own body is between the camera and the ball. Named a two-line bug in the review."
+          "status": "done",
+          "note": "LIVE on the domain, desk and phone, 26 checks green on each. Worse on a phone than the review said: the helmet filled the lane, the ball in your hands was behind it, and the first third of every shot's arc was hidden -- you could not see your own ball leave. Now you stand at the line looking up it and nothing of you is drawn. The camera was tuned AROUND the figure, so it was re-measured rather than assumed: 15 (distance, pitch) states, each read as pixels -- where the backboard top, the rim, the ball and the cabinet's own front lip land, and how much glass the panel leaves. Nothing beat what is shipped. Closer makes the rim bigger but pushes it under the guest toast at the top of the screen; flatter cuts the dead strip of cabinet at the bottom but shrinks the hoop. So the lens is unchanged on purpose: the figure was the problem, not the framing. Guarded by the page's own answer on open AND after you walk away, with two canaries that each redden only the line they aim at."
         },
         {
           "text": "The player shadow draws under every in-hall machine, because it ignores player.visible",
-          "status": "todo",
-          "note": "arcade.html L33507 draws the shadow blob without testing player.visible, so a hidden figure still casts one -- a dark oval under the air hockey table, the hoops cabinet, the skee lane, the claw and the pusher. One line."
+          "status": "done",
+          "note": "LIVE, shipped in the same build as the hoops one above, because they are the same bug: hiding you at hoops without this would have left the disc behind. It was not theoretical -- the shipped skee ball screenshot has an uncast black oval sitting on the floor in the middle of the frame. Fixed at the one line that writes it rather than at each machine: you are hidden in exactly three places in the whole room and all three mean the same thing. Proved by a canary that puts the old line back and reddens the shadow check alone."
         },
         {
           "text": "The coin pusher drops coins onto the plate when the cabinet face is forward",
