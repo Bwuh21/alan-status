@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 21:3x",
+  "updated": "2026-10-22 02:5x",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1420,8 +1420,8 @@
       "subtasks": [
         {
           "text": "Skee ball: a ball-follow camera, so the landing is not a 90 px postage stamp",
-          "status": "todo",
-          "note": "The whole game happens in a 90 px board at the top of a 1280 px frame; the hop and the flight are ~15 px of travel. The claw and the pusher already own a camera (craneCam/coinpCam, L35895) -- add skeeCam() the same way: 1.0 m behind and 0.45 m above the live ball, looking at the cup centre, lerped 8/s, dropped on walk-away. Named the single biggest \"popping\" change in the card. A pitch change cannot do this (an-orbit-rig-cannot-lift-the-lens)."
+          "status": "done",
+          "note": "LIVE, verified on the domain. Measured before: the board was 117 px of a 720 px desk frame and 106 px of 844 on a phone -- and the SAME size while aiming, rolling and landing. Now it closes to 474 px (66%) on desk and 405 px (48%) on a phone as the ball drops in. skeeCam() blends from the pose cameraStep() already made toward a follow pose 2.0 m behind the ball and 0.75 m above it, looking at the 50 cup -- blending, not replacing, so aiming is unchanged (119 px before and after) and walking away needs no snap-back. The sim is untouched: skee-check passes 17/17 on desk and phone, same 410 score, and again against the live site. The HUD also had to move: the board now reaches the middle of the frame, where the centred panel covered its near lip and the whole 10 band, so on a wide screen it steps to the left."
         },
         {
           "text": "Skee ball: the board answers a score -- the ring you hit lights and bulbs chase for 0.6 s",
