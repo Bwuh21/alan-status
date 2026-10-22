@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 21:2x",
+  "updated": "2026-10-21 21:3x",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1472,6 +1472,23 @@
           "text": "The WIN moment has no freeze, flash, kick or number in any game on the floor",
           "status": "todo",
           "note": "The floor-wide gap behind \"I want everything to be popping, jumping, and shaking\": the moment a round is won passes with a sound and a text line in nearly every cabinet. One game a slot, starting where it pays most -- Skin Kick, then Broadside Bay, then the Comet Clash release."
+        }
+      ]
+    },
+    {
+      "title": "Skins -- the eye-pass owed from 10-21",
+      "status": "doing",
+      "insight": "Zack by phone 10-21 14:1x: \"crafting more skins? and deep dive on each skin -- capes attached, random stuff on their back.\" The MECHANICAL sweep ran and is on disk: Ventures/game-agent/portal-site/lab/skins/_audit/2026-10-21/ -- 91 live shop skins (rescoped on his own correction, \"only check on skins that are actually on the game to all players\"), 78 flagged, sheets plus report.md/report.json. What was promised and is NOT done is step 2 of Tools/skills-staging/skin-audit/SKILL.md: actually LOOKING at the sheets. The mechanical flags cannot answer his question -- CLIP is a hint the skill's own history says is rarely a real defect, and only an eye can tell a cape that hangs right from one that floats.",
+      "subtasks": [
+        {
+          "text": "Eye-pass the six FLOAT skins first -- tycoon is the worst of them",
+          "status": "todo",
+          "note": "FLOAT means a part touching nothing, which is the closest mechanical signal to his actual words (capes attached / stray stuff on the back). The rescoped run names: tycoon (x6, worst), phoenix (x4), frostqueen (x3), stormcloud, lunara, stormcaller. Sheets are in lab/skins/_audit/2026-10-21/. Six sheets is the cheap targeted way in; reading all 91 cold is not."
+        },
+        {
+          "text": "Then the remaining 85 sheets, worst-looking first, and write each verdict into the model ledger",
+          "status": "todo",
+          "note": "Judged from behind at lobby distance per the skin rules (skins-lowpoly-balance), not up close. Every verdict belongs in .claude/skills/arcade-player-models/reference/model-ledger.md so the next pass is cheaper. New skins stay QUEUED BEHIND this -- depth before breadth, which is what msg2612 told him."
         }
       ]
     }
