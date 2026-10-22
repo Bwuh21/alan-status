@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 10:21",
+  "updated": "2026-10-22 11:34",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1480,8 +1480,8 @@
         },
         {
           "text": "DodgeFall 3D: a hidden host freezes the room, because there is no hidden-host timer",
-          "status": "todo",
-          "note": "Same fault as Toy Fury and the same fix shape. DodgeFall 3D is the one with the open home-server question against it, so the freeze is the half that is ours to fix."
+          "status": "done",
+          "note": "LIVE 10-22. The host's canyon kept running while its tab was hidden: 0 ticks/s before, 54 after. Found a second fault the queue did not know about -- a friend who pockets their phone kept hanging on their rope on everyone's screen for ever, because the sim reuses a player's last input when nothing new arrives and a frozen phone can never send the release. Both fixed. 19 checks green on desk and on a phone."
         },
         {
           "text": "The WIN moment has no freeze, flash, kick or number in any game on the floor",
