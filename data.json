@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 11:46",
+  "updated": "2026-10-21 21:2x",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1410,6 +1410,68 @@
           "text": "Out Of The Sun's price-and-prize card was the one card in the arcade nothing could check",
           "status": "done",
           "note": "Live 10-20, checked on the real site on a phone and a desk. Every other game writes that card as text, so a machine can read it back and tell us if the wording ever goes wrong. Out Of The Sun paints its card straight onto the picture instead, like a sign painted on a window rather than a label stuck to it -- so the checker could see nothing at all, and said so every run. Two weeks ago somebody looked at it with their own eyes, pronounced it fine, and that was still the only evidence we had. The card now writes down what it painted, in the very same breath that paints it -- which matters, because a note kept off to the side goes stale the first time the wording changes and then quietly reports last month's card forever. This one cannot, there is nothing to keep in step. On top of that the checker reads the actual pixels where the words should be, because the card telling us it painted something is not the same as ink landing on the glass. I proved both halves by breaking the card on purpose twice: once drawing the price in invisible ink, once sneaking in an extra line. The first one slipped past the written-down version completely and was caught only by the pixels. Both were caught, both were put back. The real payoff was immediate and was not this game at all: the new checker's first sweep of all 36 games found that Broadside Bay's first-visit card -- shipped an hour earlier, the very thing on the line above -- had put the price and the prize side by side on one line, which is the exact muddle this whole run of work exists to stop. The player coming back already had it right; the first-timer, the only one who sees that card, got the bad version. Fixed and live. Games the checker is blind to went from three to one, and the one left is a known open question, not a blind spot."
+        }
+      ]
+    },
+    {
+      "title": "Every game reviewed 10-21 -- the order to work it",
+      "status": "doing",
+      "insight": "Zack by text: \"Do a deep analysis on every single game in the arcade ... the skee ball game just looked terrible. I want everything to be popping, jumping, and shaking.\" 39 cards, a ranked table and a work order are in Logs/game-manager/deep-dive-2026-10-21-every-game.md; nothing was edited. These are items 1, 2 and 4 of that order, transcribed row by row with the line or shot that found each one. Item 3 (re-apply the stranded Undercroft item 111 build) is deliberately NOT here: a STARTED-and-abandoned build is reported, never resumed by a lane.",
+      "subtasks": [
+        {
+          "text": "Skee ball: a ball-follow camera, so the landing is not a 90 px postage stamp",
+          "status": "todo",
+          "note": "The whole game happens in a 90 px board at the top of a 1280 px frame; the hop and the flight are ~15 px of travel. The claw and the pusher already own a camera (craneCam/coinpCam, L35895) -- add skeeCam() the same way: 1.0 m behind and 0.45 m above the live ball, looking at the cup centre, lerped 8/s, dropped on walk-away. Named the single biggest \"popping\" change in the card. A pitch change cannot do this (an-orbit-rig-cannot-lift-the-lens)."
+        },
+        {
+          "text": "Skee ball: the board answers a score -- the ring you hit lights and bulbs chase for 0.6 s",
+          "status": "todo",
+          "note": "Nothing on the cabinet changes when you score: skee-desk-over.png (410, NEW BEST) and skee-desk-roll.png (50) are pixel-identical except the numbers. skeeArt already paints the ring board to a CanvasTexture and skeeBoard already repaints it, so the path is proven -- give it a lit argument and repaint ~15 Hz for 0.6 s on skeeLand."
+        },
+        {
+          "text": "Skee ball: the ball rattles in the cup before it drops, and the score number pops",
+          "status": "todo",
+          "note": "Today skeeLand sets st:drop and the ball sinks at once -- the rattle is a +-1.2 cm jitter on the landing point, a number and not a motion. Add 0.3 s of decaying bob at the landing point in skeeDraw (~6 lines), then the drop. Plus a floating +50 over #skbScore and the marquee repainted in the ring colour; today a win and a loss both end on bw_cheer."
+        },
+        {
+          "text": "Skee ball: the power meter is measured straight only, so the 100 corner roll is unreadable",
+          "status": "todo",
+          "note": "skeeMeasure rolls aim = 0 only, so when you angle wide for a 100 the bands you are reading describe a roll you are not making -- and the code comment calls \"take the 50 or go for the 100\" the whole decision. Cache three measured sets (0, +AIM, -AIM) and swap bands when |aim| > 0.05. This is the depth add, not pop: it makes the 100 sliver and the 0-over-the-top band beside it visible as you commit."
+        },
+        {
+          "text": "Skee ball: the HUD panel covers the near third of the lane and the ball in hand",
+          "status": "todo",
+          "note": "#skb is 360 px fixed bottom-centre and its top edge sits at the foot of the lane (skee-desk-roll.png). Move it bottom-left on desk; on a phone keep it bottom but shrink to the meter and the numbers."
+        },
+        {
+          "text": "Hoops: hideMe was never applied, so your own figure stands in front of the ball",
+          "status": "todo",
+          "note": "Every other in-hall machine hides the player figure while you play it; hoops never got the call, so your own body is between the camera and the ball. Named a two-line bug in the review."
+        },
+        {
+          "text": "The player shadow draws under every in-hall machine, because it ignores player.visible",
+          "status": "todo",
+          "note": "arcade.html L33507 draws the shadow blob without testing player.visible, so a hidden figure still casts one -- a dark oval under the air hockey table, the hoops cabinet, the skee lane, the claw and the pusher. One line."
+        },
+        {
+          "text": "The coin pusher drops coins onto the plate when the cabinet face is forward",
+          "status": "todo",
+          "note": "A coin released while the cabinet face is toward the camera lands on the plate instead of the shelf. One of the four one-afternoon hall bugs the review grouped together."
+        },
+        {
+          "text": "Toy Fury: a hidden host freezes the room, because there is no hidden-host timer",
+          "status": "todo",
+          "note": "The review found no hidden-host handling in Toy Fury or DodgeFall 3D -- if the host backgrounds the tab the room stops for everyone and never recovers. Run verify/host-hidden-check.mjs KeyRace first; the check exists and has never been pointed at this game."
+        },
+        {
+          "text": "DodgeFall 3D: a hidden host freezes the room, because there is no hidden-host timer",
+          "status": "todo",
+          "note": "Same fault as Toy Fury and the same fix shape. DodgeFall 3D is the one with the open home-server question against it, so the freeze is the half that is ours to fix."
+        },
+        {
+          "text": "The WIN moment has no freeze, flash, kick or number in any game on the floor",
+          "status": "todo",
+          "note": "The floor-wide gap behind \"I want everything to be popping, jumping, and shaking\": the moment a round is won passes with a sound and a text line in nearly every cabinet. One game a slot, starting where it pays most -- Skin Kick, then Broadside Bay, then the Comet Clash release."
         }
       ]
     }
