@@ -1485,8 +1485,8 @@
         },
         {
           "text": "The WIN moment has no freeze, flash, kick or number in any game on the floor",
-          "status": "todo",
-          "note": "The floor-wide gap behind \"I want everything to be popping, jumping, and shaking\": the moment a round is won passes with a sound and a text line in nearly every cabinet. One game a slot, starting where it pays most -- Skin Kick, then Broadside Bay, then the Comet Clash release."
+          "status": "doing",
+          "note": "1 of 3 done. SKIN KICK IS LIVE 10-22: score and the room stops dead, the screen flashes in your colour, the camera is shoved along the ball's line, and +1 or +2 climbs off the ball while your own score digit punches -- four sizes, from a slide tackle that takes the ball (a blink) up to the goal that wins the match, which also runs 0.8 s in slow motion with the lens pushing in. Checked on the real domain on a phone and a desk, and both screens get it when you play a friend. Two things I had to fix to make it read: the room keeps sweeping after the ball, so a freeze that let the camera keep gliding hid its own kick (the lens is held now), and the number sat 74 px ABOVE the top of the screen because a goal is scored in the net, which is the far, high end of the picture. Next slot: Broadside Bay (it has the most hits a minute on the floor and zero freeze), then the Comet Clash throw release. Found, not fixed: on a PHONE the arcade's own round menu button sits on top of your score digit, so the digit that punches is behind it -- the floating +1 is what you actually read there, and that is a shell problem on every game, not this one."
         }
       ]
     },
