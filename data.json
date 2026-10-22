@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 02:5x",
+  "updated": "2026-10-22 03:3x",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1425,8 +1425,8 @@
         },
         {
           "text": "Skee ball: the board answers a score -- the ring you hit lights and bulbs chase for 0.6 s",
-          "status": "todo",
-          "note": "Nothing on the cabinet changes when you score: skee-desk-over.png (410, NEW BEST) and skee-desk-roll.png (50) are pixel-identical except the numbers. skeeArt already paints the ring board to a CanvasTexture and skeeBoard already repaints it, so the path is proven -- give it a lit argument and repaint ~15 Hz for 0.6 s on skeeLand."
+          "status": "done",
+          "note": "LIVE, verified on the domain, desk and phone. The ring you hit fills with its own colour, its number flips dark on the bright fill, and 24 rim bulbs run an every-third chase for 0.6 s. A 100 lights ONLY the pocket the ball entered -- proved by a real corner 100 on the live site (the far pocket stayed at its resting value). A gutter or an over-the-top lights nothing: the board staying dark IS the answer. Painted, not built, so it costs zero draw calls and 0.1 ms a repaint. One find on the way: lighting the 10 region literally fogged the whole face pale, and a 10 is the commonest score -- it now lights a violet band just outside the 20."
         },
         {
           "text": "Skee ball: the ball rattles in the cup before it drops, and the score number pops",
