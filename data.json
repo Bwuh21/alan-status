@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 04:15",
+  "updated": "2026-10-22 04:48",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1435,8 +1435,8 @@
         },
         {
           "text": "Skee ball: the power meter is measured straight only, so the 100 corner roll is unreadable",
-          "status": "todo",
-          "note": "skeeMeasure rolls aim = 0 only, so when you angle wide for a 100 the bands you are reading describe a roll you are not making -- and the code comment calls \"take the 50 or go for the 100\" the whole decision. Cache three measured sets (0, +AIM, -AIM) and swap bands when |aim| > 0.05. This is the depth add, not pop: it makes the 100 sliver and the 0-over-the-top band beside it visible as you commit."
+          "status": "done",
+          "note": "LIVE, verified on the domain, desk and phone. The bar now re-measures for the angle you are holding, so it describes the roll you are about to make. Mapping the whole aim stick first turned the plan here into something better than three cached sets: the decision is sharper than it looked. Straight, the 50 is open (12% of the bar). Turn off straight and the 50 CLOSES -- it is unreachable at any angle past about a seventh of the stick. The 100 lives in one narrow window around half-stick, where it shows as a bright orange band at the top of the power bar with a white edge, 33 px wide and labelled. Past that window it vanishes again, and at FULL angle the best score on the board is a 40 -- while the game's own hint tells you the 100s are in the corners, which is the lie the old meter could not help telling. Proved by a real roll on the live site: released in the middle of the painted band at the angle held, it scored 100. The hint line now teaches the instrument instead of the controls. Two notes against the plan written here: the band above the 100 is a 10, not a 0 -- over-cooking a corner costs you 90 points, not all of them -- and 37 angle buckets are measured rather than 3, because a sweep costs 2.7 ms on desk and 4.1 ms on a phone, so one is banked per idle frame and by the time you drag there is none left to pay for. Zero extra draw calls; the sim is untouched (skee-check still scores the same 410), and items 139/140/141 all still pass."
         },
         {
           "text": "Skee ball: the HUD panel covers the near third of the lane and the ball in hand",
