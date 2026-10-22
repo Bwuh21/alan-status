@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 04:48",
+  "updated": "2026-10-22 05:42",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1440,8 +1440,8 @@
         },
         {
           "text": "Skee ball: the HUD panel covers the near third of the lane and the ball in hand",
-          "status": "todo",
-          "note": "#skb is 360 px fixed bottom-centre and its top edge sits at the foot of the lane (skee-desk-roll.png). Move it bottom-left on desk; on a phone keep it bottom but shrink to the meter and the numbers."
+          "status": "done",
+          "note": "LIVE, verified on the domain -- phone, phone-sideways and desk, every check passing. Measured before touching anything: the panel was 274 px of a 390x844 screen, 30% of the picture. While you AIM it covers floor, not lane -- but the camera rides the ball, so at the LANDING its top edge sat right over the ring board's near lip and the lane's far end, the one frame where the score is decided. It is now 159 px with the coaching line up and 114 px once you have rolled, and the board's lip is clear. Sideways is the bigger win: 274 px against 390 px of height was 70% of the screen, now 41%. Three things went, none of them shrunk: the title row (the cabinet's own marquee already reads SKEE BALL and the balls counter is right below it), the 'Leave the lane' button (the red LEAVE GAME key top-left is the one way out of a machine and calls exactly the same thing -- the check taps it for real and the go ends), and 30 px of accidental margin -- the message is a <p> and only blackjack's panel ever zeroed the browser's default, which in this layout does not collapse. The power bar and the big score number were deliberately left full size: they are items 141 and 142's work and they are what the space is for. Found and fixed while looking: the emote face button sat lit and unpressable underneath the panel, because the room's 'am I at a machine' test was a hand-written list that had missed seven machines including this one; it now reads the room's one derived answer, so all twelve machines are fixed and the list cannot go stale again. Zero new draw calls; the sim is untouched (the scripted go still scores the same 410), and items 139/140/141/142 all still pass."
         },
         {
           "text": "Hoops: hideMe was never applied, so your own figure stands in front of the ball",
