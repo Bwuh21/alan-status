@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T02:31:54.681Z",
+  "updated": "2026-10-23T13:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1514,13 +1514,13 @@
       "subtasks": [
         {
           "text": "Bowling rack: the wall neon stripes pass in front of the second shelf balls -- the rack stands a few cm into the wall plane, pull it forward",
-          "status": "todo",
-          "note": "keyboard item 26, seen in the rack shot. Edits arcade.html. Re-measure the rack depth first."
+          "status": "done",
+          "note": "SHIPPED 2026-10-23. Measured 5.0 cm of air between a ball and the neon (shelf 5 mm off it). It is a stand now, 30 cm out on three uprights: 35 cm. Live and re-measured on the domain."
         },
         {
           "text": "Bowling verify checks: five older checks press E on a lane directly and the shoe gate now refuses them -- rent the shoes first",
-          "status": "todo",
-          "note": "keyboard item 27. verify/ only, no arcade.html. The worker listed the five files."
+          "status": "done",
+          "note": "DONE 2026-10-23. All five rent at the counter now. Four are green; the party check still stops earlier, at the PeerJS join, which is its own work order."
         },
         {
           "text": "Camera: a one-frame lens jump of hundreds of m/s at island cell edges and doorways, boom unchanged -- roomClampCam hands the lens a different box. Needs its own probe before any fix",
