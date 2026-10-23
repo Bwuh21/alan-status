@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 09:14",
+  "updated": "2026-10-23T02:31:54.681Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1504,6 +1504,68 @@
           "text": "Then the remaining 85 sheets, worst-looking first, and write each verdict into the model ledger",
           "status": "todo",
           "note": "Judged from behind at lobby distance per the skin rules (skins-lowpoly-balance), not up close. Every verdict belongs in .claude/skills/arcade-player-models/reference/model-ledger.md so the next pass is cheaper. New skins stay QUEUED BEHIND this -- depth before breadth, which is what msg2612 told him."
+        }
+      ]
+    },
+    {
+      "title": "Owed from 10-22 -- the two work orders written today that no lane had read",
+      "status": "todo",
+      "insight": "Filed by the 2026-10-22 nightly reflection. Two artifacts written today each enumerated work and neither reached a lane: Logs/game-manager/keyboard-2026-10-22.md (items 23, 26, 27, 28 left open of 28) and Ventures/game-agent/portal-site/verify/SKATE-DEEP-DIVE-2026-10-22.md (37 items; fix batch 1 took 1,2,3b-g,4,5,6,7,8,10,12). HELD FROM EVERY LANE ON PURPOSE: almost every row edits arcade.html, and the slab-city-fix-batch-1 workflow is merging into that file tonight -- a lane would pack a half-merged lobby to the live domain. LIFT THE HOLD by removing owed-1022 from $TopupSkip in Tools/polish-chain.ps1 once the fix batch has merged and shipped. Dive items 18-37 are a later phase and are deliberately NOT rows here; read section 8 of the dive.",
+      "subtasks": [
+        {
+          "text": "Bowling rack: the wall neon stripes pass in front of the second shelf balls -- the rack stands a few cm into the wall plane, pull it forward",
+          "status": "todo",
+          "note": "keyboard item 26, seen in the rack shot. Edits arcade.html. Re-measure the rack depth first."
+        },
+        {
+          "text": "Bowling verify checks: five older checks press E on a lane directly and the shoe gate now refuses them -- rent the shoes first",
+          "status": "todo",
+          "note": "keyboard item 27. verify/ only, no arcade.html. The worker listed the five files."
+        },
+        {
+          "text": "Camera: a one-frame lens jump of hundreds of m/s at island cell edges and doorways, boom unchanged -- roomClampCam hands the lens a different box. Needs its own probe before any fix",
+          "status": "todo",
+          "note": "keyboard item 28, seen by the camera probe on HEAD and on the build alike. The probe is verify/ only; the fix edits arcade.html."
+        },
+        {
+          "text": "Skate body quick wins: feet stay on the deck up walls, arms out for balance, head down the line, vert airs in the wall plane, late kickflips catch",
+          "status": "todo",
+          "note": "skate dive item 9 (this week). Edits arcade.html."
+        },
+        {
+          "text": "Skate: friends feel present, and RUN IT BACK on the session end card",
+          "status": "todo",
+          "note": "skate dive item 11 (this week). Edits arcade.html."
+        },
+        {
+          "text": "Skate small feel fixes, minus the camera-swing line already in fix batch 1",
+          "status": "todo",
+          "note": "skate dive item 13 (this week). Edits arcade.html."
+        },
+        {
+          "text": "Skate HUD out of the way: H hides it, Controls panel line only, no phone button",
+          "status": "todo",
+          "note": "skate dive item 14 (this week). Edits arcade.html."
+        },
+        {
+          "text": "Skate sounds that tell the truth",
+          "status": "todo",
+          "note": "skate dive item 15 (this week). Edits arcade.html."
+        },
+        {
+          "text": "Skate: speed you can see",
+          "status": "todo",
+          "note": "skate dive item 16 (this week). Edits arcade.html."
+        },
+        {
+          "text": "Skating shows up in the briefing",
+          "status": "todo",
+          "note": "skate dive item 17 (this week)."
+        },
+        {
+          "text": "Perf hunks P1/P2/P3 from the potato profile: compileAsync before scene.add, ink off on the slowest rung, one panel paint on a late frame",
+          "status": "todo",
+          "note": "keyboard item 23. HELD BY DESIGN: apply on top of the skate commit, then gate in a quiet window (perf-budget + potato-check). P2 GPU number and potato-check calibMs still want a quiet-box measurement."
         }
       ]
     }
