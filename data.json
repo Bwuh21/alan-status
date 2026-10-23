@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:58:00.000Z",
+  "updated": "2026-10-23T18:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1539,8 +1539,8 @@
         },
         {
           "text": "Skate small feel fixes, minus the camera-swing line already in fix batch 1",
-          "status": "todo",
-          "note": "skate dive item 13 (this week). Edits arcade.html."
+          "status": "done",
+          "note": "SHIPPED 2026-10-23, live and re-checked on the domain. All nine. Turning round used to flip your whole speed backwards in one step -- it brakes through now (3.90 -> 0.58 m/s). Brushing a ledge cost a fifth of your speed however light the touch; a 10-degree kiss costs 8% now, a square hit still hurts. Slow kick-turns whipped round nearly three times faster than turns a hair quicker -- they blend now. On the phone: a 6 px thumb wobble steered you 14 degrees a second and now steers nothing, and pulling down-and-across for a hard carve braked you at 9 m/s2 and now just carves. Pushing with Shift halfway up a ramp face gave you free height; it only starts on flat ground, as its own comment always claimed. Holding S on fakie was a hidden motor to 4.5 m/s next to your 'only Shift pumps' rule -- it rolls to 2 now. The bowl's back bank launched you or did not depending on your screen's refresh rate; the mega gap now lands PERFECT at all 24 rates tested instead of disagreeing at 6 of them. The view lurched dropping in off the big ramp (1,628 -> 188). And the rider no longer snaps 32 cm sideways the frame he stops scraping a wall."
         },
         {
           "text": "Skate HUD out of the way: H hides it, Controls panel line only, no phone button",
