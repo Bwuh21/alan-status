@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T19:25:00.000Z",
+  "updated": "2026-10-23T20:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1549,8 +1549,8 @@
         },
         {
           "text": "Skate sounds that tell the truth",
-          "status": "todo",
-          "note": "skate dive item 15 (this week). Edits arcade.html."
+          "status": "done",
+          "note": "SHIPPED 2026-10-23, live and re-measured on the domain. Landings were a longboard dropped on a CARPET -- three of five soft, three of four hard -- all re-cut on concrete, and the build now throws on a dark landing take. The grind and slide loops swung 14 and 16 dB inside one loop; they hold within 2.1 now (three causes: pieces levelled before the join, the racer's compressor, and a new source -- the old grind recording has no steady window in it at all). Above 8 m/s the park had no sound left: the wheels now climb to 16 and a WIND loop comes up over them, 99% phone-audible where the wheels are 487 Hz. Three new sounds: a clack over every saw-cut joint, a push scuff, a bonk into anything solid. Found and fixed under it: the kit's recordings had NO PRODUCER -- pack never emitted them, so every mp3 on the site had been hand-copied since 10-09 and a re-cut sound could not reach the domain. One thing only you can do: put headphones on and listen. Nobody has since 10-08."
         },
         {
           "text": "Skate: speed you can see",
