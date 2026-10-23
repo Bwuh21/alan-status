@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:50:00.000Z",
+  "updated": "2026-10-23T16:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1529,8 +1529,8 @@
         },
         {
           "text": "Skate body quick wins: feet stay on the deck up walls, arms out for balance, head down the line, vert airs in the wall plane, late kickflips catch",
-          "status": "todo",
-          "note": "skate dive item 9 (this week). Edits arcade.html."
+          "status": "done",
+          "note": "SHIPPED 2026-10-23, live and re-measured on the domain. All five. The boots now sit the same 6.6 cm off the deck on a 50-degree wall as on the flat (they were up to 15.8 cm apart -- that was the 'knee bend on walls'). The arms are out at 38-44 degrees instead of hanging at the hips at 13, and 56 at the top of an air. The head turns down the line: it had never turned at all, because the line that aims it was never written. Up the half pipe he stays leaned into the wall -- the board was arriving 41-44 degrees off the face and getting slapped back onto it over four frames; it is 4-6 now. And a kickflip caught late finishes turning under his boots instead of snapping flat (up to 148 degrees in one frame) and dropping him 21 cm onto it. Two instruments were lying and are fixed: the arms check measured each hand against a hardcoded rest spot that WAS the bug, so it would have failed the fix while seeing nothing -- it measures drift now, and with the arm carry deliberately removed it still goes red, so it still catches what it was built for."
         },
         {
           "text": "Skate: friends feel present, and RUN IT BACK on the session end card",
