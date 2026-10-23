@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T18:20:00.000Z",
+  "updated": "2026-10-23T19:25:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1544,8 +1544,8 @@
         },
         {
           "text": "Skate HUD out of the way: H hides it, Controls panel line only, no phone button",
-          "status": "todo",
-          "note": "skate dive item 14 (this week). Edits arcade.html."
+          "status": "done",
+          "note": "SHIPPED 2026-10-23, live and re-checked on the domain. All six parts of dive item 14. In the park, H takes every panel off the screen and H again brings it back -- a line in the Controls list, no phone button, and it resets when you leave. On a phone the coins pill steps aside for the whole park (it sat on the score panel upright and on the TRICK BOOK chip sideways). The sideways panel ends clear of PUSH and OLLIE, which it ran 16 px under on every ride, and is 100 px tall instead of 111. MANUAL's button, the SPECIAL meter and the GRAB label only exist once they are yours, and a level-up puts them on screen the same moment. A sloppy landing says why: LATE FLIP, STILL SPINNING, LANDED SIDEWAYS, LATE GRAB or HARD LANDING. A plain CLEAN stops popping over the rider outside a session, and the PERFECT chime is a session sound. The tutorial says swipe (which is what the game reads), mentions dragging to look, and draws a dim stick where the thumb goes. Desktop panels: 22-26% of the screen before, 9.0% now, 0% with H."
         },
         {
           "text": "Skate sounds that tell the truth",
