@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:05:00.000Z",
+  "updated": "2026-10-23T16:58:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1534,8 +1534,8 @@
         },
         {
           "text": "Skate: friends feel present, and RUN IT BACK on the session end card",
-          "status": "todo",
-          "note": "skate dive item 11 (this week). Edits arcade.html."
+          "status": "done",
+          "note": "SHIPPED 2026-10-23, live and re-checked on the domain with two real browsers in one room. Five things. When the clock runs out the card now has RUN IT BACK on it -- before, it had one button that only put the card away, and to go again you had to find G or the Session button, which on a phone is nowhere near where you are looking. If a friend pressed theirs first, the same button joins THEIRS, on their clock, so a rematch is one press on both screens and nobody gets dragged in. Second, a friend's board used to get left behind their body whenever a packet ran late: I measured it at a metre, and it is zero now. Third, friends cast no shadow at all, so their airs read as floating -- they get the same blob you have, under their board, and it shrinks as they go up. Fourth, outside a session a friend showed you nothing: no trick, no grade, no score. What they just landed now floats over their head for a couple of seconds, '+2,820 PERFECT'. Fifth, the friends list says 'skating - SLAB CITY' instead of nothing. One honest catch worth telling you: adding the SPECIAL meter to the list of panels the score strip has to dodge made things WORSE first -- the strip could only take one step down, that step landed on the meter, so it gave up and printed over the HUD instead. It walks down past everything now, and the two-browser check measures it clear. Two things named and NOT done: hearing a friend's wheels (the arcade never tells the sound system where your ears are, so all nine of its placed sounds play as if you stood at the world's origin -- that is a whole-arcade audio change, not a skate one), and a 'come to the park' nudge for a friend who is elsewhere."
         },
         {
           "text": "Skate small feel fixes, minus the camera-swing line already in fix batch 1",
