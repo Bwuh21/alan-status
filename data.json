@@ -1497,13 +1497,13 @@
       "subtasks": [
         {
           "text": "Eye-pass the six FLOAT skins first -- tycoon is the worst of them",
-          "status": "todo",
-          "note": "FLOAT means a part touching nothing, which is the closest mechanical signal to his actual words (capes attached / stray stuff on the back). The rescoped run names: tycoon (x6, worst), phoenix (x4), frostqueen (x3), stormcloud, lunara, stormcaller. Sheets are in lab/skins/_audit/2026-10-21/. Six sheets is the cheap targeted way in; reading all 91 cold is not."
+          "status": "done",
+          "note": "DONE 10-21 and its findings are FALSE POSITIVES -- settled 2026-10-25. The six sheets were read on 10-21 (Hobby/bwuh-games/skin-audit-2026-10-21.md); what was still open was the three fixes it prescribed, and all three are deliberate features, not defects. tycoon s coins (seven, orbiting the waist), frostqueen s shards (five, circling) and lunara s star (the rarity aura) are animated orbits tagged userData.flair, two with a source comment saying they are kept clear of the arms on purpose; the prescribed fix (anchor them round the waist) is forbidden by the model ledger s own rule 22. Root cause fixed at the producer: __labFloat in lab/skins/clip-hook.js now skips flair/held parts, the same walk arcade.html has used since 10-01. Proven with a differential probe (tycoon 6->0, frostqueen 3->0) and a planted-float canary. NOTHING TO BUILD HERE."
         },
         {
           "text": "Then the remaining 85 sheets, worst-looking first, and write each verdict into the model ledger",
           "status": "todo",
-          "note": "Judged from behind at lobby distance per the skin rules (skins-lowpoly-balance), not up close. Every verdict belongs in .claude/skills/arcade-player-models/reference/model-ledger.md so the next pass is cheaper. New skins stay QUEUED BEHIND this -- depth before breadth, which is what msg2612 told him."
+          "note": "Judged from behind at lobby distance per the skin rules (skins-lowpoly-balance), not up close. Every verdict belongs in .claude/skills/arcade-player-models/reference/model-ledger.md so the next pass is cheaper. New skins stay QUEUED BEHIND this -- depth before breadth, which is what msg2612 told him. || 2026-10-25: this is now the ONLY open half of the eye-pass, and it is a READING task, not a fix list -- the 10-21 fix list was withdrawn (see the row above). Still needs eyes, so still held out of a lane. Twice promised on his phone (10-24 night brief, 10-25 morning brief) and not started; 85 sheets at ~90 skins reviewed means this is a sit-down session, not a slot."
         }
       ]
     },
