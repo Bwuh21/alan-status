@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T20:05:00.000Z",
+  "updated": "2026-10-27T22:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -534,6 +534,11 @@
           "text": "The game looks low resolution — find the cause",
           "status": "done",
           "note": "Found it: in the arcade the game drew three quarters of the width of your screen and the shell stretched it. It draws every pixel now, at the same frame rate."
+        },
+        {
+          "text": "A brand new player's first race, and saying the overtake out loud",
+          "status": "done",
+          "note": "Live 10-27. Three things. First, your call: someone opening Toy Fury for the first time now gets one gentle race — toy boxes, the easy field, starting near the front — and the two choice buttons are off that screen entirely, so there is one thing to press. They come back the moment that race starts, set to Surprise Me, and they never go away again. Second, the overtake. Taking a place off somebody is the best thing that happens in a race and the game said nothing about it — the number in the corner just quietly changed. It now says PASSED TUNA, with a sound, right beside the number, and it only says it when you genuinely went past someone — not when a rival blew up or dropped out, which also moves your number. Third, two real faults found while checking the first one: today's derby was not the same race for everyone after all (your difficulty button was secretly changing the derby's cars and your starting slot, while the screen said everyone gets the same field), and tapping TODAY'S DERBY from another room has, since the 22nd, dumped you into an ordinary race in the right room instead of the derby — your coin spent, the race you asked for never run. Both fixed, both now checked. Also: the grid card had started naming a difficulty the race had not actually dealt."
         }
       ]
     },
