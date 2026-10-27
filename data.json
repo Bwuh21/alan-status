@@ -238,7 +238,7 @@
         {
           "text": "Deep dive: what it takes for the whole arcade to run on a potato",
           "status": "doing",
-          "note": "10-15 — written up with real numbers. Biggest finds: the room froze for half a second the instant it appeared (now half that, live), and our meters lie more often than the code is slow"
+          "note": "10-27 — Comet Clash is live doing a THIRD less thinking a frame (measured on a deliberately slow phone, same six seconds before and after). The written-up cause was wrong, and that mattered: the one line everyone had copied forward for five days could not have caused what it was blamed for. Three real causes, all fixed: see-through floor markings were being drawn twice each; the four player names were drawn by a whole second sweep of the room, which made the game rebuild every surface's shader every frame; and the camera asked the browser for the window size every frame, which makes it stop and re-measure the page. Next on this list: the Undercroft, the worst room we have, with the same instrument now built and proven.\n\n10-15 — written up with real numbers. Biggest finds: the room froze for half a second the instant it appeared (now half that, live), and our meters lie more often than the code is slow"
         }
       ]
     },
