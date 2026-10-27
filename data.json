@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:10:00.000Z",
+  "updated": "2026-10-27T23:30:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1362,7 +1362,12 @@
         {
           "text": "Coins and tickets are described three different ways, and no ticket count shows anywhere",
           "status": "todo",
-          "note": "Your call: the economy wording."
+          "note": "Your call: the economy wording. 10-27: one of the three is gone — the front door no longer explains the economy at all (see the row below). The cashier and the end of the tour still do, which is two, and a ticket count still shows nowhere."
+        },
+        {
+          "text": "The front door explained coins, tickets and skins before you had seen a game",
+          "status": "done",
+          "note": "Live 10-27, your yes at the keyboard. The three chips are off the door. The economy is still explained at the cashier and on the last card of the tour, which is where you are about to spend anything. Worth saying plainly: on a phone those chips were wrapping onto two rows and shoving the BWUH GAMES sign up over the room, so taking them off gave a good deal more arcade back behind the glass — and the card closed up with no hole left behind it, measured on both screens, not eyeballed. The button is the other half: it said \"Start playing\" to a guest and \"Enter the arcade\" to you, so the same button made two different promises depending on something neither player could see. It says \"Enter the arcade\" to everyone now. \"Make an account\" and the small print are untouched, as you asked. The check that was supposed to guard this would have stayed green with the chips gone, because it asked the whole card for the words \"coins\" and \"tickets\" and the small print happens to use both — it would have gone on reporting that the door explains the economy long after it stopped. Fixed, and it now fails if anyone puts the chips back."
         },
         {
           "text": "The plush prize counter by the landing looks usable and does nothing",
