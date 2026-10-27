@@ -1160,7 +1160,7 @@
         },
         {
           "text": "Private task",
-          "status": "todo"
+          "status": "done"
         }
       ]
     },
@@ -1237,7 +1237,7 @@
         },
         {
           "text": "Private task",
-          "status": "blocked"
+          "status": "done"
         },
         {
           "text": "Private task",
