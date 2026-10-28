@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T07:55:00.000Z",
+  "updated": "2026-10-28T08:25:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -436,7 +436,7 @@
         {
           "text": "A tutorial that walks through the basics of skating, not a wall of controls",
           "status": "done",
-          "note": "Six steps, one line at a time in the panel: get on, roll, steer, push, ollie, kickflip. Each one waits until you actually do it. There is a skip."
+          "note": "Six steps, one line at a time in the panel: get on, roll, steer, push, ollie, kickflip. Each one waits until you actually do it. There is a skip. REWRITTEN 10-28 after a two-model read of the whole park: three of the six were teaching people to fail. Step 2 said hold the roll key and step 6 said flick it, so your thumb was still holding it at the jump and the flick could never read — every step that needs the hand off it now says so first, and on a phone it says which thumb. The ollie step marked itself off in the air instead of on the landing. The kickflip step read your save file, so anyone who had ever landed one had it ticked before they read it. And if you bailed mid-lesson, the line kept telling you to push while you lay on the concrete with the board 10 m away — being down now takes the line and tells you to press R."
         },
         {
           "text": "An \"Open Trick Book\" button showing the tricks you have learned so far",
