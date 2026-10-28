@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:40:00.000Z",
+  "updated": "2026-10-28T20:30:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1690,8 +1690,8 @@
         },
         {
           "text": "The RC garage: see a car before you buy it, an easy place to get one, and no race without a car you own (Zack, 2026-10-28)",
-          "status": "todo",
-          "note": "10-28 — part of it is live: nobody sits in the car any more. You said you are controlling it by remote, not riding in it, so every car in Toy Fury now races empty — yours and the eight on the shelf you pick from. The spare figure the go-kart and the two motorbikes carried around is gone with it, which also closes your note from the 15th that one car on the row already had a driver in it. Checked from behind on a phone and on a desk, and the yellow arrow still sits just over the roof of all thirteen rides. Left deliberately open, because it is the rest of this row and another lane is on it: the car showroom itself, the easy place to get a car, and the block on racing without one — plus your figure standing there holding the remote, which belongs in the showroom where a person can be person-sized."
+          "status": "done",
+          "note": "10-28 LIVE. The car shop is a showroom now: the car turns on a lit stand in 3D, big, with its real numbers beside it, and a row of cards under it — press one and that car goes on the stand. One yellow bar does the buying. Nobody sits in any of them, on the shelf, on the stand or out on the tracks, and the house no longer shrinks you onto the start line: you stay standing where you are and the camera goes down to the track alone. \"Get a car\" has left the living-room doorway it was blocking — that opening was down to a 1.16 m gap and is 3.58 m now — and stands against the back wall you look straight at when you walk in, with a big RC GARAGE button at the top of the screen the whole time you are in the house. Walk in owning nothing and the garage opens itself with the free kart ready. No road into a race starts without a car you own any more, and when the garage will not answer it refuses instead of waving you through. A second pair of eyes caught two real faults after the first deploy, both fixed and live: pressing Escape on \"you need a car\" left you armed, so the next car you took spent a coin and flew you into a race across the room; and a car of a kind the game no longer sells broke the screen. Still open and tracked as its own row: paint and your figure holding the remote."
         },
         {
           "text": "The RC garage: customize your car's colour and look, and see your player holding the remote (Zack, 2026-10-28)",
