@@ -1695,7 +1695,8 @@
         },
         {
           "text": "The RC garage: customize your car's colour and look, and see your player holding the remote (Zack, 2026-10-28)",
-          "status": "todo"
+          "status": "done",
+          "note": "10-28 LIVE. Open the RC garage and there are three rows under the car now: fourteen paint colours, seven trim colours, and four wheel styles. Press one and the car on the stand changes while you watch. The wheels are not just a colour — a gold mag, a whitewall and a plain steel wheel are different shapes, and they look it on the monster truck. Beside the car stands your own player, wearing whatever skin you have on, holding a radio control handset painted in the same colours as the car — because that is what this is: you drive it by remote, you are not sitting in it. Every car keeps its own look, so your kart can be blue and your buggy green, and the car races in the colours you gave it. It is saved on your phone; carrying it to a second device needs a database change I have written down and left unapplied, because the key for that is dead. One thing a second pair of eyes caught before it shipped and it was the worst kind: pressing only a wheel, or only a trim colour, and nothing else saved a half-record the race refused — so the garage showed you gold mags and the track gave you plain ones. Every test I had written happened to save all three at once, which is not what pressing one chip does. Fixed, and there is a test for it now on both sides. Try: tap RC GARAGE, tap the gold wheel, then race."
         },
         {
           "text": "The camera: never lose your player behind a chair, in every area (Zack, 2026-10-28: \"spend a lot of time ... a deep dive on the camera\")",
