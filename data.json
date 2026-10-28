@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T14:05:00.000Z",
+  "updated": "2026-10-28T15:24:01.761Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1651,6 +1651,49 @@
           "text": "Perf hunks P1/P2/P3 from the potato profile: compileAsync before scene.add, ink off on the slowest rung, one panel paint on a late frame",
           "status": "done",
           "note": "SHIPPED 2026-10-23, live and re-checked on the domain. Two of the three held; the third was measured and thrown away. One: a phone still struggling at the lowest picture setting now drops the black outlines around everything before it drops any more of the picture, and puts them back FIRST when it speeds up again -- proven by making a browser genuinely slow and watching it walk down and climb back. Two: the cabinet artwork no longer paints on a frame that is already running late; the 'paint nothing' setting had never worked at all, because of a loop that always painted one panel however small a budget you gave it. Three: linking a new island's shaders before it joins the room is OUT. The stall it was aimed at is real -- about a third of a second when you cross the map -- but it belongs to something else entirely, and the change did not move it either way, so it is not worth the complication. What that stall actually is now has a name and numbers (building one island, in one frame) and it is the next job. One honest catch worth telling you: the first time I pushed this I pushed a bug with it. The gate reported one 300 ms freeze and I chased it instead of re-running until it passed -- it was mine, and a bad one: switching the outlines off made the whole room re-link its shaders, so the thing meant to help a weak phone froze it for most of a second. It is gone, the outlines now switch off for free, and I counted the pixels to prove they really do go. The gate is 3 of 3 green on the fix and was 2 of 3 red before it."
+        }
+      ]
+    },
+    {
+      "title": "Zack's 10-28 list -- RC garage, camera, clipping, the toy house, the lobby, real bowling",
+      "status": "todo",
+      "insight": "Pasted at the keyboard before he left for the day; queued as rows 202-210 on the polish backlog, his words kept in each.",
+      "subtasks": [
+        {
+          "text": "Slab City's rolling sound follows you out of the skate park (Zack, 2026-10-28: a repeat report)",
+          "status": "todo"
+        },
+        {
+          "text": "The RC garage: see a car before you buy it, an easy place to get one, and no race without a car you own (Zack, 2026-10-28)",
+          "status": "todo"
+        },
+        {
+          "text": "The RC garage: customize your car's colour and look, and see your player holding the remote (Zack, 2026-10-28)",
+          "status": "todo"
+        },
+        {
+          "text": "The camera: never lose your player behind a chair, in every area (Zack, 2026-10-28: \"spend a lot of time ... a deep dive on the camera\")",
+          "status": "todo"
+        },
+        {
+          "text": "The toy house deep dive: trims that clip in the corners, floating chairs, flicker, and enter a track from any side (Zack, 2026-10-28)",
+          "status": "todo"
+        },
+        {
+          "text": "A clipping skill and a sweep: catch two surfaces fighting before they ship, then fix every one in the arcade (Zack, 2026-10-28)",
+          "status": "todo"
+        },
+        {
+          "text": "The lobby, made consistent: arches over every bridge, jump pads, the rope to Stardust, and the blank gold plaque (Zack, 2026-10-28)",
+          "status": "todo"
+        },
+        {
+          "text": "Strike City: real bowling at the shoe desk -- party size, everyone pays for shoes, a ball each, the ball return, pay per game (Zack, 2026-10-28)",
+          "status": "todo"
+        },
+        {
+          "text": "Strike City: tickets for how well you bowl, and three ways to play -- solo, friends, and wager bowl, winner takes all (Zack, 2026-10-28)",
+          "status": "todo"
         }
       ]
     }
