@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T10:45:00.000Z",
+  "updated": "2026-10-28T11:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -358,6 +358,11 @@
       "status": "done",
       "insight": "Anything that costs a coin has to be so fun you cannot decide what to spend your coins on.",
       "subtasks": [
+        {
+          "text": "Tavern: pool and darts should pay vs the house and Rusty; Rusty gets a menu; a rivalry board",
+          "status": "done",
+          "note": "Live, checked on the real domain. The two tables took no coin and paid nothing — a seven-minute rack for zero tickets, which is why a stranger left and did not come back. Now: pick who you play first (four house sharks at the table, four Rustys at the board), one coin, and the prize goes up with the difficulty. A paid rack is nine balls instead of fifteen so it takes about three minutes; the full rack is still there, free, as practice. Playing a friend costs nothing and pays nothing — a game two people could agree to throw must never print a ticket. Rusty will talk to you now: walk up to the bar and press E for four things to do, and each one walks you there. Tonight's score against a friend stays on the chalkboard and over the table, and the room gets told when someone is waiting at a table. Rusty also throws twice as fast, so you are not sat watching him. One thing I changed from your list: your 'brutal' dartboard setting could be beaten about once in 500 matches by a perfect player, so the top two settings are the measured ones now — the ladder reads 88 / 66 / 43 / 19 percent and every prize can actually be won."
+        },
         {
           "text": "Dartboard is way too big; the cabinet sides clip into the dart scoreboard",
           "status": "done",
