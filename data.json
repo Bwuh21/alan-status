@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T21:20:00.000Z",
+  "updated": "2026-10-28T23:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -195,6 +195,11 @@
           "text": "The arcade: the two claw machines by the front door look playable and do nothing",
           "status": "done",
           "note": "Live 10-27. They are scenery -- a glass case of plush, a claw, a coin slot, and nothing happens when you walk up. They now carry one plate, DISPLAY ONLY, pointing at the real claw inside in the middle of the room. Nothing deleted and the machines are untouched; they just stop promising a grab they cannot give."
+        },
+        {
+          "text": "The camera: never lose your player behind a chair, in every area",
+          "status": "done",
+          "note": "Live 10-28. Two separate things were losing you, and the smaller one is the one that got reported. First, the one you asked for: anything between the camera and your character -- a chair, a bar top, a table, a trim -- is now cut away around you and closes again when you step clear. One rule for the whole arcade rather than one per room, because every island and room is baked into two big lumps and a chair is a few hundred triangles inside a lump shared with the whole room, so the dungeon's way of fading one object at a time cannot work here. Second, and bigger: the arcade was switching your figure OFF whenever the camera got squeezed shorter than a metre, which backing into a wall does constantly -- that is the 'all of a sudden I can't see my player'. A squeezed camera also rises, so at its shortest it is about a metre and a half above your head looking down at you, where you are perfectly visible, and you were being hidden anyway. It now asks where the lens actually is. Measured over 78 stances backed against furniture in the lobby, hall, tavern and toy house: how much of your own figure reaches the screen went from 0% to 98% on a desk and 0% to 101% on a phone. Costs nothing -- no extra drawing, no extra shaders, and standing still your figure does not blink. Worth saying plainly: my first attempt at the second fix was measured as making things WORSE and was thrown away -- then the meter itself turned out to be leaving your figure visible after every reading, so that verdict was taken with a broken instrument. Re-measured properly, it reverses. Two things found and NOT fixed, filed with numbers rather than guessed at: the camera still ends up inside your own head at a few spots in the toy house, and one spot by the lobby shop goes black because the lens sits inside a prop that has no camera collision. Walk up to the tavern bar and back into it."
         }
       ]
     },
