@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T21:05:00.000Z",
+  "updated": "2026-10-28T18:34:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -461,7 +461,7 @@
         {
           "text": "A stray skating sound plays in the lobby — music, or a leak from the skate park? Find out",
           "status": "done",
-          "note": "Found: the skate island's little ghost board carried its wheels 26 m. Now 15 m and fading fast, and silent while you are skating."
+          "note": "Fixed properly 10-28, after you reported it again. The 10-16 fix only made the little ghost board quieter — the real fault was that its rolling sound had no off switch once you walked through the door, so it played on everywhere for the rest of your visit, and a new one piled on every trip in. One thing now turns all skate sound on and off, every frame, so leaving by any door, opening a menu, or switching tabs all go silent. Checked by reading the actual sound output, on the phone and the desk."
         },
         {
           "text": "Later: grow the park once tricks and basics are in",
@@ -1587,6 +1587,11 @@
           "text": "Undercroft, your five calls from 10-27: the first hall, a retry, banked skulls, a clean time, and a party in another dungeon",
           "status": "done",
           "note": "ALL FIVE ARE LIVE on the real domain. (1) THE FIRST HALL. Four of four strangers died in it, and it is the first room anybody sees: two soldiers and an archer were all awake the moment you stepped off the stairs, with two of them off the side of the screen. It is one soldier at the door now, and the other two wake when you walk into the room. Worth saying plainly, because it changed the answer: the readers both named a 16-metre number as the distance a foe wakes at, and it is not one -- it only says whether a fight is already on. The real numbers are 13 metres for a soldier and 18 for an archer, and measured against those, the exact move both readers prescribed would have left all three awake at the door anyway. Same three foes, same damage, same health; three letters moved on the map. (2) THE ARCHER HAD NO TELL, and it was the one shot in the game that can reach you from off the screen: its arrow flies 18 metres and both its warnings were switched off past 14 and 16. They reach as far as the arrow now, and the whole edge of the screen on the archer's side washes amber -- the little arrow we had was 26 pixels on a 390-pixel phone, which is not a warning you can feel. A second bug in the same place meant a foe with no weapon drawn on the model warned you silently too. (3) ONE RETRY. Light a flame down there and your first death puts you back at it, with the contract still yours -- once per contract, not in the boss fight. The coin is still spent: it is a second chance, not a refund. The flames have saved nobody until today -- the game wrote down which one you lit and then never read it. (4) SKULLS CARRY OVER. Get three of six and die and the next go starts at three. Kill contracts only -- a boss contract and a 'not a drop from your flask' one are single runs by their own terms. (5) EVERY CONTRACT KEEPS YOUR BEST TIME AND A CLEAN MARK (no flask, no falling), on the pinned notice, on the sheet in your hands, in the list, and on the card when you finish. (6) AND A PARTY CAN NOW TAKE A CONTRACT IN ANOTHER DUNGEON -- before, a party was locked to whichever one it started in, for ever. The leader takes it and everyone goes. What stopped it was a single line, and the reason written beside it had not been true for weeks. 51 checks on a desk and a real phone, every behaviour one written so it fails on yesterday's build, and re-run against the live domain."
+        },
+        {
+          "text": "Undercroft on a 390px phone: the boot title said CLICK, ran to both edges, and the cards sat on the glass",
+          "status": "done",
+          "note": "Live 10-28. All of it was one cause: every phone rule in the dungeon game only switches on once the page has finished downloading its 3D library, so for the first second a phone was laid out as if it were a desktop. That second is the first thing anyone sees. The name ran edge to edge and the line under it said CLICK TO ENTER on a thing with no mouse; it says TAP and fits, from the very first frame. The same blind spot hit a phone that a browser reports as having a mouse (a narrow window, an iPad with a trackpad) for the whole game, not just a second: there the strip that tells you where the quest board is -- the one line pointing a new player at it -- ran 89 pixels off the left of the screen and 89 off the right, so the half that says where to go was simply gone. Two more found while looking: the boot screen could be dragged sideways because the five job cards asked for 420 pixels of a 390 pixel screen, and the guildmaster's card and that strip were pressed flat against both edges with no margin at all. Worth saying plainly: the job sheet also said his card covers the top third of the quest board. It does not, and it never did -- measured from four distances on a real phone, on today's build and on the old one, the card ends 80 pixels above where the board starts and covers 0% of it. I did not move it, because moving it would have been a change made against a measurement that says don't. 26 checks, every one written so it fails on yesterday's build (yesterday's: 8 of them fail)."
         }
       ]
     },
