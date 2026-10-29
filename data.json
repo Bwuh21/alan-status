@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:20:00.000Z",
+  "updated": "2026-10-29T21:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -746,12 +746,12 @@
     },
     {
       "title": "Shove Off",
-      "status": "todo",
+      "status": "done",
       "subtasks": [
         {
           "text": "A cooler map: lean hard into the cartoony look, with outlines",
           "status": "done",
-          "note": "Live. Warm cartoon asteroid instead of a flat purple plate, twice-as-thick outlines, pebbles and teal crystals."
+          "note": "Live. Warm cartoon asteroid instead of a flat purple plate, pebbles and teal crystals. The outlines were doubled here on 10-15 and that part was wrong -- see the outline line below, 10-29."
         },
         {
           "text": "Keep the falling-apart map",
@@ -762,6 +762,21 @@
           "text": "Bots come in wearing skins",
           "status": "done",
           "note": "Live. Nine real shop skins, dealt fresh each match, each bot under its own name."
+        },
+        {
+          "text": "You can fly back INTO the island",
+          "status": "done",
+          "note": "Live 10-29. The rock was a flat plate with nothing underneath it -- the game only ever asked whether there was floor at your feet, so a jetpack climbing from below went straight up through the slab, through the boulders hanging under it, and out the top, and for about a second you were inside the asteroid. It is a solid body now, the shape you can see: five metres deep in the middle, two at the rim. Come up underneath it and you slide along the underside and out to the edge instead of stopping dead, which matters, because stopping dead under the middle would hover you there until the tank ran out -- a worse way to die than the bug. Holes a slab has fallen out of are still open: you can fly up through those, and that is the only way through. Proved by throwing a man off the rock four hundred times and watching every single frame of the climb back: nobody was ever inside it. The same check with the underside removed again finds him inside the rock seventeen hundred times, so the check can fail. And it caught something I would never have found by reading: my first version of the fix told you to climb straight up before coming in, which sounds careful and quietly cost a THIRD of every rescue in the game and halved the length of a round. That is out. Rescues and round length are now exactly where they were before I touched it."
+        },
+        {
+          "text": "The outline on the character is way too thick",
+          "status": "done",
+          "note": "Live 10-29. You were right and it was measurable: this was the only game in the arcade wearing an extra thickness multiplier on top of the one the lobby uses, so its thickest lines were drawing nearly DOUBLE the lobby's -- twelve pixels against seven on a desk screen. A note from 10-15 had doubled it on the reasoning that the line was too thin on a phone, and that reasoning was simply wrong about how the line is sized. It is back to exactly what the lobby draws. Measured rather than eyeballed, by rendering the same frame twice, once with the outline and once without, so the pixels that changed ARE the line. Side by side with the old shots the difference is obvious: every pebble used to sit in a soft dark smudge, and now it has a clean line round it and the rock reads brighter."
+        },
+        {
+          "text": "Some of the sound effects are just not good",
+          "status": "done",
+          "note": "Live 10-29. Four named and swapped, all from our own recorded kit. The SHOVE was a boxing slap for a moment that throws a grown astronaut off a cliff -- it is now four layers inside a twentieth of a second: the weight lands first, the crack on top, the suit rattles, and the man it happened to makes a noise. The FALL was one short whoosh, so the whole point of the game went past in a sixth of a second -- now you hear him cry out and the sound drops away below you. FLYING BACK ON, the best thing that happens in this game, had no sound at all -- boots, suit, and a bell, and the bell is only for yours, or a rock full of eight people scrambling back turns into a wind chime. And the WINS were backwards: every single round played the full match fanfare, three or four times a match, while actually winning the whole match was silent. The round gets a short sting and a bit of crowd now; the match keeps the fanfare. Checked by logging what actually PLAYED, not what the code asked for: fifteen real recordings, no leftover beeps."
         }
       ]
     },
@@ -1752,6 +1767,18 @@
           "text": "Strike City: tickets for how well you bowl, and three ways to play -- solo, friends, and wager bowl, winner takes all (Zack, 2026-10-28)",
           "status": "done",
           "note": "ALL THREE WAYS ARE LIVE on the real domain, 10-29, and your key renewal at lunchtime is what switched the first two on. Solo and friends: the alley pays you for the game you bowled -- every strike 3 tickets, every spare 2, every tidy nine 1 -- and the score sheet grows a green strip under your own row showing what each frame earned. No more 'beat 120 to win'. Everyone bowling together earns their own card that way. A game costs 1 coin now, not 2. WAGER BOWL, which is the part that was still missing this morning: at the shoe desk, after you say how many are bowling and how many games, whoever made the room is asked what the lane is playing for -- nothing, 5, 10, 25 or 50 tickets each. The sheet names the pot for your party on every button and will not offer you a number bigger than the tickets you actually have. Everyone then pays their own coin at the desk and puts their own tickets up, and the till says the number back to you before you pay, whether you set it or your friend did; if you cannot cover it you are told plainly that you bowl this one for nothing rather than being quietly left out. Best score takes the pot. ONE THING TO DECIDE, in the briefing: a tie splits the pot between everyone level at the top. That is what the server already does for every other game that plays for tickets, so I shipped it and said it out loud on the sheet -- 'Winner takes the pot. A tie splits it.' -- but the rule is yours to keep or change. Two honest limits: nobody has played a real wager yet with two phones in one room, and once you leave the desk nothing in the alley reminds you there is a pot on the lane. Both are written down as the next jobs."
+        }
+      ]
+    },
+    {
+      "title": "Zack's 10-29 ratings -- games he wants off the floor",
+      "status": "doing",
+      "insight": "Rated at the keyboard, game by game. Each cut is one row on the polish backlog, his words kept.",
+      "subtasks": [
+        {
+          "text": "Take Dark Room, Tow Truck and Deep Line off the floor (Zack, 2026-10-29)",
+          "status": "done",
+          "note": "LIVE on the real domain, 10-29. All three cabinets are gone from the arcade floor and from the All Games list. Nothing was deleted: the three pages still open if you have a link, and putting any of them back is one line. The room rebuilt itself round the gap -- the floor sign reads 22 machines now instead of 25, and the hall is one row shorter, so there is less empty carpet to walk. Checked by walking in on a desk screen and on a phone: no errors either way, and the speed check passed with room to spare (the hall draws less than it did). The three names still sit in some of the lists that say how a game should fill a phone screen; those are only read when you open that game, so they do nothing now and removing them would have been a bigger change than leaving them."
         }
       ]
     }
