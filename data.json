@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:10:00.000Z",
+  "updated": "2026-10-29T20:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1729,7 +1729,8 @@
         },
         {
           "text": "Strike City: tickets for how well you bowl, and three ways to play -- solo, friends, and wager bowl, winner takes all (Zack, 2026-10-28)",
-          "status": "todo"
+          "status": "part-done",
+          "note": "SHIPPED and live 10-29, but switched off at the database until the Supabase password is back. The alley now pays you for the game you bowled -- every strike 3 tickets, every spare 2, every tidy nine 1 -- and the score sheet grows a green strip under your own row showing what each frame earned. No more 'beat 120 to win'. Friends all earn their own cards the same way. Why it is off: the till can only be told you won or lost, one bit, so paying for a whole card needs a new piece of database that I cannot install -- the token is dead. The code is written, reviewed twice by the outside readers (they found three real holes, including one that would have refused a nine-strike game, all fixed) and waiting. Wager Bowl is designed and not built: it moves tickets between players, so it needs the same database sitting plus a clock fix, and it needs your yes on one question -- see the briefing. Also fixed on the way: the score card covered the controls on a phone held sideways."
         }
       ]
     }
