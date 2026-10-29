@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:40:00.000Z",
+  "updated": "2026-10-29T00:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1709,7 +1709,8 @@
         },
         {
           "text": "The toy house deep dive: trims that clip in the corners, floating chairs, flicker, and enter a track from any side (Zack, 2026-10-28)",
-          "status": "todo"
+          "status": "done",
+          "note": "10-28 LIVE. The flicker in the corners was the four corner posts. Each was a white post exactly as deep as the brown skirting, so at every corner the post's faces sat in the SAME plane as the trim's -- white against brown at one depth, which is the flashing you see -- and it cut the brown band dead at each corner. The bottom of each post is now brown trim and the white starts above it, both standing 4 cm proud, so the band wraps the corner and nothing shares a plane. Measured, not guessed: a detector that re-renders one frame with the lens nudged a third of a millimetre forward read 24 flickering blocks dead centre of the old corner and 0 on the new one, with a deliberately planted fight reading 628 so I know it can see one. The door frames also stood 2 cm BEHIND the skirting that runs into them, so the brown band ended in mid-air; they are the proudest trim now. Tracks: you could only step into one from its stand -- measured at eight bearings round all eight mats, it was ONE side in eight. Now it is eight in eight: if you are close to a mat, from any side, you can hop in. The house also had real floating furniture -- four playroom stools with a seat and nothing underneath, the porch rocking chair hanging 33 cm over its own rails, the study armchair with no legs at all -- plus a bookcase that was a solid block with its thirty books buried inside it, teepee poles through the ceiling, and seven small things hovering over the shelf they sit on. All fixed, and the two bare halls now have a console and lamp, a bench, a tall clock, packing boxes, a coat rail, a laundry basket and a key shelf. Four floors that LOOKED like they should flicker were measured and do not, so they were left alone. Try: walk into the playroom corner, then walk at any track mat from the back."
         },
         {
           "text": "A clipping skill and a sweep: catch two surfaces fighting before they ship, then fix every one in the arcade (Zack, 2026-10-28)",
