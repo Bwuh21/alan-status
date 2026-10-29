@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:55:00.000Z",
+  "updated": "2026-10-29T22:35:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1779,6 +1779,11 @@
           "text": "Take Dark Room, Tow Truck and Deep Line off the floor (Zack, 2026-10-29)",
           "status": "done",
           "note": "LIVE on the real domain, 10-29. All three cabinets are gone from the arcade floor and from the All Games list. Nothing was deleted: the three pages still open if you have a link, and putting any of them back is one line. The room rebuilt itself round the gap -- the floor sign reads 22 machines now instead of 25, and the hall is one row shorter, so there is less empty carpet to walk. Checked by walking in on a desk screen and on a phone: no errors either way, and the speed check passed with room to spare (the hall draws less than it did). The three names still sit in some of the lists that say how a game should fill a phone screen; those are only read when you open that game, so they do nothing now and removing them would have been a bigger change than leaving them."
+        },
+        {
+          "text": "The flicker around every cabinet screen in the arcade (Zack, 2026-10-29)",
+          "status": "done",
+          "note": "LIVE on the real domain, 10-29. You were right about the cause -- two pieces of material sitting on exactly the same plane, so the machine had no way to decide which one was in front and picked a different answer as you walked. Two places, and both of them were shared by every cabinet in the room, which is why you saw it on all of them: the thin blue glow around the picture started on the very same line the dark frame started on, and the lit bar across the marquee ended on the very same line as the metal cap at each end of it. The glow now laps 3mm over the edge of the picture, the way a real screen surround does, and the cap now wraps its bar instead of stopping level with it. Nothing else moved. Measured rather than guessed: I walked the hall thirteen times, once with every cabinet wearing each of the thirteen different machine styles, and counted every pair of surfaces sharing a plane near a screen -- 1732 of them before, none after. The room's other numbers fell by exactly that same 1732, which is how I know I did not quietly break something else while fixing this. I also photographed one cabinet from a sharp side-on angle and nudged the camera a hair, which is what makes a flicker show itself: nine flickering patches before, zero after, and the before picture put them exactly where you said -- the marquee bar, its end caps, and the left and bottom edge of the picture. Go stand close to any machine and walk slowly past it."
         }
       ]
     }
