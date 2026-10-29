@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T00:20:00.000Z",
+  "updated": "2026-10-29T01:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1714,7 +1714,8 @@
         },
         {
           "text": "A clipping skill and a sweep: catch two surfaces fighting before they ship, then fix every one in the arcade (Zack, 2026-10-28)",
-          "status": "todo"
+          "status": "doing",
+          "note": "10-29 PART LIVE: the checker is built and the bowling alley is swept. The checker plants a fake flicker on purpose and has to catch it, on a desk and on a phone, and it goes red when the fake is taken away -- so when it says a wall is clean, that means something. It also pushes a planted flicker through the full decision path, because a checker that can never say yes would quietly report the whole arcade clean. Then I measured how far a detail has to stand off its surface before it stops fighting: a flat 1 mm clears every distance and angle I tested, so the house rule is 2 mm, and 4 mm where it is free. Two surprises, both written down: two surfaces dead flat-on to you do NOT flicker -- it takes an angle -- and the gap does not need to grow with distance, which is what everyone assumes. The flicker you saw by the bowling lanes was every neon sign in the arcade: the glowing tube was sized to land exactly on the edge of its own backing board, so the sign's EDGES crawled while its face looked fine. The board is 4 mm wider all round now and the lit tube has not moved a hair. The red glow round the EXIT door was dead flush with the door frame too. Bowling alley before: 4 proven fights. After: none, with the checker's own alarms still ringing. Still to sweep: the hall, the lobby and islands, the tavern, the toy house, the skate park and the dungeon. Try: walk up the right-hand side of the bowling lanes and look at the ball-weight sign."
         },
         {
           "text": "The lobby, made consistent: arches over every bridge, jump pads, the rope to Stardust, and the blank gold plaque (Zack, 2026-10-28)",
