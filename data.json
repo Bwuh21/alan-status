@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:15:00.000Z",
+  "updated": "2026-10-30T01:45:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1746,7 +1746,8 @@
         },
         {
           "text": "The camera: never lose your player behind a chair, in every area (Zack, 2026-10-28: \"spend a lot of time ... a deep dive on the camera\")",
-          "status": "todo"
+          "status": "done",
+          "note": "10-29 LIVE. You said the first go put \"an orb around the player\", and that you would rather it made see-through whatever the camera is actually looking through. That is what it does now. The camera works out what really stands between the lens and you, and opens only that — and it fades the edges out like glass instead of cutting an oval hole in the room. Stand in the open, or beside the chair instead of behind it, and nothing is touched at all: the floor you are on, the bar in front of you and the stool beside you all stay whole, which is the part that was wrong before. Three things had to be got right and each one cost a real spot when it was wrong: a thin line to your chest clears a table while that same table still stands across your legs, so it looks along something as wide as you are; a table has to open along its whole depth, not just the far half; and the thing you are pressed right up against counts, because at the bar that is the only thing in the way. Measured at 78 spots across five areas, with and without the fix: on a phone you can now see yourself at every single one, and on a desktop at all but one. That one is a bit of tavern furniture nobody ever gave a solid shape to — the old orb was hiding it rather than fixing it, and it is written up as its own job. Try: walk behind the tavern bar, or up close to a cabinet, and turn the camera around yourself."
         },
         {
           "text": "The toy house deep dive: trims that clip in the corners, floating chairs, flicker, and enter a track from any side (Zack, 2026-10-28)",
