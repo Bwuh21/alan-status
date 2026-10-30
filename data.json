@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:05:00.000Z",
+  "updated": "2026-10-30T16:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -428,6 +428,11 @@
           "text": "More detail on the bar and the pool table",
           "status": "done",
           "note": "Live. Bar: a rack of wine glasses hanging over the counter, a tip jar, a towel over the rail, peanuts, a cut lemon, napkins. Table: brass trim round the apron, brackets at every leg, a maker's badge, leather pocket nets instead of wooden cups, two more chalk cubes and the triangle hung on the side."
+        },
+        {
+          "text": "The big walk-across pool table: little gaps around the pockets, in the corners (Zack, 2026-10-29)",
+          "status": "done",
+          "note": "LIVE, read back off the domain. Measured it first instead of guessing: half of every corner pocket was hanging over bare ground with nothing under it, which is the gap you saw. Three more came out of the same look -- no pocket was actually a hole (each was a black disc lying on top of the cloth with a leather ring beside it), the cushions ran straight past every pocket instead of stopping and angling into it, and the mouth was narrower than a ball, so the 8-ball was resting on a pocket it could never fall into. The cloth is now properly cut round all six pockets, every cushion stops short and angles its end into the mouth, each pocket is a leather throat that goes down, and the wood turns both corners at each end -- left open across the middle, because that is where you walk on."
         }
       ]
     },
