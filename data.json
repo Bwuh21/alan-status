@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T05:40:00.000Z",
+  "updated": "2026-10-30T03:58:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -816,6 +816,11 @@
           "text": "Charging a shot looks goofy — make the stick swing look natural",
           "status": "done",
           "note": "LIVE. The stick was swinging right round sideways with the blade two metres in the air, and it held there while you glided. It loads back and low now, both hands on it, shoulders turned, and whips through the puck."
+        },
+        {
+          "text": "The camera is cooked and the movement is super choppy",
+          "status": "done",
+          "note": "LIVE. Two separate faults, both real. One: the game thinks in fixed steps sixty times a second, and it was drawing you at the newest step and nothing in between — so on a fast screen one frame in eleven showed twice as much travel as the other ten, five times a second. It now draws you part-way between steps, and a skater at a constant speed moves exactly the same distance every frame, measured at 60, 144 and 165 — with a deliberately broken version run first to prove the measurement can fail. Two: every bit of the camera's smoothing was applied once per frame drawn rather than per second, so the camera behaved differently on every screen; the same play now draws the same camera path at 55 and at 82.5 frames a second, to within 1.3%. And after a goal the camera used to slide the whole length of the rink to the face-off — it cuts now, in one frame, on your screen and on a friend's. Three more things fell out of it: on a friend's screen a saved shot could briefly be drawn going INTO the net before snapping back, because the guest was guessing the puck forward past the keeper with no keeper in its copy — it now stops at the goal line and waits for the host to rule; other players snapped about 28 degrees at a time as they turned, and now turn; and the game was drawing 78% more pixels on a phone than its neighbours do, for a picture nobody can see at arm's length. 3v3 and 4v4 were the other half: with more than two a side, two players both read themselves as the one chasing the puck, every supporter ran to the same spot, every defender marked the same man, and EVERY pass in the match — yours included — went to the same teammate. Each one has a job of its own now, and the two-a-side game is untouched, proved identical across five seeded matches against the old build."
         },
         {
           "text": "Needs a better name — propose three",
