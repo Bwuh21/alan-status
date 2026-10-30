@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T04:50:00.000Z",
+  "updated": "2026-10-30T05:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1334,7 +1334,7 @@
         },
         {
           "text": "Private task",
-          "status": "blocked"
+          "status": "done"
         },
         {
           "text": "Private task",
@@ -1635,8 +1635,8 @@
         },
         {
           "text": "The shop: buy four named skins outright instead of only opening cases",
-          "status": "blocked",
-          "note": "BUILT AND VERIFIED, BUT DARK: it needs one database command and the Supabase token on this machine has returned 'invalid access token' since the 26th. Renew it and the shop lights up with no new build -- the shelf is drawn from the database rows, so the moment the four rows exist the shop has a shelf, and until then it is exactly the shop you have today. That is the whole design and the first third of the check exists to prove it: with no rows, no shelf section, no price on any card, and the case screen still calls itself the only way to get a skin. With the rows: Duck Floatie 80, Bumble Bee 150, Gumball Machine 260, Deep-Sea Diver 450, pinned above the rack with their prices on the cards, a Buy button that takes the tickets, and the four taken OUT of the case pool so you can never pay 450 for the Diver and pull it out of a 100-ticket case ten minutes later. The copy that the shelf makes untrue -- 'every skin comes from the Arcade Case', 'the only way to get a skin' -- is rewritten to count both sides instead of claiming either, so whichever is true today is what the screen says. The database half (the four prices, the buy routine rebuilt as a four-name allowlist so a browser can never name its own price, and the case draw taught to skip them) is written, reviewed and waiting in one file."
+          "status": "done",
+          "note": "LIVE, proven on the site 10-30. You renewed the key on the 29th; this is the walk that proved the shop actually behaves. The Duck Floatie bought off the shelf for 80 tickets with the test account, and an Open 5 gave five DIFFERENT skins with no shelf skin among them -- so you can never pay for the Diver and pull it out of a case ten minutes later. The statue in the plaza wears the last big pull with the name painted on its base. Older note, kept: BUILT AND VERIFIED, BUT DARK: it needs one database command and the Supabase token on this machine has returned 'invalid access token' since the 26th. Renew it and the shop lights up with no new build -- the shelf is drawn from the database rows, so the moment the four rows exist the shop has a shelf, and until then it is exactly the shop you have today. That is the whole design and the first third of the check exists to prove it: with no rows, no shelf section, no price on any card, and the case screen still calls itself the only way to get a skin. With the rows: Duck Floatie 80, Bumble Bee 150, Gumball Machine 260, Deep-Sea Diver 450, pinned above the rack with their prices on the cards, a Buy button that takes the tickets, and the four taken OUT of the case pool so you can never pay 450 for the Diver and pull it out of a 100-ticket case ten minutes later. The copy that the shelf makes untrue -- 'every skin comes from the Arcade Case', 'the only way to get a skin' -- is rewritten to count both sides instead of claiming either, so whichever is true today is what the screen says. The database half (the four prices, the buy routine rebuilt as a four-name allowlist so a browser can never name its own price, and the case draw taught to skip them) is written, reviewed and waiting in one file."
         },
         {
           "text": "Two outside readers went over Toy Fury line by line (10-27) and found nine things",
@@ -1777,7 +1777,7 @@
         {
           "text": "The RC garage: customize your car's colour and look, and see your player holding the remote (Zack, 2026-10-28)",
           "status": "done",
-          "note": "10-28 LIVE. Open the RC garage and there are three rows under the car now: fourteen paint colours, seven trim colours, and four wheel styles. Press one and the car on the stand changes while you watch. The wheels are not just a colour — a gold mag, a whitewall and a plain steel wheel are different shapes, and they look it on the monster truck. Beside the car stands your own player, wearing whatever skin you have on, holding a radio control handset painted in the same colours as the car — because that is what this is: you drive it by remote, you are not sitting in it. Every car keeps its own look, so your kart can be blue and your buggy green, and the car races in the colours you gave it. It is saved on your phone; carrying it to a second device needs a database change I have written down and left unapplied, because the key for that is dead. One thing a second pair of eyes caught before it shipped and it was the worst kind: pressing only a wheel, or only a trim colour, and nothing else saved a half-record the race refused — so the garage showed you gold mags and the track gave you plain ones. Every test I had written happened to save all three at once, which is not what pressing one chip does. Fixed, and there is a test for it now on both sides. Try: tap RC GARAGE, tap the gold wheel, then race."
+          "note": "10-28 LIVE. Open the RC garage and there are three rows under the car now: fourteen paint colours, seven trim colours, and four wheel styles. Press one and the car on the stand changes while you watch. The wheels are not just a colour — a gold mag, a whitewall and a plain steel wheel are different shapes, and they look it on the monster truck. Beside the car stands your own player, wearing whatever skin you have on, holding a radio control handset painted in the same colours as the car — because that is what this is: you drive it by remote, you are not sitting in it. Every car keeps its own look, so your kart can be blue and your buggy green, and the car races in the colours you gave it. 10-30: THE PAINT NOW FOLLOWS YOU. Until today a colour you picked on your phone was invisible on the computer -- the colour was being sent to the database and nothing ever read it back. One line, live now, and proven on the real site with two separate browsers: paint the kart blue with a red seat and whitewall wheels in one, sign in cold in the other, and the kart is blue with a red seat and whitewall wheels, chips lit and all. It reaches the race too, not just the garage stand. One thing a second pair of eyes caught before it shipped and it was the worst kind: pressing only a wheel, or only a trim colour, and nothing else saved a half-record the race refused — so the garage showed you gold mags and the track gave you plain ones. Every test I had written happened to save all three at once, which is not what pressing one chip does. Fixed, and there is a test for it now on both sides. Try: tap RC GARAGE, tap the gold wheel, then race."
         },
         {
           "text": "The camera: never lose your player behind a chair, in every area (Zack, 2026-10-28: \"spend a lot of time ... a deep dive on the camera\")",
