@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:06:00.000Z",
+  "updated": "2026-10-30T20:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -245,6 +245,11 @@
       "status": "doing",
       "insight": "\"The main point of this game is to make it super smooth and super optimised and right now it doesn't feel like that.\"",
       "subtasks": [
+        {
+          "text": "\"You have this really good movement in the lobby and then the moment you get into an actual game the vibe itself just gets changed completely\"",
+          "status": "done",
+          "note": "Live 10-30. It was real and it was one number. Your screen draws the lobby 82.5 times a second while you are moving or looking around — and it was holding every game to 55, no matter how well that game ran. That is the step you felt in the doorway. A game can now ask for the lobby's rate, and five of them already do: Shove Off, Broadside Bay, Hangtime, Ice Hockey and Comet Clash all go up to 82.5 the moment a round starts, and back down on the menu. Walk into any of those five on your desk and the change at the doorway should be gone.\n\nThe rest of the games are deliberately left alone. A game only earns the faster rate once it draws smoothly between its own steps — hand it to a game that doesn't and it looks WORSE, not better, because the same picture gets shown twice. Those five had that work done in the last two days; the others have not.\n\nYour phone is untouched, and so is any ordinary 60-frame screen. Nothing below a fast screen moves at all.\n\nTwo things worth knowing. The job sheet told me to add the switch and turn it on in no game — but five games had already quietly written the line that asks for it, back when nothing was listening, so flipping this on turned all five on at once. That is good news, it just means this changed more tonight than the sheet expected. And the sheet's one-line version had a real bug in it: it would have handed a game the fast rate even in a window you had clicked away from, which is exactly when the room is supposed to go quiet. Written the other way round, and I measured both to be sure — 82.5 the sheet's way, 11.8 the right way.\n\nOne thing left open and filed: those five games had their smoothing built and signed off while the fast rate did nothing, so none of them has ever actually been looked at running at 82.5. Worth your eyes."
+        },
         {
           "text": "Flying around the lobby feels chunky and laggy — find out why and fix it",
           "status": "done",
