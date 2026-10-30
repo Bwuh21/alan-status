@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:05:00.000Z",
+  "updated": "2026-10-30T05:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -911,6 +911,26 @@
           "text": "Stop asking for a name — use the player's name; signed-out players get \"Player 1\"",
           "status": "done",
           "note": "live 10-15 — the name box is gone; signed out you are Player 1, in a room Player 1-4"
+        },
+        {
+          "text": "The camera is \"bugged\" (Zack, 2026-10-29)",
+          "status": "done",
+          "note": "10-29 LIVE. The shake was the bug and it was one bug, not seven: a hit or a catch did not shake the lens, it threw it to a brand-new random spot 55 to 165 times a second, and it read as a glitch rather than a punch. It is one smooth shove now, the same one in both views. Second, picking RED put the camera on the far side of the court and then FLEW it there over the first second of the round, straight through the gym and across its own look point — the court appeared to flip over. It starts where it belongs now: 5.7 units of travel measured before, under 2.0 after. Third, a catch zooms in on the catch instead of on whatever happened to be in the middle of the screen. And if you are on the bench the camera watches YOU on your rock, not the patch of floor you were knocked down on. Proved across 24 replays — red and blue, upright and sideways, all six seats — with zero faults."
+        },
+        {
+          "text": "A 3v3 room loses two players: nobody in seats 5 or 6 is drawn, and throwing from one kills the frame",
+          "status": "done",
+          "note": "10-29 LIVE. Found while fixing the camera. The room lets a host pick 3 a side and the game seats all six, but the drawing code stopped at four: anyone in the last two seats was invisible — no body, no ring, no shadow, no name — and if YOU were in one of them, throwing a comet killed the whole picture. The game swallowed the error silently, which is why it had never been reported. Six of everything now, each with its own bench rock, and seats an ordinary 2v2 does not use stay hidden instead of standing at the middle of the court."
+        },
+        {
+          "text": "It is choppy next to the lobby — \"it's a fixed camera, sure, but then it has smooth movement like the lobby?\" (Zack, 2026-10-29)",
+          "status": "done",
+          "note": "10-29 LIVE. The game thinks 60 times a second and your screen draws 55 or 165 times, so every body stood still for a frame and then jumped two steps. It draws between its steps now — and not just the players: their rings, shadows, name tags, the comet in the hand and the aim line out of it, all together, because moving only the body would have left the rest sliding off it. Measured on three different screen speeds: under 2% variation in how far anything moves per frame, and the test still fails if the fix is switched off. The other half only bites in a room: everybody except you was frozen for four frames at a time and then teleported, because your friend's body was only ever moved when a packet arrived. Now it keeps moving between packets and the packet eases it in. Checked with two real games talking to each other."
+        },
+        {
+          "text": "\"I wish there was more of a power system to it where if you threw the ball harder it would be harder for the other person to catch. I can kind of charge up a shot more\" (Zack, 2026-10-29)",
+          "status": "done",
+          "note": "10-29 LIVE. Half of this already existed and NOTHING drew it: holding the button for half a second took the comet from 23 to 47 and cut the time to catch it from 260ms to 110 — the one thing you could feel was the one thing you could not see. There is a meter in the throw button now, and a bar on the desk, with a mark where the ordinary charge stops. The comet carries its power in flight too: a soft one is a dull pebble, a hard one is a white-hot comet with a fat tail, and there is a ring that snaps out of your hand when you let go. Then the part you asked for: KEEP HOLDING past full and it says OVERLOAD — 0.65s more for 54, and 90ms to catch. No hold time anywhere is slower or easier to catch than it was, which is the rule I built it to. 90ms is a deliberate floor: your friend's catch is judged on the host's screen and their press arrives up to 50ms late, so anything tighter is a throw a friend simply cannot catch. One thing that surprised me: the bots could not feel ANY of it, because they aimed their catch at the window itself — a number no player can see — so a harder throw just made them press later. Fixed; measured over 1200 throws a band."
         }
       ]
     },
