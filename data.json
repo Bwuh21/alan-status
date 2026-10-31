@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:45:00.000Z",
+  "updated": "2026-10-31T16:35:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -699,6 +699,11 @@
           "text": "One room, not two — the cabinets and the five machines together",
           "status": "done",
           "note": "Live. The games room had zero cabinets in 16 m of bare carpet; everything else was crammed next door. Now one floor: cabinets in rows down the middle, skee ball and the hoop left, the claw and the pusher right, air hockey at the end of the lit path. One wide door instead of two — on a phone you used to land facing a blank wall."
+        },
+        {
+          "text": "Air hockey: a friend can take the far end, and the room can watch the score",
+          "status": "done",
+          "note": "LIVE on the real domain, 10-31. The table in the front room is two-player now. In a room with friends, walking up and pressing Play takes an END of the table instead of starting a game against the machine -- no coin is taken while you wait, your friends get a message telling them you are at the table with a button that walks them there, and Space (or a tap) plays the house instead if nobody comes. When someone takes the other end you play a real match, first to 7, and each of you pays your own coin and keeps your own result. No tickets on it. The score hangs over the table with both your names on it, so anybody in the hall can read it from across the room and watch the puck move while you play -- that happens even when you are playing the machine. Hardest part was that one screen has to be the referee or the two of you would disagree about the score: the near end runs the puck, and the far end runs the identical game so its own mallet never lags behind its thumb, then quietly agrees with the referee. Three browsers in one room proved it: a match played out 7-5 with both screens showing the same score every single time I looked (252 checks), each player charged once and settled once, and the third browser standing in the hall reading the live score and watching the puck. Four real faults turned up on the way, and two of them you would have hit in the first minute: standing at the far end you were looking at the BACK of the scoreboard with the goal you shoot at hidden behind it (there is no height that fixes it, so that end simply does not see the board now -- its score is on screen), and the machine's mallet vanished entirely whenever it played the near end."
         },
         {
           "text": "Air hockey: the mallet trails your finger",
