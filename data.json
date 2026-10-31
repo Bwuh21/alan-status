@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T02:40:00.000Z",
+  "updated": "2026-10-31T03:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -220,6 +220,11 @@
           "text": "A game whose code is broken passes every check we have, and the arcade shows it as a frozen title screen",
           "status": "done",
           "note": "Live 10-30. This already happened to you: Broadside Bay was dead on the site for two days in October and not one check noticed. If a game's code has a typo in it the whole thing never runs -- but the title screen is ordinary web page, so it still paints perfectly, and every check we had was looking at a picture. The dead page's photograph was 480 KB. The working game's was 474 KB. The picture was BIGGER when the game was broken. Three things now. Nothing reaches the site without its code being read first, which takes about a second per game and happens on both routes a change can take. The checks that boot a game now ask the game itself whether it ever ran, instead of looking at a screenshot. And in the arcade, if a game does fail to start, you get a card that says 'This game did not start' with Try again and Leave, rather than sitting on a title screen that answers nothing. All of it proved against the actual bytes that broke Broadside Bay -- every gate comes out red on them and green on the real game. One thing that came free: the loading card used to sit on top of a game that was already playing for up to half a second. It now comes off in the same frame the game draws its first picture."
+        },
+        {
+          "text": "Hoops and skee ball paid pass-or-fail, and a tap after the buzzer bought a round you never asked for",
+          "status": "done",
+          "note": "Live 10-30. Both machines pay you for how well you played now, not for clearing one bar. Hoops: 24 points pays 7 tickets, 40 pays 11, 60 pays 19, 80 or better pays 33. Skee: 150, 300, 450, 600 for the same four. Any finish still pays 3, so a cold go is never a punishment. The ladder is printed on the machine BEFORE you put the coin in and the rung you landed in lights up at the buzzer, so you can see what the next 20 points are worth while you are still playing for them. Second thing: a finished go that only took fifteen seconds used to pay nothing at all -- the server had a twenty-second rule that made sense when the only thing a round could say was 'I won', and is simply wrong for nine skee balls actually rolled. Third, and this one was costing you coins: a new round used to start on ANY touch of the glass, and the glass is where you throw. The follow-through of your last shot landed a quarter-second later on a finished round and bought another one with your coin. It is a button now, which a follow-through cannot hit. The same bug was on the keyboard at skee, where the spacebar IS the roll. Proved on the real site as a non-admin player, not as you: a real coin left the purse, a 460 skee go put 19 real tickets in it four seconds later, a browser claiming a billion points got clamped to what one go can actually score, the same receipt paid twice paid nothing the second time, and another player's receipt could not be cashed at all."
         }
       ]
     },
