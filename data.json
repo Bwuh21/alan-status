@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T20:55:00.000Z",
+  "updated": "2026-11-03T21:15:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
-      "insight": "Self-feeding queue — it restarts itself the moment one item ships, no prompt needed.",
+      "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
         {
           "text": "Splatflag: fix the infinite-respawn-hit bug",
