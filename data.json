@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T11:45:00.000Z",
+  "updated": "2026-11-03T12:18:05.229Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1108,6 +1108,14 @@
           "text": "Client pays the setup fee",
           "status": "blocked",
           "note": "client action"
+        },
+        {
+          "text": "First 25 businesses + the exact email each one gets, in front of Zack tonight for a 10-min yes/cut",
+          "status": "todo"
+        },
+        {
+          "text": "Private task",
+          "status": "blocked"
         }
       ]
     },
