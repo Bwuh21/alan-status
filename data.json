@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:05:00.000Z",
+  "updated": "2026-11-03T23:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -235,6 +235,11 @@
           "text": "The yellow \"a friend is waiting at the pool table\" bar sat on your bowling sheet",
           "status": "done",
           "note": "Live 11-03. Two things were wrong with that bar and both are fixed. First, it was pinned to a fixed spot on the screen that was worked out by hand months ago from where the white message bar used to sit. The white bar has since moved down to clear the notch on an iPhone; this one did not follow, so on a notched phone it landed on your ten-frame sheet and on your coin chip, and on every phone it sat inside the white message itself -- the one thing its own note in the code says it must never cover. It now sits a fixed distance under the white bar wherever that bar actually is, measured when it appears and again if your sheet changes size underneath it, so the two cannot drift apart again. Second, and this is the one you would notice: the bar could only ever use half the width of a phone, so \"Pogo is waiting at the pool table\" came out as five words stacked in a narrow column beside the Join button. It uses the screen now -- one line on a computer, two on a phone. Checked on a notched phone and a flat one, standing on the floor and at an open lane, with the white message up at the same time: 48 checks, all green on the live site. The old position is planted back in as a deliberate failure and it reproduces the exact overlaps that were reported, so the test can see the bug it was written for."
+        },
+        {
+          "text": "Last Call: the browser can take the graphics away and the game kept playing behind a frozen picture",
+          "status": "done",
+          "note": "Live 11-03. A browser is allowed to take the graphics chip back off a page at any moment -- when something else on the device wants it, or the tab has sat in the background. Last Call had been told when that happened since the day it was written, and did nothing with it: the round kept running, the clock kept going, nothing was being drawn, and you were looking at a still picture with no words on it. It stops now and says so, with a button to load it again. The trap, and it is the reason this took measuring rather than typing: the warning is a liar. Browsers fire it while they are still starting up and then hand the graphics straight back, so a game that believes the warning would throw a scary card in front of someone whose game is drawing perfectly. It waits two seconds and asks the graphics chip itself, and the test plants both -- a real loss, and a lying warning that must never produce a card. Nineteen checks, all green. Whether this is our box or the game was the first question and the answer is the box: on a computer-sized window, six of twelve starts across three different games came up with no graphics and every one of them kept running behind a frozen picture. On a phone it is clean, 16 out of 16, and all 26 games boot clean. Two more things went in while I was in there: when you get knocked off the table it now tells you WHY -- shoved, hauled off, or you walked off the edge -- which is the exact thing two strangers said was unexplained; and twelve messages were printing two hyphens in the middle of a sentence where a dash belongs."
         }
       ]
     },
