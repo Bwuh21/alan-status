@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:18:05.229Z",
+  "updated": "2026-11-03T12:20:24.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -678,7 +678,7 @@
         {
           "text": "Cabinets clip a lot, especially the screens",
           "status": "done",
-          "note": "Live. They were 2.5 m apart and the wide ones are 2.3 m across, so neighbours overlapped in every row. 3 m now."
+          "note": "Live. They were 2.5 m apart and the wide ones are 2.3 m across, so neighbours overlapped in every row. 3 m now. — 11-03, and this is the half that was NOT around a screen. The job sheet said the room still had 2074 of these bad seams left. It has 613, and only 142 of those were two DIFFERENT colours sharing a surface, which is the only kind you can actually see flicker — the rest are one colour, where it makes no difference which face wins. The sheet's number came from adding up thirteen imaginary copies of the floor, one per cabinet style. Four real ones found and fixed, and I checked every one could actually be SEEN before moving it, which is the mistake the last few of these made. The big one: the entrance room's end wall and the building's own outer wall were sitting in exactly the same plane, two dark purples fighting over 52 square metres, with the wall's gold trim strip pushed back into it so it joined in. Then every poster in the hall was sunk INTO the wall panel it hangs on, on both walls, at eye height. Then the entrance room's ceiling ended exactly flush with the tops of its own side walls. The best one last, and it is the one that mattered: the gold ring you land on when you walk in was the only place in the room where the flicker could actually be photographed — real flickering pixels, not just a rule broken on paper — and it is the first thing a player stands on. It sat one millimetre above the floor, half a millimetre off a light pool and exactly on the underside of the pink path line. It rides on top of all of it now. Measured on the live site: the visible shared surface went from 158.7 square metres to 11.0, a 93% cut, with nothing added to the room and no part of it drawn any slower. Worth saying plainly: my own method would have MISSED the one that was really flickering — it sat a millimetre out, and the job sheet only asked about things touching dead-on. Walk in the front door and look down at the gold ring, then up at the posters."
         },
         {
           "text": "Clean up the cabinets; the hall is a giant box — give it a real vibe",
