@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T19:40:00.000Z",
+  "updated": "2026-11-04T21:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2028,8 +2028,8 @@
         },
         {
           "text": "Undercroft: remove the hole in the ground -- you can get stuck in the ground by it (Zack, playtest 2026-11-03)",
-          "status": "todo",
-          "note": "Queue row 470."
+          "status": "done",
+          "note": "Live 11-04. You were right twice. The hole: a square pit in the floor of the first dungeon's big hall, the same one you asked about on 10-02 — that time we gave it depth and a glow, which made it look better and left it just as dangerous. It is plain floor now, and the first dungeon has no drop anywhere, which suits it as the one everybody starts in. Real drops stay where they are meant to be: the bridge room in the Ember Works, and every boss pit. The getting stuck was the worse half and it was not only in that hole. Falling into any drop dropped your body forty metres and nothing ever brought it back up. On your own you were under the floor for three seconds before the game walked you home, so you barely noticed. Playing with Ibrahim you were under it for the rest of the run — the camera follows you down and stops just below the floor, so you spend the whole contract looking at the inside of the ground. Now a fall lays you down at the edge you walked off, above ground, out of the contract exactly as before. Measured on the old build: every way into that hole buried you, 24 out of 24, and 30 out of 30 on the Ember Works bridge. On the new one, 60 out of 60 land on the edge."
         },
         {
           "text": "Undercroft: lock-on (Zack, playtest 2026-11-03)",
