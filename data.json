@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:05:00.000Z",
+  "updated": "2026-11-04T01:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -262,6 +262,11 @@
           "text": "Replace the small underlined \"step away\" / \"put down the darts\" links with a big red LEAVE GAME button",
           "status": "doing",
           "note": "built 14:15, deploying now"
+        },
+        {
+          "text": "Travel is one tap now, so a friend vanishes from your room mid-sentence with no word",
+          "status": "done",
+          "note": "Live 11-03. When you tap a place at the top, the people you leave behind now get one line: \"Zack went to STRIKE CITY\". Nobody is dragged along and nobody is offered a lift — you asked for \"only you move\" and that is still exactly what happens. Tapping a place also names where you landed, so you know the tap worked; walking through a door does not, because the sign over the archway is already in front of you. Only the room you actually left is told, so four friends travelling together get one line each at most instead of a line every time anybody hops. Checked with two real browsers in one room, the invite actually pressed, against the live site. The claim that only you move had never been measured — the test said so itself, blaming the networking library. That was wrong: the test opened two guests on a room nobody had hosted, and since October 18 an invite link asks before it joins, so neither page was ever in a room. Both fixed; it is green now and it is a real measurement. The phone found a bug nobody would have seen by eye: a player with a long name would have had the PLACE cut off the end of the line on a 390-pixel screen, which is the only word the line is for. The name gives way instead."
         }
       ]
     },
