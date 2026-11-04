@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T12:55:00.000Z",
+  "updated": "2026-11-04T13:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1993,8 +1993,8 @@
         },
         {
           "text": "Party games pull players in one at a time instead of as a party (Zack, playtest 2026-11-03)",
-          "status": "todo",
-          "note": "Queue row 463."
+          "status": "done",
+          "note": "Live 11-04. You were right, and it was worse than one at a time: you and Ibrahim were never in the same game at all. I sat two real browsers in one room and pressed JOIN at the party podium with both. One landed in Last Call, the other in Out Of The Sun, each playing alone against bots. The podium had never known a room existed — it drew its own four games and opened its own private round, per person. Now, when you are in a room with friends, pressing JOIN puts you in a queue the room can see: a card says how many are in and counts down, ten seconds to give a friend time to walk over, cut to three the moment everyone is in. Then all of you drop into the SAME game at the same instant, and you stay together: the next round does not start until the last of you is out of the one before, so somebody finishing early waits for you instead of running ahead. A friend walking out no longer ends the party for everyone else. Playing it alone is exactly as it was — four random games against the bots. Proved on the real site, not my copy, with two browsers: one shared match for round one, the same for round two, the same playlist on both screens, and the two of them in it 55 milliseconds apart (it was nearly two seconds and two different games before). The second browser was a phone. One thing I fixed after looking at the photo: the line at the podium ran off the side of a phone and under the Leave button, so it is four short pieces now. Try: get in a room with Ibrahim, both walk to the party podium and press E. You should see each other's name in the game."
         },
         {
           "text": "Party seat prompt: \"No\" to taking a seat is hard to hit (Zack, playtest 2026-11-03)",
