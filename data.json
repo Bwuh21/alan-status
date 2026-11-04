@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T13:45:00.000Z",
+  "updated": "2026-11-04T17:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1998,8 +1998,8 @@
         },
         {
           "text": "Party seat prompt: \"No\" to taking a seat is hard to hit (Zack, playtest 2026-11-03)",
-          "status": "todo",
-          "note": "Queue row 464."
+          "status": "done",
+          "note": "Live 11-04. You were right, and I found which prompt it was by measuring all three of them before touching anything. The two cards that can stand between you and a seat are fine on a phone and a desk. The one that is not is the yellow bar you get when a friend sits down at a table in the tavern -- it says who is waiting and where, and JOIN walks you straight into the seat beside them. JOIN was a proper button. The way out was a little grey cross in the top-right corner of the screen, a quarter of JOIN's size, in the hardest spot on a phone for a thumb to reach -- and it was that small by accident: it was wearing a style that only sizes itself up inside a pop-up panel, and this bar is not one, so it got nothing. It now says NOT NOW, in a button slightly BIGGER than JOIN, on both screens. I proved it by playing it: two browsers in one room, a friend really sitting down at the pool table, and the button really pressed with a finger on the phone and a click on the desk -- the bar goes away, you are not put in a seat, you do not get walked across the room, and a press 20 pixels off the middle of NOT NOW still lands on NOT NOW and never on JOIN. JOIN still works: the friend moved to the darts, a second bar came up, and pressing it stood me at the oche. One thing I found and did not fix, written up as its own job: if friends are at two tavern tables at once and you say NOT NOW to the first, the second one never asks you."
         },
         {
           "text": "Toy Fury: the car menu before the race screen is bugged (Zack, playtest 2026-11-03)",
