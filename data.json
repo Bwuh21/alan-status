@@ -7,6 +7,11 @@
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
         {
+          "text": "Things you can walk straight through: the checker that finds them had stopped working",
+          "status": "done",
+          "note": "Live 11-03. The tool that walks the whole arcade looking for solid things with no hitbox used to report 8 problems; it was reporting 418, which is too many to read, so nobody read it, and it never failed a build either way. Most of that was the tool being wrong, not the room: it counted every bridge lamp post as broken, and it called a patch of floor with a lamp hanging over it a wall. It also gave a different answer every time you ran it. Fixed, and it now stops a build. Three real ones found and fixed on the way: at Orbit Stadium you could walk round behind the big horseshoe of seats and stand inside them; the four searchlights on the plaza were walk-through; and the grandstand at Toy Fury had an invisible wall in front of it and four open corners. Three more are real, named on the page the tool prints, and not yet identified."
+        },
+        {
           "text": "Splatflag: fix the infinite-respawn-hit bug",
           "status": "done",
           "note": "live 10-15 -- a downed body had no collision for 4 s. Re-checked 10-17 at the live site: still fixed."
