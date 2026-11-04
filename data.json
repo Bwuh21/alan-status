@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:25:00.000Z",
+  "updated": "2026-11-04T02:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -95,6 +95,11 @@
           "text": "Toy Fury: friends on different wifi may still fail to connect",
           "status": "done",
           "note": "Live 10-17. The round was agreed with two messages sent once each and never repeated: your 'I'm ready' and the host's 'we're off'. Lose either one — and on two different networks you will — and the race simply never happened: the host sat waiting on a friend who HAD hit ready, and the friend sat on a greyed-out READY button with no way out but closing the game. Both are repeated now until they land, and if the host starts without you, your button comes back instead of staying dead. The garage also told you nothing: 'Waiting for Zack' was the line whether the road was open or had never opened at all. Eight seconds of silence and it now says so by name, and tells the host it will start without them and when. Mid-race, a friend whose phone or signal dies used to leave a car sitting on the track looking alive, keeping its place and holding your results screen up to three minutes — it drops out after five seconds now, and comes straight back if their signal does, because a few seconds of nothing is usually a stutter, not a death. Proved on a test road that eats messages on purpose: four cases, all four broken before, all four fixed. One thing I could not fix from here: when two phones are on different mobile networks the connection needs a relay service we do not have an account for, and buying one is your call."
+        },
+        {
+          "text": "Toy Fury: a friend who pockets their phone freezes the race for everyone",
+          "status": "done",
+          "note": "Live 11-03, and this one is a repeat we did not catch. We fixed it on 22 October — a phone with the screen off stops being given frames, so that player's car stops being driven and everybody else's screen writes it off as dropped out after five seconds; and if the person who pockets it is the host, that is the whole room, because the host alone drives the computer cars and decides the knockouts. Worse in the garage: the host never deals the race, so the friend sits on a greyed-out READY for ever with no rescue coming. It shipped that morning with 24 of 24 checks green, and a different build eleven hours the same day quietly put an older copy of the file back and wiped it out. Nobody saw it, so it has been broken again for twelve days. The reason nobody saw it is the part worth your attention: the test that catches exactly this already existed, and had been failing that entire time, because nothing ever runs it. Restored and live, 27 of 27 checks green — a hidden host keeps talking at nine messages a second against eleven visible, its car and all six of its computer cars keep driving on the friend's screen, nobody gets dropped, and a host hidden in the garage still starts the race. One real improvement over the original while putting it back: letting go of the controls when the phone goes away used to be a hand-written list, and the ZAP and SHIELD buttons were added to the game eleven hours after that list was written — so a faithful copy would have left both held down for the whole time the phone was away. It is one shared list now and a new button cannot be missed. Three test benches for this game were also found stuck and are working again; two had been failing for days for reasons that had nothing to do with the game being wrong. I have filed the obvious follow-up: give this game's tests something that actually runs them."
         },
         {
           "text": "Toy Fury: Knockout mode is disabled in friends races",
