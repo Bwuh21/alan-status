@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T21:40:00.000Z",
+  "updated": "2026-11-04T22:35:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -922,7 +922,7 @@
         {
           "text": "Start in a small boat; every ship you sink grows yours",
           "status": "done",
-          "note": "LIVE. Five hulls, launch to ship of the line, swapped on the water mid-fight. Your FIRST kill promotes you."
+          "note": "LIVE. Five hulls, launch to ship of the line, swapped on the water mid-fight. Your FIRST kill promotes you.\n\n11-04: IN THE OPEN SEA IT WAS NOT GROWING YOU, and the reason was hidden. Going down took away the part of a class you had already earned, on top of the two classes it says it takes. At the smallest boat that was the WHOLE punishment, because the smallest boat has no classes to lose — so you would get a boat and a half of the way to the next size, go down, and start from nothing again. Two kills is a size up, and you were being wiped before you could ever bank the second one. The screen showed it plainly once I looked: the bar that says '2 / 3 TO CUTTER' snapped back to '0 / 3' every time you sank, and you had earned that 2. It now holds. Measured over six full five-minute rounds before and after, with nobody steering, so it is the boats against each other and not me flattering it: the sea pays out about 86 points of growth across six rounds and 38 of them were being thrown away — 44%. That is down to 12. And the size you are actually SAILING now matches the score you have been paid in every single round; before, it lagged behind in half of them. Somebody reached the third size for the first time. The bit I did NOT do: the prices on the ladder are untouched, and so are the guns and the reload. The round brief said they had drifted to half, and they have not — I re-ran the original measurement on a quiet machine and it came back exactly as the game claims. The old reading was taken on a busy machine, which really does change this game's numbers (the cannon timing runs on a real clock while the test runs the game 16x fast). Same machine, same hour: one round paid 26 points and another paid 8. So moving the prices would have been fixing a good table to suit a slow computer, and speeding the sinking up would have made the real bug WORSE, since every extra sinking was another wipe. ONE THING LEFT FOR YOU, and it is now a clean question with the confusion taken out of it: about one round in six is just a quiet round — six points in the whole sea, nobody sinks two things, so nobody grows. Nothing is being deleted in those rounds. Making the first size-up cost one kill instead of two would end that for good, but that is how your arcade should FEEL and it is a one-line change either way, so it is yours. Also found by looking at a phone screenshot and filed rather than rushed: the message you get coming back from a sinking wraps across the boat labels on a phone and both become unreadable — it is clean on a desktop."
         },
         {
           "text": "Multiplayer: battle other ships to become the biggest (agar.io feel)",
