@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:16:00.000Z",
+  "updated": "2026-11-04T04:45:52.621Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1973,6 +1973,88 @@
           "text": "Rusty's tux and shirt flash at the bar (Zack, 2026-10-29)",
           "status": "done",
           "note": "LIVE on the real domain, 10-30. Same cause as the cabinet flicker, and this time there were three pieces on one plane instead of two: his shirt front, both lapels and his brass name badge were all at exactly the same depth, overlapping each other. So a strip of cream shirt and the dark lapel on top of it were at the same distance from you, and the machine picked a different winner as you moved -- which is the flashing. The badge sat the same way across the left lapel. They are a proper stack now, each layer standing a few millimetres off the one under it, and each one also pushed back far enough that it is still anchored in the layer below rather than floating on it. Two things worth knowing. One: I proved it before touching anything, because a flicker is the one fault a normal check cannot see -- a check reads the game's state, and the state is perfectly correct either way. The detector re-renders a single frame with the lens moved a third of a millimetre forward and counts what changed, with a known flicker planted alongside so I can tell it is still working. Rusty failed it standing at his station and failed it again leaning over the counter for a glass; after the fix both are clean, from eight angles each, and I checked it again on the real site rather than on my copy. Two: it turned up something nobody had noticed -- the orange pocket square in his top pocket was five millimetres BEHIND his lapel and completely inside it, so it has never once been visible since he was built. It is on top now and you can see it. Walk up to the bar and watch him polish a glass."
+        }
+      ]
+    },
+    {
+      "title": "Zack + Ibrahim's playtest, 11-03 night -- party, Toy Fury, bowling, the Undercroft, a fighting game",
+      "status": "todo",
+      "insight": "Pasted at the keyboard after the two of them played through together; queued as rows 462-476 AHEAD of the backlog, their words kept in each.",
+      "subtasks": [
+        {
+          "text": "LastHex: the controls are inverted on the hex tiles (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 462."
+        },
+        {
+          "text": "Party games pull players in one at a time instead of as a party (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 463."
+        },
+        {
+          "text": "Party seat prompt: \"No\" to taking a seat is hard to hit (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 464."
+        },
+        {
+          "text": "Toy Fury: the car menu before the race screen is bugged (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 465."
+        },
+        {
+          "text": "Toy Fury: make it more race-like and immersive, with more detail, and a toggle for your character in or on the car (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 466."
+        },
+        {
+          "text": "Strike City: more details and picture in the bowling (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 467."
+        },
+        {
+          "text": "Sports games: the tutorial should not be forced (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 468."
+        },
+        {
+          "text": "Undercroft: delete the builds (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 469."
+        },
+        {
+          "text": "Undercroft: remove the hole in the ground -- you can get stuck in the ground by it (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 470."
+        },
+        {
+          "text": "Undercroft: lock-on (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 471."
+        },
+        {
+          "text": "Undercroft: the Assassin's flurry attack is weak (Zack + Ibrahim, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 472."
+        },
+        {
+          "text": "Undercroft: when you die, clear all the GUI and the boss music (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 473."
+        },
+        {
+          "text": "Undercroft: both players get into the boss fight, no matter who walks in (Ibrahim, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 474."
+        },
+        {
+          "text": "Grand Regent skin: make it Divine (Zack, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 475."
+        },
+        {
+          "text": "New game: a boxing and wrestling sim (Zack + Ibrahim, playtest 2026-11-03)",
+          "status": "todo",
+          "note": "Queue row 476."
         }
       ]
     }
