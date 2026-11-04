@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T22:35:00.000Z",
+  "updated": "2026-11-04T23:30:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2038,8 +2038,8 @@
         },
         {
           "text": "Undercroft: the Assassin's flurry attack is weak (Zack + Ibrahim, playtest 2026-11-03)",
-          "status": "todo",
-          "note": "Queue row 472."
+          "status": "done",
+          "note": "Live 11-04. Ibrahim's joke was the most accurate bug report of the night. Three things were wrong and I measured all three. FIRST: it did NOTHING to anyone carrying a shield. All five strikes were light taps, a raised shield turns a light tap, and the very first clang knocked you out of your own move -- so against the three shield-carriers in the game it was zero damage at every distance, for a quarter of your wind and eight seconds of waiting. Worse, plain left-click is also zero against them, so the dagger job simply had no answer to a shield. SECOND: it was weaker than just mashing. 65 damage a press, where mashing the button for two seconds does 104 -- and per second of waiting it came in under the priest's lightning bolt, which costs the same and comes back in five seconds instead of eight. THIRD: your man stood STILL. The old move froze him in one pose for the whole thing, and over the wire Ibrahim saw no animation at all, just sparks. Now: a short lunge at whoever you are locked on, four quick alternating dagger stabs, then both blades in a heavy X that breaks a shield -- 86 damage, the hardest single hit in the game for its cooldown, and it reaches 4 metres instead of 3.25. It also stopped stuttering: the old one froze the game five times in half a second (a third of that second was frozen), the new one freezes once, on the X. And if you smoke-bomb first, the triple damage now lands on the X instead of being wasted on the first 13-point poke -- that is the Assassin's combo. To try: play the dagger job, walk up to a Gaol Warden (sword and shield) and press 3. 32 automatic checks pass on the live site and 24 of them fail on yesterday's build, so they are measuring something real."
         },
         {
           "text": "Undercroft: when you die, clear all the GUI and the boss music (Zack, playtest 2026-11-03)",
