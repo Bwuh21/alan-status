@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T23:30:00.000Z",
+  "updated": "2026-11-05T00:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2043,8 +2043,8 @@
         },
         {
           "text": "Undercroft: when you die, clear all the GUI and the boss music (Zack, playtest 2026-11-03)",
-          "status": "todo",
-          "note": "Queue row 473."
+          "status": "done",
+          "note": "Live 11-04. You were describing something worse than you knew. On your own, dying left every bar and button on screen for three and a half seconds and then cleared. In a party — which is how you and Ibrahim played — a fall or bleeding out left you dead with NO timer at all: no screen, no walk home, nothing. So the full set of meters, the boss's health bar, and on a phone all six fight buttons just sat there, with the boss music and the war drum at full volume, for the rest of the run while your friend fought on. The reason the music never stopped is that four different places in the game asked \"is a boss hunting me\" and not one of them asked whether YOU were still alive — they only checked whether the boss was. Now there is one answer to that question and all four read it. A death goes silent: the boss track fades out and nothing replaces it. The screen clears to just what explains the death — what killed you, what it cost, and one line that stands rather than fades: a flame cannot raise the dead, you go home when your party does. Two more things the screenshots caught. The settlement card is not solid black, so every meter was showing through it, and \"KINDLE THE FLAME\" was standing behind \"CONTRACT LOST\"; a card now owns the whole screen. And a line in the game meant to take the last banner down had never worked, so \"DOWN — A FRIEND CAN RAISE YOU\" stayed on the glass after you were past raising. To try: take a contract with a friend, let one of you bleed out in the boss room. 23 automatic checks pass on the live site, desk and phone, and 16 of them fail on yesterday's build."
         },
         {
           "text": "Undercroft: both players get into the boss fight, no matter who walks in (Ibrahim, playtest 2026-11-03)",
