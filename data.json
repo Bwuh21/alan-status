@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T00:20:00.000Z",
+  "updated": "2026-11-05T04:45:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2053,8 +2053,8 @@
         },
         {
           "text": "Undercroft: both players get into the boss fight, no matter who walks in (Ibrahim, playtest 2026-11-03)",
-          "status": "todo",
-          "note": "Queue row 474."
+          "status": "done",
+          "note": "Live 11-05. Ibrahim found one symptom with two separate causes, and which one you hit depended on who walked in. When someone steps through the fog gate it turns to solid stone behind them, so whoever is still outside is locked out of the whole fight with no way back. If HE walked in first, you were left standing in the guild hall — because the game had been deliberately written that way back in October: a friend waiting in the hall stays in the hall. If YOU walked in first, he was left behind too, for a completely different reason: nothing in the game had ever moved the leader's own body. Only the friend's. So that half could not have been fixed by loosening the first rule. Now the gate takes the party. Whoever walks in, everyone else is brought through and lands beside them, facing the boss, told what just happened, and shown the boss's name — which the friend never used to get, only the leader. Three other ways you could end up behind the stone are covered by the same thing: coming back from a training test out behind the hall during a fight used to strand you there. And the sign at the gate now says out loud that your party comes in with you. The first version of this put you in the gate's doorway, which looked right in every automatic check and was wrong in the photograph — the camera sits behind you and backed straight into the stone that had just closed. The picture is the only reason I know. Proved with two real browsers on two machines, each of you walking in first: 19 checks pass both ways, and 6 of them fail on yesterday's build, in both directions, for the two different reasons. To try: take a contract together, let one of you clear the floor and walk through the fog while the other waits in the hall — then swap who walks."
         },
         {
           "text": "Grand Regent skin: make it Divine (Zack, playtest 2026-11-03)",
