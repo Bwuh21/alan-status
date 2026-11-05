@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T16:20:00.000Z",
+  "updated": "2026-11-05T19:11:45.614Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2075,6 +2075,158 @@
           "text": "New game: a boxing and wrestling sim (Zack + Ibrahim, playtest 2026-11-03)",
           "status": "done",
           "note": "LIVE 11-05. The boxing game was already built and already on the floor -- what it could not do was the thing you two asked for, which is box EACH OTHER. It can now. Walk up to the Head or Body cabinet with a friend, both take a seat, and you fight: three rounds, every punch goes to the head or the body, every guard covers high or low, and body work drains them so their guard sags and the head opens up. Each of you sees your own boxer in your own skin in the near corner with their name over the other glove. One screen judges every punch so you can never disagree about what landed. No wrestling -- grappling is a different game, not a second button, and it is filed. Two more things while I was in there. His guard used to be hidden behind your own body for a sixth of the fight, and at the worst moment one of his gloves was completely invisible -- the game's own checker had been saying so since the day it was built and nobody had read it, because it had never once passed. The camera had a slight lean BEHIND your own shoulder; leaning it the other way, a little higher and a little closer, cut that to almost nothing and made the boxers bigger rather than smaller. And I checked the one thing that decides whether you two have a game: a player who only ever hits the body loses 100 times out of 100 to one who hits the body and then goes upstairs. The choice is a real choice."
+        }
+      ]
+    },
+    {
+      "title": "Sports games -- make them really fun (deep dive 2026-11-05)",
+      "status": "doing",
+      "insight": "Your ask at the keyboard, 11-05. Each of the seven Orbit Stadium sports got its own analyst, then a critic checked all seven. Plans: Logs/game-manager/deep-dive-2026-11-05-sports.md. Queued as rows 536-564 AHEAD of the backlog: batch 1 of every sport first, then batch 2 of every sport, and so on -- each shipped batch unlocks that game's next one. Your five calls are rows 565, 566, 567, 568, 569.",
+      "subtasks": [
+        {
+          "text": "Golf: See your ball, learn your swing, know the score (sports deep dive 2026-11-05, batch 1 of 4)",
+          "status": "todo",
+          "note": "Queue row 536."
+        },
+        {
+          "text": "Comet Clash: The overload can't be dashed (his power system, finished) (sports deep dive 2026-11-05, batch 1 of 4)",
+          "status": "todo",
+          "note": "Queue row 537."
+        },
+        {
+          "text": "Head or Body: Block his big punch, then make him pay (sports deep dive 2026-11-05, batch 1 of 4)",
+          "status": "todo",
+          "note": "Queue row 538."
+        },
+        {
+          "text": "Skin Kick: The big shot: tap to kick, hold to wind up a screamer (sports deep dive 2026-11-05, batch 1 of 4)",
+          "status": "todo",
+          "note": "Queue row 539."
+        },
+        {
+          "text": "Barn Burner: Load the cannon: see the charge, hear the crack, know why he saved it (sports deep dive 2026-11-05, batch 1 of 3)",
+          "status": "todo",
+          "note": "Queue row 540."
+        },
+        {
+          "text": "Sky Spike: Your kill is seen and felt, and the winning point lands (sports deep dive 2026-11-05, batch 1 of 5)",
+          "status": "todo",
+          "note": "Queue row 541."
+        },
+        {
+          "text": "Hangtime: Game point you can feel, and a game-winner that explodes (sports deep dive 2026-11-05, batch 1 of 4)",
+          "status": "todo",
+          "note": "Queue row 542."
+        },
+        {
+          "text": "Sports boards: \"Sit anyway\" on the tutorial gate, so a friend can sit straight down (sports deep dive 2026-11-05, shared S1; row 486's brief)",
+          "status": "todo",
+          "note": "Queue row 543."
+        },
+        {
+          "text": "Golf: Rivals on the course (sports deep dive 2026-11-05, batch 2 of 4)",
+          "status": "todo",
+          "note": "Queue row 544; starts when row 536 ships."
+        },
+        {
+          "text": "Comet Clash: A friend's catch counts the same as the host's (sports deep dive 2026-11-05, batch 2 of 4)",
+          "status": "todo",
+          "note": "Queue row 545; starts when row 537 ships."
+        },
+        {
+          "text": "Head or Body: A scorecard you can see, and a winner's moment (sports deep dive 2026-11-05, batch 2 of 4)",
+          "status": "todo",
+          "note": "Queue row 546; starts when row 538 ships."
+        },
+        {
+          "text": "Skin Kick: Defenders get a moment, and goals are called right (sports deep dive 2026-11-05, batch 2 of 4)",
+          "status": "todo",
+          "note": "Queue row 547; starts when row 539 ships."
+        },
+        {
+          "text": "Barn Burner: Second chances: the keeper goes down, the cut across stays on net, and the lesson tells the truth (sports deep dive 2026-11-05, batch 2 of 3)",
+          "status": "todo",
+          "note": "Queue row 548; starts when row 540 ships."
+        },
+        {
+          "text": "Sky Spike: Play Sky Spike with a friend (same side or against each other) (sports deep dive 2026-11-05, batch 2 of 5)",
+          "status": "todo",
+          "note": "Queue row 549; starts when row 541 ships."
+        },
+        {
+          "text": "Hangtime: Greens you can count (sports deep dive 2026-11-05, batch 2 of 4)",
+          "status": "todo",
+          "note": "Queue row 550; starts when row 542 ships."
+        },
+        {
+          "text": "Golf: Pure strikes, and putts you watch drop (sports deep dive 2026-11-05, batch 3 of 4)",
+          "status": "todo",
+          "note": "Queue row 551; starts when row 544 ships."
+        },
+        {
+          "text": "Comet Clash: The win lands (sports deep dive 2026-11-05, batch 3 of 4)",
+          "status": "todo",
+          "note": "Queue row 552; starts when row 545 ships."
+        },
+        {
+          "text": "Head or Body: Every punch lands on a body, and you wear your aura in the ring (sports deep dive 2026-11-05, batch 3 of 4)",
+          "status": "todo",
+          "note": "Queue row 553; starts when row 546 ships."
+        },
+        {
+          "text": "Skin Kick: BRUTAL gets a plan: it plays your corner for gold, and it defends (sports deep dive 2026-11-05, batch 3 of 4)",
+          "status": "todo",
+          "note": "Queue row 554; starts when row 547 ships."
+        },
+        {
+          "text": "Barn Burner: Three stars: the horn names the heroes, and one more go keeps score (sports deep dive 2026-11-05, batch 3 of 3)",
+          "status": "todo",
+          "note": "Queue row 555; starts when row 548 ships."
+        },
+        {
+          "text": "Sky Spike: Sky Spike takes friends at the stadium (shared, lane 1) (sports deep dive 2026-11-05, batch 3 of 5)",
+          "status": "todo",
+          "note": "Queue row 556; starts when row 549 ships."
+        },
+        {
+          "text": "Hangtime: Keep score with your friend all night (sports deep dive 2026-11-05, batch 3 of 4)",
+          "status": "todo",
+          "note": "Queue row 557; starts when row 550 ships."
+        },
+        {
+          "text": "Golf: One more round (sports deep dive 2026-11-05, batch 4 of 4)",
+          "status": "todo",
+          "note": "Queue row 558; starts when row 551 ships."
+        },
+        {
+          "text": "Comet Clash: The shark winds up a big one too (sports deep dive 2026-11-05, batch 4 of 4)",
+          "status": "todo",
+          "note": "Queue row 559; starts when row 552 ships."
+        },
+        {
+          "text": "Head or Body: Tie him up, fake him out (sports deep dive 2026-11-05, batch 4 of 4)",
+          "status": "todo",
+          "note": "Queue row 560; starts when row 553 ships."
+        },
+        {
+          "text": "Skin Kick: The rematch has stakes: a series with your friend, a streak against the bot (sports deep dive 2026-11-05, batch 4 of 4)",
+          "status": "todo",
+          "note": "Queue row 561; starts when row 554 ships."
+        },
+        {
+          "text": "Sky Spike: Read the hitter: defence becomes a skill (sports deep dive 2026-11-05, batch 4 of 5)",
+          "status": "todo",
+          "note": "Queue row 562; starts when row 556 ships."
+        },
+        {
+          "text": "Hangtime: Defence gets credit (sports deep dive 2026-11-05, batch 4 of 4)",
+          "status": "todo",
+          "note": "Queue row 563; starts when row 557 ships."
+        },
+        {
+          "text": "Sky Spike: One more go: your numbers, your bests, the next tier -- and your aura on the sand (sports deep dive 2026-11-05, batch 5 of 5)",
+          "status": "todo",
+          "note": "Queue row 564; starts when row 562 ships."
         }
       ]
     }
