@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T05:28:00.000Z",
+  "updated": "2026-11-05T06:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2063,8 +2063,8 @@
         },
         {
           "text": "New game: a boxing and wrestling sim (Zack + Ibrahim, playtest 2026-11-03)",
-          "status": "todo",
-          "note": "Queue row 476."
+          "status": "done",
+          "note": "LIVE 11-05. The boxing game was already built and already on the floor -- what it could not do was the thing you two asked for, which is box EACH OTHER. It can now. Walk up to the Head or Body cabinet with a friend, both take a seat, and you fight: three rounds, every punch goes to the head or the body, every guard covers high or low, and body work drains them so their guard sags and the head opens up. Each of you sees your own boxer in your own skin in the near corner with their name over the other glove. One screen judges every punch so you can never disagree about what landed. No wrestling -- grappling is a different game, not a second button, and it is filed."
         }
       ]
     }
