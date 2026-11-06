@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T04:10:00.000Z",
+  "updated": "2026-11-06T05:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2095,13 +2095,13 @@
         },
         {
           "text": "Head or Body: Block his big punch, then make him pay (sports deep dive 2026-11-05, batch 1 of 4)",
-          "status": "todo",
-          "note": "Queue row 538."
+          "status": "done",
+          "note": "Live 11-06. Guarding used to be a trap: it drained you, slowed your feet, and a boxer who held a guard lost 77 times in 100 to one who never guarded at all, so the whole head-or-body read barely happened. Now a guard feeds you back a little wind instead of costing it, and blocking his BIG punch at the right level knocks him off balance -- both his gloves fly out to the sides and his chest opens for half a second. Hit him in that window and it is a COUNTER: double the damage and two points instead of one. Reading him and guarding now wins 88 in 100 against someone who never guards, up from 23. Power punches used to be worthless -- against the hardest bot your win rate was the same whether you threw none or threw nothing else (67 vs 63 in 100). Now it is the biggest decision in the fight: 13 in 100 throwing none, 73 throwing mostly power. The bots got smarter with it too -- they punish you when your big one is blocked, they stop winding up into a raised guard, and their own guard now holds one level long enough for you to actually read it. Every punch also finally sounds like a punch instead of a ball bouncing, the round and the corner ring a bell instead of a referee's whistle, and a counter lands with a heavier thump and a longer freeze. And the lesson card on this one was the only sport you could not skip -- against your own 11-03 word. It has a SKIP now, checked on a phone and a computer."
         },
         {
           "text": "Skin Kick: The big shot: tap to kick, hold to wind up a screamer (sports deep dive 2026-11-05, batch 1 of 4)",
-          "status": "todo",
-          "note": "Queue row 539."
+          "status": "done",
+          "note": "Live 2026-11-06. Tap KICK and it is the kick it always was. Hold it with the ball settled at your feet and you wind up -- the boot goes back, the arms go wide, you drop to just over half pace -- and letting go sends it at up to 20 m/s against a running kick's 16.1, with a white trail and a short lens kick. A goal off one says SCREAMER. TRICK out of a wind-up is the fake they bought. A ball you meet first-time still kicks on the press. On a phone the button holds your thumb, so sliding off it does not fire the shot. One thing left for the next row: the bots wind up far less often than planned, because in bot-vs-bot play the other bot never leaves them the 2.2 m of room it needs -- batch 3 is what gives them that room. Queue row 539."
         },
         {
           "text": "Barn Burner: Load the cannon: see the charge, hear the crack, know why he saved it (sports deep dive 2026-11-05, batch 1 of 3)",
