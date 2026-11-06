@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T08:10:00.000Z",
+  "updated": "2026-11-06T08:11:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2130,8 +2130,8 @@
         },
         {
           "text": "Golf: Rivals on the course (sports deep dive 2026-11-05, batch 2 of 4)",
-          "status": "todo",
-          "note": "Queue row 544; starts when row 536 ships."
+          "status": "done",
+          "note": "Live 11-06. The other golfers now play the hole with you instead of being one line of text: their balls fly and land with their names over them, and they show up as coloured dots on the hole map. They also play a DIFFERENT round every time -- until today PIP shot exactly the same score every round, forever, because the bot's seed knew nothing about which round it was. When anyone holes out the bottom line says so for three seconds, and on the last tee the game tells you where you stand: \"PIP leads you by 2\". Measured on a computer and on a phone: three rival balls on screen at once on both, and the ball you watch fly comes to rest on the exact spot the scorecard already recorded, over 21 shots. One thing you still never see is a rival tee off -- they only swing once your ball has stopped, so on a par 4 they drive from 200 m behind you. Filed as its own job."
         },
         {
           "text": "Comet Clash: A friend's catch counts the same as the host's (sports deep dive 2026-11-05, batch 2 of 4)",
@@ -2166,7 +2166,7 @@
         {
           "text": "Golf: Pure strikes, and putts you watch drop (sports deep dive 2026-11-05, batch 3 of 4)",
           "status": "todo",
-          "note": "Queue row 551; starts when row 544 ships."
+          "note": "Queue row 551; released 11-06, row 544 has shipped. Next in line."
         },
         {
           "text": "Comet Clash: The win lands (sports deep dive 2026-11-05, batch 3 of 4)",
