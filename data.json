@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T06:06:00.000Z",
+  "updated": "2026-11-06T07:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2125,8 +2125,8 @@
         },
         {
           "text": "Sports boards: \"Sit anyway\" on the tutorial gate, so a friend can sit straight down (sports deep dive 2026-11-05, shared S1; row 486's brief)",
-          "status": "todo",
-          "note": "Queue row 543."
+          "status": "done",
+          "note": "Live 2026-11-06. The lesson already had a Skip; the card BEFORE the lesson was still a wall -- the only way past it was to start the thing you did not want. Walk up to a sports board now and the card has three choices: Play tutorial, Sit anyway, Not now. Sit anyway puts you in the seat at once, does not open the game, and counts as having learned it, so that board never asks you again -- on this device and on your account's other ones. Play tutorial is still the button it points at. Six boards have it: Barn Burner, Golf, Hangtime, Comet Clash, Skin Kick and Head or Body. Sky Spike has no board in the room yet and gets it with its own. Games that have not said their lesson is optional still ask first, unchanged. Proved on two real browsers at one Barn Burner board, on the live domain and on a phone, a sideways phone and a desk -- and the check FAILS if the room's list of optional boards ever drifts from what the games themselves say."
         },
         {
           "text": "Golf: Rivals on the course (sports deep dive 2026-11-05, batch 2 of 4)",
