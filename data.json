@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T08:11:00.000Z",
+  "updated": "2026-11-06T09:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2140,13 +2140,13 @@
         },
         {
           "text": "Head or Body: A scorecard you can see, and a winner's moment (sports deep dive 2026-11-05, batch 2 of 4)",
-          "status": "todo",
-          "note": "Queue row 546; starts when row 538 ships."
+          "status": "done",
+          "note": "Live 2026-11-06. Every round is now scored the way a real card is kept -- 10 to whoever landed more, 9 to the other, 10-8 if he went down -- and you can see it. The running card sits under the clock from round two, and the corner tells you who took the round just gone. The last bell is decided by that card now, not by a raw punch count: it used to be possible to win and read \"47 - 64\" underneath, which looked like a bug. And the fight no longer cuts to a menu the instant it ends. Three bells ring, the verdict is called across the ring -- KNOCKOUT, or DECISION 29-28 -- he is on the canvas or standing with his head down, and your gloves go up for nearly three seconds before any panel appears. Your winnings are still paid on the bell, not after the celebration. The gloves-up pose took two goes: the first one lifted them 43 cm and was INVISIBLE, because this body's arm is shorter than its own shoulder-to-head and the ring camera looks down, so straight up lands on top of his own head. Measured it in pixels, threw the gloves wide instead and made him turn to face the camera the way a winner turns to the crowd; now the V is wider than he is tall, from any distance the camera happens to be at. One thing found on the way: the host had been sending twenty copies a second of an already-finished fight down the wire to a friend."
         },
         {
           "text": "Skin Kick: Defenders get a moment, and goals are called right (sports deep dive 2026-11-05, batch 2 of 4)",
-          "status": "todo",
-          "note": "Queue row 547; starts when row 539 ships."
+          "status": "done",
+          "note": "Live 2026-11-06. Three things. Throwing your body in front of a shot near your own goal is now a moment -- SAVE! in your colour, a white burst, a thud and a short freeze -- where before it was the commonest thing in the game and made no sound at all; it happens about one and a half times a match, so it stays special. A shot that goes in off the defender is now YOUR goal with DEFLECTED IN under it, instead of being announced OWN GOAL and taken off you: own goals fell from about one in six to one in twenty, and the ones left over really are the defender kicking it into their own net. And your ring at your feet grows and goes pale while the ball is yours, which a stranger asked for back on 10-05. Two numbers in the plan did not survive the bench and were re-measured: a deflection turned out to be slow (3 seconds, not 1.5) and the plan's demand that the shot be on target was what was killing the call, and the save radius came down from 7 m to 5 because at 7 it fired five times a match. Looking at the screenshots also caught the SAVE! being drawn underneath the teach card on a sideways phone, where nobody could ever have seen it -- that is fixed for every message of its kind, not just this one."
         },
         {
           "text": "Barn Burner: Second chances: the keeper goes down, the cut across stays on net, and the lesson tells the truth (sports deep dive 2026-11-05, batch 2 of 3)",
@@ -2176,12 +2176,12 @@
         {
           "text": "Head or Body: Every punch lands on a body, and you wear your aura in the ring (sports deep dive 2026-11-05, batch 3 of 4)",
           "status": "todo",
-          "note": "Queue row 553; starts when row 546 ships."
+          "note": "Queue row 553; released 11-06, row 546 has shipped. Next in line."
         },
         {
           "text": "Skin Kick: BRUTAL gets a plan: it plays your corner for gold, and it defends (sports deep dive 2026-11-05, batch 3 of 4)",
           "status": "todo",
-          "note": "Queue row 554; starts when row 547 ships."
+          "note": "Queue row 554; released 11-06, row 547 has shipped. Next in line."
         },
         {
           "text": "Barn Burner: Three stars: the horn names the heroes, and one more go keeps score (sports deep dive 2026-11-05, batch 3 of 3)",
