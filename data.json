@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:28:00.000Z",
+  "updated": "2026-11-09T21:47:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2190,8 +2190,8 @@
         },
         {
           "text": "Barn Burner: Three stars: the horn names the heroes, and one more go keeps score (sports deep dive 2026-11-05, batch 3 of 3)",
-          "status": "todo",
-          "note": "Queue row 555; released 11-09, row 548 has shipped. Next in line."
+          "status": "done",
+          "note": "Live 2026-11-09. The horn used to just say who won. Now it names the three stars of the match -- you, your friend or a bot -- with the goals and assists each of them actually earned, and your own line underneath with your shots and hits. A shootout winner gets no star and nor does a keeper, the same way real hockey counts it. Solo, two wins in a row puts WIN STREAK on the card and on the title screen of the next match, so there is a number to protect; with a friend it keeps tonight's series between the two of you instead. Everything the card shows is counted by the host and sent over, so you and your friend read the same three names -- and a host that lies cannot print a nine-figure number or sneak anything into your screen through a player's name. Proved by re-deriving every goal of eight whole matches from the puck itself, two real browsers agreeing, and the card photographed on a desk, a phone and a sideways phone."
         },
         {
           "text": "Sky Spike: Sky Spike takes friends at the stadium (shared, lane 1) (sports deep dive 2026-11-05, batch 3 of 5)",
