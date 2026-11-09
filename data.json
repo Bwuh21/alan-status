@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T09:05:00.000Z",
+  "updated": "2026-11-09T18:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2150,8 +2150,8 @@
         },
         {
           "text": "Barn Burner: Second chances: the keeper goes down, the cut across stays on net, and the lesson tells the truth (sports deep dive 2026-11-05, batch 2 of 3)",
-          "status": "todo",
-          "note": "Queue row 548; starts when row 540 ships."
+          "status": "done",
+          "note": "Live 2026-11-09. After a save the keeper stays flat on the ice for most of a second, long enough for the rebound most players actually take, so crashing the net pays. Cutting across the front of the net no longer throws your shot wide: misses there fell from about half to about a quarter. The plan wanted the drift gone completely, but at zero the three difficulty levels played the same, so a third of it stays. The lesson now tells you to pick a corner and get in close."
         },
         {
           "text": "Sky Spike: Play Sky Spike with a friend (same side or against each other) (sports deep dive 2026-11-05, batch 2 of 5)",
@@ -2186,7 +2186,7 @@
         {
           "text": "Barn Burner: Three stars: the horn names the heroes, and one more go keeps score (sports deep dive 2026-11-05, batch 3 of 3)",
           "status": "todo",
-          "note": "Queue row 555; starts when row 548 ships."
+          "note": "Queue row 555; released 11-09, row 548 has shipped. Next in line."
         },
         {
           "text": "Sky Spike: Sky Spike takes friends at the stadium (shared, lane 1) (sports deep dive 2026-11-05, batch 3 of 5)",
