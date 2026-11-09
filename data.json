@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:47:00.000Z",
+  "updated": "2026-11-09T22:30:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2195,8 +2195,8 @@
         },
         {
           "text": "Sky Spike: Sky Spike takes friends at the stadium (shared, lane 1) (sports deep dive 2026-11-05, batch 3 of 5)",
-          "status": "todo",
-          "note": "Queue row 556; starts when row 549 ships."
+          "status": "done",
+          "note": "Live 2026-11-09. Sky Spike is on a stadium board now. Walk up with a friend, both sit, and each of you picks SIDE A or SIDE B: same side and you two play the bots together, opposite sides and it is you against them with a bot partner each. Empty seats always fill with bots, so it is always a real two-on-two. Sit anyway works on its card too. Separately, the Golf sign now reads 3 OR 9 HOLES / LOWEST STROKES WINS, and it fits the board. Proved on the live domain with a desk and a phone at one board: both saw SIDE A and SIDE B, landed in the same match on the sides they picked, and each could see the other on the sand. One small wrong word found: the host's card names the host as the opponent. Filed as row 602."
         },
         {
           "text": "Hangtime: Keep score with your friend all night (sports deep dive 2026-11-05, batch 3 of 4)",
@@ -2226,7 +2226,7 @@
         {
           "text": "Sky Spike: Read the hitter: defence becomes a skill (sports deep dive 2026-11-05, batch 4 of 5)",
           "status": "todo",
-          "note": "Queue row 562; starts when row 556 ships."
+          "note": "Queue row 562; row 556 shipped 2026-11-09, now TODO."
         },
         {
           "text": "Hangtime: Defence gets credit (sports deep dive 2026-11-05, batch 4 of 4)",
