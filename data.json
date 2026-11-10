@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T06:45:00.000Z",
+  "updated": "2026-11-10T07:50:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2267,6 +2267,11 @@
           "text": "Sky Spike: the end screen stops naming things the game never taught (row 616, from the 10-21 review)",
           "status": "done",
           "note": "Live 2026-11-10. Two lines on the end screen were a mystery. \"Perfect touches\" is usually the biggest number on the card and the game never once showed you earning one -- now the pop above your head goes gold and punches the moment you land one, and it says what made it perfect: AT THE TOP if you hit it in the air, ON THE BEAT if it came off your platform. The count is a memory of something you saw. And \"fastest spike\" was a km/h with nothing to beat -- there is now one small line under it saying what the side you just played tops out at (rookies 59, pros 65, aces 70, legends 74) and what a perfect contact of yours is (81). Those numbers are read out of the game's own physics, not invented. No meter and no bar: a live quality gauge would do the reading for you. Checked on a phone, a sideways phone and a desk -- including a shot taken on the exact frame the gold pop fires."
+        },
+        {
+          "text": "Comet Clash: bigger arenas for bigger teams, 2v2 up to 5v5 (row 609, Zack 2026-11-09)",
+          "status": "done",
+          "note": "Live 2026-11-10. The rock now grows with the teams: 2v2 keeps the tight court with 4 comets, 3v3 is wider with 5, 4v4 with 6, and 5v5 is the biggest -- about 70% wider -- with 7 comets so nobody waits for a ball. Solo has a new TEAMS pick (2v2 to 5v5, still starts at 2v2 with bots), and an arcade party table now seats up to 10, with friends on the same side by default. Bots fill every seat; rookie, pro and shark still line up in that order at 4v4 and 5v5. The camera holds the whole 5v5 on an upright and a sideways phone. Checked a driven match at every size on phone, sideways and desk, and a two-screen 5v5 party: both screens on the same court with 10 players."
         }
       ]
     }
