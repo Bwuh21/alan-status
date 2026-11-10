@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T01:00:00.000Z",
+  "updated": "2026-11-10T01:10:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1010,6 +1010,11 @@
           "text": "A perfect release felt the same every time — you couldn't count your greens or tell why a shot was only GOOD",
           "status": "done",
           "note": "11-09 LIVE. Greens you can count. Every perfect release in a row counts up: GREEN, then GREEN x2, GREEN x3, and the chime climbs a note with each one, so you can hear a streak without looking. Your best run ever is kept on your phone, and the first time a match beats it with three or more, the meter says NEW BEST. A near miss no longer just says GOOD: it says GOOD · EARLY or GOOD · LATE, so you know which way to fix your timing. The end card adds one sentence: how many you greened out of your shots, and your best run that match. Nothing shows before you let go, the green window is exactly as wide as before, and a green is worth no extra points. Checked at desk, upright phone and sideways phone with real key presses timed to the top of the jump. The computer games play exactly as before."
+        },
+        {
+          "text": "Defence got no credit unless you blocked it or stole it — getting a hand in a shooter's face counted for nothing",
+          "status": "done",
+          "note": "11-09b LIVE. Defence counts without a block. Get a hand in a shooter's face and the word SMOTHERED flashes right beside you as he lets go -- beside the man, not in the big banner, because the banner belongs to the shot. If he misses and your side comes up with the ball, that same spot says STOP, with a thud. One stop is paid per shot, to whoever had the hand up, and only when the ball actually changes sides: a make pays nobody, a block already had its own word, and your own team's offensive rebound pays nobody. The end card finishes with how many stops you got. Measured over 160 computer games: a defender is credited on about 5 contests and 1 stop a game, and the games play bit-for-bit as before -- nothing about shooting, scoring or the bots moved. Checked at desk, upright phone and sideways phone; held sideways the word lifts clear of the SHOOT button instead of landing under your thumb. Stand in front of a bot as he rises, then go get the rebound."
         },
         {
           "text": "Nothing carried from one match to the next — beat your friend five times and the sixth game started like the first",
