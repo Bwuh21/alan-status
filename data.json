@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T04:50:00.000Z",
+  "updated": "2026-11-10T06:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1155,6 +1155,11 @@
           "text": "Three holes are over in 20 seconds — do they need a risky shortcut?",
           "status": "done",
           "note": "No, and nothing was built. Measured six to twelve runs a hole: every hole already HAS a fast risky route, saving 10-11 seconds on the long holes and 5-7 on the short ones, and it also turns a quit into a finish. The real fault was that the game never told you. Each hole now names its route on a card that stands at the tee and goes the moment you swing. Live."
+        },
+        {
+          "text": "\"The putter is broken... look at people putting... flickering around the hole\"",
+          "status": "done",
+          "note": "On a putt he now bends over the ball and rocks a short pendulum from the shoulders, longer for a firmer putt, and holds the finish; before, he stood bolt upright 1.75 m away and swung the putter head above his own head. A real blade putter with a fat grip, face square to the line. The cup is one clean tube now, quiet from 1 m to the tee on all nine holes, and his head stays on screen through a putt. Live."
         }
       ]
     },
@@ -2252,6 +2257,11 @@
           "text": "Sky Spike: One more go: your numbers, your bests, the next tier -- and your aura on the sand (sports deep dive 2026-11-05, batch 5 of 5)",
           "status": "done",
           "note": "Live 2026-11-09. A match used to just stop. Now the whistle goes and your own match counts itself up line by line -- spikes, kills, aces, stuff blocks, clean touches, your fastest spike in km/h and your longest rally -- each one ticking up with a rising click. Beat yourself and that line gets a gold NEW BEST. Win and the big button reads TRY THE PROS and drops you straight into the next tier; lose and it tells you how close you were, in words. The title card now remembers your best against each tier. And your skin's aura burns on the sand the way it does in the lobby -- a common skin stays plain, as in the lobby. Checked on a phone, a sideways phone and a desk, and on a browser whose memory refuses to save."
+        },
+        {
+          "text": "Comet Clash: a throw that makes sense (row 608, Zack 2026-11-09)",
+          "status": "done",
+          "note": "Live 2026-11-10. The real reason it felt wrong: a medium throw was the WORST throw. A quick tap hit about half the time, a full one about a quarter, a held-long one most of the time -- so holding longer felt random. Now every bit longer you hold hits more often and is harder to catch. FULL pops when it is full, MAX! when it is maxed, and only then does it say LET GO. A throw that dies in front of the one you aimed at says SHORT where it landed. The ring shows who your throw is for and the stick changes it; the how-to card now has a step that only finishes when you hit the one you picked. Bots play by the same rule, and rookie, pro and shark still line up in that order. Checked on a phone, a sideways phone, a desk, and with two screens in one match."
         }
       ]
     }
