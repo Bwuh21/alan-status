@@ -255,6 +255,11 @@
           "text": "Toy Fury: four rooms still look like one flat colour above the low wall at the road's edge",
           "status": "doing",
           "note": "11-14: the classroom is done and live -- its bare walls now carry pinned art, coat hooks, cork strips by the windows, a pennant line and two posters, so the room reads instead of going flat the moment you look up, worst on a phone where that wall was most of the screen. Found and fixed in passing: the classroom's own two copies of this file were quietly pointed at two different versions of the shared track file, which can let a room's state drift from itself -- now pointed at the same one. Garage, library and house still have the bare wall; each is its own sitting."
+        },
+        {
+          "text": "Toy Fury: the chopper (and sometimes other rides) wrecked every time on the bathroom track's wet-tiles turn near the end of the lap",
+          "status": "done",
+          "note": "Live 11-15. That turn had slick tiles and solid walls on both sides with nowhere to slide -- the same mistake the earlier soapy edge on the same lap avoided by letting a wide line slide off the deck instead of hitting a wall. Gave it the same fix: a wide line there now slides off and loses a little time instead of slamming the wall and losing a life. Tested every ride, three different races: zero wrecks now, where before the chopper and sometimes wedge and gt wrecked every single time. The other seven tracks and the garage track are untouched. Found in passing and filed, not fixed here (out of scope for this fix): the bathroom track still has three small spots near the soapy-edge area where the room's own furniture pokes into the road."
         }
       ]
     },
