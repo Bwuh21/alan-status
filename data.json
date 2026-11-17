@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T09:12:00.000Z",
+  "updated": "2026-11-17T10:14:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2297,6 +2297,11 @@
           "text": "Strike City: the bowling lanes' own monitors show the stake to the whole alley, not just the bowler at the lane (row 368, found by the row 241 lane 2026-11-03)",
           "status": "done",
           "note": "Live 2026-11-15. The desk tells your party what you're playing for, then the room went quiet about it until you walked up and pressed E -- so friends still crossing the alley saw nothing. The big lit monitor over each lane's pins now shows it too: '10 tickets each - pot up to 30' painted right under the lane's name, readable from across the room. A free lane's monitor still says nothing about tickets. No new game, no SQL -- just reading the same stake the desk and the panel already read."
+        },
+        {
+          "text": "Nine more games checked for the same invisible RNG bug that broke BroadsideBay's volcano (row 500, found fixing row 413 2026-11-04)",
+          "status": "done",
+          "note": "Live 2026-11-17. The bug: a cosmetic effect gated by a coin-flip was secretly drawing from the game's own seeded dice, so the same seed could play out two different ways and nobody would ever know. Checked all nine games that share that dice formula -- Undercroft, SpaceGolf, WhistleHerd, Splatflag, KitchenClash, FireLine, WreckingBall, LaneDay, DoubleOut. Eight were clean. LaneDay had the same bug in its pin-strike sparks; fixed, shipped, confirmed live. Also found and closed a gap in the shipping tool itself that let a stray test file block the ship."
         }
       ]
     },
