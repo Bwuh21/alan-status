@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T21:55:00.000Z",
+  "updated": "2026-11-17T22:16:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -259,7 +259,7 @@
         {
           "text": "Toy Fury: the chopper (and sometimes other rides) wrecked every time on the bathroom track's wet-tiles turn near the end of the lap",
           "status": "done",
-          "note": "Live 11-15. That turn had slick tiles and solid walls on both sides with nowhere to slide -- the same mistake the earlier soapy edge on the same lap avoided by letting a wide line slide off the deck instead of hitting a wall. Gave it the same fix: a wide line there now slides off and loses a little time instead of slamming the wall and losing a life. Tested every ride, three different races: zero wrecks now, where before the chopper and sometimes wedge and gt wrecked every single time. The other seven tracks and the garage track are untouched. Found in passing and filed, not fixed here (out of scope for this fix): the bathroom track still has three small spots near the soapy-edge area where the room's own furniture pokes into the road."
+          "note": "Live 11-15. That turn had slick tiles and solid walls on both sides with nowhere to slide -- the same mistake the earlier soapy edge on the same lap avoided by letting a wide line slide off the deck instead of hitting a wall. Gave it the same fix: a wide line there now slides off and loses a little time instead of slamming the wall and losing a life. Tested every ride, three different races: zero wrecks now, where before the chopper and sometimes wedge and gt wrecked every single time. The other seven tracks and the garage track are untouched. Found in passing and filed, not fixed here (out of scope for this fix): the bathroom track still has three small spots near the soapy-edge area where the room's own furniture pokes into the road. 11-17: the wall at that turn is back, on purpose, as part of the new steering (live today). The open edge had become the thing knocking people off -- most practice races there ended in that puddle -- and with the new steering no car can hit a wall there fast enough to break. Every ride tested on that track: no wrecks, nobody hits the wall, and everyone finishes."
         }
       ]
     },
