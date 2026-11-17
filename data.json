@@ -2302,6 +2302,11 @@
           "text": "Nine more games checked for the same invisible RNG bug that broke BroadsideBay's volcano (row 500, found fixing row 413 2026-11-04)",
           "status": "done",
           "note": "Live 2026-11-17. The bug: a cosmetic effect gated by a coin-flip was secretly drawing from the game's own seeded dice, so the same seed could play out two different ways and nobody would ever know. Checked all nine games that share that dice formula -- Undercroft, SpaceGolf, WhistleHerd, Splatflag, KitchenClash, FireLine, WreckingBall, LaneDay, DoubleOut. Eight were clean. LaneDay had the same bug in its pin-strike sparks; fixed, shipped, confirmed live. Also found and closed a gap in the shipping tool itself that let a stray test file block the ship."
+        },
+        {
+          "text": "Every game's tutorial card paid its left-margin tax on every line, not just the ones beside the arcade's corner key (row 506, found fixing row 415)",
+          "status": "done",
+          "note": "Live 2026-11-17. The tutorial card every game shows leaves room down its left side so the words don't sit under the arcade's own corner button. That gap used to be baked into the card itself, so it bit every line of every lesson, even ones that had already cleared the button. A fix shipped two weeks ago made one game's lesson fit on one line, but only when tested outside the arcade -- put back in the room, it still wrapped. Now the gap only costs the lines that are actually next to the button; everything below it gets the full card back. Shared by all 37 games with a tutorial card, so no single game needed a review."
         }
       ]
     },
