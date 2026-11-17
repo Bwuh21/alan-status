@@ -2299,6 +2299,17 @@
           "note": "Live 2026-11-15. The desk tells your party what you're playing for, then the room went quiet about it until you walked up and pressed E -- so friends still crossing the alley saw nothing. The big lit monitor over each lane's pins now shows it too: '10 tickets each - pot up to 30' painted right under the lane's name, readable from across the room. A free lane's monitor still says nothing about tickets. No new game, no SQL -- just reading the same stake the desk and the panel already read."
         }
       ]
+    },
+    {
+      "title": "Tavern & games-room call -- a dismissed call could go silent for the whole room (row 484)",
+      "status": "done",
+      "subtasks": [
+        {
+          "text": "Dismissing the call for one table could silence every other table's call for as long as the same people stayed seated",
+          "status": "done",
+          "note": "Live 2026-11-17. Say your friend sits at the pool table and you press the X on the call -- fine. But if your friend then also sat at the dart board or the air hockey table later, you could stop getting called about ANYONE, for as long as that first group of people never fully got up. The code that watches for calls was built to remember only one dismissed table at a time, and a dismissal at one table was wiping its memory for every table in the room, not just that one. It now remembers a dismissal per table, and forgets it only once that specific table's seats actually go back to empty. A second, related fault was found alongside it: a table that emptied out and then filled back up again could stop being askable at all, because a timer meant to catch someone going quiet mid-match was firing too early, within a couple of seconds of sitting down, and wrongly treating a fresh seat as abandoned. That timer now gives a fresh seat more breathing room before it gives up on it. No new game, no SQL -- both fixes live only in the lobby/room code, proven with a 24-point automated run and a byte-for-byte check that the live site is serving the fixed file."
+        }
+      ]
     }
   ]
 }
