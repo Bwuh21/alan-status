@@ -2396,10 +2396,10 @@
         "since": "2026-11-18 01:29"
       },
       {
-        "n": 865,
-        "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle",
+        "n": 867,
+        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
         "lane": "server",
-        "since": "2026-11-18 01:39"
+        "since": "2026-11-18 01:49"
       }
     ],
     "next": [
@@ -3035,8 +3035,8 @@
         "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome"
       },
       {
-        "n": 867,
-        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU"
+        "n": 865,
+        "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle"
       },
       {
         "n": 868,
@@ -3543,5 +3543,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T07:44:13.983Z"
+  "changed": "2026-11-18T07:54:13.944Z"
 }
