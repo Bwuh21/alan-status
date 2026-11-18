@@ -2400,6 +2400,12 @@
         "since": "2026-11-18 04:24"
       },
       {
+        "n": 773,
+        "head": "OUT OF THE SUN: dive all the way to the ground, and the whole party in one fight",
+        "lane": "arcade2",
+        "since": "2026-11-18 05:59"
+      },
+      {
         "n": 906,
         "head": "Shove Off: the how-to-play check waits two minutes for a round that can run longer, and fails on unchanged bytes",
         "lane": "server",
@@ -2753,10 +2759,6 @@
         "n": 770,
         "head": "PARTY ISLAND FLOW: no picking a game",
         "detail": "it is RANDOM, the whole party goes in together, and you keep playing"
-      },
-      {
-        "n": 773,
-        "head": "OUT OF THE SUN: dive all the way to the ground, and the whole party in one fight"
       },
       {
         "n": 774,
@@ -3568,5 +3570,5 @@
       "2026-11-18": 6
     }
   },
-  "changed": "2026-11-18T11:59:13.375Z"
+  "changed": "2026-11-18T12:04:14.955Z"
 }
