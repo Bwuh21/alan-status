@@ -2390,10 +2390,10 @@
         "since": "2026-11-18 02:30"
       },
       {
-        "n": 882,
-        "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds",
+        "n": 883,
+        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds",
         "lane": "server",
-        "since": "2026-11-18 02:30"
+        "since": "2026-11-18 02:59"
       }
     ],
     "next": [
@@ -3089,8 +3089,8 @@
         "head": "The task watcher finds the home page server down in 10 minutes but nothing restarts it any sooner"
       },
       {
-        "n": 883,
-        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds"
+        "n": 882,
+        "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds"
       },
       {
         "n": 884,
@@ -3536,5 +3536,5 @@
       "2026-11-18": 2
     }
   },
-  "changed": "2026-11-18T08:59:14.043Z"
+  "changed": "2026-11-18T09:04:14.048Z"
 }
