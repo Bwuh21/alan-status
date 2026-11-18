@@ -2396,10 +2396,10 @@
         "since": "2026-11-18 01:29"
       },
       {
-        "n": 862,
-        "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go",
+        "n": 865,
+        "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle",
         "lane": "server",
-        "since": "2026-11-18 01:14"
+        "since": "2026-11-18 01:39"
       }
     ],
     "next": [
@@ -3023,16 +3023,16 @@
         "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold"
       },
       {
+        "n": 862,
+        "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go"
+      },
+      {
         "n": 863,
         "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run"
       },
       {
         "n": 864,
         "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome"
-      },
-      {
-        "n": 865,
-        "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle"
       },
       {
         "n": 867,
@@ -3543,5 +3543,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T07:34:13.895Z"
+  "changed": "2026-11-18T07:44:13.983Z"
 }
