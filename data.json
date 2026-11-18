@@ -2355,12 +2355,6 @@
         "detail": "PLAY starts a race, the result means something, and going again is one press",
         "lane": "arcade2",
         "since": "2026-11-17 20:34"
-      },
-      {
-        "n": 761,
-        "head": "Barn Burner: can a PERSON score on the Ace keeper when he is standing square?",
-        "lane": "arcade2",
-        "since": "2026-11-17 04:54"
       }
     ],
     "next": [
@@ -2458,6 +2452,10 @@
         "n": 993,
         "head": "THE DEEP GATE: you cannot stand on steps 1 and 3 of its stair",
         "detail": "portal-islands-check is red there on HEAD, before row 969 touched anything"
+      },
+      {
+        "n": 994,
+        "head": "THE ISLAND TEST SERVER HE ASKED FOR: one page that shows every island side by side so he can say what he likes"
       },
       {
         "n": 523,
@@ -3477,6 +3475,11 @@
         "date": "2026-11-17"
       },
       {
+        "n": 761,
+        "head": "Barn Burner: can a PERSON score on the Ace keeper when he is standing square?",
+        "date": "2026-11-17"
+      },
+      {
         "n": 756,
         "head": "BARN BURNER on a computer: ship option A, the SPACE key at the bottom of the screen that fills with gold while you hold shoot",
         "date": "2026-11-17"
@@ -3495,14 +3498,9 @@
         "n": 742,
         "head": "Shove Off: the big OUT word sits over the fighters for the whole round you are watching",
         "date": "2026-11-17"
-      },
-      {
-        "n": 740,
-        "head": "Trap Doors: the party check ends 29 of 30 on its own last photograph (seen in row 715)",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 644,
+    "shippedTotal": 645,
     "shippedOn": {
       "2026-11-11": 8,
       "2026-11-12": 19,
@@ -3510,8 +3508,8 @@
       "2026-11-14": 21,
       "2026-11-15": 3,
       "2026-11-16": 79,
-      "2026-11-17": 38
+      "2026-11-17": 39
     }
   },
-  "changed": "2026-11-18T02:39:18.406Z"
+  "changed": "2026-11-18T02:49:18.464Z"
 }
