@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:37:00.000Z",
+  "updated": "2026-11-18T05:43:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2358,19 +2358,17 @@
         {
           "text": "Left over from step 2: on a desk screen the bowling how-to card hangs over the lane panel (row 997, older than this work)",
           "status": "todo"
+        },
+        {
+          "text": "3/8 The camera: backing toward a wall from 2 ft away glitches and shoves the lens into the wall",
+          "status": "done",
+          "note": "Live 2026-11-17. The camera stared straight down at the top of your head, because in the two big rooms your body could stand halfway into the wall and the camera went with it. Now you stop a body's width short of every…"
         }
       ]
     }
   ],
   "stack": {
     "building": [
-      {
-        "n": 971,
-        "head": "THE BAR REWORK 3/8: CAMERA",
-        "detail": "backing toward a wall from 2 ft away glitches and shoves the lens into the wall",
-        "lane": "arcade",
-        "since": "2026-11-17 21:14"
-      },
       {
         "n": 972,
         "head": "THE BAR REWORK 4/8: FOOSBALL",
@@ -3480,6 +3478,12 @@
         "date": "2026-11-17"
       },
       {
+        "n": 971,
+        "head": "THE BAR REWORK 3/8: CAMERA",
+        "detail": "backing toward a wall from 2 ft away glitches and shoves the lens into the wall",
+        "date": "2026-11-17"
+      },
+      {
         "n": 970,
         "head": "THE BAR REWORK 2/8: BOWLING, seamless",
         "detail": "walk in, \"Start a game of bowling\", bowl with whoever is there or alone",
@@ -3521,14 +3525,9 @@
         "n": 761,
         "head": "Barn Burner: can a PERSON score on the Ace keeper when he is standing square?",
         "date": "2026-11-17"
-      },
-      {
-        "n": 756,
-        "head": "BARN BURNER on a computer: ship option A, the SPACE key at the bottom of the screen that fills with gold while you hold shoot",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 648,
+    "shippedTotal": 649,
     "shippedOn": {
       "2026-11-11": 8,
       "2026-11-12": 19,
@@ -3536,8 +3535,8 @@
       "2026-11-14": 21,
       "2026-11-15": 3,
       "2026-11-16": 79,
-      "2026-11-17": 42
+      "2026-11-17": 43
     }
   },
-  "changed": "2026-11-18T04:49:14.204Z"
+  "changed": "2026-11-18T05:44:13.754Z"
 }
