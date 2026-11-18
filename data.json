@@ -2396,10 +2396,10 @@
         "since": "2026-11-18 03:04"
       },
       {
-        "n": 885,
-        "head": "Space Golf: its own with-friends check is dead on today's game",
+        "n": 886,
+        "head": "Space Golf: the frame-rate check only flies tee drives",
         "lane": "server",
-        "since": "2026-11-18 03:04"
+        "since": "2026-11-18 03:24"
       },
       {
         "n": 890,
@@ -3109,8 +3109,8 @@
         "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing"
       },
       {
-        "n": 886,
-        "head": "Space Golf: the frame-rate check only flies tee drives"
+        "n": 885,
+        "head": "Space Golf: its own with-friends check is dead on today's game"
       },
       {
         "n": 887,
@@ -3540,5 +3540,5 @@
       "2026-11-18": 2
     }
   },
-  "changed": "2026-11-18T09:14:14.125Z"
+  "changed": "2026-11-18T09:29:14.118Z"
 }
