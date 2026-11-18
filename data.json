@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T22:40:00.000Z",
+  "updated": "2026-11-18T23:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1081,6 +1081,11 @@
           "text": "Comet Clash keeps your wins in a row, per difficulty",
           "status": "done",
           "note": "Live 2026-11-18. ROOKIE, PRO and SHARK each keep their own wins-in-a-row and best, shown on the results card and under the difficulty buttons on the title. A loss tells you what it ended. Quitting mid-match counts as a…"
+        },
+        {
+          "text": "Comet Clash: a camera that is alive, and a charge-up on the throw (row 788, Zack 2026-11-12)",
+          "status": "done",
+          "note": "Live 2026-11-18. In play the camera now sits lower and closer behind you and follows the action, leaning toward the comet in flight. It eases back to the whole-court view between rounds and never cuts. Everything that…"
         }
       ]
     },
@@ -2459,12 +2464,6 @@
         "head": "THE WALK FLOOR STILL STEPS where the drawn floor is smooth: your feet (and the shadow with them) pop at rock tops, pit lips, cliff edges and",
         "lane": "arcade",
         "since": "2026-11-18 16:24"
-      },
-      {
-        "n": 788,
-        "head": "COMET CLASH: a camera that is alive, and a charge-up on the throw",
-        "lane": "arcade2",
-        "since": "2026-11-18 15:49"
       }
     ],
     "next": [
@@ -3421,7 +3420,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 673,
+    "shippedTotal": 674,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3429,8 +3428,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 24
+      "2026-11-18": 25
     }
   },
-  "changed": "2026-11-18T22:29:14.796Z"
+  "changed": "2026-11-18T22:39:22.915Z"
 }
