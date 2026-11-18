@@ -2425,12 +2425,6 @@
         "detail": "re-measure it on the four tours",
         "lane": "arcade2",
         "since": "2026-11-18 11:49"
-      },
-      {
-        "n": 1012,
-        "head": "UNDERCROFT, friends: a friend's Flurry loses about half its stabs on the host, and each stab that lands stutters the host's screen (survey 2",
-        "lane": "arcade2",
-        "since": "2026-11-18 09:34"
       }
     ],
     "next": [
@@ -3359,6 +3353,11 @@
     ],
     "shipped": [
       {
+        "n": 1012,
+        "head": "UNDERCROFT, friends: a friend's Flurry loses about half its stabs on the host, and each stab that lands stutters the host's screen (survey 2",
+        "date": "2026-11-18"
+      },
+      {
         "n": 999,
         "head": "TOY FURY party room: both screens show each car in its DEFAULT paint, not the paint its player picked",
         "date": "2026-11-18"
@@ -3418,15 +3417,9 @@
         "head": "TOY FURY REWORK 2/6: THE RACE LOOP",
         "detail": "PLAY starts a race, the result means something, and going again is one press",
         "date": "2026-11-17"
-      },
-      {
-        "n": 979,
-        "head": "TOY FURY REWORK 1/4: THE FEEL",
-        "detail": "the drift is where the speed comes from, and the steering is the player's again",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 659,
+    "shippedTotal": 660,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3434,8 +3427,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 10
+      "2026-11-18": 11
     }
   },
-  "changed": "2026-11-18T18:39:15.358Z"
+  "changed": "2026-11-18T18:44:18.026Z"
 }
