@@ -2413,6 +2413,13 @@
         "since": "2026-11-18 10:54"
       },
       {
+        "n": 975,
+        "head": "THE BAR REWORK 7/8: AIR HOCKEY",
+        "detail": "the little sign over the table sits off to one side; centre it",
+        "lane": "arcade",
+        "since": "2026-11-18 12:19"
+      },
+      {
         "n": 998,
         "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
         "detail": "re-measure it on the four tours",
@@ -2427,11 +2434,6 @@
       }
     ],
     "next": [
-      {
-        "n": 975,
-        "head": "THE BAR REWORK 7/8: AIR HOCKEY",
-        "detail": "the little sign over the table sits off to one side; centre it"
-      },
       {
         "n": 976,
         "head": "THE BAR REWORK 8/8: THE LOBBY ISLAND",
@@ -3435,5 +3437,5 @@
       "2026-11-18": 10
     }
   },
-  "changed": "2026-11-18T18:14:13.272Z"
+  "changed": "2026-11-18T18:24:34.612Z"
 }
