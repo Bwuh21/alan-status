@@ -2449,13 +2449,15 @@
         "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds",
         "lane": "arcade2",
         "since": "2026-11-18 14:29"
+      },
+      {
+        "n": 883,
+        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds",
+        "lane": "arcade2",
+        "since": "2026-11-18 15:05"
       }
     ],
     "next": [
-      {
-        "n": 883,
-        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds"
-      },
       {
         "n": 1016,
         "head": "HEAD OR BODY (boxing) keeps your best: a win streak per fighter rung, so a second visit has something to beat (survey 2026-11-18)"
@@ -3436,5 +3438,5 @@
       "2026-11-18": 17
     }
   },
-  "changed": "2026-11-18T21:04:33.070Z"
+  "changed": "2026-11-18T21:09:15.731Z"
 }
