@@ -2449,6 +2449,10 @@
         "head": "TOY HOUSE lobby minis still show Toy Fury's old tracks: the house mini has 7 booster gates (now 3), the bath mini an open puddle (now railed"
       },
       {
+        "n": 992,
+        "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name "
+      },
+      {
         "n": 523,
         "head": "the arcade's walk-in bar table loads CornerPocket's physics with no version stamp, so it can run a different sim from the cabinet"
       },
@@ -3510,5 +3514,5 @@
       "2026-11-17": 36
     }
   },
-  "changed": "2026-11-18T00:36:42.040Z"
+  "changed": "2026-11-18T01:19:17.102Z"
 }
