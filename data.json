@@ -2398,16 +2398,16 @@
         "since": "2026-11-17 22:24"
       },
       {
-        "n": 818,
-        "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4",
-        "lane": "server",
-        "since": "2026-11-18 00:04"
-      },
-      {
         "n": 821,
         "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
         "lane": "server",
         "since": "2026-11-18 00:04"
+      },
+      {
+        "n": 826,
+        "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard",
+        "lane": "server",
+        "since": "2026-11-18 00:14"
       }
     ],
     "next": [
@@ -2894,6 +2894,10 @@
         "head": "Barn Burner: row548-check is RED on the desk photo, on unchanged code"
       },
       {
+        "n": 818,
+        "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4"
+      },
+      {
         "n": 819,
         "head": "Comet Clash: the release snap is unproven on a friend's screen, and the wind-up comet still floats off the hand"
       },
@@ -2916,10 +2920,6 @@
       {
         "n": 825,
         "head": "the hall: the pool floor sits half a millimetre under the hall floor, and no pixel test can clear it"
-      },
-      {
-        "n": 826,
-        "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard"
       },
       {
         "n": 829,
@@ -3544,5 +3544,5 @@
       "2026-11-17": 43
     }
   },
-  "changed": "2026-11-18T06:09:14.026Z"
+  "changed": "2026-11-18T06:19:13.901Z"
 }
