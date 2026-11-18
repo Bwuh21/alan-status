@@ -2439,12 +2439,6 @@
         "since": "2026-11-18 13:24"
       },
       {
-        "n": 1014,
-        "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)",
-        "lane": "arcade2",
-        "since": "2026-11-18 14:29"
-      },
-      {
         "n": 1015,
         "head": "UNDERCROFT, friends: the party win card names the party, not just you (survey 2026-11-18)",
         "lane": "arcade",
@@ -3371,6 +3365,11 @@
         "date": "2026-11-18 13:24"
       },
       {
+        "n": 1014,
+        "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)",
+        "date": "2026-11-18"
+      },
+      {
         "n": 1013,
         "head": "UNDERCROFT, friends: does the host's hit-stop freeze the foes on every guest's screen? Measure first, then fix (survey 2026-11-18)",
         "date": "2026-11-18"
@@ -3424,15 +3423,9 @@
         "head": "THE BAR REWORK 7/8: AIR HOCKEY",
         "detail": "the little sign over the table sits off to one side; centre it",
         "date": "2026-11-18"
-      },
-      {
-        "n": 974,
-        "head": "THE BAR REWORK 6/8: POOL",
-        "detail": "a game starts from ANY side of the table, not just one",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 665,
+    "shippedTotal": 666,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3440,8 +3433,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 16
+      "2026-11-18": 17
     }
   },
-  "changed": "2026-11-18T20:34:13.651Z"
+  "changed": "2026-11-18T21:04:33.070Z"
 }
