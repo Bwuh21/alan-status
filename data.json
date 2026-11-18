@@ -2445,12 +2445,6 @@
         "since": "2026-11-18 14:24"
       },
       {
-        "n": 882,
-        "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds",
-        "lane": "arcade2",
-        "since": "2026-11-18 14:29"
-      },
-      {
         "n": 883,
         "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds",
         "lane": "arcade2",
@@ -3339,6 +3333,14 @@
       {
         "n": 1026,
         "head": "UNDERCROFT, friends: a guest's first riposte hangs their own screen about 0.65 s (HEAD too)"
+      },
+      {
+        "n": 1027,
+        "head": "COMET CLASH: a first visit starts on NORMAL, where a first-timer wins about 1 match in 10"
+      },
+      {
+        "n": 1028,
+        "head": "COMET CLASH: re-read the plays table a week after row 882 (on or after 2026-11-25)"
       }
     ],
     "waiting": [
@@ -3427,7 +3429,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 666,
+    "shippedTotal": 667,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3435,8 +3437,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 17
+      "2026-11-18": 18
     }
   },
-  "changed": "2026-11-18T21:09:15.731Z"
+  "changed": "2026-11-18T21:24:13.898Z"
 }
