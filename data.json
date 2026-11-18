@@ -2445,12 +2445,6 @@
         "since": "2026-11-18 14:24"
       },
       {
-        "n": 883,
-        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds",
-        "lane": "arcade2",
-        "since": "2026-11-18 15:05"
-      },
-      {
         "n": 1016,
         "head": "HEAD OR BODY (boxing) keeps your best: a win streak per fighter rung, so a second visit has something to beat (survey 2026-11-18)",
         "lane": "arcade2",
@@ -2458,6 +2452,11 @@
       }
     ],
     "next": [
+      {
+        "n": 1029,
+        "head": "Skin Kick (AirHockey): the step from EASY to NORMAL is a cliff",
+        "detail": "a first-timer stand-in wins 31/40 on easy and 0/40 on normal (row 883 bench, 2026-11-18)"
+      },
       {
         "n": 1017,
         "head": "COMET CLASH keeps a win streak per rung (do this AFTER row 882 makes it winnable) (survey 2026-11-18)"
@@ -3431,7 +3430,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 667,
+    "shippedTotal": 668,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3439,8 +3438,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 18
+      "2026-11-18": 19
     }
   },
-  "changed": "2026-11-18T21:29:14.460Z"
+  "changed": "2026-11-18T21:34:13.922Z"
 }
