@@ -3470,6 +3470,18 @@
       {
         "n": 1007,
         "head": "ship-game.sh's push gate refuses any game whose root dev harnesses are in HEAD but were never in the clone, because the filter calls them se"
+      },
+      {
+        "n": 1008,
+        "head": "THE WATCHER CRIES DARK ON A LOOKUP THAT MERELY FAILED: any Get-ScheduledTask error reads as \"NOT REGISTERED\", and it texted Zack a false res"
+      },
+      {
+        "n": 1009,
+        "head": "UNDERCROFT carries a failed server patch in the working tree: restore the two tracked files (the patch is already saved, so nothing is lost)"
+      },
+      {
+        "n": 1010,
+        "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
       }
     ],
     "waiting": [
@@ -3570,5 +3582,5 @@
       "2026-11-18": 6
     }
   },
-  "changed": "2026-11-18T12:04:14.955Z"
+  "changed": "2026-11-18T12:14:13.351Z"
 }
