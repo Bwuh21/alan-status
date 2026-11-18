@@ -2443,13 +2443,6 @@
         "since": "2026-11-18 14:24"
       },
       {
-        "n": 1029,
-        "head": "Skin Kick (AirHockey): the step from EASY to NORMAL is a cliff",
-        "detail": "a first-timer stand-in wins 31/40 on easy and 0/40 on normal (row 883 bench, 2026-11-18)",
-        "lane": "arcade2",
-        "since": "2026-11-18 15:34"
-      },
-      {
         "n": 1017,
         "head": "COMET CLASH keeps a win streak per rung (do this AFTER row 882 makes it winnable) (survey 2026-11-18)",
         "lane": "arcade",
@@ -2463,6 +2456,10 @@
       }
     ],
     "next": [
+      {
+        "n": 1030,
+        "head": "Skin Kick (AirHockey): measure the NORMAL -> HARD step now that NORMAL is softer (hard>normal went 35/40 -> 40/40, goals 204-8, row 1029 ben"
+      },
       {
         "n": 982,
         "head": "TOY FURY REWORK 4/6: FEWER, BETTER TRACKS, step 1",
@@ -3368,6 +3365,12 @@
         "date": "2026-11-18 13:24"
       },
       {
+        "n": 1029,
+        "head": "Skin Kick (AirHockey): the step from EASY to NORMAL is a cliff",
+        "detail": "a first-timer stand-in wins 31/40 on easy and 0/40 on normal (row 883 bench, 2026-11-18)",
+        "date": "2026-11-18"
+      },
+      {
         "n": 1016,
         "head": "HEAD OR BODY (boxing) keeps your best: a win streak per fighter rung, so a second visit has something to beat (survey 2026-11-18)",
         "date": "2026-11-18"
@@ -3419,15 +3422,9 @@
         "head": "TOY FURY REWORK 3/6: THE GRAND TOUR",
         "detail": "one big ground-floor track with real corners, built ALONGSIDE today's eight",
         "date": "2026-11-18"
-      },
-      {
-        "n": 977,
-        "head": "THE PLAZA: the six islands round spawn placed EVENLY",
-        "detail": "one ring, equal spacing, equal distance, every door facing home",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 670,
+    "shippedTotal": 671,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3435,8 +3432,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 21
+      "2026-11-18": 22
     }
   },
-  "changed": "2026-11-18T21:54:18.983Z"
+  "changed": "2026-11-18T21:59:43.652Z"
 }
