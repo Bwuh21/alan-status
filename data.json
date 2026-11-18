@@ -2384,16 +2384,28 @@
         "since": "2026-11-17 23:49"
       },
       {
-        "n": 877,
-        "head": "Second Wind: \"W moves the body UP THE SCREEN\" failed 1 run in 5 on an untouched code path",
-        "lane": "server",
-        "since": "2026-11-18 02:30"
+        "n": 995,
+        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium",
+        "lane": "arcade2",
+        "since": "2026-11-18 03:04"
+      },
+      {
+        "n": 996,
+        "head": "TOY FURY on a phone: the teach card covers the place, the menu button and the speed for its whole first race",
+        "lane": "arcade2",
+        "since": "2026-11-18 03:04"
       },
       {
         "n": 883,
         "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds",
         "lane": "server",
         "since": "2026-11-18 02:59"
+      },
+      {
+        "n": 885,
+        "head": "Space Golf: its own with-friends check is dead on today's game",
+        "lane": "server",
+        "since": "2026-11-18 03:04"
       }
     ],
     "next": [
@@ -2470,14 +2482,6 @@
       {
         "n": 994,
         "head": "THE ISLAND TEST SERVER HE ASKED FOR: one page that shows every island side by side so he can say what he likes"
-      },
-      {
-        "n": 995,
-        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium"
-      },
-      {
-        "n": 996,
-        "head": "TOY FURY on a phone: the teach card covers the place, the menu button and the speed for its whole first race"
       },
       {
         "n": 523,
@@ -3073,6 +3077,10 @@
         "detail": "is the pay ladder 3/2/1 or 1/1/1?"
       },
       {
+        "n": 877,
+        "head": "Second Wind: \"W moves the body UP THE SCREEN\" failed 1 run in 5 on an untouched code path"
+      },
+      {
         "n": 878,
         "head": "Teach probes: 23 of them accept the step TICK as the card finishing"
       },
@@ -3095,10 +3103,6 @@
       {
         "n": 884,
         "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing"
-      },
-      {
-        "n": 885,
-        "head": "Space Golf: its own with-friends check is dead on today's game"
       },
       {
         "n": 886,
@@ -3536,5 +3540,5 @@
       "2026-11-18": 2
     }
   },
-  "changed": "2026-11-18T09:04:14.048Z"
+  "changed": "2026-11-18T09:09:14.081Z"
 }
