@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:20:00.000Z",
+  "updated": "2026-11-18T23:50:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1200,6 +1200,11 @@
           "text": "\"The game is now BACK NINE\"",
           "status": "done",
           "note": "The title card, the tab and the heading say Back Nine (Clover Coast Golf Club), on one line on a phone and a desk. Live 2026-11-18. The arcade's island sign and directory still say Golf: that is row 1004."
+        },
+        {
+          "text": "\"The ball in the air is jittery, a part of the club isn't connected, one arm is bugged, the club is sometimes turned around, and the skins look weird\"",
+          "status": "done",
+          "note": "All five, measured before and after. The ball is drawn between physics steps, so a fast phone screen no longer shows it stop dead (256 stalled frames to 0). Every club head sits on its shaft (gaps of 6-8 cm down to…"
         },
         {
           "text": "\"A good solo round pays tickets\" -- par or better, more per stroke under",
@@ -2468,12 +2473,6 @@
         "head": "THE WALK FLOOR STILL STEPS where the drawn floor is smooth: your feet (and the shadow with them) pop at rock tops, pit lips, cliff edges and",
         "lane": "arcade",
         "since": "2026-11-18 16:24"
-      },
-      {
-        "n": 789,
-        "head": "BACK NINE (golf): the ball jitters in the air, a piece of the club is not attached, and the skins look wrong here",
-        "lane": "arcade2",
-        "since": "2026-11-18 16:44"
       }
     ],
     "next": [
@@ -3352,6 +3351,14 @@
       {
         "n": 1028,
         "head": "COMET CLASH: re-read the plays table a week after row 882 (on or after 2026-11-25)"
+      },
+      {
+        "n": 1036,
+        "head": "BACK NINE: in a short landscape window the aim camera leaves the golfer tiny at the bottom, behind the SWIPE button"
+      },
+      {
+        "n": 1037,
+        "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball"
       }
     ],
     "waiting": [
@@ -3436,7 +3443,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 677,
+    "shippedTotal": 678,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3444,8 +3451,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 28
+      "2026-11-18": 29
     }
   },
-  "changed": "2026-11-18T23:19:13.455Z"
+  "changed": "2026-11-18T23:49:13.319Z"
 }
