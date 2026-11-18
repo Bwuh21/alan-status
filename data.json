@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T11:56:00.000Z",
+  "updated": "2026-11-18T16:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2373,19 +2373,25 @@
           "text": "3/8 The camera: backing toward a wall from 2 ft away glitches and shoves the lens into the wall",
           "status": "done",
           "note": "Live 2026-11-17. The camera stared straight down at the top of your head, because in the two big rooms your body could stand halfway into the wall and the camera went with it. Now you stop a body's width short of every…"
+        },
+        {
+          "text": "4/8 Foosball: a real table, the 00 sign off it, and playable",
+          "status": "done",
+          "note": "Live 2026-11-18. There was never a real table, only a reserved rug with a sign; the 00 you saw was most likely air hockey's score plaque (that is step 7). Now a walnut and brass table stands in the east corner, with…"
+        },
+        {
+          "text": "Left over from step 4: air hockey's two-player check fails ('Pick your game', no table), the same before this work (row 1019)",
+          "status": "todo"
+        },
+        {
+          "text": "Left over from step 4: on a phone the foosball and air hockey prompt is cut off under the Play button (row 1020)",
+          "status": "todo"
         }
       ]
     }
   ],
   "stack": {
     "building": [
-      {
-        "n": 972,
-        "head": "THE BAR REWORK 4/8: FOOSBALL",
-        "detail": "a real-looking table in the walnut set, the \"00\" sign OFF the table, and playable",
-        "lane": "arcade",
-        "since": "2026-11-17 22:44"
-      },
       {
         "n": 973,
         "head": "THE BAR REWORK 5/8: PING PONG",
@@ -3302,6 +3308,14 @@
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
+      },
+      {
+        "n": 1019,
+        "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up"
+      },
+      {
+        "n": 1020,
+        "head": "PHONE: the table prompt label is cut off under the Play button (\"Foosball · the house plays, first t...\", the same on air hockey)"
       }
     ],
     "waiting": [
@@ -3351,6 +3365,12 @@
         "date": "2026-11-18"
       },
       {
+        "n": 972,
+        "head": "THE BAR REWORK 4/8: FOOSBALL",
+        "detail": "a real-looking table in the walnut set, the \"00\" sign OFF the table, and playable",
+        "date": "2026-11-18"
+      },
+      {
         "n": 771,
         "head": "SECOND WIND: one short round, and a map worth looking at",
         "date": "2026-11-18"
@@ -3382,15 +3402,9 @@
         "head": "THE BAR REWORK 3/8: CAMERA",
         "detail": "backing toward a wall from 2 ft away glitches and shoves the lens into the wall",
         "date": "2026-11-17"
-      },
-      {
-        "n": 970,
-        "head": "THE BAR REWORK 2/8: BOWLING, seamless",
-        "detail": "walk in, \"Start a game of bowling\", bowl with whoever is there or alone",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 656,
+    "shippedTotal": 657,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3398,8 +3412,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 7
+      "2026-11-18": 8
     }
   },
-  "changed": "2026-11-18T16:04:13.749Z"
+  "changed": "2026-11-18T16:54:13.843Z"
 }
