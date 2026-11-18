@@ -3,105 +3,282 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#030507">
-<title>Status Ledger</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23030507'/%3E%3Cpath d='M32 10 54 32 32 54 10 32Z' fill='none' stroke='%234dd8e8' stroke-width='3'/%3E%3Ccircle cx='32' cy='32' r='5' fill='%23a6f3ff'/%3E%3C/svg%3E">
+<meta name="theme-color" content="#12100e" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f7f3ec" media="(prefers-color-scheme: light)">
+<title>The Stack</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2312100e'/%3E%3Crect x='14' y='38' width='36' height='8' rx='3' fill='%236ee7a8'/%3E%3Crect x='14' y='27' width='36' height='8' rx='3' fill='%23f3ece2' opacity='.55'/%3E%3Crect x='14' y='16' width='36' height='8' rx='3' fill='%23ffb547'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #030507; --panel: rgba(10,18,22,0.78); --panel-solid: #060c0f;
-    --line: rgba(77,216,232,0.22); --line-quiet: rgba(120,150,155,0.16);
-    --cyan: #4dd8e8; --cyan-hi: #a6f3ff; --cyan-dim: rgba(77,216,232,0.5);
-    --text: #d8ecf0; --text-dim: #6f8f96;
-    --done: #7fe0a0; --doing: #4dd8e8; --todo: #6f8f96; --blocked: #e8b84d;
-    --mono: 'Cascadia Mono', Consolas, 'SF Mono', monospace;
-    --sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    color-scheme: dark;
+    --bg: #12100e; --surface: #1b1815; --surface-2: #25211d; --line: rgba(255,236,210,.09); --line-2: rgba(255,236,210,.16);
+    --text: #f3ece2; --muted: #a89f93; --faint: #70685e;
+    --amber: #ffb547; --amber-bg: rgba(255,181,71,.10);
+    --mint: #6ee7a8;  --mint-bg: rgba(110,231,168,.10);
+    --coral: #ff7a66; --coral-bg: rgba(255,122,102,.10);
+    --glow: rgba(255,181,71,.07);
+    --display: 'Bricolage Grotesque', ui-sans-serif, system-ui, sans-serif;
+    --sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    --mono: ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace;
   }
-  * { box-sizing: border-box; margin: 0; padding: 0; scrollbar-width: thin; scrollbar-color: rgba(77,216,232,0.3) transparent; }
-  ::-webkit-scrollbar { width: 9px; }
-  ::-webkit-scrollbar-thumb { background: rgba(77,216,232,0.22); border-radius: 999px; }
-  body { background: var(--bg); color: var(--text); font: 14.5px/1.55 var(--sans); min-height: 100dvh; }
-  body::before {
-    content: ""; position: fixed; inset: 0; z-index: 0; pointer-events: none;
-    background: repeating-linear-gradient(180deg, rgba(77,216,232,0.025) 0px, rgba(77,216,232,0.025) 1px, transparent 1px, transparent 3px),
-      radial-gradient(ellipse 80% 50% at 50% -10%, rgba(77,216,232,0.08), transparent 60%);
+  @media (prefers-color-scheme: light) {
+    :root {
+      color-scheme: light;
+      --bg: #f7f3ec; --surface: #fffdf9; --surface-2: #f0e9de; --line: rgba(60,40,20,.10); --line-2: rgba(60,40,20,.18);
+      --text: #1f1a14; --muted: #675d52; --faint: #978c80;
+      --amber: #a86300; --amber-bg: rgba(214,138,20,.12);
+      --mint: #19804e;  --mint-bg: rgba(25,128,78,.10);
+      --coral: #c2412c; --coral-bg: rgba(194,65,44,.09);
+      --glow: rgba(255,181,71,.18);
+    }
   }
-  .wrap { position: relative; z-index: 1; max-width: 1080px; margin: 0 auto; padding: 24px 20px 90px; }
-  header { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; padding-bottom: 16px; border-bottom: 1px solid var(--line); }
-  header h1 { font: 700 20px/1.2 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--cyan-hi); text-shadow: 0 0 14px rgba(77,216,232,0.35); }
-  header h1::before { content: "// "; color: var(--cyan-dim); }
-  .sub { width: 100%; font: 12.5px var(--sans); color: var(--text-dim); margin-top: 3px; }
-  .counts { display: flex; gap: 10px; flex-wrap: wrap; margin: 18px 0 24px; }
-  .chip { font: 600 11px var(--mono); letter-spacing: 0.06em; text-transform: uppercase; padding: 5px 11px; border: 1px solid var(--line); color: var(--text-dim); background: rgba(77,216,232,0.04); }
-  .chip b { color: var(--text); font-size: 13px; margin-right: 5px; }
-  .chip.doing { color: var(--doing); border-color: rgba(77,216,232,0.4); }
-  .chip.todo { color: var(--todo); }
-  .chip.blocked { color: var(--blocked); border-color: rgba(232,184,77,0.35); }
-  .chip.done { color: var(--done); border-color: rgba(127,224,160,0.35); }
-  .point { position: relative; border: 1px solid var(--line); background: var(--panel); margin-bottom: 18px; padding: 16px 18px 14px; }
-  .point::before, .point::after { content: ""; position: absolute; width: 12px; height: 12px; border: 1px solid var(--cyan-dim); pointer-events: none; }
-  .point::before { top: -1px; left: -1px; border-right: 0; border-bottom: 0; }
-  .point::after { bottom: -1px; right: -1px; border-left: 0; border-top: 0; }
-  .point-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
-  .point-head h2 { font: 600 15.5px var(--sans); color: var(--text); }
-  .pstatus { font: 600 10.5px var(--mono); letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 8px; border: 1px solid; }
-  .pstatus.doing { color: var(--doing); border-color: rgba(77,216,232,0.4); }
-  .pstatus.todo { color: var(--todo); border-color: var(--line-quiet); }
-  .pstatus.blocked { color: var(--blocked); border-color: rgba(232,184,77,0.35); }
-  .pstatus.done { color: var(--done); border-color: rgba(127,224,160,0.35); }
-  .due { font: 600 10.5px var(--mono); letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 8px; border: 1px solid rgba(232,184,77,0.5); color: var(--blocked); }
-  .insight { font: 12.5px var(--sans); color: var(--text-dim); margin-top: 6px; font-style: italic; }
-  ul.subs { list-style: none; margin-top: 12px; display: flex; flex-direction: column; gap: 7px; }
-  ul.subs li { position: relative; padding-left: 23px; font: 13.5px var(--sans); overflow-wrap: break-word; }
-  ul.subs li .glyph { position: absolute; left: 0; top: 0; font: 13px var(--mono); width: 14px; text-align: center; }
-  ul.subs li.done { color: var(--text-dim); text-decoration: line-through; text-decoration-color: rgba(111,143,150,0.5); }
-  ul.subs li.done .glyph { color: var(--done); }
-  ul.subs li.doing .glyph { color: var(--doing); }
-  ul.subs li.todo .glyph { color: var(--todo); }
-  ul.subs li.blocked .glyph { color: var(--blocked); }
-  ul.subs li .note { color: var(--blocked); font-size: 11.5px; font-family: var(--mono); margin-left: 4px; }
-  .placeholder { color: var(--text-dim); font-style: italic; padding: 30px 0; text-align: center; }
-  .updated { font: 11px var(--mono); color: var(--text-dim); margin-top: 26px; letter-spacing: 0.03em; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    background: radial-gradient(90% 420px at 50% -120px, var(--glow), transparent 70%), var(--bg);
+    background-repeat: no-repeat; color: var(--text); font: 15px/1.5 var(--sans); min-height: 100dvh;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; padding: calc(28px + env(safe-area-inset-top)) 16px 64px; }
+  button { font: inherit; color: inherit; }
+
+  /* header */
+  .kicker { font: 600 11.5px var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--faint); }
+  h1 { font: 800 clamp(40px, 9vw, 64px)/0.95 var(--display); letter-spacing: -.03em; margin: 10px 0 12px; }
+  .sub { color: var(--muted); max-width: 52ch; }
+  .live { display: inline-flex; align-items: center; gap: 8px; margin-top: 14px; font: 500 12.5px var(--mono); color: var(--muted); }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--mint); box-shadow: 0 0 0 0 var(--mint); animation: ping 2.4s infinite; }
+  .live.stale .dot { background: var(--faint); animation: none; }
+  @keyframes ping { 0% { box-shadow: 0 0 0 0 rgba(110,231,168,.5); } 70%, 100% { box-shadow: 0 0 0 9px rgba(110,231,168,0); } }
+
+  /* stats */
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 28px 0 8px; }
+  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px 14px 12px; text-decoration: none; color: inherit; }
+  .stat b { display: block; font: 800 30px/1 var(--display); letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+  .stat span { display: block; margin-top: 6px; font-size: 12.5px; color: var(--muted); }
+  .stat.amber b { color: var(--amber); } .stat.coral b { color: var(--coral); } .stat.mint b { color: var(--mint); }
+  @media (max-width: 560px) { .stats { grid-template-columns: 1fr 1fr; } }
+
+  /* sections */
+  section { margin-top: 40px; }
+  .sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 14px; }
+  h2 { font: 800 22px/1.1 var(--display); letter-spacing: -.01em; }
+  .sec-note { font-size: 12.5px; color: var(--faint); text-align: right; }
+  .grp { font: 600 10.5px/1.3 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--faint); }
+  .grp em { font-style: normal; color: var(--muted); }
+  .row-n { font: 500 11.5px var(--mono); color: var(--faint); white-space: nowrap; }
+  .detail { color: var(--muted); font-size: 13.5px; margin-top: 3px; }
+
+  /* building now */
+  .now { display: grid; gap: 10px; }
+  .card { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 16px 18px; overflow: hidden; }
+  .card.building { border-color: color-mix(in srgb, var(--amber) 35%, transparent); background: linear-gradient(var(--amber-bg), var(--amber-bg)), var(--surface); }
+  .card.building::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--amber); }
+  .card-top { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
+  .lane { font: 700 11px var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--amber); display: inline-flex; align-items: center; gap: 7px; }
+  .lane i { width: 7px; height: 7px; border-radius: 50%; background: var(--amber); animation: blink 1.6s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: .25; } }
+  .elapsed { font: 500 12px var(--mono); color: var(--muted); }
+  .card-top .row-n { margin-left: auto; }
+  .card h3 { font: 600 18px/1.25 var(--display); margin-top: 3px; }
+  .card.warn .elapsed { color: var(--coral); }
+
+  /* up next */
+  ol.queue { list-style: none; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; overflow: hidden; }
+  ol.queue li { display: grid; grid-template-columns: 34px 1fr auto; gap: 4px 12px; padding: 13px 16px 13px 12px; border-top: 1px solid var(--line); }
+  ol.queue li:first-child { border-top: 0; }
+  ol.queue li.first { background: linear-gradient(90deg, var(--amber-bg), transparent 70%); }
+  .pos { font: 800 17px/1.35 var(--display); color: var(--faint); text-align: right; font-variant-numeric: tabular-nums; }
+  li.first .pos { color: var(--amber); }
+  .q-head { font-weight: 600; line-height: 1.35; }
+  .q-body { min-width: 0; overflow-wrap: anywhere; }
+  .more { display: block; width: 100%; margin-top: 10px; padding: 12px; border-radius: 12px; border: 1px dashed var(--line-2); background: transparent; color: var(--muted); cursor: pointer; font-weight: 600; font-size: 14px; }
+  .more:hover { color: var(--text); border-color: var(--muted); }
+  .more:focus-visible, summary:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+
+  /* waiting + shipped */
+  ul.plain { list-style: none; display: grid; gap: 8px; }
+  ul.plain li { display: grid; grid-template-columns: 22px 1fr auto; gap: 2px 10px; align-items: start; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 11px 14px; }
+  ul.plain li .ico { font: 700 14px/1.4 var(--mono); text-align: center; }
+  ul.waiting li { border-color: color-mix(in srgb, var(--coral) 30%, transparent); background: linear-gradient(var(--coral-bg), var(--coral-bg)), var(--surface); }
+  ul.waiting .ico { color: var(--coral); }
+  ul.shipped .ico { color: var(--mint); }
+  ul.shipped li { background: transparent; }
+  .when { font: 500 11.5px var(--mono); color: var(--faint); white-space: nowrap; text-align: right; }
+  .when .row-n { display: block; }
+
+  /* projects */
+  .proj { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; margin-bottom: 8px; }
+  .proj > summary { list-style: none; cursor: pointer; padding: 13px 16px; display: grid; grid-template-columns: 1fr auto; gap: 8px 14px; align-items: center; }
+  .proj > summary::-webkit-details-marker { display: none; }
+  .p-title { font-weight: 600; line-height: 1.35; overflow-wrap: anywhere; }
+  .p-count { font: 500 12px var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+  .bar { grid-column: 1 / -1; height: 5px; border-radius: 99px; background: var(--surface-2); overflow: hidden; display: flex; }
+  .bar i { display: block; height: 100%; }
+  .bar .b-done { background: var(--mint); } .bar .b-doing { background: var(--amber); } .bar .b-blocked { background: var(--coral); }
+  .pill { font: 700 10px var(--mono); letter-spacing: .08em; text-transform: uppercase; padding: 2px 7px; border-radius: 99px; margin-left: 8px; vertical-align: 2px; }
+  .pill.doing { color: var(--amber); background: var(--amber-bg); } .pill.blocked { color: var(--coral); background: var(--coral-bg); }
+  .pill.done { color: var(--mint); background: var(--mint-bg); } .pill.todo { color: var(--muted); background: var(--surface-2); }
+  .pill.urgent { color: var(--coral); background: var(--coral-bg); }
+  .p-body { padding: 0 16px 14px; }
+  .insight { color: var(--muted); font-size: 13.5px; font-style: italic; margin-bottom: 10px; }
+  ul.subs { list-style: none; display: grid; gap: 6px; }
+  ul.subs li { display: grid; grid-template-columns: 18px 1fr; gap: 8px; font-size: 13.5px; overflow-wrap: anywhere; }
+  ul.subs .g { font: 700 12px/1.6 var(--mono); text-align: center; }
+  ul.subs li.done { color: var(--faint); } ul.subs li.done .g { color: var(--mint); }
+  ul.subs li.doing .g { color: var(--amber); } ul.subs li.blocked .g { color: var(--coral); } ul.subs li.todo .g { color: var(--faint); }
+  ul.subs .note { display: block; color: var(--faint); font-size: 12.5px; }
+  details.finished > summary { cursor: pointer; color: var(--muted); font-weight: 600; padding: 10px 2px; }
+  details.finished[open] > summary { margin-bottom: 8px; }
+
+  .empty { color: var(--faint); font-style: italic; padding: 14px 2px; }
+  footer { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--faint); }
+  @media (max-width: 560px) {
+    ol.queue li { grid-template-columns: 26px 1fr; padding-right: 14px; }
+    ol.queue li .row-n { grid-column: 2; grid-row: 1; justify-self: end; display: none; }
+    .card { padding: 14px 15px; }
+  }
+  @media (prefers-reduced-motion: reduce) { .dot, .lane i { animation: none; } }
 </style>
 </head>
 <body>
-<div class="wrap">
+<main class="wrap">
   <header>
-    <h1>Status Ledger</h1>
-    <div class="sub">What's being worked on right now, in order of what's time-sensitive.</div>
+    <div class="kicker">Bwuh Arcade &middot; work stack</div>
+    <h1>The Stack</h1>
+    <p class="sub">What the machine is building right now, what's next in line, and what just went live. The top of the line goes first.</p>
+    <div class="live" id="live"><span class="dot"></span><span id="changed">reading&hellip;</span></div>
   </header>
-  <div class="counts" id="counts"></div>
-  <div id="points"><div class="placeholder">reading…</div></div>
-  <div class="updated" id="updated"></div>
-</div>
+
+  <div class="stats" id="stats"></div>
+
+  <section aria-labelledby="h-now"><div class="sec-head"><h2 id="h-now">Building now</h2></div><div class="now" id="now"></div></section>
+  <section aria-labelledby="h-next"><div class="sec-head"><h2 id="h-next">Up next</h2><span class="sec-note">in the order it gets built</span></div><div id="next"></div></section>
+  <section aria-labelledby="h-wait" id="wait-sec"><div class="sec-head"><h2 id="h-wait">Waiting on you</h2><span class="sec-note">your call before it moves</span></div><div id="wait"></div></section>
+  <section aria-labelledby="h-ship"><div class="sec-head"><h2 id="h-ship">Just shipped</h2><span class="sec-note" id="ship-note"></span></div><div id="ship"></div></section>
+  <section aria-labelledby="h-proj"><div class="sec-head"><h2 id="h-proj">Projects</h2><span class="sec-note">the bigger pieces, tap to open</span></div><div id="proj"></div></section>
+
+  <footer>Row numbers (#) are the queue's own. This page re-reads itself every minute.</footer>
+</main>
 <script>
+  var SHOW = 12, showAll = false, data = null;
+  var LANES = { arcade: 'Lane 1', arcade2: 'Lane 2', server: 'Server' };
+  var SMALL = { the:1, and:1, of:1, to:1, a:1, an:1, in:1, on:1, at:1, by:1, for:1, or:1, off:1, with:1, as:1 };
   var GLYPH = { done: '✓', doing: '▸', todo: '○', blocked: '▲' };
-  function esc(s) { return String(s == null ? '' : s).replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; }); }
-  function render(d) {
-    var pts = (d.mainPoints || []).slice().sort(function (a, b) { return (b.urgent ? 1 : 0) - (a.urgent ? 1 : 0); });
-    var counts = { done: 0, doing: 0, todo: 0, blocked: 0 };
-    pts.forEach(function (p) { (p.subtasks || []).forEach(function (s) { counts[s.status] = (counts[s.status] || 0) + 1; }); });
-    document.getElementById('counts').innerHTML = ['doing', 'todo', 'blocked', 'done'].map(function (k) {
-      return '<span class="chip ' + k + '"><b>' + (counts[k] || 0) + '</b>' + k + '</span>';
-    }).join('');
-    document.getElementById('points').innerHTML = pts.length ? pts.map(function (p) {
-      var subs = (p.subtasks || []).map(function (s) {
-        return '<li class="' + esc(s.status) + '"><span class="glyph">' + (GLYPH[s.status] || '?') + '</span>' +
-          '<span>' + esc(s.text) + '</span>' + (s.note ? '<span class="note">(' + esc(s.note) + ')</span>' : '') + '</li>';
-      }).join('');
-      return '<section class="point">' +
-        '<div class="point-head"><h2>' + esc(p.title) + '</h2><span class="pstatus ' + esc(p.status) + '">' + esc(p.status) + '</span>' + (p.due ? '<span class="due">due ' + esc(p.due) + '</span>' : '') + '</div>' +
-        (p.insight ? '<div class="insight">' + esc(p.insight) + '</div>' : '') +
-        '<ul class="subs">' + subs + '</ul></section>';
-    }).join('') : '<div class="placeholder">nothing on the ledger yet</div>';
-    document.getElementById('updated').textContent = 'updated ' + (d.updated || '?');
+
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  // Queue titles shout in capitals. Title-case a RUN of capital words ("THE BAR REWORK"); a lone capital word of 4+
+  // letters is emphasis mid-sentence ("a PERSON") and goes lower case; a lone short one is an acronym (HUD, EL) and stays.
+  function tc(w, at) { var l = w.toLowerCase(); return (at > 0 && SMALL[l]) ? l : w.charAt(0) + l.slice(1); }
+  function calm(s) {
+    s = String(s || '')
+      .replace(/\b[A-Z][A-Z'0-9]*(?:[ ,&-]+[A-Z][A-Z'0-9]*)+\b/g, function (run) { return run.replace(/[A-Z][A-Z'0-9]*/g, tc); })
+      .replace(/\b[A-Z][A-Z']{3,}\b/g, function (w) { return w.toLowerCase(); });
+    return s.charAt(0).toUpperCase() + s.slice(1);
   }
-  // Re-read when the page comes back into view and every minute: a phone keeps the tab alive for hours.
+  // "THE BAR REWORK 3/8: CAMERA" -> group, step, name
+  function split(head) {
+    var m = /^(.*?)\s+(\d+)\/(\d+):\s*(.+)$/.exec(head || '');
+    if (m) return { group: calm(m[1]), step: m[2] + ' of ' + m[3], name: calm(m[4]) };
+    var c = /^([A-Z][A-Z0-9 '&-]{3,40}):\s*(.+)$/.exec(head || '');
+    if (c) return { group: calm(c[1]), name: calm(c[2]) };
+    return { name: calm(head) };
+  }
+  function grpLine(p) { return p.group ? '<div class="grp">' + esc(p.group) + (p.step ? ' &middot; <em>' + esc(p.step) + '</em>' : '') + '</div>' : ''; }
+  function ago(ms) {
+    var m = Math.max(0, Math.round(ms / 60000));
+    if (m < 1) return 'just now'; if (m < 60) return m + ' min';
+    var h = Math.floor(m / 60); if (h < 24) return h + 'h ' + (m % 60) + 'm';
+    return Math.floor(h / 24) + 'd ' + (h % 24) + 'h';
+  }
+  function local(s) { return s ? new Date(s.replace(' ', 'T') + (s.length > 10 ? '' : 'T12:00')) : null; }
+  function day(s) {
+    var d = local(s); if (!d || isNaN(d)) return s || '';
+    var t = new Date(); t.setHours(0, 0, 0, 0);
+    var diff = Math.round((t - new Date(d.getFullYear(), d.getMonth(), d.getDate())) / 864e5);
+    return diff === 0 ? 'today' : diff === 1 ? 'yesterday' : d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+  }
+
+  var opened = {};   // the minute re-read rebuilds the list; keep whatever he had open, open
+  function render(d) {
+    data = d;
+    document.querySelectorAll('details[data-k]').forEach(function (el) { opened[el.dataset.k] = el.open; });
+    var st = d.stack || { building: [], next: [], waiting: [], shipped: [] };
+    var t0 = new Date(), iso = t0.getFullYear() + '-' + ('0' + (t0.getMonth() + 1)).slice(-2) + '-' + ('0' + t0.getDate()).slice(-2);
+    var shippedToday = (st.shippedOn || {})[iso] || 0;
+
+    var ch = d.changed ? new Date(d.changed) : null;
+    document.getElementById('changed').textContent = ch ? 'stack changed ' + ago(Date.now() - ch) + (Date.now() - ch < 60000 ? '' : ' ago') : 'live';
+    document.getElementById('live').classList.toggle('stale', !!ch && Date.now() - ch > 6 * 3600e3);
+
+    document.getElementById('stats').innerHTML =
+      '<a class="stat amber" href="#h-now"><b>' + st.building.length + '</b><span>building now</span></a>' +
+      '<a class="stat" href="#h-next"><b>' + st.next.length + '</b><span>in line</span></a>' +
+      '<a class="stat coral" href="#h-wait"><b>' + st.waiting.length + '</b><span>waiting on you</span></a>' +
+      '<a class="stat mint" href="#h-ship"><b>' + shippedToday + '</b><span>shipped today' + (st.shippedTotal ? ' &middot; ' + st.shippedTotal + ' total' : '') + '</span></a>';
+
+    document.getElementById('now').innerHTML = st.building.length ? st.building.map(function (r) {
+      var p = split(r.head), since = local(r.since), el = since ? Date.now() - since : 0;
+      return '<article class="card building' + (el > 8 * 3600e3 ? ' warn' : '') + '">' +
+        '<div class="card-top"><span class="lane"><i></i>' + esc(LANES[r.lane] || r.lane) + '</span>' +
+        (since ? '<span class="elapsed">' + ago(el) + ' in</span>' : '') + '<span class="row-n">#' + r.n + '</span></div>' +
+        grpLine(p) + '<h3>' + esc(p.name) + '</h3>' + (r.detail ? '<p class="detail">' + esc(r.detail) + '</p>' : '') + '</article>';
+    }).join('') : '<div class="empty">Nothing on the bench right now.</div>';
+
+    var list = showAll ? st.next : st.next.slice(0, SHOW);
+    document.getElementById('next').innerHTML = st.next.length ? '<ol class="queue">' + list.map(function (r, i) {
+      var p = split(r.head);
+      return '<li' + (i === 0 ? ' class="first"' : '') + '><span class="pos">' + (i + 1) + '</span><div class="q-body">' + grpLine(p) +
+        '<div class="q-head">' + esc(p.name) + '</div>' + (r.detail ? '<div class="detail">' + esc(r.detail) + '</div>' : '') +
+        '</div><span class="row-n">#' + r.n + '</span></li>';
+    }).join('') + '</ol>' + (st.next.length > SHOW ? '<button class="more" id="more">' + (showAll ? 'Show just the top ' + SHOW : 'Show all ' + st.next.length + ' in line') + '</button>' : '')
+      : '<div class="empty">The line is empty.</div>';
+    var more = document.getElementById('more');
+    if (more) more.onclick = function () { showAll = !showAll; render(data); if (!showAll) document.getElementById('h-next').scrollIntoView(); };
+
+    document.getElementById('wait-sec').hidden = !st.waiting.length;
+    document.getElementById('wait').innerHTML = '<ul class="plain waiting">' + st.waiting.map(function (r) {
+      var p = split(r.head);
+      return '<li><span class="ico">?</span><div>' + grpLine(p) + '<div class="q-head">' + esc(p.name) + '</div>' + (r.detail ? '<div class="detail">' + esc(r.detail) + '</div>' : '') + '</div><span class="when"><span class="row-n">#' + r.n + '</span></span></li>';
+    }).join('') + '</ul>';
+
+    document.getElementById('ship-note').textContent = st.shippedTotal ? st.shippedTotal + ' shipped all-time' : '';
+    document.getElementById('ship').innerHTML = st.shipped.length ? '<ul class="plain shipped">' + st.shipped.map(function (r) {
+      var p = split(r.head);
+      return '<li><span class="ico">✓</span><div>' + grpLine(p) + '<div>' + esc(p.name) + '</div></div><span class="when">' + esc(day(r.date)) + '<span class="row-n">#' + r.n + '</span></span></li>';
+    }).join('') + '</ul>' : '<div class="empty">Nothing yet.</div>';
+
+    var rank = { doing: 0, blocked: 1, todo: 2, done: 3 };
+    var pts = (d.mainPoints || []).slice().sort(function (a, b) { return (b.urgent ? 1 : 0) - (a.urgent ? 1 : 0) || (rank[a.status] - rank[b.status]); });
+    var open = pts.filter(function (p) { return p.status !== 'done'; }), done = pts.filter(function (p) { return p.status === 'done'; });
+    document.getElementById('proj').innerHTML = open.map(proj).join('') +
+      (done.length ? '<details class="finished" data-k="~finished"' + (opened['~finished'] ? ' open' : '') + '><summary>Finished projects (' + done.length + ')</summary>' + done.map(proj).join('') + '</details>' : '');
+  }
+
+  function proj(p) {
+    var subs = p.subtasks || [], c = { done: 0, doing: 0, blocked: 0, todo: 0 };
+    subs.forEach(function (s) { c[s.status] = (c[s.status] || 0) + 1; });
+    var n = subs.length || 1, w = function (k) { return (100 * c[k] / n).toFixed(1) + '%'; };
+    return '<details class="proj" data-k="' + esc(p.title) + '"' + (opened[p.title] ? ' open' : '') + '><summary><div class="p-title">' + esc(p.title) +
+      '<span class="pill ' + esc(p.status) + '">' + esc(p.status) + '</span>' + (p.urgent ? '<span class="pill urgent">urgent</span>' : '') +
+      (p.due ? '<span class="pill urgent">due ' + esc(p.due) + '</span>' : '') + '</div>' +
+      '<span class="p-count">' + c.done + '/' + subs.length + '</span>' +
+      '<div class="bar" aria-hidden="true"><i class="b-done" style="width:' + w('done') + '"></i><i class="b-doing" style="width:' + w('doing') + '"></i><i class="b-blocked" style="width:' + w('blocked') + '"></i></div></summary>' +
+      '<div class="p-body">' + (p.insight ? '<p class="insight">' + esc(p.insight) + '</p>' : '') +
+      '<ul class="subs">' + subs.map(function (s) {
+        return '<li class="' + esc(s.status) + '"><span class="g" aria-label="' + esc(s.status) + '">' + (GLYPH[s.status] || '·') + '</span><span>' + esc(s.text) +
+          (s.note ? '<span class="note">' + esc(s.note) + '</span>' : '') + '</span></li>';
+      }).join('') + '</ul></div></details>';
+  }
+
+  // Re-read every minute and whenever the tab comes back: a phone keeps a tab alive for hours.
   function load() {
     fetch('./data.json', { cache: 'no-store' }).then(function (r) { return r.json(); }).then(render)
-      .catch(function () { document.getElementById('points').innerHTML = '<div class="placeholder">could not load the ledger</div>'; });
+      .catch(function () { document.getElementById('changed').textContent = 'could not load the stack'; });
   }
   load();
-  setInterval(load, 60000);
+  setInterval(function () { if (!document.hidden) load(); }, 60000);
   document.addEventListener('visibilitychange', function () { if (!document.hidden) load(); });
   window.addEventListener('pageshow', function (e) { if (e.persisted) load(); });
 </script>
