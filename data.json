@@ -2408,12 +2408,6 @@
         "since": "2026-11-18 09:24"
       },
       {
-        "n": 773,
-        "head": "OUT OF THE SUN: dive all the way to the ground, and the whole party in one fight",
-        "lane": "arcade2",
-        "since": "2026-11-18 09:24"
-      },
-      {
         "n": 908,
         "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has",
         "lane": "server",
@@ -2440,6 +2434,38 @@
         "n": 977,
         "head": "THE PLAZA: the six islands round spawn placed EVENLY",
         "detail": "one ring, equal spacing, equal distance, every door facing home"
+      },
+      {
+        "n": 1012,
+        "head": "UNDERCROFT, friends: a friend's Flurry loses about half its stabs on the host, and each stab that lands stutters the host's screen (survey 2"
+      },
+      {
+        "n": 1013,
+        "head": "UNDERCROFT, friends: does the host's hit-stop freeze the foes on every guest's screen? Measure first, then fix (survey 2026-11-18)"
+      },
+      {
+        "n": 1014,
+        "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)"
+      },
+      {
+        "n": 1015,
+        "head": "UNDERCROFT, friends: the party win card names the party, not just you (survey 2026-11-18)"
+      },
+      {
+        "n": 882,
+        "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds"
+      },
+      {
+        "n": 883,
+        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds"
+      },
+      {
+        "n": 1016,
+        "head": "HEAD OR BODY (boxing) keeps your best: a win streak per fighter rung, so a second visit has something to beat (survey 2026-11-18)"
+      },
+      {
+        "n": 1017,
+        "head": "COMET CLASH keeps a win streak per rung (do this AFTER row 882 makes it winnable) (survey 2026-11-18)"
       },
       {
         "n": 982,
@@ -2474,6 +2500,10 @@
       {
         "n": 994,
         "head": "THE ISLAND TEST SERVER HE ASKED FOR: one page that shows every island side by side so he can say what he likes"
+      },
+      {
+        "n": 1018,
+        "head": "ORBIT STADIUM's sign says \"six sports\" and there are seven (survey 2026-11-18)"
       },
       {
         "n": 523,
@@ -2624,10 +2654,6 @@
         "head": "Two skin instruments are blind or broken"
       },
       {
-        "n": 656,
-        "head": "Party island: boards are blank for seconds on arrival, the podium sign sits over the wheel, and a phone sees two boards of twelve (seen ship"
-      },
-      {
         "n": 658,
         "head": "Four games are live on the domain with no source in the vault, so no check can read them"
       },
@@ -2738,37 +2764,6 @@
         "detail": "he is removing both"
       },
       {
-        "n": 770,
-        "head": "PARTY ISLAND FLOW: no picking a game",
-        "detail": "it is RANDOM, the whole party goes in together, and you keep playing"
-      },
-      {
-        "n": 774,
-        "head": "BROADSIDE BAY: every ship thrown in together, one quick battle, spectate when sunk"
-      },
-      {
-        "n": 775,
-        "head": "LAST CALL, KITCHEN CLASH, GNOME WATCH and HAUNT come off the site"
-      },
-      {
-        "n": 776,
-        "head": "SHOVE OFF: the party standard and nothing else",
-        "detail": "he likes it"
-      },
-      {
-        "n": 777,
-        "head": "LAST HEX: the party standard; it is now the island's one falling-floor game"
-      },
-      {
-        "n": 779,
-        "head": "LIVE WIRE: you WANT the bomb",
-        "detail": "hold it when it blows and you score; and a better map"
-      },
-      {
-        "n": 780,
-        "head": "SPLATFLAG becomes FREEZE-TAG PAINTBALL: hit and you freeze, a teammate thaws you, the last team moving wins"
-      },
-      {
         "n": 785,
         "head": "SPORTS ISLAND: new pictures for SKY SPIKE and COMET CLASH"
       },
@@ -2808,10 +2803,6 @@
       {
         "n": 800,
         "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\""
-      },
-      {
-        "n": 801,
-        "head": "Out of the Sun wears no aura: the pilot in the seat is your skin, and the fire stops at the door (the list in row 347, 2026-11-13)"
       },
       {
         "n": 802,
@@ -2948,14 +2939,6 @@
         "head": "an Undercroft bench's \"slow phone\" switch measures a game nobody plays"
       },
       {
-        "n": 849,
-        "head": "Party island: put Cloud Street back in the random-game rotation (row 654 earned it, 2026-11-16)"
-      },
-      {
-        "n": 850,
-        "head": "Party island: hang Blend In's board back up, 2-4 seats with bots (row 655 earned it, 2026-11-16)"
-      },
-      {
         "n": 851,
         "head": "Blend In: the solo shift pays nothing"
       },
@@ -2986,14 +2969,6 @@
       {
         "n": 858,
         "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)"
-      },
-      {
-        "n": 859,
-        "head": "ShoveOff: the game's own camera meter sums 9 frames on some frames and 10 on others, so it under-reads by up to 10% (row 671, 2026-11-16)"
-      },
-      {
-        "n": 860,
-        "head": "ShoveOff: a full shove is only survivable if the jet lights within 2 m of the lip, and nobody chose that number (row 671, 2026-11-16)"
       },
       {
         "n": 861,
@@ -3057,10 +3032,6 @@
         "detail": "is the pay ladder 3/2/1 or 1/1/1?"
       },
       {
-        "n": 877,
-        "head": "Second Wind: \"W moves the body UP THE SCREEN\" failed 1 run in 5 on an untouched code path"
-      },
-      {
         "n": 878,
         "head": "Teach probes: 23 of them accept the step TICK as the card finishing"
       },
@@ -3075,14 +3046,6 @@
       {
         "n": 881,
         "head": "The task watcher finds the home page server down in 10 minutes but nothing restarts it any sooner"
-      },
-      {
-        "n": 882,
-        "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds"
-      },
-      {
-        "n": 883,
-        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds"
       },
       {
         "n": 884,
@@ -3166,44 +3129,8 @@
         "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
       },
       {
-        "n": 906,
-        "head": "Shove Off: the how-to-play check waits two minutes for a round that can run longer, and fails on unchanged bytes"
-      },
-      {
-        "n": 907,
-        "head": "Broadside Bay: a short volley is now and then called twice as short as it was laid"
-      },
-      {
-        "n": 908,
-        "head": "the how-to-play card takes the pop-up's row, and the pop-up lands on Splatflag's flag tag (sideways) and nowhere the room expects in Haunt ("
-      },
-      {
-        "n": 909,
-        "head": "Broadside Bay: FIRE stays dark on a ship close enough to take the whole broadside"
-      },
-      {
-        "n": 910,
-        "head": "Out of the Sun: after the second kill the pair arrive up-sun and a slow newcomer has an enemy on screen only 24% of the fight"
-      },
-      {
         "n": 911,
         "head": "the band check's \"published band is the row the toast dodges\" line flakes on Cloud Street sideways: pass, FAIL, pass on one unchanged tree"
-      },
-      {
-        "n": 912,
-        "head": "Out of the Sun: the teaching-card check fails 7 lines on the build that was already live"
-      },
-      {
-        "n": 913,
-        "head": "Out of the Sun: the first-run controls card on a phone held sideways was never photographed"
-      },
-      {
-        "n": 914,
-        "head": "Kitchen Clash: the old practice kitchen is dead code now that its button is gone"
-      },
-      {
-        "n": 915,
-        "head": "Kitchen Clash: on a phone the first arrow label (\"GRAB A FISH\") touches the bottom edge of the first ticket"
       },
       {
         "n": 916,
@@ -3218,14 +3145,6 @@
         "head": "the private drivers quote a dead page's error without its line number"
       },
       {
-        "n": 919,
-        "head": "Splatflag: nobody blind has tried the new paint step, and from your own base 8 shots in 9 paint nothing"
-      },
-      {
-        "n": 920,
-        "head": "Splatflag: on a tall phone the flag pointer sits on the HERE THEY COME headline, and no real phone has held the sideways lesson card"
-      },
-      {
         "n": 921,
         "head": "four more bar checks still look for the bar at its old cell"
       },
@@ -3238,28 +3157,12 @@
         "head": "a game lane that ships a new CornerPocket sim (or toy-house cars file) is only TOLD the room needs restamping; nothing does it"
       },
       {
-        "n": 924,
-        "head": "Last Call: a thumb held still keeps its old direction when the camera turns"
-      },
-      {
-        "n": 925,
-        "head": "Last Call: its own hand-written picture-stopped guard fails the stricter canary on two legs; move it onto the shared guard"
-      },
-      {
         "n": 926,
         "head": "A game that cannot GET a graphics context at all still shows nothing: the shared guard only covers one that was taken away"
       },
       {
         "n": 927,
         "head": "DodgeFall's 3D page carries the shared picture-stopped guard but the canary has never opened it"
-      },
-      {
-        "n": 928,
-        "head": "Second Wind: the lesson check's staged back-kill misses about half the time, and a FLARE press finishes the lesson's dash step"
-      },
-      {
-        "n": 929,
-        "head": "Second Wind: the party check's \"blink through a blackout\" line is carried by a robot, because the friend sits on the OTHER team"
       },
       {
         "n": 930,
@@ -3270,24 +3173,12 @@
         "head": "the toy house's scattered floor toys sit 5 to 16 mm above the floor, and 276 wall-flush pieces 6 to 30 cm above a surface are still unjudged"
       },
       {
-        "n": 932,
-        "head": "Second Wind: a friend waiting for the host sees the solo title card, and the JOINING call is hidden (seen in row 733)"
-      },
-      {
-        "n": 933,
-        "head": "Second Wind: the lesson check is flaky on its planted back-stab (3 red in 5 on the committed build)"
-      },
-      {
         "n": 934,
         "head": "the toy house sweep prints 171 sunk floor pieces in 12 families every run, and all 12 are built that way"
       },
       {
         "n": 935,
         "head": "the shared lesson card leaves the last round's card live when a finished lesson is started again"
-      },
-      {
-        "n": 936,
-        "head": "Last Hex: five of nine rivals go out by jumping into a hole, so the new cause line mostly says the same thing"
       },
       {
         "n": 937,
@@ -3316,27 +3207,6 @@
       {
         "n": 943,
         "head": "the party travel check is red on the live site and has been since the island was renamed"
-      },
-      {
-        "n": 944,
-        "head": "Cloud Street: bots are told to wear two costumes the arcade does not have, so they stand as bare pills"
-      },
-      {
-        "n": 945,
-        "head": "Dark Room: bots are told to wear two costumes the arcade does not have, so they stand as bare pills"
-      },
-      {
-        "n": 946,
-        "head": "Gnome Watch: bots are told to wear two costumes the arcade does not have, so they stand as bare pills"
-      },
-      {
-        "n": 947,
-        "head": "Dark Room: a friend who misses the start message is started on seed 1",
-        "detail": "does their screen show a different room than the host's?"
-      },
-      {
-        "n": 948,
-        "head": "Live Wire: a simple player is blown up five times a round, and EASY is no kinder than NORMAL"
       },
       {
         "n": 949,
@@ -3382,35 +3252,6 @@
       {
         "n": 961,
         "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs"
-      },
-      {
-        "n": 962,
-        "head": "LastHex's own tutorial gives fatal advice on the one layer where it's fatal, and the map has no edge marker"
-      },
-      {
-        "n": 963,
-        "head": "LastCall: a first-timer never reaches a single pint, two full rounds, two difficulties"
-      },
-      {
-        "n": 964,
-        "head": "LiveWire's two \"<name> HAS <number>\" HUD labels look identical but mean different things"
-      },
-      {
-        "n": 965,
-        "head": "Haunt's knockout warning is inconsistent, and two ghost tags render stacked unreadable"
-      },
-      {
-        "n": 966,
-        "head": "SecondWind has zero visible kill feedback",
-        "detail": "every down in a blind run happened with no attacker, no flash, nothing readable"
-      },
-      {
-        "n": 967,
-        "head": "LastHex's headless AI ladder is inverted (human beats ace); hold-grace mechanic ruled out as cause"
-      },
-      {
-        "n": 968,
-        "head": "SecondWind's own ladder sim flags its win-rate ordering INVERTED, predates and is unrelated to the steering fix"
       },
       {
         "n": 997,
@@ -3463,10 +3304,6 @@
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
-      },
-      {
-        "n": 1011,
-        "head": "SECOND WIND: THE YARD becomes the floor for everyone, once Zack says yes (row 771's second half, 2026-11-18)"
       }
     ],
     "waiting": [
@@ -3566,5 +3403,5 @@
       "2026-11-18": 7
     }
   },
-  "changed": "2026-11-18T15:29:14.624Z"
+  "changed": "2026-11-18T15:34:13.842Z"
 }
