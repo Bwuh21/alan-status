@@ -2375,6 +2375,13 @@
         "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
         "lane": "arcade2",
         "since": "2026-11-17 20:49"
+      },
+      {
+        "n": 984,
+        "head": "TOY FURY REWORK 6/6: OUTSIDE",
+        "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships",
+        "lane": "arcade2",
+        "since": "2026-11-17 22:24"
       }
     ],
     "next": [
@@ -2432,11 +2439,6 @@
         "n": 982,
         "head": "TOY FURY REWORK 4/6: FEWER, BETTER TRACKS, step 1",
         "detail": "retire the Library now, and carry the track list everywhere it is read"
-      },
-      {
-        "n": 984,
-        "head": "TOY FURY REWORK 6/6: OUTSIDE",
-        "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships"
       },
       {
         "n": 988,
@@ -3531,5 +3533,5 @@
       "2026-11-17": 41
     }
   },
-  "changed": "2026-11-18T04:24:13.616Z"
+  "changed": "2026-11-18T04:29:14.131Z"
 }
