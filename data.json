@@ -2396,6 +2396,18 @@
         "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships",
         "lane": "arcade2",
         "since": "2026-11-17 22:24"
+      },
+      {
+        "n": 818,
+        "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4",
+        "lane": "server",
+        "since": "2026-11-18 00:04"
+      },
+      {
+        "n": 821,
+        "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
+        "lane": "server",
+        "since": "2026-11-18 00:04"
       }
     ],
     "next": [
@@ -2882,20 +2894,12 @@
         "head": "Barn Burner: row548-check is RED on the desk photo, on unchanged code"
       },
       {
-        "n": 818,
-        "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4"
-      },
-      {
         "n": 819,
         "head": "Comet Clash: the release snap is unproven on a friend's screen, and the wind-up comet still floats off the hand"
       },
       {
         "n": 820,
         "head": "the HALL: about 45 same-plane spots across some 25 small line pairs, listed and left"
-      },
-      {
-        "n": 821,
-        "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped"
       },
       {
         "n": 822,
@@ -3540,5 +3544,5 @@
       "2026-11-17": 43
     }
   },
-  "changed": "2026-11-18T05:54:13.823Z"
+  "changed": "2026-11-18T06:09:14.026Z"
 }
