@@ -2384,6 +2384,12 @@
         "since": "2026-11-17 23:49"
       },
       {
+        "n": 995,
+        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium",
+        "lane": "arcade2",
+        "since": "2026-11-18 00:44"
+      },
+      {
         "n": 821,
         "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
         "lane": "server",
@@ -2475,10 +2481,6 @@
       {
         "n": 994,
         "head": "THE ISLAND TEST SERVER HE ASKED FOR: one page that shows every island side by side so he can say what he likes"
-      },
-      {
-        "n": 995,
-        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium"
       },
       {
         "n": 996,
@@ -3541,5 +3543,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T06:44:14.205Z"
+  "changed": "2026-11-18T06:49:13.860Z"
 }
