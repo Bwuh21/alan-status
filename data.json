@@ -2396,16 +2396,10 @@
         "since": "2026-11-18 03:24"
       },
       {
-        "n": 892,
-        "head": "Head or Body: BRUTAL is barely harder than HARD",
+        "n": 896,
+        "head": "Double Out: on a sideways phone the board is a postage stamp, 88 px across",
         "lane": "server",
-        "since": "2026-11-18 03:29"
-      },
-      {
-        "n": 999,
-        "head": "TOY FURY party room: both screens show each car in its DEFAULT paint, not the paint its player picked",
-        "lane": "arcade2",
-        "since": "2026-11-18 04:12"
+        "since": "2026-11-18 04:19"
       }
     ],
     "next": [
@@ -3126,6 +3120,10 @@
         "detail": "Auras: the Uncommon flame all but vanishes on a white floor"
       },
       {
+        "n": 892,
+        "head": "Head or Body: BRUTAL is barely harder than HARD"
+      },
+      {
         "n": 893,
         "head": "Darts: the hold that steadies the hand is still priced in clamped dt"
       },
@@ -3136,10 +3134,6 @@
       {
         "n": 895,
         "head": "the room call can still come up over the DIRECTORY, the shop and the garage"
-      },
-      {
-        "n": 896,
-        "head": "Double Out: on a sideways phone the board is a postage stamp, 88 px across"
       },
       {
         "n": 897,
@@ -3473,6 +3467,11 @@
     ],
     "shipped": [
       {
+        "n": 999,
+        "head": "TOY FURY party room: both screens show each car in its DEFAULT paint, not the paint its player picked",
+        "date": "2026-11-18"
+      },
+      {
         "n": 996,
         "head": "TOY FURY on a phone: the teach card covers the place, the menu button and the speed for its whole first race",
         "date": "2026-11-18"
@@ -3533,14 +3532,9 @@
         "n": 957,
         "head": "Strike City's side wall doesn't stop you, and the miss is identical on desk and phone",
         "date": "2026-11-17"
-      },
-      {
-        "n": 955,
-        "head": "ship-game.sh cannot push KeyRace at all: map.mjs stamps a live timestamp every run, and the push gate's exclusion only names index.map.json",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 653,
+    "shippedTotal": 654,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3548,8 +3542,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 4
+      "2026-11-18": 5
     }
   },
-  "changed": "2026-11-18T10:14:15.988Z"
+  "changed": "2026-11-18T10:24:13.194Z"
 }
