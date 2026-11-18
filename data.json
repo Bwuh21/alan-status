@@ -2401,13 +2401,6 @@
         "since": "2026-11-18 09:24"
       },
       {
-        "n": 998,
-        "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
-        "detail": "re-measure it on the four tours",
-        "lane": "server",
-        "since": "2026-11-18 09:24"
-      },
-      {
         "n": 1012,
         "head": "UNDERCROFT, friends: a friend's Flurry loses about half its stabs on the host, and each stab that lands stutters the host's screen (survey 2",
         "lane": "arcade2",
@@ -2434,6 +2427,11 @@
         "n": 977,
         "head": "THE PLAZA: the six islands round spawn placed EVENLY",
         "detail": "one ring, equal spacing, equal distance, every door facing home"
+      },
+      {
+        "n": 998,
+        "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
+        "detail": "re-measure it on the four tours"
       },
       {
         "n": 1013,
@@ -3403,5 +3401,5 @@
       "2026-11-18": 7
     }
   },
-  "changed": "2026-11-18T15:54:13.744Z"
+  "changed": "2026-11-18T16:04:13.749Z"
 }
