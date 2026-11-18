@@ -2390,10 +2390,10 @@
         "since": "2026-11-18 00:44"
       },
       {
-        "n": 821,
-        "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
+        "n": 836,
+        "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level",
         "lane": "server",
-        "since": "2026-11-18 00:04"
+        "since": "2026-11-18 00:59"
       },
       {
         "n": 860,
@@ -2899,6 +2899,10 @@
         "head": "the HALL: about 45 same-plane spots across some 25 small line pairs, listed and left"
       },
       {
+        "n": 821,
+        "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped"
+      },
+      {
         "n": 822,
         "head": "Strike City island: the ball-return run goes straight through the trophy's plinth"
       },
@@ -2921,10 +2925,6 @@
       {
         "n": 829,
         "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass"
-      },
-      {
-        "n": 836,
-        "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level"
       },
       {
         "n": 837,
@@ -3543,5 +3543,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T06:59:13.827Z"
+  "changed": "2026-11-18T07:04:13.850Z"
 }
