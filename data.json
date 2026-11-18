@@ -2396,10 +2396,11 @@
         "since": "2026-11-18 04:24"
       },
       {
-        "n": 886,
-        "head": "Space Golf: the frame-rate check only flies tee drives",
+        "n": 812,
+        "head": "MINE, at a sitting",
+        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them",
         "lane": "server",
-        "since": "2026-11-18 03:24"
+        "since": "2026-11-18 04:29"
       },
       {
         "n": 896,
@@ -2850,11 +2851,6 @@
         "head": "Head or Body: the two top fighters throw the same punches, and nobody has checked the read on a human"
       },
       {
-        "n": 812,
-        "head": "MINE, at a sitting",
-        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them"
-      },
-      {
         "n": 813,
         "head": "MINE",
         "detail": "the KC weekend watch was promised to his phone and had no reader"
@@ -3103,6 +3099,10 @@
       {
         "n": 885,
         "head": "Space Golf: its own with-friends check is dead on today's game"
+      },
+      {
+        "n": 886,
+        "head": "Space Golf: the frame-rate check only flies tee drives"
       },
       {
         "n": 887,
@@ -3547,5 +3547,5 @@
       "2026-11-18": 5
     }
   },
-  "changed": "2026-11-18T10:29:13.316Z"
+  "changed": "2026-11-18T10:34:13.336Z"
 }
