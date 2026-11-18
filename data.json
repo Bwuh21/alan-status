@@ -2463,16 +2463,16 @@
         "since": "2026-11-18 17:14"
       },
       {
-        "n": 1031,
-        "head": "Skin Kick (AirHockey): measure the HARD -> BRUTAL step now that HARD is softer (brutal>hard went 23/40 -> 40/40, goals 200-28, row 1030 benc",
-        "lane": "arcade2",
-        "since": "2026-11-18 17:04"
-      },
-      {
         "n": 988,
         "head": "THE WALK FLOOR STILL STEPS where the drawn floor is smooth: your feet (and the shadow with them) pop at rock tops, pit lips, cliff edges and",
         "lane": "arcade",
         "since": "2026-11-18 16:24"
+      },
+      {
+        "n": 791,
+        "head": "EVERY FRIEND GAME ON A REAL LINE: the delayed-road test, game by game",
+        "lane": "arcade2",
+        "since": "2026-11-18 17:54"
       }
     ],
     "next": [
@@ -2781,10 +2781,6 @@
       {
         "n": 786,
         "head": "EVERY PARTY GAME OPENS THE SAME WAY: a short \"what is going down\" card, and everyone readies up together"
-      },
-      {
-        "n": 791,
-        "head": "EVERY FRIEND GAME ON A REAL LINE: the delayed-road test, game by game"
       },
       {
         "n": 793,
@@ -3454,5 +3450,5 @@
       "2026-11-18": 29
     }
   },
-  "changed": "2026-11-18T23:49:13.319Z"
+  "changed": "2026-11-18T23:59:13.299Z"
 }
