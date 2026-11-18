@@ -2412,12 +2412,6 @@
         "head": "UNDERCROFT, friends: a friend's Flurry loses about half its stabs on the host, and each stab that lands stutters the host's screen (survey 2",
         "lane": "arcade2",
         "since": "2026-11-18 09:34"
-      },
-      {
-        "n": 908,
-        "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has",
-        "lane": "server",
-        "since": "2026-11-18 09:09"
       }
     ],
     "next": [
@@ -3131,6 +3125,10 @@
         "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
       },
       {
+        "n": 908,
+        "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has"
+      },
+      {
         "n": 911,
         "head": "the band check's \"published band is the row the toast dodges\" line flakes on Cloud Street sideways: pass, FAIL, pass on one unchanged tree"
       },
@@ -3405,5 +3403,5 @@
       "2026-11-18": 7
     }
   },
-  "changed": "2026-11-18T15:49:13.807Z"
+  "changed": "2026-11-18T15:54:13.744Z"
 }
