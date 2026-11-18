@@ -2394,12 +2394,6 @@
         "head": "the Undercroft's cleric barely has a skill slope against a boss: 24 of 24 clean, 18 of 24 while fumbling three parries in four",
         "lane": "server",
         "since": "2026-11-18 01:54"
-      },
-      {
-        "n": 867,
-        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
-        "lane": "server",
-        "since": "2026-11-18 01:49"
       }
     ],
     "next": [
@@ -3039,6 +3033,10 @@
         "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle"
       },
       {
+        "n": 867,
+        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU"
+      },
+      {
         "n": 868,
         "head": "Pinball cabinet: the power cable hangs in mid-air from the top box"
       },
@@ -3543,5 +3541,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T07:59:13.923Z"
+  "changed": "2026-11-18T08:28:34.969Z"
 }
