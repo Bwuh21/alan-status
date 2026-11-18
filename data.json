@@ -2439,21 +2439,25 @@
         "since": "2026-11-18 13:24"
       },
       {
+        "n": 1014,
+        "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)",
+        "lane": "arcade2",
+        "since": "2026-11-18 14:29"
+      },
+      {
         "n": 1015,
         "head": "UNDERCROFT, friends: the party win card names the party, not just you (survey 2026-11-18)",
         "lane": "arcade",
         "since": "2026-11-18 14:24"
-      }
-    ],
-    "next": [
-      {
-        "n": 1014,
-        "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)"
       },
       {
         "n": 882,
-        "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds"
-      },
+        "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds",
+        "lane": "arcade2",
+        "since": "2026-11-18 14:29"
+      }
+    ],
+    "next": [
       {
         "n": 883,
         "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds"
@@ -3439,5 +3443,5 @@
       "2026-11-18": 16
     }
   },
-  "changed": "2026-11-18T20:29:13.563Z"
+  "changed": "2026-11-18T20:34:13.651Z"
 }
