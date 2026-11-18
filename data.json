@@ -2396,17 +2396,16 @@
         "since": "2026-11-18 04:24"
       },
       {
-        "n": 812,
-        "head": "MINE, at a sitting",
-        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them",
+        "n": 829,
+        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass",
         "lane": "server",
-        "since": "2026-11-18 04:29"
+        "since": "2026-11-18 04:34"
       },
       {
-        "n": 896,
-        "head": "Double Out: on a sideways phone the board is a postage stamp, 88 px across",
+        "n": 900,
+        "head": "Head or Body: STUDY HIM never tells you he has been faking you",
         "lane": "server",
-        "since": "2026-11-18 04:19"
+        "since": "2026-11-18 04:34"
       }
     ],
     "next": [
@@ -2851,6 +2850,11 @@
         "head": "Head or Body: the two top fighters throw the same punches, and nobody has checked the read on a human"
       },
       {
+        "n": 812,
+        "head": "MINE, at a sitting",
+        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them"
+      },
+      {
         "n": 813,
         "head": "MINE",
         "detail": "the KC weekend watch was promised to his phone and had no reader"
@@ -2906,10 +2910,6 @@
       {
         "n": 826,
         "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard"
-      },
-      {
-        "n": 829,
-        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass"
       },
       {
         "n": 836,
@@ -3138,6 +3138,10 @@
         "head": "the room call can still come up over the DIRECTORY, the shop and the garage"
       },
       {
+        "n": 896,
+        "head": "Double Out: on a sideways phone the board is a postage stamp, 88 px across"
+      },
+      {
         "n": 897,
         "head": "Deep Line: a full string's lowest fish hang under HAUL UP, and a shark's warning ring there cannot be seen"
       },
@@ -3148,10 +3152,6 @@
       {
         "n": 899,
         "head": "three games show a phone only the middle strip of a 1280x720 picture"
-      },
-      {
-        "n": 900,
-        "head": "Head or Body: STUDY HIM never tells you he has been faking you"
       },
       {
         "n": 901,
@@ -3547,5 +3547,5 @@
       "2026-11-18": 5
     }
   },
-  "changed": "2026-11-18T10:34:13.336Z"
+  "changed": "2026-11-18T10:39:13.247Z"
 }
