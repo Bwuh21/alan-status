@@ -2384,18 +2384,6 @@
         "since": "2026-11-17 23:49"
       },
       {
-        "n": 995,
-        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium",
-        "lane": "arcade2",
-        "since": "2026-11-18 03:04"
-      },
-      {
-        "n": 996,
-        "head": "TOY FURY on a phone: the teach card covers the place, the menu button and the speed for its whole first race",
-        "lane": "arcade2",
-        "since": "2026-11-18 03:04"
-      },
-      {
         "n": 886,
         "head": "Space Golf: the frame-rate check only flies tee drives",
         "lane": "server",
@@ -3440,6 +3428,21 @@
       {
         "n": 999,
         "head": "TOY FURY party room: both screens show each car in its DEFAULT paint, not the paint its player picked"
+      },
+      {
+        "n": 1000,
+        "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
+        "detail": "it gains in the bends and gives them back on the next straight"
+      },
+      {
+        "n": 1001,
+        "head": "TOY FURY upstairs: the drift is worth almost nothing",
+        "detail": "a driver who never drifts makes the podium 12 times in 20"
+      },
+      {
+        "n": 1002,
+        "head": "TOY FURY: with the bots off each other's slipstream, the pack spends less of the race near you",
+        "detail": "company fell 71 -> 50 percent in the house"
       }
     ],
     "waiting": [
@@ -3461,6 +3464,16 @@
       }
     ],
     "shipped": [
+      {
+        "n": 996,
+        "head": "TOY FURY on a phone: the teach card covers the place, the menu button and the speed for its whole first race",
+        "date": "2026-11-18"
+      },
+      {
+        "n": 995,
+        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium",
+        "date": "2026-11-18"
+      },
       {
         "n": 984,
         "head": "TOY FURY REWORK 6/6: OUTSIDE",
@@ -3517,19 +3530,9 @@
         "n": 955,
         "head": "ship-game.sh cannot push KeyRace at all: map.mjs stamps a live timestamp every run, and the push gate's exclusion only names index.map.json",
         "date": "2026-11-17"
-      },
-      {
-        "n": 902,
-        "head": "the bowling alley: 26 drawn pieces overhead the camera cannot feel",
-        "date": "2026-11-17"
-      },
-      {
-        "n": 784,
-        "head": "SKY SPIKE: the players jitter, and the dive looks glitchy or does not fire",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 651,
+    "shippedTotal": 653,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3537,8 +3540,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 2
+      "2026-11-18": 4
     }
   },
-  "changed": "2026-11-18T09:34:14.335Z"
+  "changed": "2026-11-18T10:04:13.145Z"
 }
