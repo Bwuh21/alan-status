@@ -2384,6 +2384,12 @@
         "since": "2026-11-17 23:49"
       },
       {
+        "n": 763,
+        "head": "GOLF: the game is now BACK NINE, and a good solo round pays tickets",
+        "lane": "arcade2",
+        "since": "2026-11-18 04:09"
+      },
+      {
         "n": 886,
         "head": "Space Golf: the frame-rate check only flies tee drives",
         "lane": "server",
@@ -2394,6 +2400,12 @@
         "head": "Head or Body: BRUTAL is barely harder than HARD",
         "lane": "server",
         "since": "2026-11-18 03:29"
+      },
+      {
+        "n": 999,
+        "head": "TOY FURY party room: both screens show each car in its DEFAULT paint, not the paint its player picked",
+        "lane": "arcade2",
+        "since": "2026-11-18 04:12"
       }
     ],
     "next": [
@@ -2718,10 +2730,6 @@
       {
         "n": 762,
         "head": "TAVERN DARTS: make the hardest Rusty hard to beat again"
-      },
-      {
-        "n": 763,
-        "head": "GOLF: the game is now BACK NINE, and a good solo round pays tickets"
       },
       {
         "n": 765,
@@ -3426,10 +3434,6 @@
         "detail": "re-measure it on the four tours"
       },
       {
-        "n": 999,
-        "head": "TOY FURY party room: both screens show each car in its DEFAULT paint, not the paint its player picked"
-      },
-      {
         "n": 1000,
         "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
         "detail": "it gains in the bends and gives them back on the next straight"
@@ -3443,6 +3447,10 @@
         "n": 1002,
         "head": "TOY FURY: with the bots off each other's slipstream, the pack spends less of the race near you",
         "detail": "company fell 71 -> 50 percent in the house"
+      },
+      {
+        "n": 1003,
+        "head": "THE CHAIN hands a lane a row that already SHIPPED: game-manager pops a pre-loaded brief without re-reading the row's heading"
       }
     ],
     "waiting": [
@@ -3543,5 +3551,5 @@
       "2026-11-18": 4
     }
   },
-  "changed": "2026-11-18T10:04:13.145Z"
+  "changed": "2026-11-18T10:14:15.988Z"
 }
