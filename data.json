@@ -2390,10 +2390,10 @@
         "since": "2026-11-18 00:44"
       },
       {
-        "n": 837,
-        "head": "five of the Undercroft's seven bosses have never been through the combat bench, and the archer is benched as a swordsman",
+        "n": 838,
+        "head": "the Undercroft's cleric barely has a skill slope against a boss: 24 of 24 clean, 18 of 24 while fumbling three parries in four",
         "lane": "server",
-        "since": "2026-11-18 01:29"
+        "since": "2026-11-18 01:54"
       },
       {
         "n": 867,
@@ -2931,8 +2931,8 @@
         "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level"
       },
       {
-        "n": 838,
-        "head": "the Undercroft's cleric barely has a skill slope against a boss: 24 of 24 clean, 18 of 24 while fumbling three parries in four"
+        "n": 837,
+        "head": "five of the Undercroft's seven bosses have never been through the combat bench, and the archer is benched as a swordsman"
       },
       {
         "n": 839,
@@ -3543,5 +3543,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T07:54:13.944Z"
+  "changed": "2026-11-18T07:59:13.923Z"
 }
