@@ -2449,6 +2449,13 @@
         "since": "2026-11-18 15:49"
       },
       {
+        "n": 982,
+        "head": "TOY FURY REWORK 4/6: FEWER, BETTER TRACKS, step 1",
+        "detail": "retire the Library now, and carry the track list everywhere it is read",
+        "lane": "arcade",
+        "since": "2026-11-18 16:09"
+      },
+      {
         "n": 788,
         "head": "COMET CLASH: a camera that is alive, and a charge-up on the throw",
         "lane": "arcade2",
@@ -2456,11 +2463,6 @@
       }
     ],
     "next": [
-      {
-        "n": 982,
-        "head": "TOY FURY REWORK 4/6: FEWER, BETTER TRACKS, step 1",
-        "detail": "retire the Library now, and carry the track list everywhere it is read"
-      },
       {
         "n": 988,
         "head": "THE WALK FLOOR STILL STEPS where the drawn floor is smooth: your feet (and the shadow with them) pop at rock tops, pit lips, cliff edges and"
@@ -3430,5 +3432,5 @@
       "2026-11-18": 23
     }
   },
-  "changed": "2026-11-18T22:09:14.515Z"
+  "changed": "2026-11-18T22:14:18.126Z"
 }
