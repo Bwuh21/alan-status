@@ -2443,11 +2443,6 @@
         "detail": "retire the Library now, and carry the track list everywhere it is read"
       },
       {
-        "n": 984,
-        "head": "TOY FURY REWORK 6/6: OUTSIDE",
-        "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships"
-      },
-      {
         "n": 988,
         "head": "THE WALK FLOOR STILL STEPS where the drawn floor is smooth: your feet (and the shadow with them) pop at rock tops, pit lips, cliff edges and"
       },
@@ -3463,6 +3458,12 @@
     ],
     "shipped": [
       {
+        "n": 984,
+        "head": "TOY FURY REWORK 6/6: OUTSIDE",
+        "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships",
+        "date": "2026-11-18"
+      },
+      {
         "n": 983,
         "head": "TOY FURY REWORK 5/6: UPSTAIRS",
         "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
@@ -3522,15 +3523,9 @@
         "n": 784,
         "head": "SKY SPIKE: the players jitter, and the dive looks glitchy or does not fire",
         "date": "2026-11-17"
-      },
-      {
-        "n": 772,
-        "head": "TRAP DOORS: nobody walks on air",
-        "detail": "crossing a gap is a jump",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 650,
+    "shippedTotal": 651,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3538,8 +3533,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 1
+      "2026-11-18": 2
     }
   },
-  "changed": "2026-11-18T08:54:14.255Z"
+  "changed": "2026-11-18T08:59:14.043Z"
 }
