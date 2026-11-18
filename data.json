@@ -2437,10 +2437,10 @@
   "stack": {
     "building": [
       {
-        "n": 1015,
-        "head": "UNDERCROFT, friends: the party win card names the party, not just you (survey 2026-11-18)",
-        "lane": "arcade",
-        "since": "2026-11-18 14:24"
+        "n": 1030,
+        "head": "Skin Kick (AirHockey): measure the NORMAL -> HARD step now that NORMAL is softer (hard>normal went 35/40 -> 40/40, goals 204-8, row 1029 ben",
+        "lane": "arcade2",
+        "since": "2026-11-18 16:04"
       },
       {
         "n": 1017,
@@ -2456,10 +2456,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1030,
-        "head": "Skin Kick (AirHockey): measure the NORMAL -> HARD step now that NORMAL is softer (hard>normal went 35/40 -> 40/40, goals 204-8, row 1029 ben"
-      },
       {
         "n": 982,
         "head": "TOY FURY REWORK 4/6: FEWER, BETTER TRACKS, step 1",
@@ -3376,6 +3372,11 @@
         "date": "2026-11-18"
       },
       {
+        "n": 1015,
+        "head": "UNDERCROFT, friends: the party win card names the party, not just you (survey 2026-11-18)",
+        "date": "2026-11-18"
+      },
+      {
         "n": 1014,
         "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)",
         "date": "2026-11-18"
@@ -3416,15 +3417,9 @@
         "head": "TOY FURY REWORK 5/6: UPSTAIRS",
         "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
         "date": "2026-11-18"
-      },
-      {
-        "n": 981,
-        "head": "TOY FURY REWORK 3/6: THE GRAND TOUR",
-        "detail": "one big ground-floor track with real corners, built ALONGSIDE today's eight",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 671,
+    "shippedTotal": 672,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3432,8 +3427,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 22
+      "2026-11-18": 23
     }
   },
-  "changed": "2026-11-18T21:59:43.652Z"
+  "changed": "2026-11-18T22:09:14.515Z"
 }
