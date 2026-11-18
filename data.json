@@ -3155,10 +3155,6 @@
         "head": "Head or Body: is BRUTAL now too hard for an ordinary player? Measure it with a hand, not a stand-in"
       },
       {
-        "n": 902,
-        "head": "the bowling alley: 26 drawn pieces overhead the camera cannot feel"
-      },
-      {
         "n": 903,
         "head": "the toy house: 24 drawn pieces above the lens's aim height that no camera shape contains"
       },
@@ -3377,10 +3373,6 @@
         "head": "SKY SPIKE dive: the human press -> dive pipeline is still unmeasured (split off row 784, 2026-11-17)"
       },
       {
-        "n": 957,
-        "head": "Strike City's side wall doesn't stop you, and the miss is identical on desk and phone"
-      },
-      {
         "n": 958,
         "head": "audit the ~40 unaudited check.mjs/dev/check.mjs instruments for gate-worthiness, one game at a time (left by row 490, 2026-11-17)"
       },
@@ -3457,8 +3449,18 @@
         "date": "2026-11-17"
       },
       {
+        "n": 957,
+        "head": "Strike City's side wall doesn't stop you, and the miss is identical on desk and phone",
+        "date": "2026-11-17"
+      },
+      {
         "n": 955,
         "head": "ship-game.sh cannot push KeyRace at all: map.mjs stamps a live timestamp every run, and the push gate's exclusion only names index.map.json",
+        "date": "2026-11-17"
+      },
+      {
+        "n": 902,
+        "head": "the bowling alley: 26 drawn pieces overhead the camera cannot feel",
         "date": "2026-11-17"
       },
       {
@@ -3496,19 +3498,9 @@
         "n": 740,
         "head": "Trap Doors: the party check ends 29 of 30 on its own last photograph (seen in row 715)",
         "date": "2026-11-17"
-      },
-      {
-        "n": 739,
-        "head": "Trap Doors: you and the FROST bot read as the same colour",
-        "date": "2026-11-17"
-      },
-      {
-        "n": 736,
-        "head": "Gnome Watch: the two-browser check fails 3 or 4 on the guest path, before and after row 713 (seen in row 713)",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 642,
+    "shippedTotal": 644,
     "shippedOn": {
       "2026-11-11": 8,
       "2026-11-12": 19,
@@ -3516,8 +3508,8 @@
       "2026-11-14": 21,
       "2026-11-15": 3,
       "2026-11-16": 79,
-      "2026-11-17": 36
+      "2026-11-17": 38
     }
   },
-  "changed": "2026-11-18T02:04:15.402Z"
+  "changed": "2026-11-18T02:25:28.365Z"
 }
