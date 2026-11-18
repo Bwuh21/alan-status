@@ -3447,6 +3447,19 @@
       {
         "n": 1003,
         "head": "THE CHAIN hands a lane a row that already SHIPPED: game-manager pops a pre-loaded brief without re-reading the row's heading"
+      },
+      {
+        "n": 1004,
+        "head": "GOLF on the island: the sign and the directory say BACK NINE, and the ringed planet comes off the board (row 763's arcade half, no SQL, 2026"
+      },
+      {
+        "n": 1005,
+        "head": "WAITS ON golf-par-pay-2026-11-18.sql",
+        "detail": "GOLF par pay: the arcade calls finish_golf and hands the game its pay rows (row 763's pay half, 2026-11-18)"
+      },
+      {
+        "n": 1006,
+        "head": "BACK NINE on a 320-wide phone: the title card runs off the bottom of a 320x568 screen"
       }
     ],
     "waiting": [
@@ -3547,5 +3560,5 @@
       "2026-11-18": 5
     }
   },
-  "changed": "2026-11-18T11:09:13.975Z"
+  "changed": "2026-11-18T11:14:14.672Z"
 }
