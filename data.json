@@ -2400,6 +2400,13 @@
         "since": "2026-11-17 23:49"
       },
       {
+        "n": 974,
+        "head": "THE BAR REWORK 6/8: POOL",
+        "detail": "a game starts from ANY side of the table, not just one",
+        "lane": "arcade",
+        "since": "2026-11-18 10:54"
+      },
+      {
         "n": 981,
         "head": "TOY FURY REWORK 3/6: THE GRAND TOUR",
         "detail": "one big ground-floor track with real corners, built ALONGSIDE today's eight",
@@ -2414,11 +2421,6 @@
       }
     ],
     "next": [
-      {
-        "n": 974,
-        "head": "THE BAR REWORK 6/8: POOL",
-        "detail": "a game starts from ANY side of the table, not just one"
-      },
       {
         "n": 975,
         "head": "THE BAR REWORK 7/8: AIR HOCKEY",
@@ -3415,5 +3417,5 @@
       "2026-11-18": 8
     }
   },
-  "changed": "2026-11-18T16:54:13.843Z"
+  "changed": "2026-11-18T16:59:14.199Z"
 }
