@@ -2452,6 +2452,12 @@
   "stack": {
     "building": [
       {
+        "n": 1032,
+        "head": "THE BAR HALL, BOWLING END: still clipping, and bowling balls lie on the seats",
+        "lane": "arcade",
+        "since": "2026-11-18 17:14"
+      },
+      {
         "n": 1031,
         "head": "Skin Kick (AirHockey): measure the HARD -> BRUTAL step now that HARD is softer (brutal>hard went 23/40 -> 40/40, goals 200-28, row 1030 benc",
         "lane": "arcade2",
@@ -2471,10 +2477,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1032,
-        "head": "THE BAR HALL, BOWLING END: still clipping, and bowling balls lie on the seats"
-      },
       {
         "n": 1033,
         "head": "THE BAR HALL THEME TRIAL: the old tavern's cozy wood feel across the WHOLE hall, built as a PREVIEW for him to compare",
@@ -3445,5 +3447,5 @@
       "2026-11-18": 28
     }
   },
-  "changed": "2026-11-18T23:09:14.398Z"
+  "changed": "2026-11-18T23:19:13.455Z"
 }
