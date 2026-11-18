@@ -2372,6 +2372,13 @@
         "since": "2026-11-17 21:14"
       },
       {
+        "n": 972,
+        "head": "THE BAR REWORK 4/8: FOOSBALL",
+        "detail": "a real-looking table in the walnut set, the \"00\" sign OFF the table, and playable",
+        "lane": "arcade",
+        "since": "2026-11-17 22:44"
+      },
+      {
         "n": 983,
         "head": "TOY FURY REWORK 5/6: UPSTAIRS",
         "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
@@ -2387,11 +2394,6 @@
       }
     ],
     "next": [
-      {
-        "n": 972,
-        "head": "THE BAR REWORK 4/8: FOOSBALL",
-        "detail": "a real-looking table in the walnut set, the \"00\" sign OFF the table, and playable"
-      },
       {
         "n": 973,
         "head": "THE BAR REWORK 5/8: PING PONG",
@@ -3537,5 +3539,5 @@
       "2026-11-17": 42
     }
   },
-  "changed": "2026-11-18T04:39:13.583Z"
+  "changed": "2026-11-18T04:49:14.204Z"
 }
