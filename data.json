@@ -2356,13 +2356,6 @@
   "stack": {
     "building": [
       {
-        "n": 969,
-        "head": "THE BAR REWORK 1/8: THE SHELL",
-        "detail": "one open hall, one theme, every table re-placed, zero walls inside walls",
-        "lane": "arcade",
-        "since": "2026-11-17 16:04"
-      },
-      {
         "n": 970,
         "head": "THE BAR REWORK 2/8: BOWLING, seamless",
         "detail": "walk in, \"Start a game of bowling\", bowl with whoever is there or alone",
@@ -3471,6 +3464,12 @@
         "date": "2026-11-17"
       },
       {
+        "n": 969,
+        "head": "THE BAR REWORK 1/8: THE SHELL",
+        "detail": "one open hall, one theme, every table re-placed, zero walls inside walls",
+        "date": "2026-11-17"
+      },
+      {
         "n": 957,
         "head": "Strike City's side wall doesn't stop you, and the miss is identical on desk and phone",
         "date": "2026-11-17"
@@ -3515,14 +3514,9 @@
         "n": 743,
         "head": "Shove Off: off the rock there is nothing pointing back to it",
         "date": "2026-11-17"
-      },
-      {
-        "n": 742,
-        "head": "Shove Off: the big OUT word sits over the fighters for the whole round you are watching",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 645,
+    "shippedTotal": 646,
     "shippedOn": {
       "2026-11-11": 8,
       "2026-11-12": 19,
@@ -3530,8 +3524,8 @@
       "2026-11-14": 21,
       "2026-11-15": 3,
       "2026-11-16": 79,
-      "2026-11-17": 39
+      "2026-11-17": 40
     }
   },
-  "changed": "2026-11-18T03:09:14.158Z"
+  "changed": "2026-11-18T03:14:14.030Z"
 }
