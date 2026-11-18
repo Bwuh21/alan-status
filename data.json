@@ -2384,12 +2384,6 @@
         "since": "2026-11-17 23:49"
       },
       {
-        "n": 995,
-        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium",
-        "lane": "arcade2",
-        "since": "2026-11-18 00:44"
-      },
-      {
         "n": 877,
         "head": "Second Wind: \"W moves the body UP THE SCREEN\" failed 1 run in 5 on an untouched code path",
         "lane": "server",
@@ -2481,6 +2475,10 @@
       {
         "n": 994,
         "head": "THE ISLAND TEST SERVER HE ASKED FOR: one page that shows every island side by side so he can say what he likes"
+      },
+      {
+        "n": 995,
+        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium"
       },
       {
         "n": 996,
@@ -3439,6 +3437,10 @@
         "n": 998,
         "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
         "detail": "re-measure it on the four tours"
+      },
+      {
+        "n": 999,
+        "head": "TOY FURY party room: both screens show each car in its DEFAULT paint, not the paint its player picked"
       }
     ],
     "waiting": [
@@ -3539,5 +3541,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T08:34:14.122Z"
+  "changed": "2026-11-18T08:54:14.255Z"
 }
