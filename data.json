@@ -2425,6 +2425,12 @@
         "detail": "re-measure it on the four tours",
         "lane": "arcade2",
         "since": "2026-11-18 11:49"
+      },
+      {
+        "n": 1013,
+        "head": "UNDERCROFT, friends: does the host's hit-stop freeze the foes on every guest's screen? Measure first, then fix (survey 2026-11-18)",
+        "lane": "arcade2",
+        "since": "2026-11-18 12:44"
       }
     ],
     "next": [
@@ -2437,10 +2443,6 @@
         "n": 977,
         "head": "THE PLAZA: the six islands round spawn placed EVENLY",
         "detail": "one ring, equal spacing, equal distance, every door facing home"
-      },
-      {
-        "n": 1013,
-        "head": "UNDERCROFT, friends: does the host's hit-stop freeze the foes on every guest's screen? Measure first, then fix (survey 2026-11-18)"
       },
       {
         "n": 1014,
@@ -3430,5 +3432,5 @@
       "2026-11-18": 11
     }
   },
-  "changed": "2026-11-18T18:44:18.026Z"
+  "changed": "2026-11-18T18:49:18.041Z"
 }
