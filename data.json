@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:16:00.000Z",
+  "updated": "2026-11-18T03:15:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2331,6 +2331,26 @@
           "note": "Live 2026-11-17. Your shadow used to sit on the invisible floor you walk on, not the floor you can see -- so wherever a carpet, a court, the bar's felt or a glowing floor patch sat at the same height, the two fought and…"
         }
       ]
+    },
+    {
+      "title": "The bar rework -- one open hall, one theme (Zack at the keyboard 2026-11-17, rows 969-977)",
+      "status": "doing",
+      "insight": "Eight steps, in order. Step 1 is the room itself; bowling, the tables and the look build on it.",
+      "subtasks": [
+        {
+          "text": "1/8 The shell: the bar and the lanes become one open hall",
+          "status": "done",
+          "note": "Live 2026-11-17. One room now: one dark plum ceiling with can lights, one cosmic carpet, no walls inside it. The old tavern room and its tall ceiling are gone. The bar is walnut and brass on a wood step against the back…"
+        },
+        {
+          "text": "Left over from step 1: the pool table's two signs are the old tavern's style and cross the name sign (row 992)",
+          "status": "todo"
+        },
+        {
+          "text": "Not from step 1: you cannot stand on steps 1 and 3 of the Deep Gate's stair (row 993, red before this work began)",
+          "status": "todo"
+        }
+      ]
     }
   ],
   "stack": {
@@ -3513,5 +3533,5 @@
       "2026-11-17": 39
     }
   },
-  "changed": "2026-11-18T02:54:15.045Z"
+  "changed": "2026-11-18T03:09:14.158Z"
 }
