@@ -2394,20 +2394,22 @@
         "since": "2026-11-17 23:49"
       },
       {
-        "n": 773,
-        "head": "OUT OF THE SUN: dive all the way to the ground, and the whole party in one fight",
+        "n": 981,
+        "head": "TOY FURY REWORK 3/6: THE GRAND TOUR",
+        "detail": "one big ground-floor track with real corners, built ALONGSIDE today's eight",
         "lane": "arcade2",
-        "since": "2026-11-18 05:59"
+        "since": "2026-11-18 09:24"
+      },
+      {
+        "n": 998,
+        "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
+        "detail": "re-measure it on the four tours",
+        "lane": "server",
+        "since": "2026-11-18 09:24"
       },
       {
         "n": 908,
         "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has",
-        "lane": "server",
-        "since": "2026-11-18 09:09"
-      },
-      {
-        "n": 910,
-        "head": "Out of the Sun: after the second kill the pair arrive up-sun and a slow newcomer has an enemy on screen only 24% of the fight",
         "lane": "server",
         "since": "2026-11-18 09:09"
       }
@@ -2432,26 +2434,6 @@
         "n": 977,
         "head": "THE PLAZA: the six islands round spawn placed EVENLY",
         "detail": "one ring, equal spacing, equal distance, every door facing home"
-      },
-      {
-        "n": 985,
-        "head": "SLAB CITY 1/3: POP INTO THE CITY",
-        "detail": "street fronts, the EL, the motel, City Hall, painted streets and pieces coloured by what they are, with NO ridden shape touched"
-      },
-      {
-        "n": 986,
-        "head": "SLAB CITY 2/3: MAIN ST AND FRONTAGE RD",
-        "detail": "the spots the 10-22 dive already rode, placed as city objects"
-      },
-      {
-        "n": 987,
-        "head": "SLAB CITY 3/3: GOALS YOU CAN SEE",
-        "detail": "goals count whenever you skate, a ring and a sign at each spot, grinding taught, one tutorial on arrival"
-      },
-      {
-        "n": 981,
-        "head": "TOY FURY REWORK 3/6: THE GRAND TOUR",
-        "detail": "one big ground-floor track with real corners, built ALONGSIDE today's eight"
       },
       {
         "n": 982,
@@ -2753,6 +2735,10 @@
         "n": 770,
         "head": "PARTY ISLAND FLOW: no picking a game",
         "detail": "it is RANDOM, the whole party goes in together, and you keep playing"
+      },
+      {
+        "n": 773,
+        "head": "OUT OF THE SUN: dive all the way to the ground, and the whole party in one fight"
       },
       {
         "n": 774,
@@ -3194,6 +3180,10 @@
         "head": "Broadside Bay: FIRE stays dark on a ship close enough to take the whole broadside"
       },
       {
+        "n": 910,
+        "head": "Out of the Sun: after the second kill the pair arrive up-sun and a slow newcomer has an enemy on screen only 24% of the fight"
+      },
+      {
         "n": 911,
         "head": "the band check's \"published band is the row the toast dodges\" line flakes on Cloud Street sideways: pass, FAIL, pass on one unchanged tree"
       },
@@ -3425,11 +3415,6 @@
         "head": "Strike City on a desk: the how-to card runs 71 px down over the lane panel at 1280x720"
       },
       {
-        "n": 998,
-        "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
-        "detail": "re-measure it on the four tours"
-      },
-      {
         "n": 1000,
         "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
         "detail": "it gains in the bends and gives them back on the next straight"
@@ -3579,5 +3564,5 @@
       "2026-11-18": 7
     }
   },
-  "changed": "2026-11-18T15:19:14.933Z"
+  "changed": "2026-11-18T15:24:13.700Z"
 }
