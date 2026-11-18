@@ -2370,13 +2370,6 @@
         "since": "2026-11-17 21:14"
       },
       {
-        "n": 980,
-        "head": "TOY FURY REWORK 2/6: THE RACE LOOP",
-        "detail": "PLAY starts a race, the result means something, and going again is one press",
-        "lane": "arcade2",
-        "since": "2026-11-17 20:34"
-      },
-      {
         "n": 983,
         "head": "TOY FURY REWORK 5/6: UPSTAIRS",
         "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
@@ -2473,6 +2466,14 @@
       {
         "n": 994,
         "head": "THE ISLAND TEST SERVER HE ASKED FOR: one page that shows every island side by side so he can say what he likes"
+      },
+      {
+        "n": 995,
+        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium"
+      },
+      {
+        "n": 996,
+        "head": "TOY FURY on a phone: the teach card covers the place, the menu button and the speed for its whole first race"
       },
       {
         "n": 523,
@@ -3455,6 +3456,12 @@
     ],
     "shipped": [
       {
+        "n": 980,
+        "head": "TOY FURY REWORK 2/6: THE RACE LOOP",
+        "detail": "PLAY starts a race, the result means something, and going again is one press",
+        "date": "2026-11-17"
+      },
+      {
         "n": 979,
         "head": "TOY FURY REWORK 1/4: THE FEEL",
         "detail": "the drift is where the speed comes from, and the steering is the player's again",
@@ -3511,14 +3518,9 @@
         "n": 751,
         "head": "UNDERCROFT: take every hole in the ground out, in every dungeon, solo and party",
         "date": "2026-11-17"
-      },
-      {
-        "n": 743,
-        "head": "Shove Off: off the rock there is nothing pointing back to it",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 646,
+    "shippedTotal": 647,
     "shippedOn": {
       "2026-11-11": 8,
       "2026-11-12": 19,
@@ -3526,8 +3528,8 @@
       "2026-11-14": 21,
       "2026-11-15": 3,
       "2026-11-16": 79,
-      "2026-11-17": 40
+      "2026-11-17": 41
     }
   },
-  "changed": "2026-11-18T03:19:14.160Z"
+  "changed": "2026-11-18T04:24:13.616Z"
 }
