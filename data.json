@@ -2423,11 +2423,11 @@
         "since": "2026-11-18 13:04"
       },
       {
-        "n": 998,
-        "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
-        "detail": "re-measure it on the four tours",
-        "lane": "arcade2",
-        "since": "2026-11-18 11:49"
+        "n": 977,
+        "head": "THE PLAZA: the six islands round spawn placed EVENLY",
+        "detail": "one ring, equal spacing, equal distance, every door facing home",
+        "lane": "arcade",
+        "since": "2026-11-18 13:24"
       },
       {
         "n": 1013,
@@ -2437,11 +2437,6 @@
       }
     ],
     "next": [
-      {
-        "n": 977,
-        "head": "THE PLAZA: the six islands round spawn placed EVENLY",
-        "detail": "one ring, equal spacing, equal distance, every door facing home"
-      },
       {
         "n": 1014,
         "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)"
@@ -3331,6 +3326,10 @@
       {
         "n": 1024,
         "head": "PING PONG with a friend: the two-player match has never been played through by a test"
+      },
+      {
+        "n": 1025,
+        "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest"
       }
     ],
     "waiting": [
@@ -3352,6 +3351,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 998,
+        "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
+        "detail": "re-measure it on the four tours",
+        "date": "2026-11-18 13:24"
+      },
       {
         "n": 1012,
         "head": "UNDERCROFT, friends: a friend's Flurry loses about half its stabs on the host, and each stab that lands stutters the host's screen (survey 2",
@@ -3413,14 +3418,9 @@
         "head": "THE BAR REWORK 4/8: FOOSBALL",
         "detail": "a real-looking table in the walnut set, the \"00\" sign OFF the table, and playable",
         "date": "2026-11-18"
-      },
-      {
-        "n": 771,
-        "head": "SECOND WIND: one short round, and a map worth looking at",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 662,
+    "shippedTotal": 663,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3428,8 +3428,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 13
+      "2026-11-18": 14
     }
   },
-  "changed": "2026-11-18T19:24:13.581Z"
+  "changed": "2026-11-18T19:29:13.381Z"
 }
