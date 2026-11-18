@@ -2408,6 +2408,12 @@
         "since": "2026-11-18 09:24"
       },
       {
+        "n": 773,
+        "head": "OUT OF THE SUN: dive all the way to the ground, and the whole party in one fight",
+        "lane": "arcade2",
+        "since": "2026-11-18 09:24"
+      },
+      {
         "n": 908,
         "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has",
         "lane": "server",
@@ -2735,10 +2741,6 @@
         "n": 770,
         "head": "PARTY ISLAND FLOW: no picking a game",
         "detail": "it is RANDOM, the whole party goes in together, and you keep playing"
-      },
-      {
-        "n": 773,
-        "head": "OUT OF THE SUN: dive all the way to the ground, and the whole party in one fight"
       },
       {
         "n": 774,
@@ -3564,5 +3566,5 @@
       "2026-11-18": 7
     }
   },
-  "changed": "2026-11-18T15:24:13.700Z"
+  "changed": "2026-11-18T15:29:14.624Z"
 }
