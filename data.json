@@ -2396,10 +2396,10 @@
         "since": "2026-11-18 00:04"
       },
       {
-        "n": 859,
-        "head": "ShoveOff: the game's own camera meter sums 9 frames on some frames and 10 on others, so it under-reads by up to 10% (row 671, 2026-11-16)",
+        "n": 860,
+        "head": "ShoveOff: a full shove is only survivable if the jet lights within 2 m of the lip, and nobody chose that number (row 671, 2026-11-16)",
         "lane": "server",
-        "since": "2026-11-18 00:39"
+        "since": "2026-11-18 00:54"
       }
     ],
     "next": [
@@ -3011,8 +3011,8 @@
         "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)"
       },
       {
-        "n": 860,
-        "head": "ShoveOff: a full shove is only survivable if the jet lights within 2 m of the lip, and nobody chose that number (row 671, 2026-11-16)"
+        "n": 859,
+        "head": "ShoveOff: the game's own camera meter sums 9 frames on some frames and 10 on others, so it under-reads by up to 10% (row 671, 2026-11-16)"
       },
       {
         "n": 861,
@@ -3543,5 +3543,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T06:49:13.860Z"
+  "changed": "2026-11-18T06:59:13.827Z"
 }
