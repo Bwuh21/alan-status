@@ -2447,12 +2447,6 @@
   "stack": {
     "building": [
       {
-        "n": 1030,
-        "head": "Skin Kick (AirHockey): measure the NORMAL -> HARD step now that NORMAL is softer (hard>normal went 35/40 -> 40/40, goals 204-8, row 1029 ben",
-        "lane": "arcade2",
-        "since": "2026-11-18 16:04"
-      },
-      {
         "n": 982,
         "head": "TOY FURY REWORK 4/6: FEWER, BETTER TRACKS, step 1",
         "detail": "retire the Library now, and carry the track list everywhere it is read",
@@ -2473,6 +2467,29 @@
       }
     ],
     "next": [
+      {
+        "n": 1032,
+        "head": "THE BAR HALL, BOWLING END: still clipping, and bowling balls lie on the seats"
+      },
+      {
+        "n": 1033,
+        "head": "THE BAR HALL THEME TRIAL: the old tavern's cozy wood feel across the WHOLE hall, built as a PREVIEW for him to compare",
+        "detail": "do NOT ship it live until he says yes"
+      },
+      {
+        "n": 1034,
+        "head": "PING PONG: rework the game until it is fun",
+        "detail": "read the deep dive first"
+      },
+      {
+        "n": 1035,
+        "head": "FOOSBALL: find why it sucks and fix it",
+        "detail": "read the deep dive first"
+      },
+      {
+        "n": 1031,
+        "head": "Skin Kick (AirHockey): measure the HARD -> BRUTAL step now that HARD is softer (brutal>hard went 23/40 -> 40/40, goals 200-28, row 1030 benc"
+      },
       {
         "n": 989,
         "head": "SKATE PARK: the ridden floor (skateFloor) and the drawn ramps disagree at 93 ramp edges"
@@ -3365,6 +3382,11 @@
         "date": "2026-11-18 13:24"
       },
       {
+        "n": 1030,
+        "head": "Skin Kick (AirHockey): measure the NORMAL -> HARD step now that NORMAL is softer (hard>normal went 35/40 -> 40/40, goals 204-8, row 1029 ben",
+        "date": "2026-11-18"
+      },
+      {
         "n": 1029,
         "head": "Skin Kick (AirHockey): the step from EASY to NORMAL is a cliff",
         "detail": "a first-timer stand-in wins 31/40 on easy and 0/40 on normal (row 883 bench, 2026-11-18)",
@@ -3414,15 +3436,9 @@
         "n": 995,
         "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium",
         "date": "2026-11-18"
-      },
-      {
-        "n": 984,
-        "head": "TOY FURY REWORK 6/6: OUTSIDE",
-        "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 674,
+    "shippedTotal": 675,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3430,8 +3446,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 25
+      "2026-11-18": 26
     }
   },
-  "changed": "2026-11-18T22:50:04.400Z"
+  "changed": "2026-11-18T23:04:14.251Z"
 }
