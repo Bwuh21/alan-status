@@ -2396,16 +2396,16 @@
         "since": "2026-11-18 04:24"
       },
       {
-        "n": 829,
-        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass",
-        "lane": "server",
-        "since": "2026-11-18 04:34"
-      },
-      {
         "n": 901,
         "head": "Head or Body: is BRUTAL now too hard for an ordinary player? Measure it with a hand, not a stand-in",
         "lane": "server",
         "since": "2026-11-18 05:04"
+      },
+      {
+        "n": 906,
+        "head": "Shove Off: the how-to-play check waits two minutes for a round that can run longer, and fails on unchanged bytes",
+        "lane": "server",
+        "since": "2026-11-18 05:19"
       }
     ],
     "next": [
@@ -2912,6 +2912,10 @@
         "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard"
       },
       {
+        "n": 829,
+        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass"
+      },
+      {
         "n": 836,
         "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level"
       },
@@ -3168,10 +3172,6 @@
       {
         "n": 905,
         "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
-      },
-      {
-        "n": 906,
-        "head": "Shove Off: the how-to-play check waits two minutes for a round that can run longer, and fails on unchanged bytes"
       },
       {
         "n": 907,
@@ -3560,5 +3560,5 @@
       "2026-11-18": 5
     }
   },
-  "changed": "2026-11-18T11:14:14.672Z"
+  "changed": "2026-11-18T11:24:13.716Z"
 }
