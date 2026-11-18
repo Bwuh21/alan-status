@@ -2434,13 +2434,15 @@
         "head": "UNDERCROFT, friends: does the host's hit-stop freeze the foes on every guest's screen? Measure first, then fix (survey 2026-11-18)",
         "lane": "arcade2",
         "since": "2026-11-18 12:44"
+      },
+      {
+        "n": 1014,
+        "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)",
+        "lane": "arcade2",
+        "since": "2026-11-18 13:29"
       }
     ],
     "next": [
-      {
-        "n": 1014,
-        "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)"
-      },
       {
         "n": 1015,
         "head": "UNDERCROFT, friends: the party win card names the party, not just you (survey 2026-11-18)"
@@ -3431,5 +3433,5 @@
       "2026-11-18": 14
     }
   },
-  "changed": "2026-11-18T19:29:13.381Z"
+  "changed": "2026-11-18T19:34:13.493Z"
 }
