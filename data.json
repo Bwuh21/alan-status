@@ -2377,6 +2377,13 @@
         "since": "2026-11-17 22:44"
       },
       {
+        "n": 973,
+        "head": "THE BAR REWORK 5/8: PING PONG",
+        "detail": "the big table, played in the room",
+        "lane": "arcade",
+        "since": "2026-11-17 23:49"
+      },
+      {
         "n": 983,
         "head": "TOY FURY REWORK 5/6: UPSTAIRS",
         "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
@@ -2392,11 +2399,6 @@
       }
     ],
     "next": [
-      {
-        "n": 973,
-        "head": "THE BAR REWORK 5/8: PING PONG",
-        "detail": "the big table, played in the room"
-      },
       {
         "n": 974,
         "head": "THE BAR REWORK 6/8: POOL",
@@ -3538,5 +3540,5 @@
       "2026-11-17": 43
     }
   },
-  "changed": "2026-11-18T05:44:13.754Z"
+  "changed": "2026-11-18T05:54:13.823Z"
 }
