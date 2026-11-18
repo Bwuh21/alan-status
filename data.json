@@ -2384,12 +2384,6 @@
         "since": "2026-11-17 23:49"
       },
       {
-        "n": 763,
-        "head": "GOLF: the game is now BACK NINE, and a good solo round pays tickets",
-        "lane": "arcade2",
-        "since": "2026-11-18 04:09"
-      },
-      {
         "n": 771,
         "head": "SECOND WIND: one short round, and a map worth looking at",
         "lane": "arcade2",
@@ -3460,6 +3454,10 @@
       {
         "n": 1006,
         "head": "BACK NINE on a 320-wide phone: the title card runs off the bottom of a 320x568 screen"
+      },
+      {
+        "n": 1007,
+        "head": "ship-game.sh's push gate refuses EVERY SpaceGolf ship: its root dev harnesses are in HEAD, the clone never had them, and the filter calls th"
       }
     ],
     "waiting": [
@@ -3560,5 +3558,5 @@
       "2026-11-18": 5
     }
   },
-  "changed": "2026-11-18T11:24:13.716Z"
+  "changed": "2026-11-18T11:34:13.290Z"
 }
