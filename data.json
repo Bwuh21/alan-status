@@ -2390,6 +2390,12 @@
         "since": "2026-11-18 04:09"
       },
       {
+        "n": 771,
+        "head": "SECOND WIND: one short round, and a map worth looking at",
+        "lane": "arcade2",
+        "since": "2026-11-18 04:24"
+      },
+      {
         "n": 886,
         "head": "Space Golf: the frame-rate check only flies tee drives",
         "lane": "server",
@@ -2743,10 +2749,6 @@
         "n": 770,
         "head": "PARTY ISLAND FLOW: no picking a game",
         "detail": "it is RANDOM, the whole party goes in together, and you keep playing"
-      },
-      {
-        "n": 771,
-        "head": "SECOND WIND: one short round, and a map worth looking at"
       },
       {
         "n": 773,
@@ -3545,5 +3547,5 @@
       "2026-11-18": 5
     }
   },
-  "changed": "2026-11-18T10:24:13.194Z"
+  "changed": "2026-11-18T10:29:13.316Z"
 }
