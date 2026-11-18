@@ -2390,16 +2390,16 @@
         "since": "2026-11-18 04:24"
       },
       {
-        "n": 901,
-        "head": "Head or Body: is BRUTAL now too hard for an ordinary player? Measure it with a hand, not a stand-in",
-        "lane": "server",
-        "since": "2026-11-18 05:04"
-      },
-      {
         "n": 906,
         "head": "Shove Off: the how-to-play check waits two minutes for a round that can run longer, and fails on unchanged bytes",
         "lane": "server",
         "since": "2026-11-18 05:19"
+      },
+      {
+        "n": 907,
+        "head": "Broadside Bay: a short volley is now and then called twice as short as it was laid",
+        "lane": "server",
+        "since": "2026-11-18 05:39"
       }
     ],
     "next": [
@@ -3156,6 +3156,10 @@
         "head": "Head or Body: STUDY HIM never tells you he has been faking you"
       },
       {
+        "n": 901,
+        "head": "Head or Body: is BRUTAL now too hard for an ordinary player? Measure it with a hand, not a stand-in"
+      },
+      {
         "n": 903,
         "head": "the toy house: 24 drawn pieces above the lens's aim height that no camera shape contains"
       },
@@ -3166,10 +3170,6 @@
       {
         "n": 905,
         "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
-      },
-      {
-        "n": 907,
-        "head": "Broadside Bay: a short volley is now and then called twice as short as it was laid"
       },
       {
         "n": 908,
@@ -3558,5 +3558,5 @@
       "2026-11-18": 5
     }
   },
-  "changed": "2026-11-18T11:34:13.290Z"
+  "changed": "2026-11-18T11:44:13.404Z"
 }
