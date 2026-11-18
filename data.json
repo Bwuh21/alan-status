@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:45:00.000Z",
+  "updated": "2026-11-18T22:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1076,6 +1076,11 @@
           "text": "Comet Clash's self-test was crying wolf, and lanes were starting to ignore it",
           "status": "done",
           "note": "DONE 11-05, and nothing about playing the game changed -- this was its self-test. Seven of its checks were timed with a stopwatch instead of by watching the game, so on a busy computer they went red on work that was…"
+        },
+        {
+          "text": "Comet Clash keeps your wins in a row, per difficulty",
+          "status": "done",
+          "note": "Live 2026-11-18. ROOKIE, PRO and SHARK each keep their own wins-in-a-row and best, shown on the results card and under the difficulty buttons on the title. A loss tells you what it ended. Quitting mid-match counts as a…"
         }
       ]
     },
@@ -2443,12 +2448,6 @@
         "since": "2026-11-18 16:04"
       },
       {
-        "n": 1017,
-        "head": "COMET CLASH keeps a win streak per rung (do this AFTER row 882 makes it winnable) (survey 2026-11-18)",
-        "lane": "arcade",
-        "since": "2026-11-18 15:49"
-      },
-      {
         "n": 982,
         "head": "TOY FURY REWORK 4/6: FEWER, BETTER TRACKS, step 1",
         "detail": "retire the Library now, and carry the track list everywhere it is read",
@@ -3369,6 +3368,11 @@
         "date": "2026-11-18"
       },
       {
+        "n": 1017,
+        "head": "COMET CLASH keeps a win streak per rung (do this AFTER row 882 makes it winnable) (survey 2026-11-18)",
+        "date": "2026-11-18"
+      },
+      {
         "n": 1016,
         "head": "HEAD OR BODY (boxing) keeps your best: a win streak per fighter rung, so a second visit has something to beat (survey 2026-11-18)",
         "date": "2026-11-18"
@@ -3413,15 +3417,9 @@
         "head": "TOY FURY REWORK 6/6: OUTSIDE",
         "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships",
         "date": "2026-11-18"
-      },
-      {
-        "n": 983,
-        "head": "TOY FURY REWORK 5/6: UPSTAIRS",
-        "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 672,
+    "shippedTotal": 673,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3429,8 +3427,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 23
+      "2026-11-18": 24
     }
   },
-  "changed": "2026-11-18T22:14:18.126Z"
+  "changed": "2026-11-18T22:24:14.404Z"
 }
