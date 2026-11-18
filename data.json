@@ -2363,6 +2363,13 @@
         "since": "2026-11-17 16:19"
       },
       {
+        "n": 971,
+        "head": "THE BAR REWORK 3/8: CAMERA",
+        "detail": "backing toward a wall from 2 ft away glitches and shoves the lens into the wall",
+        "lane": "arcade",
+        "since": "2026-11-17 21:14"
+      },
+      {
         "n": 980,
         "head": "TOY FURY REWORK 2/6: THE RACE LOOP",
         "detail": "PLAY starts a race, the result means something, and going again is one press",
@@ -2378,11 +2385,6 @@
       }
     ],
     "next": [
-      {
-        "n": 971,
-        "head": "THE BAR REWORK 3/8: CAMERA",
-        "detail": "backing toward a wall from 2 ft away glitches and shoves the lens into the wall"
-      },
       {
         "n": 972,
         "head": "THE BAR REWORK 4/8: FOOSBALL",
@@ -3527,5 +3529,5 @@
       "2026-11-17": 40
     }
   },
-  "changed": "2026-11-18T03:14:14.030Z"
+  "changed": "2026-11-18T03:19:14.160Z"
 }
