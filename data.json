@@ -2402,10 +2402,10 @@
         "since": "2026-11-18 03:24"
       },
       {
-        "n": 890,
-        "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake",
+        "n": 892,
+        "head": "Head or Body: BRUTAL is barely harder than HARD",
         "lane": "server",
-        "since": "2026-11-18 03:09"
+        "since": "2026-11-18 03:29"
       }
     ],
     "next": [
@@ -3121,13 +3121,13 @@
         "head": "Tools/planted-sweep.mjs counts archive folders, so a retired harness stays a lead forever"
       },
       {
+        "n": 890,
+        "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake"
+      },
+      {
         "n": 891,
         "head": "WAITS ON HIS WORD",
         "detail": "Auras: the Uncommon flame all but vanishes on a white floor"
-      },
-      {
-        "n": 892,
-        "head": "Head or Body: BRUTAL is barely harder than HARD"
       },
       {
         "n": 893,
@@ -3540,5 +3540,5 @@
       "2026-11-18": 2
     }
   },
-  "changed": "2026-11-18T09:29:14.118Z"
+  "changed": "2026-11-18T09:34:14.335Z"
 }
