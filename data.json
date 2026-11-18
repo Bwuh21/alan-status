@@ -2453,6 +2453,11 @@
         "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name "
       },
       {
+        "n": 993,
+        "head": "THE DEEP GATE: you cannot stand on steps 1 and 3 of its stair",
+        "detail": "portal-islands-check is red there on HEAD, before row 969 touched anything"
+      },
+      {
         "n": 523,
         "head": "the arcade's walk-in bar table loads CornerPocket's physics with no version stamp, so it can run a different sim from the cabinet"
       },
@@ -3514,5 +3519,5 @@
       "2026-11-17": 36
     }
   },
-  "changed": "2026-11-18T01:19:17.102Z"
+  "changed": "2026-11-18T02:04:15.402Z"
 }
