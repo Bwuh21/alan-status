@@ -2384,30 +2384,16 @@
         "since": "2026-11-17 23:49"
       },
       {
-        "n": 983,
-        "head": "TOY FURY REWORK 5/6: UPSTAIRS",
-        "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
-        "lane": "arcade2",
-        "since": "2026-11-17 20:49"
-      },
-      {
-        "n": 984,
-        "head": "TOY FURY REWORK 6/6: OUTSIDE",
-        "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships",
-        "lane": "arcade2",
-        "since": "2026-11-17 22:24"
-      },
-      {
         "n": 821,
         "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
         "lane": "server",
         "since": "2026-11-18 00:04"
       },
       {
-        "n": 826,
-        "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard",
+        "n": 859,
+        "head": "ShoveOff: the game's own camera meter sums 9 frames on some frames and 10 on others, so it under-reads by up to 10% (row 671, 2026-11-16)",
         "lane": "server",
-        "since": "2026-11-18 00:14"
+        "since": "2026-11-18 00:39"
       }
     ],
     "next": [
@@ -2455,6 +2441,11 @@
         "n": 982,
         "head": "TOY FURY REWORK 4/6: FEWER, BETTER TRACKS, step 1",
         "detail": "retire the Library now, and carry the track list everywhere it is read"
+      },
+      {
+        "n": 984,
+        "head": "TOY FURY REWORK 6/6: OUTSIDE",
+        "detail": "garage, under Dad's car, out the roller door, down the driveway, the yard rally, home up the porch steps; Garage, Backyard, Porch and Classroom retire when it ships"
       },
       {
         "n": 988,
@@ -2922,6 +2913,10 @@
         "head": "the hall: the pool floor sits half a millimetre under the hall floor, and no pixel test can clear it"
       },
       {
+        "n": 826,
+        "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard"
+      },
+      {
         "n": 829,
         "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass"
       },
@@ -3012,10 +3007,6 @@
       {
         "n": 858,
         "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)"
-      },
-      {
-        "n": 859,
-        "head": "ShoveOff: the game's own camera meter sums 9 frames on some frames and 10 on others, so it under-reads by up to 10% (row 671, 2026-11-16)"
       },
       {
         "n": 860,
@@ -3445,6 +3436,11 @@
       {
         "n": 997,
         "head": "Strike City on a desk: the how-to card runs 71 px down over the lane panel at 1280x720"
+      },
+      {
+        "n": 998,
+        "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
+        "detail": "re-measure it on the four tours"
       }
     ],
     "waiting": [
@@ -3466,6 +3462,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 983,
+        "head": "TOY FURY REWORK 5/6: UPSTAIRS",
+        "detail": "the bedroom, the landing and the bathroom rim as one long track; the Bathroom retires when it ships",
+        "date": "2026-11-18"
+      },
       {
         "n": 980,
         "head": "TOY FURY REWORK 2/6: THE RACE LOOP",
@@ -3526,23 +3528,18 @@
         "head": "TRAP DOORS: nobody walks on air",
         "detail": "crossing a gap is a jump",
         "date": "2026-11-17"
-      },
-      {
-        "n": 761,
-        "head": "Barn Burner: can a PERSON score on the Ace keeper when he is standing square?",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 649,
+    "shippedTotal": 650,
     "shippedOn": {
-      "2026-11-11": 8,
       "2026-11-12": 19,
       "2026-11-13": 14,
       "2026-11-14": 21,
       "2026-11-15": 3,
       "2026-11-16": 79,
-      "2026-11-17": 43
+      "2026-11-17": 43,
+      "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T06:19:13.901Z"
+  "changed": "2026-11-18T06:44:14.205Z"
 }
