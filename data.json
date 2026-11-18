@@ -2396,16 +2396,16 @@
         "since": "2026-11-18 03:04"
       },
       {
-        "n": 883,
-        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds",
-        "lane": "server",
-        "since": "2026-11-18 02:59"
-      },
-      {
         "n": 885,
         "head": "Space Golf: its own with-friends check is dead on today's game",
         "lane": "server",
         "since": "2026-11-18 03:04"
+      },
+      {
+        "n": 890,
+        "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake",
+        "lane": "server",
+        "since": "2026-11-18 03:09"
       }
     ],
     "next": [
@@ -3101,6 +3101,10 @@
         "head": "Dodgeball: nobody has ever beaten the bots, 0 wins in 14 paid rounds"
       },
       {
+        "n": 883,
+        "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds"
+      },
+      {
         "n": 884,
         "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing"
       },
@@ -3115,10 +3119,6 @@
       {
         "n": 888,
         "head": "Tools/planted-sweep.mjs counts archive folders, so a retired harness stays a lead forever"
-      },
-      {
-        "n": 890,
-        "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake"
       },
       {
         "n": 891,
@@ -3540,5 +3540,5 @@
       "2026-11-18": 2
     }
   },
-  "changed": "2026-11-18T09:09:14.081Z"
+  "changed": "2026-11-18T09:14:14.125Z"
 }
