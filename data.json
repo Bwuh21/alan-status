@@ -2396,10 +2396,10 @@
         "since": "2026-11-18 00:59"
       },
       {
-        "n": 860,
-        "head": "ShoveOff: a full shove is only survivable if the jet lights within 2 m of the lip, and nobody chose that number (row 671, 2026-11-16)",
+        "n": 862,
+        "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go",
         "lane": "server",
-        "since": "2026-11-18 00:54"
+        "since": "2026-11-18 01:14"
       }
     ],
     "next": [
@@ -3015,12 +3015,12 @@
         "head": "ShoveOff: the game's own camera meter sums 9 frames on some frames and 10 on others, so it under-reads by up to 10% (row 671, 2026-11-16)"
       },
       {
-        "n": 861,
-        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold"
+        "n": 860,
+        "head": "ShoveOff: a full shove is only survivable if the jet lights within 2 m of the lip, and nobody chose that number (row 671, 2026-11-16)"
       },
       {
-        "n": 862,
-        "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go"
+        "n": 861,
+        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold"
       },
       {
         "n": 863,
@@ -3543,5 +3543,5 @@
       "2026-11-18": 1
     }
   },
-  "changed": "2026-11-18T07:04:13.850Z"
+  "changed": "2026-11-18T07:19:13.869Z"
 }
