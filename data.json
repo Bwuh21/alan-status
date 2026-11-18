@@ -2449,13 +2449,15 @@
         "head": "Air Hockey (the folder game): 0 wins in 7 paid rounds, the four timed ones over in 42 to 63 seconds",
         "lane": "arcade2",
         "since": "2026-11-18 15:05"
+      },
+      {
+        "n": 1016,
+        "head": "HEAD OR BODY (boxing) keeps your best: a win streak per fighter rung, so a second visit has something to beat (survey 2026-11-18)",
+        "lane": "arcade2",
+        "since": "2026-11-18 15:24"
       }
     ],
     "next": [
-      {
-        "n": 1016,
-        "head": "HEAD OR BODY (boxing) keeps your best: a win streak per fighter rung, so a second visit has something to beat (survey 2026-11-18)"
-      },
       {
         "n": 1017,
         "head": "COMET CLASH keeps a win streak per rung (do this AFTER row 882 makes it winnable) (survey 2026-11-18)"
@@ -3440,5 +3442,5 @@
       "2026-11-18": 18
     }
   },
-  "changed": "2026-11-18T21:24:13.898Z"
+  "changed": "2026-11-18T21:29:14.460Z"
 }
