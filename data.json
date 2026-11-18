@@ -2464,6 +2464,12 @@
         "head": "THE WALK FLOOR STILL STEPS where the drawn floor is smooth: your feet (and the shadow with them) pop at rock tops, pit lips, cliff edges and",
         "lane": "arcade",
         "since": "2026-11-18 16:24"
+      },
+      {
+        "n": 789,
+        "head": "BACK NINE (golf): the ball jitters in the air, a piece of the club is not attached, and the skins look wrong here",
+        "lane": "arcade2",
+        "since": "2026-11-18 16:44"
       }
     ],
     "next": [
@@ -2761,10 +2767,6 @@
       {
         "n": 786,
         "head": "EVERY PARTY GAME OPENS THE SAME WAY: a short \"what is going down\" card, and everyone readies up together"
-      },
-      {
-        "n": 789,
-        "head": "BACK NINE (golf): the ball jitters in the air, a piece of the club is not attached, and the skins look wrong here"
       },
       {
         "n": 791,
@@ -3431,5 +3433,5 @@
       "2026-11-18": 25
     }
   },
-  "changed": "2026-11-18T22:39:22.915Z"
+  "changed": "2026-11-18T22:50:04.400Z"
 }
