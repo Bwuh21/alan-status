@@ -2418,6 +2418,13 @@
         "since": "2026-11-18 12:19"
       },
       {
+        "n": 976,
+        "head": "THE BAR REWORK 8/8: THE LOBBY ISLAND",
+        "detail": "rebuilt in the same theme, so the outside promises the inside",
+        "lane": "arcade",
+        "since": "2026-11-18 13:04"
+      },
+      {
         "n": 998,
         "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
         "detail": "re-measure it on the four tours",
@@ -2432,11 +2439,6 @@
       }
     ],
     "next": [
-      {
-        "n": 976,
-        "head": "THE BAR REWORK 8/8: THE LOBBY ISLAND",
-        "detail": "rebuilt in the same theme, so the outside promises the inside"
-      },
       {
         "n": 977,
         "head": "THE PLAZA: the six islands round spawn placed EVENLY",
@@ -3430,5 +3432,5 @@
       "2026-11-18": 12
     }
   },
-  "changed": "2026-11-18T19:04:13.453Z"
+  "changed": "2026-11-18T19:09:13.464Z"
 }
