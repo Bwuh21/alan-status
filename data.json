@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T05:43:00.000Z",
+  "updated": "2026-11-18T11:56:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1128,8 +1128,8 @@
       ]
     },
     {
-      "title": "Space Golf",
-      "status": "done",
+      "title": "Back Nine (golf, was Space Golf)",
+      "status": "doing",
       "subtasks": [
         {
           "text": "Freezes when you are about to reach the final green",
@@ -1180,6 +1180,16 @@
           "text": "\"The putter is broken... look at people putting... flickering around the hole\"",
           "status": "done",
           "note": "On a putt he now bends over the ball and rocks a short pendulum from the shoulders, longer for a firmer putt, and holds the finish; before, he stood bolt upright 1.75 m away and swung the putter head above his own head.…"
+        },
+        {
+          "text": "\"The game is now BACK NINE\"",
+          "status": "done",
+          "note": "The title card, the tab and the heading say Back Nine (Clover Coast Golf Club), on one line on a phone and a desk. Live 2026-11-18. The arcade's island sign and directory still say Golf: that is row 1004."
+        },
+        {
+          "text": "\"A good solo round pays tickets\" -- par or better, more per stroke under",
+          "status": "blocked",
+          "note": "The game half is live and dark: 3 tickets at par on a three-hole course, 6 on the full nine, more per stroke under, capped, at most 30 a day from golf. It lights up after the held database change runs at a keyboard…"
         }
       ]
     },
@@ -3457,7 +3467,7 @@
       },
       {
         "n": 1007,
-        "head": "ship-game.sh's push gate refuses EVERY SpaceGolf ship: its root dev harnesses are in HEAD, the clone never had them, and the filter calls th"
+        "head": "ship-game.sh's push gate refuses any game whose root dev harnesses are in HEAD but were never in the clone, because the filter calls them se"
       }
     ],
     "waiting": [
@@ -3507,6 +3517,11 @@
         "date": "2026-11-18"
       },
       {
+        "n": 763,
+        "head": "GOLF: the game is now BACK NINE, and a good solo round pays tickets",
+        "date": "2026-11-18"
+      },
+      {
         "n": 980,
         "head": "TOY FURY REWORK 2/6: THE RACE LOOP",
         "detail": "PLAY starts a race, the result means something, and going again is one press",
@@ -3540,14 +3555,9 @@
         "head": "THE BAR REWORK 1/8: THE SHELL",
         "detail": "one open hall, one theme, every table re-placed, zero walls inside walls",
         "date": "2026-11-17"
-      },
-      {
-        "n": 957,
-        "head": "Strike City's side wall doesn't stop you, and the miss is identical on desk and phone",
-        "date": "2026-11-17"
       }
     ],
-    "shippedTotal": 654,
+    "shippedTotal": 655,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3555,8 +3565,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 5
+      "2026-11-18": 6
     }
   },
-  "changed": "2026-11-18T11:44:13.404Z"
+  "changed": "2026-11-18T11:59:13.375Z"
 }
