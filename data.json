@@ -2505,6 +2505,12 @@
         "head": "Head or Body: the two top fighters throw the same punches, and nobody has checked the read on a human",
         "lane": "arcade2",
         "since": "2026-11-18 19:49"
+      },
+      {
+        "n": 816,
+        "head": "Sky Spike: a learner who WALKS under the lesson's lob never has to dive",
+        "lane": "arcade2",
+        "since": "2026-11-18 19:59"
       }
     ],
     "next": [
@@ -2833,10 +2839,6 @@
       {
         "n": 815,
         "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check"
-      },
-      {
-        "n": 816,
-        "head": "Sky Spike: a learner who WALKS under the lesson's lob never has to dive"
       },
       {
         "n": 817,
@@ -3455,5 +3457,5 @@
       "2026-11-18": 38
     }
   },
-  "changed": "2026-11-19T01:59:13.983Z"
+  "changed": "2026-11-19T02:04:13.891Z"
 }
