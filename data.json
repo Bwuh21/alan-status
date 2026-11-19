@@ -2572,18 +2572,27 @@
         "since": "2026-11-19 13:19"
       },
       {
+        "n": 814,
+        "head": "Strike City: the oil is a TINT and a tint has a ceiling; the long wet shine wants a reflection, not more strength",
+        "lane": "arcade",
+        "since": "2026-11-19 13:24"
+      },
+      {
         "n": 987,
         "head": "SLAB CITY 3/3: GOALS YOU CAN SEE",
         "detail": "goals count whenever you skate, a ring and a sign at each spot, grinding taught, one tutorial on arrival",
         "lane": "arcade2",
         "since": "2026-11-19 12:14"
+      },
+      {
+        "n": 1058,
+        "head": "SKATING: make the skating itself better",
+        "detail": "the push, the turn, the pop, the grind, the landing (Zack at the keyboard 2026-11-19: \"making it more city style skating than just one skate park and making the skating better\") region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-19 13:24"
       }
     ],
     "next": [
-      {
-        "n": 814,
-        "head": "Strike City: the oil is a TINT and a tint has a ceiling; the long wet shine wants a reflection, not more strength"
-      },
       {
         "n": 930,
         "head": "The tavern pool table's two-player check cannot seat its second player, so nothing proves two screens agree on a rack"
@@ -2612,11 +2621,6 @@
       {
         "n": 595,
         "head": "18 places in the toy house where one prop sits inside another"
-      },
-      {
-        "n": 1058,
-        "head": "SKATING: make the skating itself better",
-        "detail": "the push, the turn, the pop, the grind, the landing (Zack at the keyboard 2026-11-19: \"making it more city style skating than just one skate park and making the skating better\") region-skate"
       },
       {
         "n": 1053,
@@ -3647,5 +3651,5 @@
       "2026-11-19": 29
     }
   },
-  "changed": "2026-11-19T19:24:14.032Z"
+  "changed": "2026-11-19T19:29:14.134Z"
 }
