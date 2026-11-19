@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:25:00.000Z",
+  "updated": "2026-11-19T21:45:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -592,6 +592,11 @@
           "text": "Slab City 3/3: goals you can see (gold rings, street signs, goals count with no clock)",
           "status": "done",
           "note": "Live 2026-11-19. Goals count whenever you skate, no clock needed. Eight spots wear a gold ring and a street sign. First visit is three jobs: kickflip, grind a Main St planter, the garage drop. A fresh player on desktop…"
+        },
+        {
+          "text": "Skating feel 1: the turn has weight (lean into a carve, a hard carve costs speed)",
+          "status": "done",
+          "note": "Live 2026-11-19. A hard turn at full speed now draws a wider arc, costs you speed, and the rider leans hard into it with bent knees. Slow turns are as tight as before. Still to come, each filed: pushes that feel earned,…"
         },
         {
           "text": "Later: grow the park once tricks and basics are in",
@@ -2585,13 +2590,6 @@
         "since": "2026-11-19 15:29"
       },
       {
-        "n": 1058,
-        "head": "SKATING: make the skating itself better",
-        "detail": "the push, the turn, the pop, the grind, the landing (Zack at the keyboard 2026-11-19: \"making it more city style skating than just one skate park and making the skating better\") region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-19 13:24"
-      },
-      {
         "n": 1068,
         "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen",
         "lane": "arcade2",
@@ -3564,6 +3562,40 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
+      },
+      {
+        "n": 1120,
+        "head": "Slab City: SPEED has no life",
+        "detail": "four equal pushes then a hard wall at 9, and hands-off you lose almost nothing (found by row 1058, 2026-11-19) region-skate"
+      },
+      {
+        "n": 1121,
+        "head": "Slab City: at full speed the rider stands bolt upright, the same pose as stopped",
+        "detail": "nothing in a still frame says speed (found by row 1058, 2026-11-19) region-skate"
+      },
+      {
+        "n": 1122,
+        "head": "Slab City: the OLLIE is a button, not a pop",
+        "detail": "instant, 0.94 m at any speed, no crouch before it (found by row 1058, 2026-11-19) region-skate"
+      },
+      {
+        "n": 1123,
+        "head": "Slab City: no POWERSLIDE",
+        "detail": "speed can only be turned or left alone (found by row 1058, 2026-11-19) region-skate"
+      },
+      {
+        "n": 1124,
+        "head": "Slab City: a slam has no hit",
+        "detail": "no frame freeze, no camera knock when you bail (found by row 1058, 2026-11-19) region-skate"
+      },
+      {
+        "n": 1125,
+        "head": "Slab City on a phone: the grind catch wants to be wider for thumbs (found by row 1058, 2026-11-19) region-skate"
+      },
+      {
+        "n": 1126,
+        "head": "Slab City: three skate checks are red at HEAD before any edit",
+        "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate"
       }
     ],
     "waiting": [
@@ -3600,6 +3632,12 @@
       {
         "n": 1062,
         "head": "THE BAR HALL, BOWLING: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seating behind the ball retu",
+        "date": "2026-11-19"
+      },
+      {
+        "n": 1058,
+        "head": "SKATING: make the skating itself better",
+        "detail": "the push, the turn, the pop, the grind, the landing (Zack at the keyboard 2026-11-19: \"making it more city style skating than just one skate park and making the skating better\") region-skate",
         "date": "2026-11-19"
       },
       {
@@ -3646,14 +3684,9 @@
         "n": 1025,
         "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1024,
-        "head": "PING PONG with a friend: the two-player match has never been played through by a test",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 729,
+    "shippedTotal": 730,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3661,8 +3694,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 33
+      "2026-11-19": 34
     }
   },
-  "changed": "2026-11-19T21:34:13.804Z"
+  "changed": "2026-11-19T21:49:13.689Z"
 }
