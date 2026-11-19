@@ -2562,18 +2562,27 @@
         "since": "2026-11-19 11:39"
       },
       {
+        "n": 875,
+        "head": "Strike City, upright phone, four bowlers: the sheet takes the lane down to the 40% bar, and three friends all read \"Frien...\"",
+        "lane": "arcade",
+        "since": "2026-11-19 12:14"
+      },
+      {
         "n": 986,
         "head": "SLAB CITY 2/3: MAIN ST AND FRONTAGE RD",
         "detail": "the spots the 10-22 dive already rode, placed as city objects",
         "lane": "arcade2",
         "since": "2026-11-19 11:59"
+      },
+      {
+        "n": 987,
+        "head": "SLAB CITY 3/3: GOALS YOU CAN SEE",
+        "detail": "goals count whenever you skate, a ring and a sign at each spot, grinding taught, one tutorial on arrival",
+        "lane": "arcade2",
+        "since": "2026-11-19 12:14"
       }
     ],
     "next": [
-      {
-        "n": 875,
-        "head": "Strike City, upright phone, four bowlers: the sheet takes the lane down to the 40% bar, and three friends all read \"Frien...\""
-      },
       {
         "n": 822,
         "head": "Strike City island: the ball-return run goes straight through the trophy's plinth"
@@ -2614,11 +2623,6 @@
       {
         "n": 595,
         "head": "18 places in the toy house where one prop sits inside another"
-      },
-      {
-        "n": 987,
-        "head": "SLAB CITY 3/3: GOALS YOU CAN SEE",
-        "detail": "goals count whenever you skate, a ring and a sign at each spot, grinding taught, one tutorial on arrival"
       },
       {
         "n": 1058,
@@ -3638,5 +3642,5 @@
       "2026-11-19": 27
     }
   },
-  "changed": "2026-11-19T18:14:13.559Z"
+  "changed": "2026-11-19T18:19:20.322Z"
 }
