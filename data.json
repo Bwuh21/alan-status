@@ -2447,7 +2447,8 @@
         },
         {
           "text": "Left over from step 4: air hockey's two-player check fails ('Pick your game', no table), the same before this work (row 1019)",
-          "status": "todo"
+          "status": "done",
+          "note": "Done 2026-11-19. The game was fine. The test was walking to the big arcade room, and the table moved to the bar on 11-13. It now walks into the bar and plays a two-player match to 7 with someone watching from across the…"
         },
         {
           "text": "Left over from step 4: on a phone the foosball and air hockey prompt is cut off under the Play button (row 1020)",
@@ -2550,23 +2551,11 @@
   "stack": {
     "building": [
       {
-        "n": 1019,
-        "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up",
-        "lane": "arcade",
-        "since": "2026-11-19 10:44"
-      },
-      {
         "n": 876,
         "head": "Strike City: the ticket-strip check is red against today's game",
         "detail": "is the pay ladder 3/2/1 or 1/1/1?",
         "lane": "arcade",
         "since": "2026-11-19 10:59"
-      },
-      {
-        "n": 1025,
-        "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
-        "lane": "arcade2",
-        "since": "2026-11-19 09:59"
       },
       {
         "n": 1002,
@@ -3534,6 +3523,10 @@
       {
         "n": 1102,
         "head": "FOOSBALL on a desk: a held shot (0.4 s) or a Space shot strikes at 8 m/s but the ball never moves (peak 0.00) in the desk check, and it fail"
+      },
+      {
+        "n": 1103,
+        "head": "TOY FURY: the free Spark Kart is only LEVEL with the field at its best (24 of 240 in the Grand Tour, field 23.8), and the garage card tells "
       }
     ],
     "waiting": [
@@ -3608,24 +3601,22 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1025,
+        "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1024,
         "head": "PING PONG with a friend: the two-player match has never been played through by a test",
         "date": "2026-11-19"
       },
       {
-        "n": 1001,
-        "head": "TOY FURY upstairs: the drift is worth almost nothing",
-        "detail": "a driver who never drifts makes the podium 12 times in 20",
-        "date": "2026-11-19"
-      },
-      {
-        "n": 1000,
-        "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
-        "detail": "it gains in the bends and gives them back on the next straight",
+        "n": 1019,
+        "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up",
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 717,
+    "shippedTotal": 719,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3633,8 +3624,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 21
+      "2026-11-19": 23
     }
   },
-  "changed": "2026-11-19T17:04:23.223Z"
+  "changed": "2026-11-19T17:34:13.531Z"
 }
