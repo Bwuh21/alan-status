@@ -2556,13 +2556,6 @@
         "since": "2026-11-19 09:20"
       },
       {
-        "n": 1064,
-        "head": "TOY FURY: YOU FALL APART",
-        "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it",
-        "lane": "arcade2",
-        "since": "2026-11-19 08:04"
-      },
-      {
         "n": 1021,
         "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race",
         "lane": "arcade2",
@@ -3527,6 +3520,16 @@
       {
         "n": 1096,
         "head": "TOY FURY: the swap probe's drifting driver is blind to the moving toys, so a share of every place-swap number is the probe crashing"
+      },
+      {
+        "n": 1097,
+        "head": "TOY FURY: combat-check fails \"a fresh device owns no car\"",
+        "detail": "a kart is already in the garage after the check wipes storage"
+      },
+      {
+        "n": 1098,
+        "head": "TOY FURY: the falling-apart look is mostly grime and missing parts at race distance",
+        "detail": "make a three-panel car read hurt at a glance from behind"
       }
     ],
     "waiting": [
@@ -3548,6 +3551,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1064,
+        "head": "TOY FURY: YOU FALL APART",
+        "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it",
+        "date": "2026-11-19"
+      },
       {
         "n": 1063,
         "head": "THE BAR HALL: make it feel COZY even though it is big",
@@ -3610,14 +3619,9 @@
         "n": 992,
         "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name ",
         "date": "2026-11-19"
-      },
-      {
-        "n": 990,
-        "head": "THIN PROPS YOU WALK THROUGH hide your shadow: the bowl's pin cushion, the race gate's orange strips, the skate curbs",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 714,
+    "shippedTotal": 715,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3625,8 +3629,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 18
+      "2026-11-19": 19
     }
   },
-  "changed": "2026-11-19T15:29:22.804Z"
+  "changed": "2026-11-19T15:59:13.508Z"
 }
