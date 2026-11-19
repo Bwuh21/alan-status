@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:40:00.000Z",
+  "updated": "2026-11-19T16:58:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2460,6 +2460,11 @@
           "note": "Live 2026-11-18. Now a tap is a soft poke and a hold (or a flick on the phone) is a hard shot, with a line on the felt showing where it will go. Hit the ball off-centre to angle it. The house no longer stacks every man…"
         },
         {
+          "text": "Left over from step 4: foosball on a phone had a third of the screen empty above the table, and your glowing rod looked grey (row 1049)",
+          "status": "done",
+          "note": "Live 2026-11-19. Upright on a phone the table now fills the screen from just under the top buttons to the score panel, so the far goal and the ball down there are about half again as big. The rod you are on glows a…"
+        },
+        {
           "text": "5/8 Ping pong: the big table, played in the room",
           "status": "done",
           "note": "Live 2026-11-18. A real ping pong table, half again the normal size, walnut legs with a brass net and a white centre line, on its own amber-edged rug under the BIG PONG sign, with a metre of swing room past each end.…"
@@ -2545,12 +2550,6 @@
   "stack": {
     "building": [
       {
-        "n": 1049,
-        "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal",
-        "lane": "arcade",
-        "since": "2026-11-19 09:20"
-      },
-      {
         "n": 1019,
         "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up",
         "lane": "arcade",
@@ -2579,10 +2578,6 @@
       {
         "n": 839,
         "head": "on a short sideways phone the bowling panel climbs up onto the scoresheet"
-      },
-      {
-        "n": 873,
-        "head": "Strike City, sideways phone, four bowlers, game over: the result banner and the result line are painted across the score sheet"
       },
       {
         "n": 875,
@@ -3533,6 +3528,10 @@
       {
         "n": 1101,
         "head": "FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend'"
+      },
+      {
+        "n": 1102,
+        "head": "FOOSBALL on a desk: a held shot (0.4 s) or a Space shot strikes at 8 m/s but the ball never moves (peak 0.00) in the desk check, and it fail"
       }
     ],
     "waiting": [
@@ -3596,6 +3595,11 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1049,
+        "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1044,
         "head": "PING PONG: you cannot see the ball well enough",
         "detail": "the camera, your blade over the incoming ball, the phone card over the table",
@@ -3617,14 +3621,9 @@
         "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
         "detail": "it gains in the bends and gives them back on the next straight",
         "date": "2026-11-19"
-      },
-      {
-        "n": 997,
-        "head": "Strike City on a desk: the how-to card runs 71 px down over the lane panel at 1280x720",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 716,
+    "shippedTotal": 717,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3632,8 +3631,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 20
+      "2026-11-19": 21
     }
   },
-  "changed": "2026-11-19T16:49:16.227Z"
+  "changed": "2026-11-19T16:59:13.706Z"
 }
