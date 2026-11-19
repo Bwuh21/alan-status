@@ -2589,6 +2589,12 @@
         "detail": "the push, the turn, the pop, the grind, the landing (Zack at the keyboard 2026-11-19: \"making it more city style skating than just one skate park and making the skating better\") region-skate",
         "lane": "arcade2",
         "since": "2026-11-19 13:24"
+      },
+      {
+        "n": 1068,
+        "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen",
+        "lane": "arcade2",
+        "since": "2026-11-19 14:49"
       }
     ],
     "next": [
@@ -2627,10 +2633,6 @@
       {
         "n": 1067,
         "head": "BOWLING ISLAND (lobby): the giant ball rack and rental shoes on the outside still advertise what the hall no longer has"
-      },
-      {
-        "n": 1068,
-        "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen"
       },
       {
         "n": 1069,
@@ -3657,5 +3659,5 @@
       "2026-11-19": 32
     }
   },
-  "changed": "2026-11-19T20:44:13.265Z"
+  "changed": "2026-11-19T20:54:19.899Z"
 }
