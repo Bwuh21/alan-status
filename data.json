@@ -2556,6 +2556,13 @@
         "since": "2026-11-19 10:44"
       },
       {
+        "n": 876,
+        "head": "Strike City: the ticket-strip check is red against today's game",
+        "detail": "is the pay ladder 3/2/1 or 1/1/1?",
+        "lane": "arcade",
+        "since": "2026-11-19 10:59"
+      },
+      {
         "n": 1025,
         "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
         "lane": "arcade2",
@@ -2570,11 +2577,6 @@
       }
     ],
     "next": [
-      {
-        "n": 876,
-        "head": "Strike City: the ticket-strip check is red against today's game",
-        "detail": "is the pay ladder 3/2/1 or 1/1/1?"
-      },
       {
         "n": 839,
         "head": "on a short sideways phone the bowling panel climbs up onto the scoresheet"
@@ -3634,5 +3636,5 @@
       "2026-11-19": 21
     }
   },
-  "changed": "2026-11-19T16:59:13.706Z"
+  "changed": "2026-11-19T17:04:23.223Z"
 }
