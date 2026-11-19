@@ -2517,6 +2517,12 @@
         "since": "2026-11-18 21:09"
       },
       {
+        "n": 990,
+        "head": "THIN PROPS YOU WALK THROUGH hide your shadow: the bowl's pin cushion, the race gate's orange strips, the skate curbs",
+        "lane": "arcade",
+        "since": "2026-11-18 22:39"
+      },
+      {
         "n": 816,
         "head": "Sky Spike: a learner who WALKS under the lesson's lob never has to dive",
         "lane": "arcade2",
@@ -2530,10 +2536,6 @@
       }
     ],
     "next": [
-      {
-        "n": 990,
-        "head": "THIN PROPS YOU WALK THROUGH hide your shadow: the bowl's pin cushion, the race gate's orange strips, the skate curbs"
-      },
       {
         "n": 992,
         "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name "
@@ -3485,5 +3487,5 @@
       "2026-11-18": 43
     }
   },
-  "changed": "2026-11-19T04:34:14.750Z"
+  "changed": "2026-11-19T04:44:14.728Z"
 }
