@@ -2560,6 +2560,13 @@
         "head": "Air Hockey: the big-shot check is red in landscape on the committed build",
         "lane": "arcade2",
         "since": "2026-11-19 05:39"
+      },
+      {
+        "n": 1001,
+        "head": "TOY FURY upstairs: the drift is worth almost nothing",
+        "detail": "a driver who never drifts makes the podium 12 times in 20",
+        "lane": "arcade2",
+        "since": "2026-11-19 06:41"
       }
     ],
     "next": [
@@ -2645,11 +2652,6 @@
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs"
-      },
-      {
-        "n": 1001,
-        "head": "TOY FURY upstairs: the drift is worth almost nothing",
-        "detail": "a driver who never drifts makes the podium 12 times in 20"
       },
       {
         "n": 1000,
@@ -3615,5 +3617,5 @@
       "2026-11-19": 8
     }
   },
-  "changed": "2026-11-19T12:39:29.653Z"
+  "changed": "2026-11-19T12:47:26.661Z"
 }
