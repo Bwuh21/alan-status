@@ -2551,6 +2551,12 @@
         "since": "2026-11-19 09:20"
       },
       {
+        "n": 1019,
+        "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up",
+        "lane": "arcade",
+        "since": "2026-11-19 10:44"
+      },
+      {
         "n": 1025,
         "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
         "lane": "arcade2",
@@ -2565,10 +2571,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1019,
-        "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up"
-      },
       {
         "n": 876,
         "head": "Strike City: the ticket-strip check is red against today's game",
@@ -3633,5 +3635,5 @@
       "2026-11-19": 20
     }
   },
-  "changed": "2026-11-19T16:39:16.555Z"
+  "changed": "2026-11-19T16:49:16.227Z"
 }
