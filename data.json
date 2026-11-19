@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T04:45:00.000Z",
+  "updated": "2026-11-19T05:45:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2384,6 +2384,11 @@
           "text": "Row 988: stop your feet popping on rock tops, pit lips and cliff edges",
           "status": "done",
           "note": "Live 2026-11-18. The ground you walk on was a flat lid over every rock, while the rock you see is rounded -- so at a rock's edge your whole body floated up to 29 cm or popped down. Walking now follows the rock's real…"
+        },
+        {
+          "text": "Row 989: the skate park's ramps, bowl and pool drawn where your board actually rides",
+          "status": "done",
+          "note": "Live 2026-11-18. The board always rode a smooth curve, but the ramps you see were drawn with coarse flat steps -- near the lip of the bowl and pool the drawn wall sat up to 19 cm off the surface you ride, so you seemed…"
         }
       ]
     },
@@ -2510,12 +2515,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 989,
-        "head": "SKATE PARK: the ridden floor (skateFloor) and the drawn ramps disagree at 93 ramp edges",
-        "lane": "arcade",
-        "since": "2026-11-18 21:09"
-      },
       {
         "n": 990,
         "head": "THIN PROPS YOU WALK THROUGH hide your shadow: the bowl's pin cushion, the race gate's orange strips, the skate curbs",
@@ -3398,6 +3397,14 @@
       {
         "n": 1051,
         "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened"
+      },
+      {
+        "n": 1052,
+        "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not"
+      },
+      {
+        "n": 1053,
+        "head": "SKATE PARK: the plaza deck, the funbox, the kickers and the mega's top are drawn 1.5-7 cm off what the board rides"
       }
     ],
     "waiting": [
@@ -3484,7 +3491,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 692,
+    "shippedTotal": 693,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3492,8 +3499,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 43
+      "2026-11-18": 44
     }
   },
-  "changed": "2026-11-19T05:29:14.659Z"
+  "changed": "2026-11-19T05:34:14.743Z"
 }
