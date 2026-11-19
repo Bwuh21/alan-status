@@ -2563,6 +2563,12 @@
         "detail": "company fell 71 -> 50 percent in the house",
         "lane": "arcade2",
         "since": "2026-11-19 10:19"
+      },
+      {
+        "n": 1022,
+        "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)",
+        "lane": "arcade2",
+        "since": "2026-11-19 11:34"
       }
     ],
     "next": [
@@ -2598,10 +2604,6 @@
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs"
-      },
-      {
-        "n": 1022,
-        "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)"
       },
       {
         "n": 599,
@@ -3627,5 +3629,5 @@
       "2026-11-19": 23
     }
   },
-  "changed": "2026-11-19T17:34:13.531Z"
+  "changed": "2026-11-19T17:39:13.640Z"
 }
