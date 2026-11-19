@@ -3378,6 +3378,10 @@
       {
         "n": 1046,
         "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine"
+      },
+      {
+        "n": 1047,
+        "head": "Head or Body: is THE READER's step over VELVET real for a person, or only for bots that stop punching under 25 stamina?"
       }
     ],
     "waiting": [
@@ -3474,5 +3478,5 @@
       "2026-11-18": 41
     }
   },
-  "changed": "2026-11-19T03:49:14.036Z"
+  "changed": "2026-11-19T03:54:13.970Z"
 }
