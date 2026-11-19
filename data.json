@@ -2542,13 +2542,6 @@
   "stack": {
     "building": [
       {
-        "n": 1061,
-        "head": "THE LOBBY, REIMAGINED 3/3: the rest of the ring on the test server",
-        "detail": "sports, the dungeon gate, party, and any island not yet done (Zack at the keyboard 2026-11-19) region-lobby",
-        "lane": "arcade2",
-        "since": "2026-11-19 04:24"
-      },
-      {
         "n": 1056,
         "head": "THE BAR HALL, DARTS: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
@@ -3503,6 +3496,24 @@
       {
         "n": 1051,
         "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened"
+      },
+      {
+        "n": 1079,
+        "head": "TEST LOBBY: the plaza arch and the island sign hide the top of every new island from the carpet (found by row 1061, 2026-11-19) region-lobby"
+      },
+      {
+        "n": 1080,
+        "head": "TEST LOBBY: the three leftovers from the idea sheet",
+        "detail": "stadium scoreboard on the trophy base, party light dots on the plaza, the back of the king's head (found by row 1061, 2026-11-19) region-lobby"
+      },
+      {
+        "n": 1081,
+        "head": "TEST LOBBY: one looping sound per island that swells as you walk up (found by row 1061, 2026-11-19) region-lobby"
+      },
+      {
+        "n": 1082,
+        "head": "TEST LOBBY: row 1061's two heavier cells",
+        "detail": "stadium +4.5k and party +9k triangles on a phone (found by row 1061, 2026-11-19) region-lobby"
       }
     ],
     "waiting": [
@@ -3604,5 +3615,5 @@
       "2026-11-19": 8
     }
   },
-  "changed": "2026-11-19T11:59:14.459Z"
+  "changed": "2026-11-19T12:39:29.653Z"
 }
