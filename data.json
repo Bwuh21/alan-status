@@ -2594,10 +2594,6 @@
     ],
     "next": [
       {
-        "n": 930,
-        "head": "The tavern pool table's two-player check cannot seat its second player, so nothing proves two screens agree on a rack"
-      },
-      {
         "n": 1046,
         "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine"
       },
@@ -3651,5 +3647,5 @@
       "2026-11-19": 29
     }
   },
-  "changed": "2026-11-19T19:29:14.134Z"
+  "changed": "2026-11-19T19:49:40.459Z"
 }
