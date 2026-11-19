@@ -2549,6 +2549,13 @@
         "since": "2026-11-19 05:54"
       },
       {
+        "n": 1044,
+        "head": "PING PONG: you cannot see the ball well enough",
+        "detail": "the camera, your blade over the incoming ball, the phone card over the table",
+        "lane": "arcade",
+        "since": "2026-11-19 06:59"
+      },
+      {
         "n": 1001,
         "head": "TOY FURY upstairs: the drift is worth almost nothing",
         "detail": "a driver who never drifts makes the podium 12 times in 20",
@@ -2557,11 +2564,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1044,
-        "head": "PING PONG: you cannot see the ball well enough",
-        "detail": "the camera, your blade over the incoming ball, the phone card over the table"
-      },
       {
         "n": 1045,
         "head": "PING PONG: a perfect aimer still beats the top gear 96% of the time"
@@ -3606,5 +3608,5 @@
       "2026-11-19": 12
     }
   },
-  "changed": "2026-11-19T12:59:13.925Z"
+  "changed": "2026-11-19T13:04:13.990Z"
 }
