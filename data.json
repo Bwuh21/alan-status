@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:58:00.000Z",
+  "updated": "2026-11-19T17:51:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2564,13 +2564,6 @@
         "since": "2026-11-19 11:39"
       },
       {
-        "n": 1002,
-        "head": "TOY FURY: with the bots off each other's slipstream, the pack spends less of the race near you",
-        "detail": "company fell 71 -> 50 percent in the house",
-        "lane": "arcade2",
-        "since": "2026-11-19 10:19"
-      },
-      {
         "n": 1022,
         "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)",
         "lane": "arcade2",
@@ -3531,6 +3524,18 @@
       {
         "n": 1103,
         "head": "TOY FURY: the free Spark Kart is only LEVEL with the field at its best (24 of 240 in the Grand Tour, field 23.8), and the garage card tells "
+      },
+      {
+        "n": 1104,
+        "head": "TOY FURY: Outside the pack is still near you only half the race (50 percent, the bar is 65), and every pull strong enough to fix it brings t"
+      },
+      {
+        "n": 1105,
+        "head": "TOY FURY: the race-start line still says \"lose every panel and the race is gone\", but since row 1064 a wreck outside the derby is a 1.2 seco"
+      },
+      {
+        "n": 1106,
+        "head": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race"
       }
     ],
     "waiting": [
@@ -3620,7 +3625,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 719,
+    "shippedTotal": 720,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3628,8 +3633,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 23
+      "2026-11-19": 24
     }
   },
-  "changed": "2026-11-19T17:44:13.774Z"
+  "changed": "2026-11-19T17:54:13.551Z"
 }
