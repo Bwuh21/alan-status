@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T15:10:00.000Z",
+  "updated": "2026-11-19T16:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2471,7 +2471,8 @@
         },
         {
           "text": "Left over from step 5: ping pong with a friend has not been played through by a test yet (row 1024)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 2026-11-19. The first test found that a friend's match never started: the friend's end stood too far from where the game thought they were, so it stood them up again. Fixed, and the same fault was fixed at air…"
         },
         {
           "text": "6/8 Pool: a game starts from any side of the table, not just one",
@@ -2543,12 +2544,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 1024,
-        "head": "PING PONG with a friend: the two-player match has never been played through by a test",
-        "lane": "arcade",
-        "since": "2026-11-19 08:59"
-      },
       {
         "n": 1049,
         "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal",
@@ -3524,6 +3519,18 @@
         "n": 1098,
         "head": "TOY FURY: the falling-apart look is mostly grime and missing parts at race distance",
         "detail": "make a three-panel car read hurt at a glance from behind"
+      },
+      {
+        "n": 1099,
+        "head": "PING PONG with a friend: the far player's body stands at mid-end while their paddle roams up to a metre off it"
+      },
+      {
+        "n": 1100,
+        "head": "PING PONG with a friend: a ball hit before it bounces (a volley) is still judged by the host on the friend's late paddle"
+      },
+      {
+        "n": 1101,
+        "head": "FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend'"
       }
     ],
     "waiting": [
@@ -3593,6 +3600,11 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1024,
+        "head": "PING PONG with a friend: the two-player match has never been played through by a test",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1001,
         "head": "TOY FURY upstairs: the drift is worth almost nothing",
         "detail": "a driver who never drifts makes the podium 12 times in 20",
@@ -3608,14 +3620,9 @@
         "n": 997,
         "head": "Strike City on a desk: the how-to card runs 71 px down over the lane panel at 1280x720",
         "date": "2026-11-19"
-      },
-      {
-        "n": 992,
-        "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name ",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 715,
+    "shippedTotal": 716,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3623,8 +3630,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 19
+      "2026-11-19": 20
     }
   },
-  "changed": "2026-11-19T16:24:13.736Z"
+  "changed": "2026-11-19T16:39:16.555Z"
 }
