@@ -2572,6 +2572,13 @@
         "since": "2026-11-19 14:04"
       },
       {
+        "n": 1048,
+        "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
+        "detail": "pool the play and house checks over several runs",
+        "lane": "arcade",
+        "since": "2026-11-19 14:24"
+      },
+      {
         "n": 987,
         "head": "SLAB CITY 3/3: GOALS YOU CAN SEE",
         "detail": "goals count whenever you skate, a ring and a sign at each spot, grinding taught, one tutorial on arrival",
@@ -2587,11 +2594,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1048,
-        "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
-        "detail": "pool the play and house checks over several runs"
-      },
       {
         "n": 599,
         "head": "Toy Fury: a friends-race wreck cannot reach the server, and the dive was wrong about why"
@@ -3637,5 +3639,5 @@
       "2026-11-19": 31
     }
   },
-  "changed": "2026-11-19T20:19:14.896Z"
+  "changed": "2026-11-19T20:29:14.249Z"
 }
