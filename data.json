@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T07:02:00.000Z",
+  "updated": "2026-11-19T08:30:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2509,6 +2509,11 @@
           "text": "The bowling end: still clipping, and bowling balls lie on the seats (row 1032, Zack 2026-11-18)",
           "status": "done",
           "note": "Live 2026-11-18. The balls on the seats were decoration: two house balls per ball return, set past its end and out over the settee. Gone; the rack by the counter holds the house balls. A real ball can't end up on a…"
+        },
+        {
+          "text": "Bowling: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seats behind the returns (row 1062, Zack 2026-11-18)",
+          "status": "done",
+          "note": "Live 2026-11-19. The snack-bar guy, the ball rack and the shoe desk with Lou are gone, along with their signs, prompts, sheets and tour lines. You walk up to a lane, press once, and the 12 lb house ball is in your hand.…"
         }
       ]
     },
@@ -2526,12 +2531,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 1062,
-        "head": "THE BAR HALL, BOWLING: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seating behind the ball retu",
-        "lane": "arcade",
-        "since": "2026-11-19 00:14"
-      },
       {
         "n": 1063,
         "head": "THE BAR HALL: make it feel COZY even though it is big",
@@ -2753,6 +2752,10 @@
       {
         "n": 1066,
         "head": "SKATE PARK: 8 spots where you walk 7+ cm off the drawn ground"
+      },
+      {
+        "n": 1067,
+        "head": "BOWLING ISLAND (lobby): the giant ball rack and rental shoes on the outside still advertise what the hall no longer has"
       },
       {
         "n": 993,
@@ -3496,6 +3499,11 @@
     ],
     "shipped": [
       {
+        "n": 1062,
+        "head": "THE BAR HALL, BOWLING: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seating behind the ball retu",
+        "date": "2026-11-19"
+      },
+      {
         "n": 992,
         "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name ",
         "date": "2026-11-19"
@@ -3554,14 +3562,9 @@
         "n": 1020,
         "head": "PHONE: the table prompt label is cut off under the Play button (\"Foosball · the house plays, first t...\", the same on air hockey)",
         "date": "2026-11-18"
-      },
-      {
-        "n": 1017,
-        "head": "COMET CLASH keeps a win streak per rung (do this AFTER row 882 makes it winnable) (survey 2026-11-18)",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 698,
+    "shippedTotal": 699,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3569,8 +3572,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 2
+      "2026-11-19": 3
     }
   },
-  "changed": "2026-11-19T07:14:13.378Z"
+  "changed": "2026-11-19T08:24:16.860Z"
 }
