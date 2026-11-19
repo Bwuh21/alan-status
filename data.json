@@ -2560,6 +2560,13 @@
         "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
         "lane": "arcade2",
         "since": "2026-11-19 09:59"
+      },
+      {
+        "n": 1002,
+        "head": "TOY FURY: with the bots off each other's slipstream, the pack spends less of the race near you",
+        "detail": "company fell 71 -> 50 percent in the house",
+        "lane": "arcade2",
+        "since": "2026-11-19 10:19"
       }
     ],
     "next": [
@@ -2608,11 +2615,6 @@
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs"
-      },
-      {
-        "n": 1002,
-        "head": "TOY FURY: with the bots off each other's slipstream, the pack spends less of the race near you",
-        "detail": "company fell 71 -> 50 percent in the house"
       },
       {
         "n": 1022,
@@ -3624,5 +3626,5 @@
       "2026-11-19": 19
     }
   },
-  "changed": "2026-11-19T16:14:14.599Z"
+  "changed": "2026-11-19T16:24:13.736Z"
 }
