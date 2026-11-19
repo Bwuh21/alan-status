@@ -2561,6 +2561,12 @@
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
         "lane": "arcade",
         "since": "2026-11-19 05:19"
+      },
+      {
+        "n": 939,
+        "head": "Air Hockey: the big-shot check is red in landscape on the committed build",
+        "lane": "arcade2",
+        "since": "2026-11-19 05:39"
       }
     ],
     "next": [
@@ -2642,10 +2648,6 @@
       {
         "n": 930,
         "head": "The tavern pool table's two-player check cannot seat its second player, so nothing proves two screens agree on a rack"
-      },
-      {
-        "n": 939,
-        "head": "Air Hockey: the big-shot check is red in landscape on the committed build"
       },
       {
         "n": 1046,
@@ -3587,5 +3589,5 @@
       "2026-11-19": 7
     }
   },
-  "changed": "2026-11-19T11:39:13.655Z"
+  "changed": "2026-11-19T11:45:05.602Z"
 }
