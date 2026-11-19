@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:25:00.000Z",
+  "updated": "2026-11-19T01:50:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -140,6 +140,11 @@
           "text": "CloudStreet: the pilot wears no aura -- give rare skins their fire (row 804)",
           "status": "done",
           "note": "LIVE 11-18. Your skin under the glider now burns by its rarity, the same fire as the lobby: Rare a glow, Divine a plume; Common stays plain. Friends' pilots burn too. Checked as a real phone mid-flight, Divine against…"
+        },
+        {
+          "text": "DodgeFall 3D: the astronaut wears no aura -- give rare skins their fire (row 805)",
+          "status": "done",
+          "note": "LIVE 11-18. Your astronaut in the 3D canyon now burns by its rarity, the same fire as the lobby; Common stays plain, bots stay plain. A friend's fire crosses to your screen too. Checked as a real phone mid-fall, Divine…"
         },
         {
           "text": "CloudStreet: two bits of HUD text overlap on phone",
@@ -2484,12 +2489,6 @@
         "since": "2026-11-18 19:04"
       },
       {
-        "n": 805,
-        "head": "DodgeFall 3D wears no aura (the file is 3d.html, not index.html) (the list in row 347, 2026-11-13)",
-        "lane": "arcade2",
-        "since": "2026-11-18 19:19"
-      },
-      {
         "n": 806,
         "head": "The Undercroft wears no aura: the longest sitting in the arcade, in third person, with your whole party (the list in row 347, 2026-11-13)",
         "lane": "arcade2",
@@ -3442,7 +3441,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 685,
+    "shippedTotal": 686,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3450,8 +3449,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 36
+      "2026-11-18": 37
     }
   },
-  "changed": "2026-11-19T01:39:13.935Z"
+  "changed": "2026-11-19T01:49:13.803Z"
 }
