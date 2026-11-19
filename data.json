@@ -2521,6 +2521,13 @@
   "stack": {
     "building": [
       {
+        "n": 985,
+        "head": "SLAB CITY 1/3: POP INTO THE CITY",
+        "detail": "street fronts, the EL, the motel, City Hall, painted streets and pieces coloured by what they are, with NO ridden shape touched",
+        "lane": "arcade2",
+        "since": "2026-11-18 23:44"
+      },
+      {
         "n": 990,
         "head": "THIN PROPS YOU WALK THROUGH hide your shadow: the bowl's pin cushion, the race gate's orange strips, the skate curbs",
         "lane": "arcade",
@@ -2531,19 +2538,162 @@
         "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name ",
         "lane": "arcade",
         "since": "2026-11-18 23:39"
-      },
-      {
-        "n": 817,
-        "head": "Barn Burner: row548-check is RED on the desk photo, on unchanged code",
-        "lane": "arcade2",
-        "since": "2026-11-18 21:54"
       }
     ],
     "next": [
       {
-        "n": 985,
-        "head": "SLAB CITY 1/3: POP INTO THE CITY",
-        "detail": "street fronts, the EL, the motel, City Hall, painted streets and pieces coloured by what they are, with NO ridden shape touched"
+        "n": 1054,
+        "head": "THE BAR HALL, POOL: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it"
+      },
+      {
+        "n": 1055,
+        "head": "THE BAR HALL, AIR HOCKEY: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it"
+      },
+      {
+        "n": 1056,
+        "head": "THE BAR HALL, DARTS: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it"
+      },
+      {
+        "n": 1057,
+        "head": "THE BAR HALL, BOWLING: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it"
+      },
+      {
+        "n": 1044,
+        "head": "PING PONG: you cannot see the ball well enough",
+        "detail": "the camera, your blade over the incoming ball, the phone card over the table"
+      },
+      {
+        "n": 1045,
+        "head": "PING PONG: a perfect aimer still beats the top gear 96% of the time"
+      },
+      {
+        "n": 1024,
+        "head": "PING PONG with a friend: the two-player match has never been played through by a test"
+      },
+      {
+        "n": 1049,
+        "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal"
+      },
+      {
+        "n": 1019,
+        "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up"
+      },
+      {
+        "n": 844,
+        "head": "the bowling result says \"your card is worth 1 ticket\" and the purse goes up by 2"
+      },
+      {
+        "n": 876,
+        "head": "Strike City: the ticket-strip check is red against today's game",
+        "detail": "is the pay ladder 3/2/1 or 1/1/1?"
+      },
+      {
+        "n": 997,
+        "head": "Strike City on a desk: the how-to card runs 71 px down over the lane panel at 1280x720"
+      },
+      {
+        "n": 839,
+        "head": "on a short sideways phone the bowling panel climbs up onto the scoresheet"
+      },
+      {
+        "n": 873,
+        "head": "Strike City, sideways phone, four bowlers, game over: the result banner and the result line are painted across the score sheet"
+      },
+      {
+        "n": 874,
+        "head": "Strike City, short desktop window, four bowlers: the \"your ball\" pointer steps aside 46 px but is wider than that, and touches the panel"
+      },
+      {
+        "n": 875,
+        "head": "Strike City, upright phone, four bowlers: the sheet takes the lane down to the 40% bar, and three friends all read \"Frien...\""
+      },
+      {
+        "n": 822,
+        "head": "Strike City island: the ball-return run goes straight through the trophy's plinth"
+      },
+      {
+        "n": 825,
+        "head": "the hall: the pool floor sits half a millimetre under the hall floor, and no pixel test can clear it"
+      },
+      {
+        "n": 814,
+        "head": "Strike City: the oil is a TINT and a tint has a ceiling; the long wet shine wants a reflection, not more strength"
+      },
+      {
+        "n": 762,
+        "head": "TAVERN DARTS: make the hardest Rusty hard to beat again"
+      },
+      {
+        "n": 893,
+        "head": "Darts: the hold that steadies the hand is still priced in clamped dt"
+      },
+      {
+        "n": 959,
+        "head": "Darts' own check.mjs is red right now, exit 1"
+      },
+      {
+        "n": 930,
+        "head": "The tavern pool table's two-player check cannot seat its second player, so nothing proves two screens agree on a rack"
+      },
+      {
+        "n": 939,
+        "head": "Air Hockey: the big-shot check is red in landscape on the committed build"
+      },
+      {
+        "n": 1046,
+        "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine"
+      },
+      {
+        "n": 1048,
+        "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
+        "detail": "pool the play and house checks over several runs"
+      },
+      {
+        "n": 1001,
+        "head": "TOY FURY upstairs: the drift is worth almost nothing",
+        "detail": "a driver who never drifts makes the podium 12 times in 20"
+      },
+      {
+        "n": 1000,
+        "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
+        "detail": "it gains in the bends and gives them back on the next straight"
+      },
+      {
+        "n": 1021,
+        "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race"
+      },
+      {
+        "n": 1025,
+        "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest"
+      },
+      {
+        "n": 1002,
+        "head": "TOY FURY: with the bots off each other's slipstream, the pack spends less of the race near you",
+        "detail": "company fell 71 -> 50 percent in the house"
+      },
+      {
+        "n": 1022,
+        "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)"
+      },
+      {
+        "n": 599,
+        "head": "Toy Fury: a friends-race wreck cannot reach the server, and the dive was wrong about why"
+      },
+      {
+        "n": 592,
+        "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand"
+      },
+      {
+        "n": 593,
+        "head": "Toy house lobby: the camera can still end up outside the room (front door, and the garage)"
+      },
+      {
+        "n": 595,
+        "head": "18 places in the toy house where one prop sits inside another"
       },
       {
         "n": 986,
@@ -2554,6 +2704,19 @@
         "n": 987,
         "head": "SLAB CITY 3/3: GOALS YOU CAN SEE",
         "detail": "goals count whenever you skate, a ring and a sign at each spot, grinding taught, one tutorial on arrival"
+      },
+      {
+        "n": 1058,
+        "head": "SKATING: make the skating itself better",
+        "detail": "the push, the turn, the pop, the grind, the landing (Zack at the keyboard 2026-11-19: \"making it more city style skating than just one skate park and making the skating better\") region-skate"
+      },
+      {
+        "n": 1053,
+        "head": "SKATE PARK: the plaza deck, the funbox, the kickers and the mega's top are drawn 1.5-7 cm off what the board rides"
+      },
+      {
+        "n": 1052,
+        "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not"
       },
       {
         "n": 993,
@@ -2629,24 +2792,8 @@
         "head": "A friend's arrival can freeze the host's screen in 34 games (shader warm-up never finishes)"
       },
       {
-        "n": 592,
-        "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand"
-      },
-      {
-        "n": 593,
-        "head": "Toy house lobby: the camera can still end up outside the room (front door, and the garage)"
-      },
-      {
-        "n": 595,
-        "head": "18 places in the toy house where one prop sits inside another"
-      },
-      {
         "n": 596,
         "head": "Sideways on a phone, the lobby's top-left buttons clip off the left edge"
-      },
-      {
-        "n": 599,
-        "head": "Toy Fury: a friends-race wreck cannot reach the server, and the dive was wrong about why"
       },
       {
         "n": 615,
@@ -2809,10 +2956,6 @@
         "detail": "raise them clear of the sign"
       },
       {
-        "n": 762,
-        "head": "TAVERN DARTS: make the hardest Rusty hard to beat again"
-      },
-      {
         "n": 765,
         "head": "GUEST WITH NO TICKETS: say the rule in one line"
       },
@@ -2862,10 +3005,6 @@
         "detail": "the KC weekend watch was promised to his phone and had no reader"
       },
       {
-        "n": 814,
-        "head": "Strike City: the oil is a TINT and a tint has a ceiling; the long wet shine wants a reflection, not more strength"
-      },
-      {
         "n": 815,
         "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check"
       },
@@ -2886,20 +3025,12 @@
         "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped"
       },
       {
-        "n": 822,
-        "head": "Strike City island: the ball-return run goes straight through the trophy's plinth"
-      },
-      {
         "n": 823,
         "head": "the z-fight pair test calls boards that only TOUCH an overlap"
       },
       {
         "n": 824,
         "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair"
-      },
-      {
-        "n": 825,
-        "head": "the hall: the pool floor sits half a millimetre under the hall floor, and no pixel test can clear it"
       },
       {
         "n": 826,
@@ -2918,10 +3049,6 @@
         "head": "five of the Undercroft's seven bosses have never been through the combat bench, and the archer is benched as a swordsman"
       },
       {
-        "n": 839,
-        "head": "on a short sideways phone the bowling panel climbs up onto the scoresheet"
-      },
-      {
         "n": 840,
         "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away"
       },
@@ -2936,10 +3063,6 @@
       {
         "n": 843,
         "head": "157 one-look Undercroft checks put a foe on the floor with no blind count"
-      },
-      {
-        "n": 844,
-        "head": "the bowling result says \"your card is worth 1 ticket\" and the purse goes up by 2"
       },
       {
         "n": 845,
@@ -3030,23 +3153,6 @@
         "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it"
       },
       {
-        "n": 873,
-        "head": "Strike City, sideways phone, four bowlers, game over: the result banner and the result line are painted across the score sheet"
-      },
-      {
-        "n": 874,
-        "head": "Strike City, short desktop window, four bowlers: the \"your ball\" pointer steps aside 46 px but is wider than that, and touches the panel"
-      },
-      {
-        "n": 875,
-        "head": "Strike City, upright phone, four bowlers: the sheet takes the lane down to the 40% bar, and three friends all read \"Frien...\""
-      },
-      {
-        "n": 876,
-        "head": "Strike City: the ticket-strip check is red against today's game",
-        "detail": "is the pay ladder 3/2/1 or 1/1/1?"
-      },
-      {
         "n": 878,
         "head": "Teach probes: 23 of them accept the step TICK as the card finishing"
       },
@@ -3094,10 +3200,6 @@
       {
         "n": 892,
         "head": "Head or Body: BRUTAL is barely harder than HARD"
-      },
-      {
-        "n": 893,
-        "head": "Darts: the hold that steadies the hand is still priced in clamped dt"
       },
       {
         "n": 894,
@@ -3184,10 +3286,6 @@
         "head": "DodgeFall's 3D page carries the shared picture-stopped guard but the canary has never opened it"
       },
       {
-        "n": 930,
-        "head": "The tavern pool table's two-player check cannot seat its second player, so nothing proves two screens agree on a rack"
-      },
-      {
         "n": 931,
         "head": "the toy house's scattered floor toys sit 5 to 16 mm above the floor, and 276 wall-flush pieces 6 to 30 cm above a surface are still unjudged"
       },
@@ -3206,10 +3304,6 @@
       {
         "n": 938,
         "head": "Dodgeball: five tuning harnesses are red on the committed build, and one of them exits 0 while printing FAILED"
-      },
-      {
-        "n": 939,
-        "head": "Air Hockey: the big-shot check is red in landscape on the committed build"
       },
       {
         "n": 940,
@@ -3261,35 +3355,12 @@
         "head": "audit the ~40 unaudited check.mjs/dev/check.mjs instruments for gate-worthiness, one game at a time (left by row 490, 2026-11-17)"
       },
       {
-        "n": 959,
-        "head": "Darts' own check.mjs is red right now, exit 1"
-      },
-      {
         "n": 960,
         "head": "four checks crash instantly on the same exotic code instead of failing a real assertion"
       },
       {
         "n": 961,
         "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs"
-      },
-      {
-        "n": 997,
-        "head": "Strike City on a desk: the how-to card runs 71 px down over the lane panel at 1280x720"
-      },
-      {
-        "n": 1000,
-        "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
-        "detail": "it gains in the bends and gives them back on the next straight"
-      },
-      {
-        "n": 1001,
-        "head": "TOY FURY upstairs: the drift is worth almost nothing",
-        "detail": "a driver who never drifts makes the podium 12 times in 20"
-      },
-      {
-        "n": 1002,
-        "head": "TOY FURY: with the bots off each other's slipstream, the pack spends less of the race near you",
-        "detail": "company fell 71 -> 50 percent in the house"
       },
       {
         "n": 1003,
@@ -3323,26 +3394,6 @@
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
-      },
-      {
-        "n": 1019,
-        "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up"
-      },
-      {
-        "n": 1021,
-        "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race"
-      },
-      {
-        "n": 1022,
-        "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)"
-      },
-      {
-        "n": 1024,
-        "head": "PING PONG with a friend: the two-player match has never been played through by a test"
-      },
-      {
-        "n": 1025,
-        "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest"
       },
       {
         "n": 1026,
@@ -3381,30 +3432,8 @@
         "head": "HANGTIME ON A REAL LINE: steals, blocks and oops judged on the live host world (carried from row 791, 2026-11-18)"
       },
       {
-        "n": 1044,
-        "head": "PING PONG: you cannot see the ball well enough",
-        "detail": "the camera, your blade over the incoming ball, the phone card over the table"
-      },
-      {
-        "n": 1045,
-        "head": "PING PONG: a perfect aimer still beats the top gear 96% of the time"
-      },
-      {
-        "n": 1046,
-        "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine"
-      },
-      {
         "n": 1047,
         "head": "Head or Body: is THE READER's step over VELVET real for a person, or only for bots that stop punching under 25 stamina?"
-      },
-      {
-        "n": 1048,
-        "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
-        "detail": "pool the play and house checks over several runs"
-      },
-      {
-        "n": 1049,
-        "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal"
       },
       {
         "n": 1050,
@@ -3413,14 +3442,6 @@
       {
         "n": 1051,
         "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened"
-      },
-      {
-        "n": 1052,
-        "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not"
-      },
-      {
-        "n": 1053,
-        "head": "SKATE PARK: the plaza deck, the funbox, the kickers and the mega's top are drawn 1.5-7 cm off what the board rides"
       }
     ],
     "waiting": [
@@ -3507,7 +3528,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 694,
+    "shippedTotal": 695,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3515,8 +3536,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 45
+      "2026-11-18": 46
     }
   },
-  "changed": "2026-11-19T05:44:14.323Z"
+  "changed": "2026-11-19T05:49:13.842Z"
 }
