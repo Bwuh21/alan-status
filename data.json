@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:44:00.000Z",
+  "updated": "2026-11-19T21:25:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2537,7 +2537,8 @@
         },
         {
           "text": "Ping pong, left over: the desk test can't swing on a very slow frame rate, so check a weak laptop still gets real shots (row 1046)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 2026-11-19. On a slow machine your paddle read your swing too fast (a normal push at 10 frames a second counted as a smash). It now reads in real time: same push reads the same from 3 to 60 frames a second. The…"
         },
         {
           "text": "The bowling end: still clipping, and bowling balls lie on the seats (row 1032, Zack 2026-11-18)",
@@ -2570,12 +2571,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 1046,
-        "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine",
-        "lane": "arcade",
-        "since": "2026-11-19 14:04"
-      },
       {
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
@@ -3559,6 +3554,14 @@
       {
         "n": 1117,
         "head": "Slab City: PRO goals still only count inside a session"
+      },
+      {
+        "n": 1118,
+        "head": "Every headless check of the room ran it at 12 frames a second: a headless page has no focus, so the room drops to its background cap"
+      },
+      {
+        "n": 1119,
+        "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
       }
     ],
     "waiting": [
@@ -3627,6 +3630,11 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1046,
+        "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1044,
         "head": "PING PONG: you cannot see the ball well enough",
         "detail": "the camera, your blade over the incoming ball, the phone card over the table",
@@ -3641,14 +3649,9 @@
         "n": 1024,
         "head": "PING PONG with a friend: the two-player match has never been played through by a test",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1022,
-        "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 728,
+    "shippedTotal": 729,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3656,8 +3659,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 32
+      "2026-11-19": 33
     }
   },
-  "changed": "2026-11-19T20:54:19.899Z"
+  "changed": "2026-11-19T21:24:18.584Z"
 }
