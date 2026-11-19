@@ -2551,6 +2551,13 @@
         "since": "2026-11-19 02:49"
       },
       {
+        "n": 1061,
+        "head": "THE LOBBY, REIMAGINED 3/3: the rest of the ring on the test server",
+        "detail": "sports, the dungeon gate, party, and any island not yet done (Zack at the keyboard 2026-11-19) region-lobby",
+        "lane": "arcade2",
+        "since": "2026-11-19 04:24"
+      },
+      {
         "n": 1054,
         "head": "THE BAR HALL, POOL: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
@@ -2559,11 +2566,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1061,
-        "head": "THE LOBBY, REIMAGINED 3/3: the rest of the ring on the test server",
-        "detail": "sports, the dungeon gate, party, and any island not yet done (Zack at the keyboard 2026-11-19) region-lobby"
-      },
       {
         "n": 1055,
         "head": "THE BAR HALL, AIR HOCKEY: make it HOT",
@@ -3572,5 +3574,5 @@
       "2026-11-19": 5
     }
   },
-  "changed": "2026-11-19T10:24:13.599Z"
+  "changed": "2026-11-19T10:29:13.510Z"
 }
