@@ -2556,6 +2556,13 @@
         "since": "2026-11-19 05:19"
       },
       {
+        "n": 1057,
+        "head": "THE BAR HALL, BOWLING: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
+        "lane": "arcade",
+        "since": "2026-11-19 05:54"
+      },
+      {
         "n": 939,
         "head": "Air Hockey: the big-shot check is red in landscape on the committed build",
         "lane": "arcade2",
@@ -2563,11 +2570,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1057,
-        "head": "THE BAR HALL, BOWLING: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it"
-      },
       {
         "n": 1044,
         "head": "PING PONG: you cannot see the ball well enough",
@@ -3602,5 +3604,5 @@
       "2026-11-19": 8
     }
   },
-  "changed": "2026-11-19T11:54:14.000Z"
+  "changed": "2026-11-19T11:59:14.459Z"
 }
