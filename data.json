@@ -2495,6 +2495,12 @@
         "head": "DodgeFall 3D wears no aura (the file is 3d.html, not index.html) (the list in row 347, 2026-11-13)",
         "lane": "arcade2",
         "since": "2026-11-18 19:19"
+      },
+      {
+        "n": 806,
+        "head": "The Undercroft wears no aura: the longest sitting in the arcade, in third person, with your whole party (the list in row 347, 2026-11-13)",
+        "lane": "arcade2",
+        "since": "2026-11-18 19:24"
       }
     ],
     "next": [
@@ -2810,10 +2816,6 @@
       {
         "n": 800,
         "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\""
-      },
-      {
-        "n": 806,
-        "head": "The Undercroft wears no aura: the longest sitting in the arcade, in third person, with your whole party (the list in row 347, 2026-11-13)"
       },
       {
         "n": 811,
@@ -3458,5 +3460,5 @@
       "2026-11-18": 36
     }
   },
-  "changed": "2026-11-19T01:24:14.502Z"
+  "changed": "2026-11-19T01:29:22.335Z"
 }
