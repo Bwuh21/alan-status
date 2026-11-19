@@ -2556,12 +2556,6 @@
         "since": "2026-11-19 09:20"
       },
       {
-        "n": 1021,
-        "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race",
-        "lane": "arcade2",
-        "since": "2026-11-19 09:25"
-      },
-      {
         "n": 1025,
         "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
         "lane": "arcade2",
@@ -3630,5 +3624,5 @@
       "2026-11-19": 19
     }
   },
-  "changed": "2026-11-19T16:04:14.136Z"
+  "changed": "2026-11-19T16:14:14.599Z"
 }
