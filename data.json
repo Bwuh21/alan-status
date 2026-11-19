@@ -2590,12 +2590,6 @@
         "since": "2026-11-19 15:29"
       },
       {
-        "n": 1068,
-        "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen",
-        "lane": "arcade2",
-        "since": "2026-11-19 14:49"
-      },
-      {
         "n": 1074,
         "head": "TEST LOBBY: three islands over the phone budget and a second-lap memory reading 0.1 MB over",
         "lane": "arcade2",
@@ -3620,6 +3614,11 @@
     ],
     "shipped": [
       {
+        "n": 1068,
+        "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1064,
         "head": "TOY FURY: YOU FALL APART",
         "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it",
@@ -3681,14 +3680,9 @@
         "head": "PING PONG: you cannot see the ball well enough",
         "detail": "the camera, your blade over the incoming ball, the phone card over the table",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1025,
-        "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 730,
+    "shippedTotal": 731,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3696,8 +3690,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 34
+      "2026-11-19": 35
     }
   },
-  "changed": "2026-11-19T21:54:13.948Z"
+  "changed": "2026-11-19T22:09:13.883Z"
 }
