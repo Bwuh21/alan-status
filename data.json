@@ -2474,18 +2474,26 @@
         "since": "2026-11-18 18:09"
       },
       {
+        "n": 1034,
+        "head": "PING PONG: rework the game until it is fun",
+        "detail": "read the deep dive first",
+        "lane": "arcade",
+        "since": "2026-11-18 19:04"
+      },
+      {
         "n": 803,
         "head": "Sideways wears no aura: the driver at the wheel is your skin with nothing round it (the list in row 347, 2026-11-13)",
         "lane": "arcade2",
         "since": "2026-11-18 18:39"
+      },
+      {
+        "n": 804,
+        "head": "CloudStreet wears no aura (the list in row 347, 2026-11-13)",
+        "lane": "arcade2",
+        "since": "2026-11-18 19:04"
       }
     ],
     "next": [
-      {
-        "n": 1034,
-        "head": "PING PONG: rework the game until it is fun",
-        "detail": "read the deep dive first"
-      },
       {
         "n": 1035,
         "head": "FOOSBALL: find why it sucks and fix it",
@@ -2798,10 +2806,6 @@
       {
         "n": 800,
         "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\""
-      },
-      {
-        "n": 804,
-        "head": "CloudStreet wears no aura (the list in row 347, 2026-11-13)"
       },
       {
         "n": 805,
@@ -3454,5 +3458,5 @@
       "2026-11-18": 34
     }
   },
-  "changed": "2026-11-19T01:04:13.671Z"
+  "changed": "2026-11-19T01:09:14.902Z"
 }
