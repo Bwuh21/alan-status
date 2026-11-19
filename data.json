@@ -2775,6 +2775,10 @@
         "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead"
       },
       {
+        "n": 1086,
+        "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done"
+      },
+      {
         "n": 993,
         "head": "THE DEEP GATE: you cannot stand on steps 1 and 3 of its stair",
         "detail": "portal-islands-check is red there on HEAD, before row 969 touched anything"
@@ -3610,5 +3614,5 @@
       "2026-11-19": 12
     }
   },
-  "changed": "2026-11-19T13:09:13.997Z"
+  "changed": "2026-11-19T13:59:14.860Z"
 }
