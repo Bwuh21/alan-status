@@ -2533,6 +2533,13 @@
         "since": "2026-11-19 00:14"
       },
       {
+        "n": 1063,
+        "head": "THE BAR HALL: make it feel COZY even though it is big",
+        "detail": "warm pools of light, filled corners, tavern walls",
+        "lane": "arcade",
+        "since": "2026-11-19 01:09"
+      },
+      {
         "n": 959,
         "head": "Darts' own check.mjs is red right now, exit 1",
         "lane": "arcade2",
@@ -2547,11 +2554,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1063,
-        "head": "THE BAR HALL: make it feel COZY even though it is big",
-        "detail": "warm pools of light, filled corners, tavern walls"
-      },
       {
         "n": 1059,
         "head": "THE LOBBY, REIMAGINED 1/3: the test server he can WALK, the idea sheet for every island, and a new CENTRE island (Zack at the keyboard 2026-"
@@ -3570,5 +3572,5 @@
       "2026-11-19": 2
     }
   },
-  "changed": "2026-11-19T07:04:13.328Z"
+  "changed": "2026-11-19T07:14:13.378Z"
 }
