@@ -2568,6 +2568,13 @@
         "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)",
         "lane": "arcade2",
         "since": "2026-11-19 11:34"
+      },
+      {
+        "n": 986,
+        "head": "SLAB CITY 2/3: MAIN ST AND FRONTAGE RD",
+        "detail": "the spots the 10-22 dive already rode, placed as city objects",
+        "lane": "arcade2",
+        "since": "2026-11-19 11:59"
       }
     ],
     "next": [
@@ -2615,11 +2622,6 @@
       {
         "n": 595,
         "head": "18 places in the toy house where one prop sits inside another"
-      },
-      {
-        "n": 986,
-        "head": "SLAB CITY 2/3: MAIN ST AND FRONTAGE RD",
-        "detail": "the spots the 10-22 dive already rode, placed as city objects"
       },
       {
         "n": 987,
@@ -3636,5 +3638,5 @@
       "2026-11-19": 24
     }
   },
-  "changed": "2026-11-19T17:54:13.551Z"
+  "changed": "2026-11-19T18:04:13.913Z"
 }
