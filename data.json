@@ -2566,12 +2566,6 @@
   "stack": {
     "building": [
       {
-        "n": 825,
-        "head": "the hall: the pool floor sits half a millimetre under the hall floor, and no pixel test can clear it",
-        "lane": "arcade",
-        "since": "2026-11-19 13:19"
-      },
-      {
         "n": 814,
         "head": "Strike City: the oil is a TINT and a tint has a ceiling; the long wet shine wants a reflection, not more strength",
         "lane": "arcade",
@@ -3636,7 +3630,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 725,
+    "shippedTotal": 726,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3644,8 +3638,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 29
+      "2026-11-19": 30
     }
   },
-  "changed": "2026-11-19T19:49:40.459Z"
+  "changed": "2026-11-19T20:04:14.236Z"
 }
