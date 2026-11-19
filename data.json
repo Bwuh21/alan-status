@@ -2577,6 +2577,12 @@
   "stack": {
     "building": [
       {
+        "n": 829,
+        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass",
+        "lane": "arcade2",
+        "since": "2026-11-19 17:35"
+      },
+      {
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs",
@@ -2597,10 +2603,6 @@
       }
     ],
     "next": [
-      {
-        "n": 829,
-        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass"
-      },
       {
         "n": 818,
         "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4"
@@ -3697,5 +3699,5 @@
       "2026-11-19": 36
     }
   },
-  "changed": "2026-11-19T23:29:13.361Z"
+  "changed": "2026-11-19T23:39:43.707Z"
 }
