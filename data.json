@@ -2556,23 +2556,10 @@
   "stack": {
     "building": [
       {
-        "n": 876,
-        "head": "Strike City: the ticket-strip check is red against today's game",
-        "detail": "is the pay ladder 3/2/1 or 1/1/1?",
-        "lane": "arcade",
-        "since": "2026-11-19 10:59"
-      },
-      {
         "n": 839,
         "head": "on a short sideways phone the bowling panel climbs up onto the scoresheet",
         "lane": "arcade",
         "since": "2026-11-19 11:39"
-      },
-      {
-        "n": 1022,
-        "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)",
-        "lane": "arcade2",
-        "since": "2026-11-19 11:34"
       },
       {
         "n": 986,
@@ -3543,6 +3530,14 @@
       {
         "n": 1106,
         "head": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race"
+      },
+      {
+        "n": 1107,
+        "head": "Strike City: the bowling checks' test hook still plants a 4/8/16/30 ticket ladder the live server has not held since 11-04"
+      },
+      {
+        "n": 1108,
+        "head": "TOY FURY: on the HIGH side of a banked corner the barrier is buried to half its height"
       }
     ],
     "waiting": [
@@ -3627,12 +3622,12 @@
         "date": "2026-11-19"
       },
       {
-        "n": 1019,
-        "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up",
+        "n": 1022,
+        "head": "TOY FURY, THE CAKE (party): road-clear finds clutter in the road at s 21.0 (a prop at 3.88, 0.20, 0.15, 0.16 m from the eye line)",
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 720,
+    "shippedTotal": 723,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3640,8 +3635,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 24
+      "2026-11-19": 27
     }
   },
-  "changed": "2026-11-19T18:09:13.842Z"
+  "changed": "2026-11-19T18:14:13.559Z"
 }
