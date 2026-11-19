@@ -3390,6 +3390,14 @@
       {
         "n": 1049,
         "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal"
+      },
+      {
+        "n": 1050,
+        "head": "Sky Spike: a DIVE pressed outside the lesson is dropped without a sign if you walk into reach first"
+      },
+      {
+        "n": 1051,
+        "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened"
       }
     ],
     "waiting": [
@@ -3487,5 +3495,5 @@
       "2026-11-18": 43
     }
   },
-  "changed": "2026-11-19T04:44:14.728Z"
+  "changed": "2026-11-19T05:29:14.659Z"
 }
