@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:20:00.000Z",
+  "updated": "2026-11-19T01:25:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -135,6 +135,11 @@
           "text": "Cliffhanger: HUD looks off on ultra-wide monitors",
           "status": "done",
           "note": "Live 10-17. True, and not only on an ultra-wide: the game pinned every number to the corners of the glass, so on a wide monitor the height, the clock and the pitch name sat a full arm's span apart and the climb bar…"
+        },
+        {
+          "text": "CloudStreet: the pilot wears no aura -- give rare skins their fire (row 804)",
+          "status": "done",
+          "note": "LIVE 11-18. Your skin under the glider now burns by its rarity, the same fire as the lobby: Rare a glow, Divine a plume; Common stays plain. Friends' pilots burn too. Checked as a real phone mid-flight, Divine against…"
         },
         {
           "text": "CloudStreet: two bits of HUD text overlap on phone",
@@ -2486,10 +2491,10 @@
         "since": "2026-11-18 19:04"
       },
       {
-        "n": 804,
-        "head": "CloudStreet wears no aura (the list in row 347, 2026-11-13)",
+        "n": 805,
+        "head": "DodgeFall 3D wears no aura (the file is 3d.html, not index.html) (the list in row 347, 2026-11-13)",
         "lane": "arcade2",
-        "since": "2026-11-18 19:04"
+        "since": "2026-11-18 19:19"
       }
     ],
     "next": [
@@ -2805,10 +2810,6 @@
       {
         "n": 800,
         "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\""
-      },
-      {
-        "n": 805,
-        "head": "DodgeFall 3D wears no aura (the file is 3d.html, not index.html) (the list in row 347, 2026-11-13)"
       },
       {
         "n": 806,
@@ -3446,7 +3447,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 684,
+    "shippedTotal": 685,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3454,8 +3455,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 35
+      "2026-11-18": 36
     }
   },
-  "changed": "2026-11-19T01:19:14.000Z"
+  "changed": "2026-11-19T01:24:14.502Z"
 }
