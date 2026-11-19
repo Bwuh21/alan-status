@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T10:35:00.000Z",
+  "updated": "2026-11-19T14:57:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2500,7 +2500,8 @@
         },
         {
           "text": "Ping pong, left over: see the ball better (the camera, your paddle over the incoming ball, the score card on a phone) (row 1044)",
-          "status": "todo"
+          "status": "done",
+          "note": "Live 2026-11-19. The camera sits higher and closer, so the table fills the screen and your paddle is no longer at the bottom edge. Your paddle turns see-through while the ball comes in behind it. On a phone the score…"
         },
         {
           "text": "Ping pong, left over: a flawless aimer still beats the top gear almost every point (row 1045)",
@@ -2541,13 +2542,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 1044,
-        "head": "PING PONG: you cannot see the ball well enough",
-        "detail": "the camera, your blade over the incoming ball, the phone card over the table",
-        "lane": "arcade",
-        "since": "2026-11-19 06:59"
-      },
       {
         "n": 1045,
         "head": "PING PONG: a perfect aimer still beats the top gear 96% of the time",
@@ -3519,6 +3513,18 @@
         "n": 1082,
         "head": "TEST LOBBY: row 1061's two heavier cells",
         "detail": "stadium +4.5k and party +9k triangles on a phone (found by row 1061, 2026-11-19) region-lobby"
+      },
+      {
+        "n": 1092,
+        "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass"
+      },
+      {
+        "n": 1093,
+        "head": "PING PONG feel check (a): a 10% bar read off 16-20 unseeded points flips red and green on the same page"
+      },
+      {
+        "n": 1094,
+        "head": "PING PONG: the blade's fade to see-through is eased per frame, not per second"
       }
     ],
     "waiting": [
@@ -3576,6 +3582,12 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1044,
+        "head": "PING PONG: you cannot see the ball well enough",
+        "detail": "the camera, your blade over the incoming ball, the phone card over the table",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1001,
         "head": "TOY FURY upstairs: the drift is worth almost nothing",
         "detail": "a driver who never drifts makes the podium 12 times in 20",
@@ -3601,14 +3613,9 @@
         "head": "SLAB CITY 1/3: POP INTO THE CITY",
         "detail": "street fronts, the EL, the motel, City Hall, painted streets and pieces coloured by what they are, with NO ridden shape touched",
         "date": "2026-11-19"
-      },
-      {
-        "n": 959,
-        "head": "Darts' own check.mjs is red right now, exit 1",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 712,
+    "shippedTotal": 713,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3616,8 +3623,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 16
+      "2026-11-19": 17
     }
   },
-  "changed": "2026-11-19T14:14:14.240Z"
+  "changed": "2026-11-19T14:59:13.750Z"
 }
