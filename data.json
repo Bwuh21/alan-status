@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T08:30:00.000Z",
+  "updated": "2026-11-19T08:36:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -567,6 +567,11 @@
           "text": "A stray skating sound plays in the lobby — music, or a leak from the skate park? Find out",
           "status": "done",
           "note": "Fixed properly 10-28, after you reported it again. The 10-16 fix only made the little ghost board quieter — the real fault was that its rolling sound had no off switch once you walked through the door, so it played on…"
+        },
+        {
+          "text": "Slab City 1/3: pop into a city (street fronts, the train line, painted streets)",
+          "status": "done",
+          "note": "Live 2026-11-19. The park now stands in a city: office blocks and the BWUH tower, warehouses with loading bays, City Hall, the Starlite motel and a subway entrance round the back door. A raised train line with a lit…"
         },
         {
           "text": "Later: grow the park once tricks and basics are in",
@@ -2543,13 +2548,6 @@
         "head": "Darts' own check.mjs is red right now, exit 1",
         "lane": "arcade2",
         "since": "2026-11-18 23:49"
-      },
-      {
-        "n": 985,
-        "head": "SLAB CITY 1/3: POP INTO THE CITY",
-        "detail": "street fronts, the EL, the motel, City Hall, painted streets and pieces coloured by what they are, with NO ridden shape touched",
-        "lane": "arcade2",
-        "since": "2026-11-18 23:44"
       }
     ],
     "next": [
@@ -2756,6 +2754,10 @@
       {
         "n": 1067,
         "head": "BOWLING ISLAND (lobby): the giant ball rack and rental shoes on the outside still advertise what the hall no longer has"
+      },
+      {
+        "n": 1068,
+        "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen"
       },
       {
         "n": 993,
@@ -3514,6 +3516,12 @@
         "date": "2026-11-19"
       },
       {
+        "n": 985,
+        "head": "SLAB CITY 1/3: POP INTO THE CITY",
+        "detail": "street fronts, the EL, the motel, City Hall, painted streets and pieces coloured by what they are, with NO ridden shape touched",
+        "date": "2026-11-19"
+      },
+      {
         "n": 998,
         "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
         "detail": "re-measure it on the four tours",
@@ -3557,14 +3565,9 @@
         "n": 1023,
         "head": "PING PONG: a careful player beats the house 7-0 even at its top gear",
         "date": "2026-11-18"
-      },
-      {
-        "n": 1020,
-        "head": "PHONE: the table prompt label is cut off under the Play button (\"Foosball · the house plays, first t...\", the same on air hockey)",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 699,
+    "shippedTotal": 700,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3572,8 +3575,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 3
+      "2026-11-19": 4
     }
   },
-  "changed": "2026-11-19T08:24:16.860Z"
+  "changed": "2026-11-19T08:34:13.941Z"
 }
