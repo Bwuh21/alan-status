@@ -2468,10 +2468,11 @@
         "since": "2026-11-18 17:14"
       },
       {
-        "n": 791,
-        "head": "EVERY FRIEND GAME ON A REAL LINE: the delayed-road test, game by game",
-        "lane": "arcade2",
-        "since": "2026-11-18 17:54"
+        "n": 1033,
+        "head": "THE BAR HALL THEME TRIAL: the old tavern's cozy wood feel across the WHOLE hall, built as a PREVIEW for him to compare",
+        "detail": "do NOT ship it live until he says yes",
+        "lane": "arcade",
+        "since": "2026-11-18 18:09"
       },
       {
         "n": 797,
@@ -2481,11 +2482,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1033,
-        "head": "THE BAR HALL THEME TRIAL: the old tavern's cozy wood feel across the WHOLE hall, built as a PREVIEW for him to compare",
-        "detail": "do NOT ship it live until he says yes"
-      },
       {
         "n": 1034,
         "head": "PING PONG: rework the game until it is fun",
@@ -3356,6 +3352,22 @@
       {
         "n": 1037,
         "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball"
+      },
+      {
+        "n": 1038,
+        "head": "BARN BURNER (IceHockey) ON A REAL LINE: tap-vs-hold timed by packet arrivals, own wind-up a round trip late (carried from row 791, 2026-11-1"
+      },
+      {
+        "n": 1039,
+        "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)"
+      },
+      {
+        "n": 1040,
+        "head": "LIVE WIRE ON A REAL LINE: same body fault as Haunt, tags judged on the live host world (carried from row 791, 2026-11-18)"
+      },
+      {
+        "n": 1041,
+        "head": "HANGTIME ON A REAL LINE: steals, blocks and oops judged on the live host world (carried from row 791, 2026-11-18)"
       }
     ],
     "waiting": [
@@ -3440,7 +3452,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 679,
+    "shippedTotal": 680,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3448,8 +3460,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 30
+      "2026-11-18": 31
     }
   },
-  "changed": "2026-11-19T00:09:13.792Z"
+  "changed": "2026-11-19T00:14:13.331Z"
 }
