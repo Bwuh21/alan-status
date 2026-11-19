@@ -2542,25 +2542,11 @@
   "stack": {
     "building": [
       {
-        "n": 1057,
-        "head": "THE BAR HALL, BOWLING: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
-        "lane": "arcade",
-        "since": "2026-11-19 05:54"
-      },
-      {
         "n": 1044,
         "head": "PING PONG: you cannot see the ball well enough",
         "detail": "the camera, your blade over the incoming ball, the phone card over the table",
         "lane": "arcade",
         "since": "2026-11-19 06:59"
-      },
-      {
-        "n": 1001,
-        "head": "TOY FURY upstairs: the drift is worth almost nothing",
-        "detail": "a driver who never drifts makes the podium 12 times in 20",
-        "lane": "arcade2",
-        "since": "2026-11-19 06:41"
       },
       {
         "n": 1000,
@@ -2588,17 +2574,9 @@
         "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up"
       },
       {
-        "n": 844,
-        "head": "the bowling result says \"your card is worth 1 ticket\" and the purse goes up by 2"
-      },
-      {
         "n": 876,
         "head": "Strike City: the ticket-strip check is red against today's game",
         "detail": "is the pay ladder 3/2/1 or 1/1/1?"
-      },
-      {
-        "n": 997,
-        "head": "Strike City on a desk: the how-to card runs 71 px down over the lane panel at 1280x720"
       },
       {
         "n": 839,
@@ -2777,6 +2755,27 @@
       {
         "n": 1086,
         "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done"
+      },
+      {
+        "n": 1087,
+        "head": "BAR BOWLING: the \"playing as a guest\" bubble sits on top of steps 2 and 3 of the how-to card"
+      },
+      {
+        "n": 1088,
+        "head": "BAR BOWLING: the first words a stranger reads are ticket jargon, and every ball says the same two lines"
+      },
+      {
+        "n": 1089,
+        "head": "BAR BOWLING on a phone: the ceiling scoreboard shows scrambled numbers behind the Leave button on the ending"
+      },
+      {
+        "n": 1090,
+        "head": "BAR BOWLING: the roll and its replay are now over half the game",
+        "detail": "5.3 s a ball on a desk, 7 s on a phone"
+      },
+      {
+        "n": 1091,
+        "head": "BAR BOWLING: watch the new ticket line on a real signed-in game, and a friend game end to end"
       },
       {
         "n": 993,
@@ -3549,6 +3548,12 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1057,
+        "head": "THE BAR HALL, BOWLING: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1056,
         "head": "THE BAR HALL, DARTS: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
@@ -3564,6 +3569,17 @@
         "n": 1054,
         "head": "THE BAR HALL, POOL: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
+        "date": "2026-11-19"
+      },
+      {
+        "n": 1001,
+        "head": "TOY FURY upstairs: the drift is worth almost nothing",
+        "detail": "a driver who never drifts makes the podium 12 times in 20",
+        "date": "2026-11-19"
+      },
+      {
+        "n": 997,
+        "head": "Strike City on a desk: the how-to card runs 71 px down over the lane panel at 1280x720",
         "date": "2026-11-19"
       },
       {
@@ -3586,24 +3602,9 @@
         "n": 959,
         "head": "Darts' own check.mjs is red right now, exit 1",
         "date": "2026-11-19"
-      },
-      {
-        "n": 939,
-        "head": "Air Hockey: the big-shot check is red in landscape on the committed build",
-        "date": "2026-11-19"
-      },
-      {
-        "n": 893,
-        "head": "Darts: the hold that steadies the hand is still priced in clamped dt",
-        "date": "2026-11-19"
-      },
-      {
-        "n": 762,
-        "head": "TAVERN DARTS: make the hardest Rusty hard to beat again",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 708,
+    "shippedTotal": 712,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3611,8 +3612,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 12
+      "2026-11-19": 16
     }
   },
-  "changed": "2026-11-19T13:59:14.860Z"
+  "changed": "2026-11-19T14:04:14.742Z"
 }
