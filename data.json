@@ -2554,6 +2554,13 @@
         "detail": "it gains in the bends and gives them back on the next straight",
         "lane": "arcade2",
         "since": "2026-11-19 07:04"
+      },
+      {
+        "n": 1064,
+        "head": "TOY FURY: YOU FALL APART",
+        "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it",
+        "lane": "arcade2",
+        "since": "2026-11-19 08:04"
       }
     ],
     "next": [
@@ -2618,11 +2625,6 @@
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs"
-      },
-      {
-        "n": 1064,
-        "head": "TOY FURY: YOU FALL APART",
-        "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it"
       },
       {
         "n": 1021,
@@ -3615,5 +3617,5 @@
       "2026-11-19": 16
     }
   },
-  "changed": "2026-11-19T14:04:14.742Z"
+  "changed": "2026-11-19T14:09:14.233Z"
 }
