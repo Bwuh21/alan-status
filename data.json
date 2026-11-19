@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T03:05:00.000Z",
+  "updated": "2026-11-19T04:45:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2430,7 +2430,13 @@
         },
         {
           "text": "Left over from step 4: on a phone the foosball and air hockey prompt is cut off under the Play button (row 1020)",
-          "status": "todo"
+          "status": "done",
+          "note": "Done with the foosball rework (row 1035), live 2026-11-18. On a phone both table prompts now fit beside the Play button, checked standing at the foosball and the air hockey tables at 390x844."
+        },
+        {
+          "text": "Left over from step 4: foosball needs a whole lot of work, random flailing beat careful play (row 1035)",
+          "status": "done",
+          "note": "Live 2026-11-18. Now a tap is a soft poke and a hold (or a flick on the phone) is a hard shot, with a line on the felt showing where it will go. Hit the ball off-centre to angle it. The house no longer stacks every man…"
         },
         {
           "text": "5/8 Ping pong: the big table, played in the room",
@@ -2504,13 +2510,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 1035,
-        "head": "FOOSBALL: find why it sucks and fix it",
-        "detail": "read the deep dive first",
-        "lane": "arcade",
-        "since": "2026-11-18 19:49"
-      },
       {
         "n": 989,
         "head": "SKATE PARK: the ridden floor (skateFloor) and the drawn ramps disagree at 93 ramp edges",
@@ -3313,10 +3312,6 @@
         "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up"
       },
       {
-        "n": 1020,
-        "head": "PHONE: the table prompt label is cut off under the Play button (\"Foosball · the house plays, first t...\", the same on air hockey)"
-      },
-      {
         "n": 1021,
         "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race"
       },
@@ -3384,6 +3379,15 @@
       {
         "n": 1047,
         "head": "Head or Body: is THE READER's step over VELVET real for a person, or only for bots that stop punching under 25 stamina?"
+      },
+      {
+        "n": 1048,
+        "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
+        "detail": "pool the play and house checks over several runs"
+      },
+      {
+        "n": 1049,
+        "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal"
       }
     ],
     "waiting": [
@@ -3410,6 +3414,12 @@
         "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
         "detail": "re-measure it on the four tours",
         "date": "2026-11-18 13:24"
+      },
+      {
+        "n": 1035,
+        "head": "FOOSBALL: find why it sucks and fix it",
+        "detail": "read the deep dive first",
+        "date": "2026-11-18"
       },
       {
         "n": 1034,
@@ -3439,6 +3449,11 @@
         "date": "2026-11-18"
       },
       {
+        "n": 1020,
+        "head": "PHONE: the table prompt label is cut off under the Play button (\"Foosball · the house plays, first t...\", the same on air hockey)",
+        "date": "2026-11-18"
+      },
+      {
         "n": 1017,
         "head": "COMET CLASH keeps a win streak per rung (do this AFTER row 882 makes it winnable) (survey 2026-11-18)",
         "date": "2026-11-18"
@@ -3457,19 +3472,9 @@
         "n": 1014,
         "head": "UNDERCROFT, the fighting: killing the boss needs a finishing beat (the clip a video ends on) (survey 2026-11-18)",
         "date": "2026-11-18"
-      },
-      {
-        "n": 1013,
-        "head": "UNDERCROFT, friends: does the host's hit-stop freeze the foes on every guest's screen? Measure first, then fix (survey 2026-11-18)",
-        "date": "2026-11-18"
-      },
-      {
-        "n": 1012,
-        "head": "UNDERCROFT, friends: a friend's Flurry loses about half its stabs on the host, and each stab that lands stutters the host's screen (survey 2",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 690,
+    "shippedTotal": 692,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3477,8 +3482,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 41
+      "2026-11-18": 43
     }
   },
-  "changed": "2026-11-19T04:00:41.034Z"
+  "changed": "2026-11-19T04:34:14.750Z"
 }
