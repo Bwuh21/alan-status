@@ -2561,6 +2561,12 @@
         "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it",
         "lane": "arcade2",
         "since": "2026-11-19 08:04"
+      },
+      {
+        "n": 1021,
+        "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race",
+        "lane": "arcade2",
+        "since": "2026-11-19 09:25"
       }
     ],
     "next": [
@@ -2613,10 +2619,6 @@
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs"
-      },
-      {
-        "n": 1021,
-        "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race"
       },
       {
         "n": 1025,
@@ -3626,5 +3628,5 @@
       "2026-11-19": 18
     }
   },
-  "changed": "2026-11-19T15:24:44.316Z"
+  "changed": "2026-11-19T15:29:22.804Z"
 }
