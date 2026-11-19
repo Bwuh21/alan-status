@@ -2477,13 +2477,6 @@
   "stack": {
     "building": [
       {
-        "n": 1033,
-        "head": "THE BAR HALL THEME TRIAL: the old tavern's cozy wood feel across the WHOLE hall, built as a PREVIEW for him to compare",
-        "detail": "do NOT ship it live until he says yes",
-        "lane": "arcade",
-        "since": "2026-11-18 18:09"
-      },
-      {
         "n": 1034,
         "head": "PING PONG: rework the game until it is fun",
         "detail": "read the deep dive first",
@@ -3460,5 +3453,5 @@
       "2026-11-18": 36
     }
   },
-  "changed": "2026-11-19T01:29:22.335Z"
+  "changed": "2026-11-19T01:39:13.935Z"
 }
