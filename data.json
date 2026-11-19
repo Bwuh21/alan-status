@@ -2522,6 +2522,12 @@
         "head": "Sky Spike: a learner who WALKS under the lesson's lob never has to dive",
         "lane": "arcade2",
         "since": "2026-11-18 19:59"
+      },
+      {
+        "n": 817,
+        "head": "Barn Burner: row548-check is RED on the desk photo, on unchanged code",
+        "lane": "arcade2",
+        "since": "2026-11-18 21:54"
       }
     ],
     "next": [
@@ -2846,10 +2852,6 @@
       {
         "n": 815,
         "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check"
-      },
-      {
-        "n": 817,
-        "head": "Barn Burner: row548-check is RED on the desk photo, on unchanged code"
       },
       {
         "n": 818,
@@ -3478,5 +3480,5 @@
       "2026-11-18": 41
     }
   },
-  "changed": "2026-11-19T03:54:13.970Z"
+  "changed": "2026-11-19T04:00:41.034Z"
 }
