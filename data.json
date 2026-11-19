@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T05:45:00.000Z",
+  "updated": "2026-11-19T05:46:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2357,6 +2357,11 @@
           "text": "Every game's tutorial card paid its left-margin tax on every line, not just the ones beside the arcade's corner key (row 506, found fixing row 415)",
           "status": "done",
           "note": "Live 2026-11-17. The tutorial card every game shows leaves room down its left side so the words don't sit under the arcade's own corner button. That gap used to be baked into the card itself, so it bit every line of…"
+        },
+        {
+          "text": "Sky Spike: the DIVE lesson can now be finished by a player who runs to the ball (row 816)",
+          "status": "done",
+          "note": "Live 2026-11-18. Before, the lesson's balls were slow lobs, so a player who ran at them always got there on foot and never had to dive. In the test, that player never finished the lesson. Now, during that one lesson…"
         }
       ]
     },
@@ -2522,10 +2527,10 @@
         "since": "2026-11-18 22:39"
       },
       {
-        "n": 816,
-        "head": "Sky Spike: a learner who WALKS under the lesson's lob never has to dive",
-        "lane": "arcade2",
-        "since": "2026-11-18 19:59"
+        "n": 992,
+        "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name ",
+        "lane": "arcade",
+        "since": "2026-11-18 23:39"
       },
       {
         "n": 817,
@@ -2549,10 +2554,6 @@
         "n": 987,
         "head": "SLAB CITY 3/3: GOALS YOU CAN SEE",
         "detail": "goals count whenever you skate, a ring and a sign at each spot, grinding taught, one tutorial on arrival"
-      },
-      {
-        "n": 992,
-        "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name "
       },
       {
         "n": 993,
@@ -3506,7 +3507,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 693,
+    "shippedTotal": 694,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3514,8 +3515,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 44
+      "2026-11-18": 45
     }
   },
-  "changed": "2026-11-19T05:39:14.571Z"
+  "changed": "2026-11-19T05:44:14.323Z"
 }
