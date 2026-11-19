@@ -2550,6 +2550,12 @@
         "since": "2026-11-19 08:59"
       },
       {
+        "n": 1049,
+        "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal",
+        "lane": "arcade",
+        "since": "2026-11-19 09:20"
+      },
+      {
         "n": 1064,
         "head": "TOY FURY: YOU FALL APART",
         "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it",
@@ -2558,10 +2564,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1049,
-        "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal"
-      },
       {
         "n": 1019,
         "head": "AIR HOCKEY with a friend: in a room the hockey end offers \"Pick your game | Play\" and no table comes up"
@@ -3624,5 +3626,5 @@
       "2026-11-19": 18
     }
   },
-  "changed": "2026-11-19T15:14:13.402Z"
+  "changed": "2026-11-19T15:24:44.316Z"
 }
