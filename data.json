@@ -2560,6 +2560,12 @@
         "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race",
         "lane": "arcade2",
         "since": "2026-11-19 09:25"
+      },
+      {
+        "n": 1025,
+        "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest",
+        "lane": "arcade2",
+        "since": "2026-11-19 09:59"
       }
     ],
     "next": [
@@ -2579,10 +2585,6 @@
       {
         "n": 873,
         "head": "Strike City, sideways phone, four bowlers, game over: the result banner and the result line are painted across the score sheet"
-      },
-      {
-        "n": 874,
-        "head": "Strike City, short desktop window, four bowlers: the \"your ball\" pointer steps aside 46 px but is wider than that, and touches the panel"
       },
       {
         "n": 875,
@@ -2612,10 +2614,6 @@
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs"
-      },
-      {
-        "n": 1025,
-        "head": "TOY FURY: Bigfoot Jr loses to the field in EVERY room, even its best, and the dearest rides win less than the cheapest"
       },
       {
         "n": 1002,
@@ -3632,5 +3630,5 @@
       "2026-11-19": 19
     }
   },
-  "changed": "2026-11-19T15:59:13.508Z"
+  "changed": "2026-11-19T16:04:14.136Z"
 }
