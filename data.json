@@ -2526,6 +2526,12 @@
   "stack": {
     "building": [
       {
+        "n": 1062,
+        "head": "THE BAR HALL, BOWLING: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seating behind the ball retu",
+        "lane": "arcade",
+        "since": "2026-11-19 00:14"
+      },
+      {
         "n": 959,
         "head": "Darts' own check.mjs is red right now, exit 1",
         "lane": "arcade2",
@@ -2546,10 +2552,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1062,
-        "head": "THE BAR HALL, BOWLING: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seating behind the ball retu"
-      },
       {
         "n": 1063,
         "head": "THE BAR HALL: make it feel COZY even though it is big",
@@ -3573,5 +3575,5 @@
       "2026-11-19": 1
     }
   },
-  "changed": "2026-11-19T06:09:13.515Z"
+  "changed": "2026-11-19T06:19:13.378Z"
 }
