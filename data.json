@@ -2572,6 +2572,12 @@
         "since": "2026-11-19 13:24"
       },
       {
+        "n": 1046,
+        "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine",
+        "lane": "arcade",
+        "since": "2026-11-19 14:04"
+      },
+      {
         "n": 987,
         "head": "SLAB CITY 3/3: GOALS YOU CAN SEE",
         "detail": "goals count whenever you skate, a ring and a sign at each spot, grinding taught, one tutorial on arrival",
@@ -2587,10 +2593,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1046,
-        "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine"
-      },
       {
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
@@ -3641,5 +3643,5 @@
       "2026-11-19": 30
     }
   },
-  "changed": "2026-11-19T20:04:14.236Z"
+  "changed": "2026-11-19T20:11:21.407Z"
 }
