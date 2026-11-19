@@ -2479,6 +2479,12 @@
         "head": "Riposte wears no aura: a 1v1 duel where the other body is the whole screen (the list in row 347, 2026-11-13)",
         "lane": "arcade2",
         "since": "2026-11-18 18:19"
+      },
+      {
+        "n": 803,
+        "head": "Sideways wears no aura: the driver at the wheel is your skin with nothing round it (the list in row 347, 2026-11-13)",
+        "lane": "arcade2",
+        "since": "2026-11-18 18:39"
       }
     ],
     "next": [
@@ -2799,10 +2805,6 @@
       {
         "n": 800,
         "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\""
-      },
-      {
-        "n": 803,
-        "head": "Sideways wears no aura: the driver at the wheel is your skin with nothing round it (the list in row 347, 2026-11-13)"
       },
       {
         "n": 804,
@@ -3459,5 +3461,5 @@
       "2026-11-18": 32
     }
   },
-  "changed": "2026-11-19T00:39:17.051Z"
+  "changed": "2026-11-19T00:44:26.856Z"
 }
