@@ -2558,6 +2558,12 @@
         "since": "2026-11-19 10:59"
       },
       {
+        "n": 839,
+        "head": "on a short sideways phone the bowling panel climbs up onto the scoresheet",
+        "lane": "arcade",
+        "since": "2026-11-19 11:39"
+      },
+      {
         "n": 1002,
         "head": "TOY FURY: with the bots off each other's slipstream, the pack spends less of the race near you",
         "detail": "company fell 71 -> 50 percent in the house",
@@ -2572,10 +2578,6 @@
       }
     ],
     "next": [
-      {
-        "n": 839,
-        "head": "on a short sideways phone the bowling panel climbs up onto the scoresheet"
-      },
       {
         "n": 875,
         "head": "Strike City, upright phone, four bowlers: the sheet takes the lane down to the 40% bar, and three friends all read \"Frien...\""
@@ -3629,5 +3631,5 @@
       "2026-11-19": 23
     }
   },
-  "changed": "2026-11-19T17:39:13.640Z"
+  "changed": "2026-11-19T17:44:13.774Z"
 }
