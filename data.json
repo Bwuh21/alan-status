@@ -2475,12 +2475,6 @@
         "since": "2026-11-18 18:09"
       },
       {
-        "n": 797,
-        "head": "Barn Burner: the keeper's lean can swap sides while he is down, and the desk photograph of him misses some runs",
-        "lane": "arcade2",
-        "since": "2026-11-18 17:59"
-      },
-      {
         "n": 802,
         "head": "Riposte wears no aura: a 1v1 duel where the other body is the whole screen (the list in row 347, 2026-11-13)",
         "lane": "arcade2",
@@ -3454,7 +3448,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 680,
+    "shippedTotal": 681,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3462,8 +3456,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 31
+      "2026-11-18": 32
     }
   },
-  "changed": "2026-11-19T00:24:16.571Z"
+  "changed": "2026-11-19T00:39:17.051Z"
 }
