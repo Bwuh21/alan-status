@@ -2549,13 +2549,6 @@
         "since": "2026-11-19 04:24"
       },
       {
-        "n": 1055,
-        "head": "THE BAR HALL, AIR HOCKEY: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
-        "lane": "arcade",
-        "since": "2026-11-19 04:34"
-      },
-      {
         "n": 1056,
         "head": "THE BAR HALL, DARTS: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
@@ -2768,6 +2761,25 @@
       {
         "n": 1074,
         "head": "TEST LOBBY: three islands over the phone budget and a second-lap memory reading 0.1 MB over"
+      },
+      {
+        "n": 1075,
+        "head": "BAR AIR HOCKEY: the house is too strong for a first match",
+        "detail": "a sloppy hand lost 3 of 3 finished phone matches (3-7, 5-7, 5-7)"
+      },
+      {
+        "n": 1076,
+        "head": "BAR AIR HOCKEY with a friend: nobody has watched a friend match end to end since the goal burst, banner and heat went in"
+      },
+      {
+        "n": 1077,
+        "head": "BAR AIR HOCKEY: the table is a flat pink board in a walnut tavern",
+        "detail": "give it the hall's look and a goal light"
+      },
+      {
+        "n": 1078,
+        "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
+        "detail": "clack pitch rises with speed, a short streak follows a puck above 6 m/s"
       },
       {
         "n": 993,
@@ -3522,6 +3534,12 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1055,
+        "head": "THE BAR HALL, AIR HOCKEY: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1054,
         "head": "THE BAR HALL, POOL: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
@@ -3571,14 +3589,9 @@
         "head": "THE BAR HALL THEME TRIAL: the old tavern's cozy wood feel across the WHOLE hall, built as a PREVIEW for him to compare",
         "detail": "do NOT ship it live until he says yes",
         "date": "2026-11-18"
-      },
-      {
-        "n": 1032,
-        "head": "THE BAR HALL, BOWLING END: still clipping, and bowling balls lie on the seats",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 703,
+    "shippedTotal": 704,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3586,8 +3599,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 7
+      "2026-11-19": 8
     }
   },
-  "changed": "2026-11-19T11:45:05.602Z"
+  "changed": "2026-11-19T11:54:14.000Z"
 }
