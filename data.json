@@ -2556,12 +2556,6 @@
   "stack": {
     "building": [
       {
-        "n": 839,
-        "head": "on a short sideways phone the bowling panel climbs up onto the scoresheet",
-        "lane": "arcade",
-        "since": "2026-11-19 11:39"
-      },
-      {
         "n": 875,
         "head": "Strike City, upright phone, four bowlers: the sheet takes the lane down to the 40% bar, and three friends all read \"Frien...\"",
         "lane": "arcade",
@@ -3642,5 +3636,5 @@
       "2026-11-19": 27
     }
   },
-  "changed": "2026-11-19T18:19:20.322Z"
+  "changed": "2026-11-19T18:39:15.640Z"
 }
