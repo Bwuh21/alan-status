@@ -2489,18 +2489,26 @@
         "since": "2026-11-18 19:04"
       },
       {
+        "n": 1035,
+        "head": "FOOSBALL: find why it sucks and fix it",
+        "detail": "read the deep dive first",
+        "lane": "arcade",
+        "since": "2026-11-18 19:49"
+      },
+      {
         "n": 806,
         "head": "The Undercroft wears no aura: the longest sitting in the arcade, in third person, with your whole party (the list in row 347, 2026-11-13)",
         "lane": "arcade2",
         "since": "2026-11-18 19:24"
+      },
+      {
+        "n": 811,
+        "head": "Head or Body: the two top fighters throw the same punches, and nobody has checked the read on a human",
+        "lane": "arcade2",
+        "since": "2026-11-18 19:49"
       }
     ],
     "next": [
-      {
-        "n": 1035,
-        "head": "FOOSBALL: find why it sucks and fix it",
-        "detail": "read the deep dive first"
-      },
       {
         "n": 989,
         "head": "SKATE PARK: the ridden floor (skateFloor) and the drawn ramps disagree at 93 ramp edges"
@@ -2808,10 +2816,6 @@
       {
         "n": 800,
         "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\""
-      },
-      {
-        "n": 811,
-        "head": "Head or Body: the two top fighters throw the same punches, and nobody has checked the read on a human"
       },
       {
         "n": 812,
@@ -3452,5 +3456,5 @@
       "2026-11-18": 37
     }
   },
-  "changed": "2026-11-19T01:49:13.803Z"
+  "changed": "2026-11-19T01:54:15.417Z"
 }
