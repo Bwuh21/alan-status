@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:20:00.000Z",
+  "updated": "2026-11-19T01:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2444,6 +2444,11 @@
           "text": "The plaza: the six islands round spawn placed evenly -- one ring, equal spacing (row 977, your 'they are just so random')",
           "status": "done",
           "note": "Live 2026-11-18. The six islands round spawn now stand on one circle, exactly 60 degrees apart, all the same distance from the middle. They are all the same size now too, so every gap matches: 7 m from the plaza's edge…"
+        },
+        {
+          "text": "The bowling end: still clipping, and bowling balls lie on the seats (row 1032, Zack 2026-11-18)",
+          "status": "done",
+          "note": "Live 2026-11-18. The balls on the seats were decoration: two house balls per ball return, set past its end and out over the settee. Gone; the rack by the counter holds the house balls. A real ball can't end up on a…"
         }
       ]
     },
@@ -2461,12 +2466,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 1032,
-        "head": "THE BAR HALL, BOWLING END: still clipping, and bowling balls lie on the seats",
-        "lane": "arcade",
-        "since": "2026-11-18 17:14"
-      },
       {
         "n": 1033,
         "head": "THE BAR HALL THEME TRIAL: the old tavern's cozy wood feel across the WHOLE hall, built as a PREVIEW for him to compare",
@@ -3394,6 +3393,11 @@
         "date": "2026-11-18 13:24"
       },
       {
+        "n": 1032,
+        "head": "THE BAR HALL, BOWLING END: still clipping, and bowling balls lie on the seats",
+        "date": "2026-11-18"
+      },
+      {
         "n": 1030,
         "head": "Skin Kick (AirHockey): measure the NORMAL -> HARD step now that NORMAL is softer (hard>normal went 35/40 -> 40/40, goals 204-8, row 1029 ben",
         "date": "2026-11-18"
@@ -3443,14 +3447,9 @@
         "n": 996,
         "head": "TOY FURY on a phone: the teach card covers the place, the menu button and the speed for its whole first race",
         "date": "2026-11-18"
-      },
-      {
-        "n": 995,
-        "head": "TOY FURY: the field still shuffles 9.5-14.6 place changes a race (bar is < 10), and the drifting driver never makes the YARD podium",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 681,
+    "shippedTotal": 682,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3458,8 +3457,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 32
+      "2026-11-18": 33
     }
   },
-  "changed": "2026-11-19T00:44:26.856Z"
+  "changed": "2026-11-19T00:59:13.754Z"
 }
