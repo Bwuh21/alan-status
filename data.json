@@ -2556,13 +2556,6 @@
         "since": "2026-11-19 04:24"
       },
       {
-        "n": 1054,
-        "head": "THE BAR HALL, POOL: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
-        "lane": "arcade",
-        "since": "2026-11-19 02:34"
-      },
-      {
         "n": 1055,
         "head": "THE BAR HALL, AIR HOCKEY: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
@@ -2758,6 +2751,22 @@
       {
         "n": 1069,
         "head": "BAR HALL CHECKS RED ON THE OLD BUILD TOO: Rusty's chest 24 mm into the counter top while he polishes, and the boot check still looking for a"
+      },
+      {
+        "n": 1070,
+        "head": "BAR POOL: prove two friends see the same rack"
+      },
+      {
+        "n": 1071,
+        "head": "BAR POOL: the free practice house is too strong for a first rack"
+      },
+      {
+        "n": 1072,
+        "head": "BAR POOL: a tray of the balls you have sunk, and an aim line you can see on a phone"
+      },
+      {
+        "n": 1073,
+        "head": "BAR POOL: warn when the white ball is going to follow the ball in"
       },
       {
         "n": 993,
@@ -3512,6 +3521,12 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1054,
+        "head": "THE BAR HALL, POOL: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
+        "date": "2026-11-19"
+      },
+      {
         "n": 992,
         "head": "THE BAR HALL: the pool table's two signs are the old tavern's, not the hall's one neon style, and from the stools they hang across the name ",
         "date": "2026-11-19"
@@ -3560,14 +3575,9 @@
         "n": 1032,
         "head": "THE BAR HALL, BOWLING END: still clipping, and bowling balls lie on the seats",
         "date": "2026-11-18"
-      },
-      {
-        "n": 1030,
-        "head": "Skin Kick (AirHockey): measure the NORMAL -> HARD step now that NORMAL is softer (hard>normal went 35/40 -> 40/40, goals 204-8, row 1029 ben",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 702,
+    "shippedTotal": 703,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3575,8 +3585,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 6
+      "2026-11-19": 7
     }
   },
-  "changed": "2026-11-19T10:45:58.276Z"
+  "changed": "2026-11-19T11:19:13.759Z"
 }
