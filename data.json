@@ -2561,6 +2561,13 @@
         "detail": "a driver who never drifts makes the podium 12 times in 20",
         "lane": "arcade2",
         "since": "2026-11-19 06:41"
+      },
+      {
+        "n": 1000,
+        "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
+        "detail": "it gains in the bends and gives them back on the next straight",
+        "lane": "arcade2",
+        "since": "2026-11-19 07:04"
       }
     ],
     "next": [
@@ -2633,11 +2640,6 @@
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs"
-      },
-      {
-        "n": 1000,
-        "head": "TOY FURY: the drifting driver still trades 9.3-11.8 places a race at the HUD's own hold",
-        "detail": "it gains in the bends and gives them back on the next straight"
       },
       {
         "n": 1064,
@@ -3608,5 +3610,5 @@
       "2026-11-19": 12
     }
   },
-  "changed": "2026-11-19T13:04:13.990Z"
+  "changed": "2026-11-19T13:09:13.997Z"
 }
