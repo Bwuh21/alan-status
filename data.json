@@ -2512,6 +2512,12 @@
         "since": "2026-11-18 19:49"
       },
       {
+        "n": 989,
+        "head": "SKATE PARK: the ridden floor (skateFloor) and the drawn ramps disagree at 93 ramp edges",
+        "lane": "arcade",
+        "since": "2026-11-18 21:09"
+      },
+      {
         "n": 811,
         "head": "Head or Body: the two top fighters throw the same punches, and nobody has checked the read on a human",
         "lane": "arcade2",
@@ -2525,10 +2531,6 @@
       }
     ],
     "next": [
-      {
-        "n": 989,
-        "head": "SKATE PARK: the ridden floor (skateFloor) and the drawn ramps disagree at 93 ramp edges"
-      },
       {
         "n": 990,
         "head": "THIN PROPS YOU WALK THROUGH hide your shadow: the bowl's pin cushion, the race gate's orange strips, the skate curbs"
@@ -3478,5 +3480,5 @@
       "2026-11-18": 40
     }
   },
-  "changed": "2026-11-19T03:09:13.966Z"
+  "changed": "2026-11-19T03:14:14.165Z"
 }
