@@ -2561,14 +2561,16 @@
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
         "lane": "arcade",
         "since": "2026-11-19 04:34"
-      }
-    ],
-    "next": [
+      },
       {
         "n": 1056,
         "head": "THE BAR HALL, DARTS: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it"
-      },
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
+        "lane": "arcade",
+        "since": "2026-11-19 05:19"
+      }
+    ],
+    "next": [
       {
         "n": 1057,
         "head": "THE BAR HALL, BOWLING: make it HOT",
@@ -3588,5 +3590,5 @@
       "2026-11-19": 7
     }
   },
-  "changed": "2026-11-19T11:19:13.759Z"
+  "changed": "2026-11-19T11:25:05.918Z"
 }
