@@ -2542,24 +2542,11 @@
   "stack": {
     "building": [
       {
-        "n": 1056,
-        "head": "THE BAR HALL, DARTS: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
-        "lane": "arcade",
-        "since": "2026-11-19 05:19"
-      },
-      {
         "n": 1057,
         "head": "THE BAR HALL, BOWLING: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
         "lane": "arcade",
         "since": "2026-11-19 05:54"
-      },
-      {
-        "n": 939,
-        "head": "Air Hockey: the big-shot check is red in landscape on the committed build",
-        "lane": "arcade2",
-        "since": "2026-11-19 05:39"
       },
       {
         "n": 1001,
@@ -2631,14 +2618,6 @@
       {
         "n": 814,
         "head": "Strike City: the oil is a TINT and a tint has a ceiling; the long wet shine wants a reflection, not more strength"
-      },
-      {
-        "n": 762,
-        "head": "TAVERN DARTS: make the hardest Rusty hard to beat again"
-      },
-      {
-        "n": 893,
-        "head": "Darts: the hold that steadies the hand is still priced in clamped dt"
       },
       {
         "n": 930,
@@ -2777,6 +2756,19 @@
         "n": 1078,
         "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
         "detail": "clack pitch rises with speed, a short streak follows a puck above 6 m/s"
+      },
+      {
+        "n": 1083,
+        "head": "BAR DARTS with a friend: nobody has watched a friend leg end to end since the visit calls, the finish call and the banner went in"
+      },
+      {
+        "n": 1084,
+        "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
+        "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone"
+      },
+      {
+        "n": 1085,
+        "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead"
       },
       {
         "n": 993,
@@ -3549,6 +3541,12 @@
         "date": "2026-11-19"
       },
       {
+        "n": 1056,
+        "head": "THE BAR HALL, DARTS: make it HOT",
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1055,
         "head": "THE BAR HALL, AIR HOCKEY: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
@@ -3582,31 +3580,22 @@
         "date": "2026-11-19"
       },
       {
-        "n": 998,
-        "head": "TOY FURY garage: each car's \"BEST IN / STRUGGLES IN\" room line is going blank as rooms retire",
-        "detail": "re-measure it on the four tours",
-        "date": "2026-11-18 13:24"
+        "n": 939,
+        "head": "Air Hockey: the big-shot check is red in landscape on the committed build",
+        "date": "2026-11-19"
       },
       {
-        "n": 1035,
-        "head": "FOOSBALL: find why it sucks and fix it",
-        "detail": "read the deep dive first",
-        "date": "2026-11-18"
+        "n": 893,
+        "head": "Darts: the hold that steadies the hand is still priced in clamped dt",
+        "date": "2026-11-19"
       },
       {
-        "n": 1034,
-        "head": "PING PONG: rework the game until it is fun",
-        "detail": "read the deep dive first",
-        "date": "2026-11-18"
-      },
-      {
-        "n": 1033,
-        "head": "THE BAR HALL THEME TRIAL: the old tavern's cozy wood feel across the WHOLE hall, built as a PREVIEW for him to compare",
-        "detail": "do NOT ship it live until he says yes",
-        "date": "2026-11-18"
+        "n": 762,
+        "head": "TAVERN DARTS: make the hardest Rusty hard to beat again",
+        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 704,
+    "shippedTotal": 708,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3614,8 +3603,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 8
+      "2026-11-19": 12
     }
   },
-  "changed": "2026-11-19T12:47:26.661Z"
+  "changed": "2026-11-19T12:59:13.925Z"
 }
