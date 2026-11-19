@@ -2566,12 +2566,6 @@
   "stack": {
     "building": [
       {
-        "n": 814,
-        "head": "Strike City: the oil is a TINT and a tint has a ceiling; the long wet shine wants a reflection, not more strength",
-        "lane": "arcade",
-        "since": "2026-11-19 13:24"
-      },
-      {
         "n": 1046,
         "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine",
         "lane": "arcade",
@@ -3632,7 +3626,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 726,
+    "shippedTotal": 727,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3640,8 +3634,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 30
+      "2026-11-19": 31
     }
   },
-  "changed": "2026-11-19T20:11:21.407Z"
+  "changed": "2026-11-19T20:19:14.896Z"
 }
