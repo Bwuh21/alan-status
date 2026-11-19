@@ -2594,6 +2594,12 @@
         "head": "TEST LOBBY: three islands over the phone budget and a second-lap memory reading 0.1 MB over",
         "lane": "arcade2",
         "since": "2026-11-19 15:49"
+      },
+      {
+        "n": 1086,
+        "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done",
+        "lane": "arcade2",
+        "since": "2026-11-19 16:09"
       }
     ],
     "next": [
@@ -2680,10 +2686,6 @@
       {
         "n": 1085,
         "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead"
-      },
-      {
-        "n": 1086,
-        "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done"
       },
       {
         "n": 1087,
@@ -3693,5 +3695,5 @@
       "2026-11-19": 35
     }
   },
-  "changed": "2026-11-19T22:09:13.883Z"
+  "changed": "2026-11-19T22:14:14.255Z"
 }
