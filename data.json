@@ -3594,6 +3594,11 @@
         "n": 1126,
         "head": "Slab City: three skate checks are red at HEAD before any edit",
         "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate"
+      },
+      {
+        "n": 1127,
+        "head": "FOOSBALL: flailing still wins a little, and nearly half its goals are the house scoring on itself",
+        "detail": "house shots point-blank into your standing men bounce back into its own net"
       }
     ],
     "waiting": [
@@ -3695,5 +3700,5 @@
       "2026-11-19": 35
     }
   },
-  "changed": "2026-11-19T22:14:14.255Z"
+  "changed": "2026-11-19T22:19:14.078Z"
 }
