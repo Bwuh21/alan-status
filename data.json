@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T08:36:00.000Z",
+  "updated": "2026-11-19T10:35:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2519,6 +2519,11 @@
           "text": "Bowling: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seats behind the returns (row 1062, Zack 2026-11-18)",
           "status": "done",
           "note": "Live 2026-11-19. The snack-bar guy, the ball rack and the shoe desk with Lou are gone, along with their signs, prompts, sheets and tour lines. You walk up to a lane, press once, and the 12 lb house ball is in your hand.…"
+        },
+        {
+          "text": "The bar hall: make it feel cozy even though it is big -- warm pools of light, filled corners, tavern walls (row 1063, Zack 2026-11-18)",
+          "status": "done",
+          "note": "Live 2026-11-19. Warm pools of light over the bar, the pool table, the games and each lane pair, with dimmer floor between them. The fire flickers. The beams are lower and darker but still clear every head and sign. The…"
         }
       ]
     },
@@ -2536,13 +2541,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 1063,
-        "head": "THE BAR HALL: make it feel COZY even though it is big",
-        "detail": "warm pools of light, filled corners, tavern walls",
-        "lane": "arcade",
-        "since": "2026-11-19 01:09"
-      },
       {
         "n": 1060,
         "head": "THE LOBBY, REIMAGINED 2/3: build the new islands for THIS WEEK'S three worlds on the test server",
@@ -2754,6 +2752,10 @@
       {
         "n": 1068,
         "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen"
+      },
+      {
+        "n": 1069,
+        "head": "BAR HALL CHECKS RED ON THE OLD BUILD TOO: Rusty's chest 24 mm into the counter top while he polishes, and the boot check still looking for a"
       },
       {
         "n": 993,
@@ -3497,6 +3499,12 @@
     ],
     "shipped": [
       {
+        "n": 1063,
+        "head": "THE BAR HALL: make it feel COZY even though it is big",
+        "detail": "warm pools of light, filled corners, tavern walls",
+        "date": "2026-11-19"
+      },
+      {
         "n": 1062,
         "head": "THE BAR HALL, BOWLING: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seating behind the ball retu",
         "date": "2026-11-19"
@@ -3555,15 +3563,9 @@
         "n": 1030,
         "head": "Skin Kick (AirHockey): measure the NORMAL -> HARD step now that NORMAL is softer (hard>normal went 35/40 -> 40/40, goals 204-8, row 1029 ben",
         "date": "2026-11-18"
-      },
-      {
-        "n": 1029,
-        "head": "Skin Kick (AirHockey): the step from EASY to NORMAL is a cliff",
-        "detail": "a first-timer stand-in wins 31/40 on easy and 0/40 on normal (row 883 bench, 2026-11-18)",
-        "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 701,
+    "shippedTotal": 702,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3571,8 +3573,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 5
+      "2026-11-19": 6
     }
   },
-  "changed": "2026-11-19T10:29:13.510Z"
+  "changed": "2026-11-19T10:34:13.432Z"
 }
