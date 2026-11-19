@@ -2604,6 +2604,22 @@
     ],
     "next": [
       {
+        "n": 829,
+        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass"
+      },
+      {
+        "n": 818,
+        "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4"
+      },
+      {
+        "n": 865,
+        "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle"
+      },
+      {
+        "n": 900,
+        "head": "Head or Body: STUDY HIM never tells you he has been faking you"
+      },
+      {
         "n": 592,
         "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand"
       },
@@ -2995,10 +3011,6 @@
         "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check"
       },
       {
-        "n": 818,
-        "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4"
-      },
-      {
         "n": 819,
         "head": "Comet Clash: the release snap is unproven on a friend's screen, and the wind-up comet still floats off the hand"
       },
@@ -3021,10 +3033,6 @@
       {
         "n": 826,
         "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard"
-      },
-      {
-        "n": 829,
-        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass"
       },
       {
         "n": 836,
@@ -3109,10 +3117,6 @@
       {
         "n": 864,
         "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome"
-      },
-      {
-        "n": 865,
-        "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle"
       },
       {
         "n": 867,
@@ -3210,10 +3214,6 @@
       {
         "n": 899,
         "head": "three games show a phone only the middle strip of a 1280x720 picture"
-      },
-      {
-        "n": 900,
-        "head": "Head or Body: STUDY HIM never tells you he has been faking you"
       },
       {
         "n": 901,
@@ -3700,5 +3700,5 @@
       "2026-11-19": 35
     }
   },
-  "changed": "2026-11-19T22:19:14.078Z"
+  "changed": "2026-11-19T23:24:13.867Z"
 }
