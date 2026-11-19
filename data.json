@@ -2688,6 +2688,11 @@
         "detail": "it gains in the bends and gives them back on the next straight"
       },
       {
+        "n": 1064,
+        "head": "TOY FURY: YOU FALL APART",
+        "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it"
+      },
+      {
         "n": 1021,
         "head": "TOY FURY, THE GRAND TOUR: a keyboard player is only 4.2% slower than the bot line (bar is >= 5%), and the field swaps ~35 places a race"
       },
@@ -3561,5 +3566,5 @@
       "2026-11-18": 47
     }
   },
-  "changed": "2026-11-19T05:59:13.335Z"
+  "changed": "2026-11-19T06:04:13.853Z"
 }
