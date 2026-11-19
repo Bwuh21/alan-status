@@ -2590,12 +2590,6 @@
         "since": "2026-11-19 15:29"
       },
       {
-        "n": 1074,
-        "head": "TEST LOBBY: three islands over the phone budget and a second-lap memory reading 0.1 MB over",
-        "lane": "arcade2",
-        "since": "2026-11-19 15:49"
-      },
-      {
         "n": 1086,
         "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done",
         "lane": "arcade2",
@@ -3599,6 +3593,10 @@
         "n": 1127,
         "head": "FOOSBALL: flailing still wins a little, and nearly half its goals are the house scoring on itself",
         "detail": "house shots point-blank into your standing men bounce back into its own net"
+      },
+      {
+        "n": 1128,
+        "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check "
       }
     ],
     "waiting": [
@@ -3620,6 +3618,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1074,
+        "head": "TEST LOBBY: three islands over the phone budget and a second-lap memory reading 0.1 MB over",
+        "date": "2026-11-19"
+      },
       {
         "n": 1068,
         "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen",
@@ -3681,15 +3684,9 @@
         "n": 1046,
         "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1044,
-        "head": "PING PONG: you cannot see the ball well enough",
-        "detail": "the camera, your blade over the incoming ball, the phone card over the table",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 731,
+    "shippedTotal": 732,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3697,8 +3694,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 35
+      "2026-11-19": 36
     }
   },
-  "changed": "2026-11-19T23:24:13.867Z"
+  "changed": "2026-11-19T23:29:13.361Z"
 }
