@@ -2518,12 +2518,6 @@
         "since": "2026-11-18 21:09"
       },
       {
-        "n": 811,
-        "head": "Head or Body: the two top fighters throw the same punches, and nobody has checked the read on a human",
-        "lane": "arcade2",
-        "since": "2026-11-18 19:49"
-      },
-      {
         "n": 816,
         "head": "Sky Spike: a learner who WALKS under the lesson's lob never has to dive",
         "lane": "arcade2",
@@ -3469,7 +3463,7 @@
         "date": "2026-11-18"
       }
     ],
-    "shippedTotal": 689,
+    "shippedTotal": 690,
     "shippedOn": {
       "2026-11-12": 19,
       "2026-11-13": 14,
@@ -3477,8 +3471,8 @@
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
-      "2026-11-18": 40
+      "2026-11-18": 41
     }
   },
-  "changed": "2026-11-19T03:14:14.165Z"
+  "changed": "2026-11-19T03:49:14.036Z"
 }
