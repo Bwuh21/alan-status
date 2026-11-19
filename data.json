@@ -2562,6 +2562,12 @@
         "since": "2026-11-19 12:14"
       },
       {
+        "n": 822,
+        "head": "Strike City island: the ball-return run goes straight through the trophy's plinth",
+        "lane": "arcade",
+        "since": "2026-11-19 12:49"
+      },
+      {
         "n": 986,
         "head": "SLAB CITY 2/3: MAIN ST AND FRONTAGE RD",
         "detail": "the spots the 10-22 dive already rode, placed as city objects",
@@ -2577,10 +2583,6 @@
       }
     ],
     "next": [
-      {
-        "n": 822,
-        "head": "Strike City island: the ball-return run goes straight through the trophy's plinth"
-      },
       {
         "n": 825,
         "head": "the hall: the pool floor sits half a millimetre under the hall floor, and no pixel test can clear it"
@@ -3636,5 +3638,5 @@
       "2026-11-19": 27
     }
   },
-  "changed": "2026-11-19T18:39:15.640Z"
+  "changed": "2026-11-19T18:54:24.494Z"
 }
