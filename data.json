@@ -2561,14 +2561,16 @@
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
         "lane": "arcade",
         "since": "2026-11-19 02:34"
-      }
-    ],
-    "next": [
+      },
       {
         "n": 1055,
         "head": "THE BAR HALL, AIR HOCKEY: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it"
-      },
+        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
+        "lane": "arcade",
+        "since": "2026-11-19 04:34"
+      }
+    ],
+    "next": [
       {
         "n": 1056,
         "head": "THE BAR HALL, DARTS: make it HOT",
@@ -3576,5 +3578,5 @@
       "2026-11-19": 6
     }
   },
-  "changed": "2026-11-19T10:34:13.432Z"
+  "changed": "2026-11-19T10:45:58.276Z"
 }
