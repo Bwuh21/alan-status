@@ -2613,12 +2613,6 @@
         "since": "2026-11-20 08:19"
       },
       {
-        "n": 872,
-        "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it",
-        "lane": "arcade2",
-        "since": "2026-11-20 08:55"
-      },
-      {
         "n": 885,
         "head": "Space Golf: its own with-friends check is dead on today's game",
         "lane": "arcade2",
@@ -3666,6 +3660,10 @@
       {
         "n": 1174,
         "head": "Bowling: the lane prompt should say who is bowling and your place in line, like the tables"
+      },
+      {
+        "n": 1175,
+        "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/"
       }
     ],
     "waiting": [
@@ -3729,6 +3727,11 @@
         "date": "2026-11-20"
       },
       {
+        "n": 872,
+        "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it",
+        "date": "2026-11-20"
+      },
+      {
         "n": 871,
         "head": "Undercroft: the wizard's stress ride stalls on four of six contracts",
         "date": "2026-11-20"
@@ -3742,14 +3745,9 @@
         "n": 862,
         "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go",
         "date": "2026-11-20"
-      },
-      {
-        "n": 858,
-        "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 766,
+    "shippedTotal": 767,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3757,8 +3755,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 19
+      "2026-11-20": 20
     }
   },
-  "changed": "2026-11-20T16:19:13.413Z"
+  "changed": "2026-11-20T17:14:13.797Z"
 }
