@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:14:00.000Z",
+  "updated": "2026-11-20T17:17:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2602,16 +2602,26 @@
           "note": "Live 2026-11-18. Yes, they did, and the fix is in. A big blow freezes the game for a fifth of a second so it lands with weight. With friends, that freeze was stopping the whole shared dungeon: on a friend's screen a…"
         }
       ]
+    },
+    {
+      "title": "A third player walked into a game in progress (row 1150, Zack's playtest 2026-11-19)",
+      "status": "done",
+      "subtasks": [
+        {
+          "text": "Lock a table while a game is on: pool, air hockey, foosball, ping pong, bowling lanes",
+          "status": "done",
+          "note": "Live 2026-11-20. A table in the middle of a game is now locked by the host for everyone. A third player who walks up sees who is playing and a 'Get in line' button. They never get a seat, even if they keep pressing.…"
+        },
+        {
+          "text": "Spectate a game in progress instead of waiting",
+          "status": "todo",
+          "note": "Not built. Filed as row 1171."
+        }
+      ]
     }
   ],
   "stack": {
     "building": [
-      {
-        "n": 1150,
-        "head": "Multiplayer, table lock in EVERY game: a third player walked into a game in progress",
-        "lane": "arcade",
-        "since": "2026-11-20 08:19"
-      },
       {
         "n": 885,
         "head": "Space Golf: its own with-friends check is dead on today's game",
@@ -3658,10 +3668,6 @@
         "head": "Multiplayer: walk-in games and the Undercroft entrance bypass the table lock"
       },
       {
-        "n": 1174,
-        "head": "Bowling: the lane prompt should say who is bowling and your place in line, like the tables"
-      },
-      {
         "n": 1175,
         "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/"
       }
@@ -3686,9 +3692,19 @@
     ],
     "shipped": [
       {
+        "n": 1174,
+        "head": "Bowling: the lane prompt should say who is bowling and your place in line, like the tables",
+        "date": "2026-11-20"
+      },
+      {
         "n": 1159,
         "head": "Toy Fury: players end up \"stuck on either side of the wall, not really playing\"",
         "detail": "dial it back a lot fable",
+        "date": "2026-11-20"
+      },
+      {
+        "n": 1150,
+        "head": "Multiplayer, table lock in EVERY game: a third player walked into a game in progress",
         "date": "2026-11-20"
       },
       {
@@ -3735,19 +3751,9 @@
         "n": 871,
         "head": "Undercroft: the wizard's stress ride stalls on four of six contracts",
         "date": "2026-11-20"
-      },
-      {
-        "n": 867,
-        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
-        "date": "2026-11-20"
-      },
-      {
-        "n": 862,
-        "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 767,
+    "shippedTotal": 769,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3755,8 +3761,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 20
+      "2026-11-20": 22
     }
   },
-  "changed": "2026-11-20T17:14:13.797Z"
+  "changed": "2026-11-20T17:19:13.646Z"
 }
