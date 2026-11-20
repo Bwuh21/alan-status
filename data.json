@@ -2619,12 +2619,6 @@
         "since": "2026-11-20 09:29"
       },
       {
-        "n": 871,
-        "head": "Undercroft: the wizard's stress ride stalls on four of six contracts",
-        "lane": "arcade2",
-        "since": "2026-11-20 08:34"
-      },
-      {
         "n": 872,
         "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it",
         "lane": "arcade2",
@@ -3638,6 +3632,23 @@
       {
         "n": 1166,
         "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags"
+      },
+      {
+        "n": 1167,
+        "head": "Undercroft: in the Hollow Manor the Widow (the gate boss) is sometimes \"unreachable\" to the ride bot, from the tile right beside her"
+      },
+      {
+        "n": 1168,
+        "head": "Undercroft: a wizard out of mana and the Empty Armour stand 4 m apart doing nothing"
+      },
+      {
+        "n": 1169,
+        "head": "Undercroft: the gate check's \"the sign reads whole, not HE GUILD\" leg passes or fails depending on where the walk stops"
+      },
+      {
+        "n": 1170,
+        "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
+        "detail": "foes that never hit the bench bot"
       }
     ],
     "waiting": [
@@ -3701,6 +3712,11 @@
         "date": "2026-11-20"
       },
       {
+        "n": 871,
+        "head": "Undercroft: the wizard's stress ride stalls on four of six contracts",
+        "date": "2026-11-20"
+      },
+      {
         "n": 867,
         "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
         "date": "2026-11-20"
@@ -3714,14 +3730,9 @@
         "n": 858,
         "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)",
         "date": "2026-11-20"
-      },
-      {
-        "n": 857,
-        "head": "Undercroft: the SOLO walk-in measure reads its phone lane with the controls card up (row 670, 2026-11-16)",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 765,
+    "shippedTotal": 766,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3729,8 +3740,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 18
+      "2026-11-20": 19
     }
   },
-  "changed": "2026-11-20T15:34:14.917Z"
+  "changed": "2026-11-20T15:39:13.280Z"
 }
