@@ -2633,6 +2633,12 @@
         "head": "Space Golf: the frame-rate check only flies tee drives",
         "lane": "arcade2",
         "since": "2026-11-20 11:25"
+      },
+      {
+        "n": 887,
+        "head": "Space Golf: four old-game leftovers in dev/ were not triaged",
+        "lane": "arcade2",
+        "since": "2026-11-20 11:44"
       }
     ],
     "next": [
@@ -3094,10 +3100,6 @@
       {
         "n": 884,
         "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing"
-      },
-      {
-        "n": 887,
-        "head": "Space Golf: four old-game leftovers in dev/ were not triaged"
       },
       {
         "n": 888,
@@ -3762,5 +3764,5 @@
       "2026-11-20": 23
     }
   },
-  "changed": "2026-11-20T17:44:15.310Z"
+  "changed": "2026-11-20T17:49:15.423Z"
 }
