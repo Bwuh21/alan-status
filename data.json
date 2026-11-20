@@ -2597,22 +2597,10 @@
   "stack": {
     "building": [
       {
-        "n": 1069,
-        "head": "BAR HALL CHECKS RED ON THE OLD BUILD TOO: Rusty's chest 24 mm into the counter top while he polishes, and the boot check still looking for a",
-        "lane": "arcade",
-        "since": "2026-11-20 01:19"
-      },
-      {
         "n": 1070,
         "head": "BAR POOL: prove two friends see the same rack",
         "lane": "arcade",
         "since": "2026-11-20 01:24"
-      },
-      {
-        "n": 847,
-        "head": "an Undercroft bench's \"slow phone\" switch measures a game nobody plays",
-        "lane": "arcade2",
-        "since": "2026-11-20 01:19"
       },
       {
         "n": 851,
@@ -3617,6 +3605,11 @@
     ],
     "shipped": [
       {
+        "n": 1069,
+        "head": "BAR HALL CHECKS RED ON THE OLD BUILD TOO: Rusty's chest 24 mm into the counter top while he polishes, and the boot check still looking for a",
+        "date": "2026-11-20"
+      },
+      {
         "n": 1066,
         "head": "SKATE PARK: 8 spots where you walk 7+ cm off the drawn ground",
         "date": "2026-11-20"
@@ -3629,6 +3622,11 @@
       {
         "n": 1052,
         "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not",
+        "date": "2026-11-20"
+      },
+      {
+        "n": 847,
+        "head": "an Undercroft bench's \"slow phone\" switch measures a game nobody plays",
         "date": "2026-11-20"
       },
       {
@@ -3667,20 +3665,9 @@
         "head": "TOY FURY: YOU FALL APART",
         "detail": "every lost panel pops a real part off your car and it drives a little worse, so careless driving costs you and you can SEE it",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1063,
-        "head": "THE BAR HALL: make it feel COZY even though it is big",
-        "detail": "warm pools of light, filled corners, tavern walls",
-        "date": "2026-11-19"
-      },
-      {
-        "n": 1062,
-        "head": "THE BAR HALL, BOWLING: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seating behind the ball retu",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 753,
+    "shippedTotal": 755,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3688,8 +3675,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 6
+      "2026-11-20": 8
     }
   },
-  "changed": "2026-11-20T07:38:11.507Z"
+  "changed": "2026-11-20T07:59:13.774Z"
 }
