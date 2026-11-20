@@ -2577,12 +2577,6 @@
   "stack": {
     "building": [
       {
-        "n": 865,
-        "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle",
-        "lane": "arcade2",
-        "since": "2026-11-19 18:59"
-      },
-      {
         "n": 900,
         "head": "Head or Body: STUDY HIM never tells you he has been faking you",
         "lane": "arcade2",
@@ -2593,13 +2587,15 @@
         "head": "Toy Fury: a friends-race wreck cannot reach the server, and the dive was wrong about why",
         "lane": "arcade",
         "since": "2026-11-19 15:29"
+      },
+      {
+        "n": 592,
+        "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand",
+        "lane": "arcade",
+        "since": "2026-11-19 19:24"
       }
     ],
     "next": [
-      {
-        "n": 592,
-        "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand"
-      },
       {
         "n": 593,
         "head": "Toy house lobby: the camera can still end up outside the room (front door, and the garage)"
@@ -3678,7 +3674,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 734,
+    "shippedTotal": 735,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3686,8 +3682,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 38
+      "2026-11-19": 39
     }
   },
-  "changed": "2026-11-20T01:19:13.538Z"
+  "changed": "2026-11-20T01:29:13.611Z"
 }
