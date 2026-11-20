@@ -2593,6 +2593,12 @@
         "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand",
         "lane": "arcade",
         "since": "2026-11-19 19:24"
+      },
+      {
+        "n": 819,
+        "head": "Comet Clash: the release snap is unproven on a friend's screen, and the wind-up comet still floats off the hand",
+        "lane": "arcade2",
+        "since": "2026-11-19 19:29"
       }
     ],
     "next": [
@@ -2982,10 +2988,6 @@
       {
         "n": 815,
         "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check"
-      },
-      {
-        "n": 819,
-        "head": "Comet Clash: the release snap is unproven on a friend's screen, and the wind-up comet still floats off the hand"
       },
       {
         "n": 820,
@@ -3685,5 +3687,5 @@
       "2026-11-19": 39
     }
   },
-  "changed": "2026-11-20T01:29:13.611Z"
+  "changed": "2026-11-20T01:34:14.113Z"
 }
