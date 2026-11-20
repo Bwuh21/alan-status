@@ -2603,17 +2603,25 @@
         "since": "2026-11-20 01:19"
       },
       {
+        "n": 1070,
+        "head": "BAR POOL: prove two friends see the same rack",
+        "lane": "arcade",
+        "since": "2026-11-20 01:24"
+      },
+      {
         "n": 847,
         "head": "an Undercroft bench's \"slow phone\" switch measures a game nobody plays",
         "lane": "arcade2",
         "since": "2026-11-20 01:19"
+      },
+      {
+        "n": 851,
+        "head": "Blend In: the solo shift pays nothing",
+        "lane": "arcade2",
+        "since": "2026-11-20 01:24"
       }
     ],
     "next": [
-      {
-        "n": 1070,
-        "head": "BAR POOL: prove two friends see the same rack"
-      },
       {
         "n": 1071,
         "head": "BAR POOL: the free practice house is too strong for a first rack"
@@ -2984,10 +2992,6 @@
       {
         "n": 845,
         "head": "the pot banner has faded before the second bowler has looked up"
-      },
-      {
-        "n": 851,
-        "head": "Blend In: the solo shift pays nothing"
       },
       {
         "n": 852,
@@ -3687,5 +3691,5 @@
       "2026-11-20": 6
     }
   },
-  "changed": "2026-11-20T07:24:13.421Z"
+  "changed": "2026-11-20T07:38:11.507Z"
 }
