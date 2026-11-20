@@ -2662,12 +2662,6 @@
         "since": "2026-11-20 14:59"
       },
       {
-        "n": 916,
-        "head": "Dodgeball: two party lines in smooth-check read the machine, not the game",
-        "lane": "arcade2",
-        "since": "2026-11-20 14:39"
-      },
-      {
         "n": 927,
         "head": "DodgeFall's 3D page carries the shared picture-stopped guard but the canary has never opened it",
         "lane": "arcade2",
@@ -3760,7 +3754,7 @@
         "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 778,
+    "shippedTotal": 779,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3768,8 +3762,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 31
+      "2026-11-20": 32
     }
   },
-  "changed": "2026-11-20T21:09:51.585Z"
+  "changed": "2026-11-20T21:29:15.675Z"
 }
