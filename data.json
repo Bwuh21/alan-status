@@ -2594,12 +2594,6 @@
         "since": "2026-11-19 20:49"
       },
       {
-        "n": 836,
-        "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level",
-        "lane": "arcade2",
-        "since": "2026-11-19 20:29"
-      },
-      {
         "n": 837,
         "head": "five of the Undercroft's seven bosses have never been through the combat bench, and the archer is benched as a swordsman",
         "lane": "arcade2",
@@ -3568,6 +3562,11 @@
       {
         "n": 1132,
         "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding"
+      },
+      {
+        "n": 1133,
+        "head": "Undercroft: the wizard's parry lance lands but barely shows",
+        "detail": "the boss is often behind the lens at that instant and the beam is six small sparks"
       }
     ],
     "waiting": [
@@ -3657,7 +3656,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 742,
+    "shippedTotal": 743,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3665,8 +3664,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 46
+      "2026-11-19": 47
     }
   },
-  "changed": "2026-11-20T02:54:14.004Z"
+  "changed": "2026-11-20T03:44:13.864Z"
 }
