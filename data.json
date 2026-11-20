@@ -2613,6 +2613,12 @@
         "head": "Undercroft: the SOLO walk-in measure reads its phone lane with the controls card up (row 670, 2026-11-16)",
         "lane": "arcade2",
         "since": "2026-11-20 04:14"
+      },
+      {
+        "n": 858,
+        "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)",
+        "lane": "arcade2",
+        "since": "2026-11-20 04:54"
       }
     ],
     "next": [
@@ -2998,10 +3004,6 @@
       {
         "n": 855,
         "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)"
-      },
-      {
-        "n": 858,
-        "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)"
       },
       {
         "n": 861,
@@ -3679,5 +3681,5 @@
       "2026-11-20": 10
     }
   },
-  "changed": "2026-11-20T10:54:29.901Z"
+  "changed": "2026-11-20T10:59:13.381Z"
 }
