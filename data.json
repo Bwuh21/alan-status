@@ -2650,12 +2650,6 @@
   "stack": {
     "building": [
       {
-        "n": 1154,
-        "head": "Tutorials: teach seamlessly, without overwhelming or interrupting fable",
-        "lane": "arcade",
-        "since": "2026-11-20 13:04"
-      },
-      {
         "n": 1155,
         "head": "Toy Fury tutorial: far too much at once, \"like they were on acid\" fable",
         "lane": "arcade",
@@ -3664,6 +3658,23 @@
       {
         "n": 1179,
         "head": "Multiplayer: move the backup relay off the work laptop onto the rented server"
+      },
+      {
+        "n": 1181,
+        "head": "Skin Kick: the old lesson check reads the first lesson, which is now three prompts"
+      },
+      {
+        "n": 1182,
+        "head": "Volleyball: the dive, the tip and the block are now only behind \"?\"",
+        "detail": "nudge each one once, when the ball asks for it"
+      },
+      {
+        "n": 1183,
+        "head": "Bowling: no check walks to the ball return between balls, and none runs the lane sideways"
+      },
+      {
+        "n": 1184,
+        "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
       }
     ],
     "waiting": [
@@ -3699,6 +3710,11 @@
       {
         "n": 1156,
         "head": "Replace foosball with TABLE SHUFFLEBOARD in the bar fable",
+        "date": "2026-11-20"
+      },
+      {
+        "n": 1154,
+        "head": "Tutorials: teach seamlessly, without overwhelming or interrupting fable",
         "date": "2026-11-20"
       },
       {
@@ -3740,14 +3756,9 @@
         "n": 1066,
         "head": "SKATE PARK: 8 spots where you walk 7+ cm off the drawn ground",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1065,
-        "head": "RACE GATE: the last 3 orange-strip points you walk through, and a 7 cm seam on the climb",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 777,
+    "shippedTotal": 778,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3755,8 +3766,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 30
+      "2026-11-20": 31
     }
   },
-  "changed": "2026-11-20T20:44:19.183Z"
+  "changed": "2026-11-20T20:59:13.838Z"
 }
