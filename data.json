@@ -2640,6 +2640,12 @@
         "since": "2026-11-20 11:19"
       },
       {
+        "n": 1153,
+        "head": "Multiplayer smoothness: measure it, and answer whether we need to buy anything fable",
+        "lane": "arcade",
+        "since": "2026-11-20 12:29"
+      },
+      {
         "n": 890,
         "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake",
         "lane": "arcade2",
@@ -2653,10 +2659,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1153,
-        "head": "Multiplayer smoothness: measure it, and answer whether we need to buy anything fable"
-      },
       {
         "n": 1154,
         "head": "Tutorials: teach seamlessly, without overwhelming or interrupting fable"
@@ -3759,5 +3761,5 @@
       "2026-11-20": 26
     }
   },
-  "changed": "2026-11-20T18:29:19.717Z"
+  "changed": "2026-11-20T18:34:15.743Z"
 }
