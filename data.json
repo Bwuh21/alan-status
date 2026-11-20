@@ -2597,23 +2597,19 @@
   "stack": {
     "building": [
       {
-        "n": 1067,
-        "head": "BOWLING ISLAND (lobby): the giant ball rack and rental shoes on the outside still advertise what the hall no longer has",
+        "n": 1069,
+        "head": "BAR HALL CHECKS RED ON THE OLD BUILD TOO: Rusty's chest 24 mm into the counter top while he polishes, and the boot check still looking for a",
         "lane": "arcade",
-        "since": "2026-11-20 00:04"
+        "since": "2026-11-20 01:19"
       },
       {
-        "n": 846,
-        "head": "the Undercroft smoke test cannot boot the game: it waits for a hook the game no longer has",
+        "n": 847,
+        "head": "an Undercroft bench's \"slow phone\" switch measures a game nobody plays",
         "lane": "arcade2",
-        "since": "2026-11-20 00:04"
+        "since": "2026-11-20 01:19"
       }
     ],
     "next": [
-      {
-        "n": 1069,
-        "head": "BAR HALL CHECKS RED ON THE OLD BUILD TOO: Rusty's chest 24 mm into the counter top while he polishes, and the boot check still looking for a"
-      },
       {
         "n": 1070,
         "head": "BAR POOL: prove two friends see the same rack"
@@ -2988,10 +2984,6 @@
       {
         "n": 845,
         "head": "the pot banner has faded before the second bowler has looked up"
-      },
-      {
-        "n": 847,
-        "head": "an Undercroft bench's \"slow phone\" switch measures a game nobody plays"
       },
       {
         "n": 851,
@@ -3636,6 +3628,12 @@
         "date": "2026-11-20"
       },
       {
+        "n": 846,
+        "head": "exit 0 at HEAD, RIDE_PLANT=throw exit 1)",
+        "detail": "the Undercroft smoke test cannot boot the game: it waits for a hook the game no longer has",
+        "date": "2026-11-20"
+      },
+      {
         "n": 843,
         "head": "157 one-look Undercroft checks put a foe on the floor with no blind count",
         "date": "2026-11-20"
@@ -3676,15 +3674,9 @@
         "n": 1062,
         "head": "THE BAR HALL, BOWLING: take out the snack-bar guy, the pick-your-own-ball rack and the shoe guy, and shrink the seating behind the ball retu",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1058,
-        "head": "SKATING: make the skating itself better",
-        "detail": "the push, the turn, the pop, the grind, the landing (Zack at the keyboard 2026-11-19: \"making it more city style skating than just one skate park and making the skating better\") region-skate",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 752,
+    "shippedTotal": 753,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3692,8 +3684,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 5
+      "2026-11-20": 6
     }
   },
-  "changed": "2026-11-20T07:19:13.381Z"
+  "changed": "2026-11-20T07:24:13.421Z"
 }
