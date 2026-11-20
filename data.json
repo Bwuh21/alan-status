@@ -2607,18 +2607,6 @@
         "head": "BAR POOL: the free practice house is too strong for a first rack",
         "lane": "arcade",
         "since": "2026-11-20 01:59"
-      },
-      {
-        "n": 857,
-        "head": "Undercroft: the SOLO walk-in measure reads its phone lane with the controls card up (row 670, 2026-11-16)",
-        "lane": "arcade2",
-        "since": "2026-11-20 04:14"
-      },
-      {
-        "n": 858,
-        "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)",
-        "lane": "arcade2",
-        "since": "2026-11-20 04:54"
       }
     ],
     "next": [
@@ -3004,6 +2992,10 @@
       {
         "n": 855,
         "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)"
+      },
+      {
+        "n": 858,
+        "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)"
       },
       {
         "n": 861,
@@ -3629,6 +3621,11 @@
         "date": "2026-11-20"
       },
       {
+        "n": 857,
+        "head": "Undercroft: the SOLO walk-in measure reads its phone lane with the controls card up (row 670, 2026-11-16)",
+        "date": "2026-11-20"
+      },
+      {
         "n": 856,
         "head": "Undercroft: on a phone in a party, the boss's name wraps to two lines and lands on the party line (row 670, 2026-11-16)",
         "date": "2026-11-20"
@@ -3663,14 +3660,9 @@
         "n": 1086,
         "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1074,
-        "head": "TEST LOBBY: three islands over the phone budget and a second-lap memory reading 0.1 MB over",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 757,
+    "shippedTotal": 758,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3678,8 +3670,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 10
+      "2026-11-20": 11
     }
   },
-  "changed": "2026-11-20T10:59:13.381Z"
+  "changed": "2026-11-20T11:09:29.226Z"
 }
