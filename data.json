@@ -2656,10 +2656,10 @@
         "since": "2026-11-20 13:54"
       },
       {
-        "n": 908,
-        "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has",
-        "lane": "arcade2",
-        "since": "2026-11-20 13:54"
+        "n": 1157,
+        "head": "Ping pong: the paddle must be IN THE PLAYER'S HAND, with the arm swinging it fable",
+        "lane": "arcade",
+        "since": "2026-11-20 14:59"
       },
       {
         "n": 916,
@@ -2669,10 +2669,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1157,
-        "head": "Ping pong: the paddle must be IN THE PLAYER'S HAND, with the arm swinging it fable"
-      },
       {
         "n": 1158,
         "head": "Skate (Slab City): there is no FLIP, and players glitch past the map edges and into ramps"
@@ -3675,6 +3671,10 @@
       {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
+      },
+      {
+        "n": 1186,
+        "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)"
       }
     ],
     "waiting": [
@@ -3769,5 +3769,5 @@
       "2026-11-20": 31
     }
   },
-  "changed": "2026-11-20T20:59:13.838Z"
+  "changed": "2026-11-20T21:04:13.867Z"
 }
