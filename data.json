@@ -3407,11 +3407,8 @@
       },
       {
         "n": 1101,
-        "head": "FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend'"
-      },
-      {
-        "n": 1102,
-        "head": "FOOSBALL on a desk: a held shot (0.4 s) or a Space shot strikes at 8 m/s but the ball never moves (peak 0.00) in the desk check, and it fail"
+        "head": "(row 1176, 11-20: the FOOSBALL half is moot",
+        "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m"
       },
       {
         "n": 1103,
@@ -3514,11 +3511,6 @@
         "n": 1126,
         "head": "Slab City: three skate checks are red at HEAD before any edit",
         "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate"
-      },
-      {
-        "n": 1127,
-        "head": "FOOSBALL: flailing still wins a little, and nearly half its goals are the house scoring on itself",
-        "detail": "house shots point-blank into your standing men bounce back into its own net"
       },
       {
         "n": 1128,
@@ -3770,5 +3762,5 @@
       "2026-11-20": 28
     }
   },
-  "changed": "2026-11-20T19:59:13.608Z"
+  "changed": "2026-11-20T20:10:17.424Z"
 }
