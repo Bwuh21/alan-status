@@ -2598,6 +2598,12 @@
         "head": "a dead bench knight is carried home 3.6 seconds later, in the middle of the next fight",
         "lane": "arcade2",
         "since": "2026-11-19 21:49"
+      },
+      {
+        "n": 842,
+        "head": "two Undercroft checks are red or dead on the committed build and nobody is told",
+        "lane": "arcade2",
+        "since": "2026-11-19 22:24"
       }
     ],
     "next": [
@@ -2987,10 +2993,6 @@
       {
         "n": 840,
         "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away"
-      },
-      {
-        "n": 842,
-        "head": "two Undercroft checks are red or dead on the committed build and nobody is told"
       },
       {
         "n": 843,
@@ -3678,5 +3680,5 @@
       "2026-11-19": 49
     }
   },
-  "changed": "2026-11-20T04:24:13.926Z"
+  "changed": "2026-11-20T04:29:13.975Z"
 }
