@@ -2583,6 +2583,12 @@
         "since": "2026-11-19 18:59"
       },
       {
+        "n": 900,
+        "head": "Head or Body: STUDY HIM never tells you he has been faking you",
+        "lane": "arcade2",
+        "since": "2026-11-19 19:09"
+      },
+      {
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs",
@@ -2597,10 +2603,6 @@
       }
     ],
     "next": [
-      {
-        "n": 900,
-        "head": "Head or Body: STUDY HIM never tells you he has been faking you"
-      },
       {
         "n": 592,
         "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand"
@@ -3694,5 +3696,5 @@
       "2026-11-19": 37
     }
   },
-  "changed": "2026-11-20T01:04:13.650Z"
+  "changed": "2026-11-20T01:14:13.809Z"
 }
