@@ -2633,6 +2633,12 @@
         "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake",
         "lane": "arcade2",
         "since": "2026-11-20 12:15"
+      },
+      {
+        "n": 892,
+        "head": "Head or Body: BRUTAL is barely harder than HARD",
+        "lane": "arcade2",
+        "since": "2026-11-20 12:19"
       }
     ],
     "next": [
@@ -3103,10 +3109,6 @@
         "n": 891,
         "head": "WAITS ON HIS WORD",
         "detail": "Auras: the Uncommon flame all but vanishes on a white floor"
-      },
-      {
-        "n": 892,
-        "head": "Head or Body: BRUTAL is barely harder than HARD"
       },
       {
         "n": 894,
@@ -3754,5 +3756,5 @@
       "2026-11-20": 25
     }
   },
-  "changed": "2026-11-20T18:19:13.984Z"
+  "changed": "2026-11-20T18:24:14.013Z"
 }
