@@ -2577,16 +2577,16 @@
   "stack": {
     "building": [
       {
-        "n": 900,
-        "head": "Head or Body: STUDY HIM never tells you he has been faking you",
-        "lane": "arcade2",
-        "since": "2026-11-19 19:09"
-      },
-      {
         "n": 592,
         "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand",
         "lane": "arcade",
         "since": "2026-11-19 19:24"
+      },
+      {
+        "n": 593,
+        "head": "Toy house lobby: the camera can still end up outside the room (front door, and the garage)",
+        "lane": "arcade",
+        "since": "2026-11-19 19:39"
       },
       {
         "n": 819,
@@ -2596,10 +2596,6 @@
       }
     ],
     "next": [
-      {
-        "n": 593,
-        "head": "Toy house lobby: the camera can still end up outside the room (front door, and the garage)"
-      },
       {
         "n": 595,
         "head": "18 places in the toy house where one prop sits inside another"
@@ -3670,7 +3666,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 736,
+    "shippedTotal": 737,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3678,8 +3674,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 40
+      "2026-11-19": 41
     }
   },
-  "changed": "2026-11-20T01:39:13.685Z"
+  "changed": "2026-11-20T01:44:14.516Z"
 }
