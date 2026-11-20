@@ -2603,17 +2603,25 @@
         "since": "2026-11-20 01:24"
       },
       {
+        "n": 1071,
+        "head": "BAR POOL: the free practice house is too strong for a first rack",
+        "lane": "arcade",
+        "since": "2026-11-20 01:59"
+      },
+      {
         "n": 851,
         "head": "Blend In: the solo shift pays nothing",
         "lane": "arcade2",
         "since": "2026-11-20 01:24"
+      },
+      {
+        "n": 856,
+        "head": "Undercroft: on a phone in a party, the boss's name wraps to two lines and lands on the party line (row 670, 2026-11-16)",
+        "lane": "arcade2",
+        "since": "2026-11-20 01:59"
       }
     ],
     "next": [
-      {
-        "n": 1071,
-        "head": "BAR POOL: the free practice house is too strong for a first rack"
-      },
       {
         "n": 1072,
         "head": "BAR POOL: a tray of the balls you have sunk, and an aim line you can see on a phone"
@@ -2996,10 +3004,6 @@
       {
         "n": 855,
         "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)"
-      },
-      {
-        "n": 856,
-        "head": "Undercroft: on a phone in a party, the boss's name wraps to two lines and lands on the party line (row 670, 2026-11-16)"
       },
       {
         "n": 857,
@@ -3678,5 +3682,5 @@
       "2026-11-20": 8
     }
   },
-  "changed": "2026-11-20T07:59:13.774Z"
+  "changed": "2026-11-20T08:04:19.081Z"
 }
