@@ -2597,12 +2597,6 @@
   "stack": {
     "building": [
       {
-        "n": 1070,
-        "head": "BAR POOL: prove two friends see the same rack",
-        "lane": "arcade",
-        "since": "2026-11-20 01:24"
-      },
-      {
         "n": 1071,
         "head": "BAR POOL: the free practice house is too strong for a first rack",
         "lane": "arcade",
@@ -3677,5 +3671,5 @@
       "2026-11-20": 11
     }
   },
-  "changed": "2026-11-20T11:14:33.167Z"
+  "changed": "2026-11-20T12:30:44.667Z"
 }
