@@ -2623,6 +2623,12 @@
         "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
         "lane": "arcade2",
         "since": "2026-11-20 07:44"
+      },
+      {
+        "n": 871,
+        "head": "Undercroft: the wizard's stress ride stalls on four of six contracts",
+        "lane": "arcade2",
+        "since": "2026-11-20 08:34"
       }
     ],
     "next": [
@@ -3068,10 +3074,6 @@
       {
         "n": 870,
         "head": "Cabinet studio shooter: tall machines lose their tops on a desk frame, and the pass bar sits 1 point under the thinnest real view"
-      },
-      {
-        "n": 871,
-        "head": "Undercroft: the wizard's stress ride stalls on four of six contracts"
       },
       {
         "n": 872,
@@ -3734,5 +3736,5 @@
       "2026-11-20": 16
     }
   },
-  "changed": "2026-11-20T14:30:12.848Z"
+  "changed": "2026-11-20T14:39:21.204Z"
 }
