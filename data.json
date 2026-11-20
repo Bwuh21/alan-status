@@ -3587,6 +3587,14 @@
       {
         "n": 1146,
         "head": "Undercroft: prove one check that keeps stepping more than 3.6 real seconds after a death in one run"
+      },
+      {
+        "n": 1147,
+        "head": "Blend In: the house bot wedges on the counters chasing a player who stands still"
+      },
+      {
+        "n": 1148,
+        "head": "Blend In: check.mjs \"the wind-up lands\" and \"from the blind side\" fail about one run in two, on the committed copy too"
       }
     ],
     "waiting": [
@@ -3682,5 +3690,5 @@
       "2026-11-20": 8
     }
   },
-  "changed": "2026-11-20T08:04:19.081Z"
+  "changed": "2026-11-20T09:29:33.776Z"
 }
