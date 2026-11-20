@@ -2602,6 +2602,13 @@
   "stack": {
     "building": [
       {
+        "n": 1159,
+        "head": "Toy Fury: players end up \"stuck on either side of the wall, not really playing\"",
+        "detail": "dial it back a lot fable",
+        "lane": "arcade2",
+        "since": "2026-11-20 07:10"
+      },
+      {
         "n": 1071,
         "head": "BAR POOL: the free practice house is too strong for a first rack",
         "lane": "arcade",
@@ -2654,11 +2661,6 @@
       {
         "n": 1158,
         "head": "Skate (Slab City): there is no FLIP, and players glitch past the map edges and into ramps"
-      },
-      {
-        "n": 1159,
-        "head": "Toy Fury: players end up \"stuck on either side of the wall, not really playing\"",
-        "detail": "dial it back a lot fable"
       },
       {
         "n": 1160,
@@ -3723,5 +3725,5 @@
       "2026-11-20": 13
     }
   },
-  "changed": "2026-11-20T13:04:24.571Z"
+  "changed": "2026-11-20T13:14:30.318Z"
 }
