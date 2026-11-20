@@ -2619,12 +2619,6 @@
         "since": "2026-11-20 08:19"
       },
       {
-        "n": 867,
-        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
-        "lane": "arcade2",
-        "since": "2026-11-20 07:44"
-      },
-      {
         "n": 871,
         "head": "Undercroft: the wizard's stress ride stalls on four of six contracts",
         "lane": "arcade2",
@@ -3700,6 +3694,11 @@
         "date": "2026-11-20"
       },
       {
+        "n": 867,
+        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
+        "date": "2026-11-20"
+      },
+      {
         "n": 862,
         "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go",
         "date": "2026-11-20"
@@ -3718,14 +3717,9 @@
         "n": 856,
         "head": "Undercroft: on a phone in a party, the boss's name wraps to two lines and lands on the party line (row 670, 2026-11-16)",
         "date": "2026-11-20"
-      },
-      {
-        "n": 851,
-        "head": "Blend In: the solo shift pays nothing",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 763,
+    "shippedTotal": 764,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3733,8 +3727,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 16
+      "2026-11-20": 17
     }
   },
-  "changed": "2026-11-20T14:39:21.204Z"
+  "changed": "2026-11-20T14:54:24.347Z"
 }
