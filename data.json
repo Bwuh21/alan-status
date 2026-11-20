@@ -2588,6 +2588,12 @@
         "since": "2026-11-19 20:09"
       },
       {
+        "n": 1053,
+        "head": "SKATE PARK: the plaza deck, the funbox, the kickers and the mega's top are drawn 1.5-7 cm off what the board rides",
+        "lane": "arcade",
+        "since": "2026-11-19 20:49"
+      },
+      {
         "n": 836,
         "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level",
         "lane": "arcade2",
@@ -2601,10 +2607,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1053,
-        "head": "SKATE PARK: the plaza deck, the funbox, the kickers and the mega's top are drawn 1.5-7 cm off what the board rides"
-      },
       {
         "n": 1052,
         "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not"
@@ -3666,5 +3668,5 @@
       "2026-11-19": 46
     }
   },
-  "changed": "2026-11-20T02:39:15.163Z"
+  "changed": "2026-11-20T02:54:14.004Z"
 }
