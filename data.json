@@ -2666,6 +2666,12 @@
         "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has",
         "lane": "arcade2",
         "since": "2026-11-20 13:54"
+      },
+      {
+        "n": 916,
+        "head": "Dodgeball: two party lines in smooth-check read the machine, not the game",
+        "lane": "arcade2",
+        "since": "2026-11-20 14:39"
       }
     ],
     "next": [
@@ -3152,10 +3158,6 @@
       {
         "n": 911,
         "head": "the band check's \"published band is the row the toast dodges\" line flakes on Cloud Street sideways: pass, FAIL, pass on one unchanged tree"
-      },
-      {
-        "n": 916,
-        "head": "Dodgeball: two party lines in smooth-check read the machine, not the game"
       },
       {
         "n": 917,
@@ -3756,5 +3758,5 @@
       "2026-11-20": 30
     }
   },
-  "changed": "2026-11-20T20:34:15.899Z"
+  "changed": "2026-11-20T20:44:19.183Z"
 }
