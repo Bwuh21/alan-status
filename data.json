@@ -2662,12 +2662,6 @@
         "since": "2026-11-20 13:04"
       },
       {
-        "n": 892,
-        "head": "Head or Body: BRUTAL is barely harder than HARD",
-        "lane": "arcade2",
-        "since": "2026-11-20 12:19"
-      },
-      {
         "n": 896,
         "head": "Double Out: on a sideways phone the board is a postage stamp, 88 px across",
         "lane": "arcade2",
@@ -3769,5 +3763,5 @@
       "2026-11-20": 27
     }
   },
-  "changed": "2026-11-20T19:09:14.204Z"
+  "changed": "2026-11-20T19:19:26.844Z"
 }
