@@ -2656,17 +2656,25 @@
         "since": "2026-11-20 14:59"
       },
       {
+        "n": 1158,
+        "head": "Skate (Slab City): there is no FLIP, and players glitch past the map edges and into ramps",
+        "lane": "arcade",
+        "since": "2026-11-20 15:34"
+      },
+      {
         "n": 927,
         "head": "DodgeFall's 3D page carries the shared picture-stopped guard but the canary has never opened it",
         "lane": "arcade2",
         "since": "2026-11-20 15:04"
+      },
+      {
+        "n": 938,
+        "head": "Dodgeball: five tuning harnesses are red on the committed build, and one of them exits 0 while printing FAILED",
+        "lane": "arcade2",
+        "since": "2026-11-20 15:34"
       }
     ],
     "next": [
-      {
-        "n": 1158,
-        "head": "Skate (Slab City): there is no FLIP, and players glitch past the map edges and into ramps"
-      },
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air"
@@ -3182,10 +3190,6 @@
       {
         "n": 937,
         "head": "four game harnesses die on \"NO SIGN OF LIFE\" before they finish, on the committed build"
-      },
-      {
-        "n": 938,
-        "head": "Dodgeball: five tuning harnesses are red on the committed build, and one of them exits 0 while printing FAILED"
       },
       {
         "n": 940,
@@ -3772,5 +3776,5 @@
       "2026-11-20": 33
     }
   },
-  "changed": "2026-11-20T21:34:14.256Z"
+  "changed": "2026-11-20T21:39:14.579Z"
 }
