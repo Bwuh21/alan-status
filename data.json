@@ -2594,10 +2594,10 @@
         "since": "2026-11-19 20:09"
       },
       {
-        "n": 826,
-        "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard",
+        "n": 836,
+        "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level",
         "lane": "arcade2",
-        "since": "2026-11-19 20:04"
+        "since": "2026-11-19 20:29"
       }
     ],
     "next": [
@@ -2991,10 +2991,6 @@
       {
         "n": 824,
         "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair"
-      },
-      {
-        "n": 836,
-        "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level"
       },
       {
         "n": 837,
@@ -3659,7 +3655,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 740,
+    "shippedTotal": 741,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3667,8 +3663,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 44
+      "2026-11-19": 45
     }
   },
-  "changed": "2026-11-20T02:24:14.349Z"
+  "changed": "2026-11-20T02:34:13.956Z"
 }
