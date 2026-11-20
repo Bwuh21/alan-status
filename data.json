@@ -2582,12 +2582,6 @@
   "stack": {
     "building": [
       {
-        "n": 593,
-        "head": "Toy house lobby: the camera can still end up outside the room (front door, and the garage)",
-        "lane": "arcade",
-        "since": "2026-11-19 19:39"
-      },
-      {
         "n": 595,
         "head": "18 places in the toy house where one prop sits inside another",
         "lane": "arcade",
@@ -2598,6 +2592,12 @@
         "head": "the Undercroft's wizard cannot beat a boss: 0 wins in 24 at every skill level",
         "lane": "arcade2",
         "since": "2026-11-19 20:29"
+      },
+      {
+        "n": 837,
+        "head": "five of the Undercroft's seven bosses have never been through the combat bench, and the archer is benched as a swordsman",
+        "lane": "arcade2",
+        "since": "2026-11-19 20:34"
       }
     ],
     "next": [
@@ -2991,10 +2991,6 @@
       {
         "n": 824,
         "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair"
-      },
-      {
-        "n": 837,
-        "head": "five of the Undercroft's seven bosses have never been through the combat bench, and the archer is benched as a swordsman"
       },
       {
         "n": 840,
@@ -3566,6 +3562,10 @@
       {
         "n": 1130,
         "head": "Barn Burner: the first-visit card says \"shots from in close beat him most\", and at full strength the moving-keeper numbers say the opposite"
+      },
+      {
+        "n": 1132,
+        "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding"
       }
     ],
     "waiting": [
@@ -3655,7 +3655,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 741,
+    "shippedTotal": 742,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3663,8 +3663,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 45
+      "2026-11-19": 46
     }
   },
-  "changed": "2026-11-20T02:34:13.956Z"
+  "changed": "2026-11-20T02:39:15.163Z"
 }
