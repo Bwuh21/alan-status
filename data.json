@@ -2666,6 +2666,12 @@
         "head": "Dodgeball: two party lines in smooth-check read the machine, not the game",
         "lane": "arcade2",
         "since": "2026-11-20 14:39"
+      },
+      {
+        "n": 927,
+        "head": "DodgeFall's 3D page carries the shared picture-stopped guard but the canary has never opened it",
+        "lane": "arcade2",
+        "since": "2026-11-20 15:04"
       }
     ],
     "next": [
@@ -3172,10 +3178,6 @@
       {
         "n": 926,
         "head": "A game that cannot GET a graphics context at all still shows nothing: the shared guard only covers one that was taken away"
-      },
-      {
-        "n": 927,
-        "head": "DodgeFall's 3D page carries the shared picture-stopped guard but the canary has never opened it"
       },
       {
         "n": 931,
@@ -3769,5 +3771,5 @@
       "2026-11-20": 31
     }
   },
-  "changed": "2026-11-20T21:04:13.867Z"
+  "changed": "2026-11-20T21:09:51.585Z"
 }
