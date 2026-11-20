@@ -2603,6 +2603,12 @@
         "head": "two Undercroft checks are red or dead on the committed build and nobody is told",
         "lane": "arcade2",
         "since": "2026-11-19 22:24"
+      },
+      {
+        "n": 843,
+        "head": "157 one-look Undercroft checks put a foe on the floor with no blind count",
+        "lane": "arcade2",
+        "since": "2026-11-19 23:29"
       }
     ],
     "next": [
@@ -2988,10 +2994,6 @@
       {
         "n": 840,
         "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away"
-      },
-      {
-        "n": 843,
-        "head": "157 one-look Undercroft checks put a foe on the floor with no blind count"
       },
       {
         "n": 845,
@@ -3683,5 +3685,5 @@
       "2026-11-19": 51
     }
   },
-  "changed": "2026-11-20T05:29:13.983Z"
+  "changed": "2026-11-20T05:34:17.739Z"
 }
