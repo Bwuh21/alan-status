@@ -2623,6 +2623,12 @@
         "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it",
         "lane": "arcade2",
         "since": "2026-11-20 08:55"
+      },
+      {
+        "n": 885,
+        "head": "Space Golf: its own with-friends check is dead on today's game",
+        "lane": "arcade2",
+        "since": "2026-11-20 09:39"
       }
     ],
     "next": [
@@ -3084,10 +3090,6 @@
       {
         "n": 884,
         "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing"
-      },
-      {
-        "n": 885,
-        "head": "Space Golf: its own with-friends check is dead on today's game"
       },
       {
         "n": 886,
@@ -3743,5 +3745,5 @@
       "2026-11-20": 19
     }
   },
-  "changed": "2026-11-20T15:39:13.280Z"
+  "changed": "2026-11-20T15:52:26.078Z"
 }
