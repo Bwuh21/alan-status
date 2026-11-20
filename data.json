@@ -2666,6 +2666,12 @@
         "head": "Topple Pull: its phone check hangs with no output at all on a real phone",
         "lane": "arcade2",
         "since": "2026-11-20 16:39"
+      },
+      {
+        "n": 953,
+        "head": "Undercroft: the wizard job is stuck or loses the boss on five of six contracts",
+        "lane": "arcade2",
+        "since": "2026-11-20 16:49"
       }
     ],
     "next": [
@@ -3204,10 +3210,6 @@
       {
         "n": 952,
         "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip"
-      },
-      {
-        "n": 953,
-        "head": "Undercroft: the wizard job is stuck or loses the boss on five of six contracts"
       },
       {
         "n": 954,
@@ -3778,5 +3780,5 @@
       "2026-11-20": 37
     }
   },
-  "changed": "2026-11-20T22:49:13.917Z"
+  "changed": "2026-11-20T22:54:14.137Z"
 }
