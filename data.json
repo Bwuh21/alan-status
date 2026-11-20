@@ -2656,6 +2656,12 @@
         "since": "2026-11-20 15:34"
       },
       {
+        "n": 1160,
+        "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "lane": "arcade",
+        "since": "2026-11-20 16:34"
+      },
+      {
         "n": 949,
         "head": "Corner Pocket: its \"phone\" check has only ever driven a narrow desktop, and on a real phone the break shot never fires",
         "detail": "is that the check or the game?",
@@ -2664,10 +2670,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1160,
-        "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air"
-      },
       {
         "n": 1072,
         "head": "BAR POOL: a tray of the balls you have sunk, and an aim line you can see on a phone"
@@ -3781,5 +3783,5 @@
       "2026-11-20": 36
     }
   },
-  "changed": "2026-11-20T22:34:14.150Z"
+  "changed": "2026-11-20T22:39:13.942Z"
 }
