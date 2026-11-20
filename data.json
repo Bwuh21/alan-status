@@ -2582,12 +2582,6 @@
   "stack": {
     "building": [
       {
-        "n": 595,
-        "head": "18 places in the toy house where one prop sits inside another",
-        "lane": "arcade",
-        "since": "2026-11-19 20:09"
-      },
-      {
         "n": 1053,
         "head": "SKATE PARK: the plaza deck, the funbox, the kickers and the mega's top are drawn 1.5-7 cm off what the board rides",
         "lane": "arcade",
@@ -2598,6 +2592,12 @@
         "head": "five of the Undercroft's seven bosses have never been through the combat bench, and the archer is benched as a swordsman",
         "lane": "arcade2",
         "since": "2026-11-19 20:34"
+      },
+      {
+        "n": 841,
+        "head": "a dead bench knight is carried home 3.6 seconds later, in the middle of the next fight",
+        "lane": "arcade2",
+        "since": "2026-11-19 21:49"
       }
     ],
     "next": [
@@ -2991,10 +2991,6 @@
       {
         "n": 840,
         "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away"
-      },
-      {
-        "n": 841,
-        "head": "a dead bench knight is carried home 3.6 seconds later, in the middle of the next fight"
       },
       {
         "n": 842,
@@ -3567,6 +3563,25 @@
         "n": 1133,
         "head": "Undercroft: the wizard's parry lance lands but barely shows",
         "detail": "the boss is often behind the lens at that instant and the beam is six small sparks"
+      },
+      {
+        "n": 1134,
+        "head": "Toy house: the little track props on the play-room and kitchen floors fight on their tops",
+        "detail": "a white slab flush on a pink box, gift ribbons flush on gift lids"
+      },
+      {
+        "n": 1135,
+        "head": "Undercroft: the Widow is too hard",
+        "detail": "a clean knight beats her 3 times in 12, the only one of the seven bosses under the row-837 bar"
+      },
+      {
+        "n": 1136,
+        "head": "Undercroft: a boss's half-health adds silently fail when they would spawn in stone",
+        "detail": "64 of 480 summoner fights got one add instead of two"
+      },
+      {
+        "n": 1137,
+        "head": "Undercroft: the archer loses every fight to the Rider, the Nutcracker and the Widow, kiting or not"
       }
     ],
     "waiting": [
@@ -3656,7 +3671,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 743,
+    "shippedTotal": 744,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3664,8 +3679,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 47
+      "2026-11-19": 48
     }
   },
-  "changed": "2026-11-20T03:44:13.864Z"
+  "changed": "2026-11-20T04:19:14.023Z"
 }
