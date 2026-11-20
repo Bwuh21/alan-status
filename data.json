@@ -2666,6 +2666,12 @@
         "head": "Double Out: on a sideways phone the board is a postage stamp, 88 px across",
         "lane": "arcade2",
         "since": "2026-11-20 13:04"
+      },
+      {
+        "n": 901,
+        "head": "Head or Body: is BRUTAL now too hard for an ordinary player? Measure it with a hand, not a stand-in",
+        "lane": "arcade2",
+        "since": "2026-11-20 13:20"
       }
     ],
     "next": [
@@ -3140,10 +3146,6 @@
       {
         "n": 899,
         "head": "three games show a phone only the middle strip of a 1280x720 picture"
-      },
-      {
-        "n": 901,
-        "head": "Head or Body: is BRUTAL now too hard for an ordinary player? Measure it with a hand, not a stand-in"
       },
       {
         "n": 903,
@@ -3763,5 +3765,5 @@
       "2026-11-20": 27
     }
   },
-  "changed": "2026-11-20T19:19:26.844Z"
+  "changed": "2026-11-20T19:27:54.402Z"
 }
