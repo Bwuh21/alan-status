@@ -2583,6 +2583,12 @@
         "since": "2026-11-19 17:35"
       },
       {
+        "n": 818,
+        "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4",
+        "lane": "arcade2",
+        "since": "2026-11-19 18:49"
+      },
+      {
         "n": 1048,
         "head": "FOOSBALL checks: one 75 s game is too noisy to judge \"careful beats random\"",
         "detail": "pool the play and house checks over several runs",
@@ -2597,10 +2603,6 @@
       }
     ],
     "next": [
-      {
-        "n": 818,
-        "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4"
-      },
       {
         "n": 865,
         "head": "CrewOfOne: on desktop the key that starts the job also spends the whistle"
@@ -3698,5 +3700,5 @@
       "2026-11-19": 37
     }
   },
-  "changed": "2026-11-20T00:49:13.897Z"
+  "changed": "2026-11-20T00:54:13.726Z"
 }
