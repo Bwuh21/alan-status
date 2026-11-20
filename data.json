@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:25:00.000Z",
+  "updated": "2026-11-20T06:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -602,6 +602,11 @@
           "text": "The board floats or sinks on the plaza, the funbox, the kickers and the mega ramp",
           "status": "done",
           "note": "Live 2026-11-19. The plaza deck, the funbox edge, both kicker lips and the top of the mega ramp now sit on what the board actually rides. The wheels used to hover 1.5 cm off the plaza and sink 7 cm into the mega's top…"
+        },
+        {
+          "text": "Walking in the skate park's back door: the curved wings beside the portal",
+          "status": "done",
+          "note": "Live 2026-11-20. On foot you now walk up the curved wings either side of the back door on the curve itself. Before, they were two invisible flat circles: you stood half a metre up in mid-air past the pad's edge, or sank…"
         },
         {
           "text": "Later: grow the park once tricks and basics are in",
@@ -2587,22 +2592,10 @@
   "stack": {
     "building": [
       {
-        "n": 1052,
-        "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not",
-        "lane": "arcade",
-        "since": "2026-11-19 22:19"
-      },
-      {
         "n": 1065,
         "head": "RACE GATE: the last 3 orange-strip points you walk through, and a 7 cm seam on the climb",
         "lane": "arcade",
         "since": "2026-11-19 23:24"
-      },
-      {
-        "n": 842,
-        "head": "two Undercroft checks are red or dead on the committed build and nobody is told",
-        "lane": "arcade2",
-        "since": "2026-11-19 22:24"
       },
       {
         "n": 843,
@@ -2612,10 +2605,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1066,
-        "head": "SKATE PARK: 8 spots where you walk 7+ cm off the drawn ground"
-      },
       {
         "n": 1067,
         "head": "BOWLING ISLAND (lobby): the giant ball rack and rental shoes on the outside still advertise what the hall no longer has"
@@ -3585,6 +3574,14 @@
       {
         "n": 1139,
         "head": "Undercroft: one phone-bench fight still saw the knight jump more than 20 m, after a natural loss, on the row-841 fix"
+      },
+      {
+        "n": 1140,
+        "head": "Undercroft: after losing a skull contract with skulls banked, the hall's objective line still says TAKE ANOTHER CONTRACT"
+      },
+      {
+        "n": 1141,
+        "head": "SKATE PARK: the board rolls 1.2 cm under the BACK door pad, z 30.1-31.7"
       }
     ],
     "waiting": [
@@ -3606,6 +3603,21 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1066,
+        "head": "SKATE PARK: 8 spots where you walk 7+ cm off the drawn ground",
+        "date": "2026-11-20"
+      },
+      {
+        "n": 1052,
+        "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not",
+        "date": "2026-11-20"
+      },
+      {
+        "n": 842,
+        "head": "two Undercroft checks are red or dead on the committed build and nobody is told",
+        "date": "2026-11-20"
+      },
       {
         "n": 1086,
         "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done",
@@ -3655,35 +3667,18 @@
         "head": "THE BAR HALL, DARTS: make it HOT",
         "detail": "find what keeps it from being a game he would film, and fix the worst of it",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1055,
-        "head": "THE BAR HALL, AIR HOCKEY: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
-        "date": "2026-11-19"
-      },
-      {
-        "n": 1054,
-        "head": "THE BAR HALL, POOL: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
-        "date": "2026-11-19"
-      },
-      {
-        "n": 1053,
-        "head": "SKATE PARK: the plaza deck, the funbox, the kickers and the mega's top are drawn 1.5-7 cm off what the board rides",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 747,
+    "shippedTotal": 750,
     "shippedOn": {
-      "2026-11-13": 14,
       "2026-11-14": 21,
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 51
+      "2026-11-19": 51,
+      "2026-11-20": 3
     }
   },
-  "changed": "2026-11-20T05:34:17.739Z"
+  "changed": "2026-11-20T06:04:13.997Z"
 }
