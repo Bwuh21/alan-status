@@ -2656,17 +2656,25 @@
         "since": "2026-11-20 13:04"
       },
       {
+        "n": 1155,
+        "head": "Toy Fury tutorial: far too much at once, \"like they were on acid\" fable",
+        "lane": "arcade",
+        "since": "2026-11-20 13:54"
+      },
+      {
         "n": 901,
         "head": "Head or Body: is BRUTAL now too hard for an ordinary player? Measure it with a hand, not a stand-in",
         "lane": "arcade2",
         "since": "2026-11-20 13:20"
+      },
+      {
+        "n": 908,
+        "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has",
+        "lane": "arcade2",
+        "since": "2026-11-20 13:54"
       }
     ],
     "next": [
-      {
-        "n": 1155,
-        "head": "Toy Fury tutorial: far too much at once, \"like they were on acid\" fable"
-      },
       {
         "n": 1157,
         "head": "Ping pong: the paddle must be IN THE PLAYER'S HAND, with the arm swinging it fable"
@@ -3146,10 +3154,6 @@
       {
         "n": 905,
         "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
-      },
-      {
-        "n": 908,
-        "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has"
       },
       {
         "n": 911,
@@ -3766,5 +3770,5 @@
       "2026-11-20": 28
     }
   },
-  "changed": "2026-11-20T19:54:14.178Z"
+  "changed": "2026-11-20T19:59:13.608Z"
 }
