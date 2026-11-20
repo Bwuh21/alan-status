@@ -3701,6 +3701,11 @@
         "date": "2026-11-20"
       },
       {
+        "n": 1156,
+        "head": "Replace foosball with TABLE SHUFFLEBOARD in the bar fable",
+        "date": "2026-11-20"
+      },
+      {
         "n": 1152,
         "head": "Multiplayer, volleyball: the score stopped updating in the second game",
         "date": "2026-11-20"
@@ -3744,14 +3749,9 @@
         "n": 1065,
         "head": "RACE GATE: the last 3 orange-strip points you walk through, and a 7 cm seam on the climb",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1052,
-        "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 775,
+    "shippedTotal": 776,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3759,8 +3759,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 28
+      "2026-11-20": 29
     }
   },
-  "changed": "2026-11-20T20:10:17.424Z"
+  "changed": "2026-11-20T20:19:14.019Z"
 }
