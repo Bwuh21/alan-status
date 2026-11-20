@@ -2594,12 +2594,6 @@
         "since": "2026-11-19 20:09"
       },
       {
-        "n": 821,
-        "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
-        "lane": "arcade2",
-        "since": "2026-11-19 19:44"
-      },
-      {
         "n": 826,
         "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard",
         "lane": "arcade2",
@@ -3665,7 +3659,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 739,
+    "shippedTotal": 740,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3673,8 +3667,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 43
+      "2026-11-19": 44
     }
   },
-  "changed": "2026-11-20T02:14:17.441Z"
+  "changed": "2026-11-20T02:24:14.349Z"
 }
