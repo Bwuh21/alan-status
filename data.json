@@ -2613,6 +2613,12 @@
         "since": "2026-11-20 08:19"
       },
       {
+        "n": 1151,
+        "head": "Multiplayer, air hockey: two players are forced onto ONE side against the house",
+        "lane": "arcade",
+        "since": "2026-11-20 09:29"
+      },
+      {
         "n": 871,
         "head": "Undercroft: the wizard's stress ride stalls on four of six contracts",
         "lane": "arcade2",
@@ -2626,10 +2632,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1151,
-        "head": "Multiplayer, air hockey: two players are forced onto ONE side against the house"
-      },
       {
         "n": 1152,
         "head": "Multiplayer, volleyball: the score stopped updating in the second game"
@@ -3730,5 +3732,5 @@
       "2026-11-20": 18
     }
   },
-  "changed": "2026-11-20T15:21:47.632Z"
+  "changed": "2026-11-20T15:34:14.917Z"
 }
