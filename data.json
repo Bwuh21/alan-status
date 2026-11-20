@@ -2617,6 +2617,55 @@
     ],
     "next": [
       {
+        "n": 1149,
+        "head": "Multiplayer, bowling: friends in the \"same\" game land on DIFFERENT lanes"
+      },
+      {
+        "n": 1150,
+        "head": "Multiplayer, table lock in EVERY game: a third player walked into a game in progress"
+      },
+      {
+        "n": 1151,
+        "head": "Multiplayer, air hockey: two players are forced onto ONE side against the house"
+      },
+      {
+        "n": 1152,
+        "head": "Multiplayer, volleyball: the score stopped updating in the second game"
+      },
+      {
+        "n": 1153,
+        "head": "Multiplayer smoothness: measure it, and answer whether we need to buy anything fable"
+      },
+      {
+        "n": 1154,
+        "head": "Tutorials: teach seamlessly, without overwhelming or interrupting fable"
+      },
+      {
+        "n": 1155,
+        "head": "Toy Fury tutorial: far too much at once, \"like they were on acid\" fable"
+      },
+      {
+        "n": 1156,
+        "head": "Replace foosball with TABLE SHUFFLEBOARD in the bar fable"
+      },
+      {
+        "n": 1157,
+        "head": "Ping pong: the paddle must be IN THE PLAYER'S HAND, with the arm swinging it fable"
+      },
+      {
+        "n": 1158,
+        "head": "Skate (Slab City): there is no FLIP, and players glitch past the map edges and into ramps"
+      },
+      {
+        "n": 1159,
+        "head": "Toy Fury: players end up \"stuck on either side of the wall, not really playing\"",
+        "detail": "dial it back a lot fable"
+      },
+      {
+        "n": 1160,
+        "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air"
+      },
+      {
         "n": 1072,
         "head": "BAR POOL: a tray of the balls you have sunk, and an aim line you can see on a phone"
       },
@@ -3671,5 +3720,5 @@
       "2026-11-20": 11
     }
   },
-  "changed": "2026-11-20T12:30:44.667Z"
+  "changed": "2026-11-20T12:34:26.308Z"
 }
