@@ -2593,6 +2593,12 @@
         "head": "Comet Clash: the release snap is unproven on a friend's screen, and the wind-up comet still floats off the hand",
         "lane": "arcade2",
         "since": "2026-11-19 19:29"
+      },
+      {
+        "n": 821,
+        "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
+        "lane": "arcade2",
+        "since": "2026-11-19 19:44"
       }
     ],
     "next": [
@@ -2982,10 +2988,6 @@
       {
         "n": 820,
         "head": "the HALL: about 45 same-plane spots across some 25 small line pairs, listed and left"
-      },
-      {
-        "n": 821,
-        "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped"
       },
       {
         "n": 823,
@@ -3677,5 +3679,5 @@
       "2026-11-19": 41
     }
   },
-  "changed": "2026-11-20T01:44:14.516Z"
+  "changed": "2026-11-20T01:49:15.402Z"
 }
