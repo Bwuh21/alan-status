@@ -2662,12 +2662,6 @@
         "since": "2026-11-20 13:54"
       },
       {
-        "n": 901,
-        "head": "Head or Body: is BRUTAL now too hard for an ordinary player? Measure it with a hand, not a stand-in",
-        "lane": "arcade2",
-        "since": "2026-11-20 13:20"
-      },
-      {
         "n": 908,
         "head": "Broadside Bay: four old checks still ask for the refit card, which the game no longer has",
         "lane": "arcade2",
@@ -3751,7 +3745,7 @@
         "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 776,
+    "shippedTotal": 777,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3759,8 +3753,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 29
+      "2026-11-20": 30
     }
   },
-  "changed": "2026-11-20T20:19:14.019Z"
+  "changed": "2026-11-20T20:34:15.899Z"
 }
