@@ -2650,12 +2650,6 @@
   "stack": {
     "building": [
       {
-        "n": 1155,
-        "head": "Toy Fury tutorial: far too much at once, \"like they were on acid\" fable",
-        "lane": "arcade",
-        "since": "2026-11-20 13:54"
-      },
-      {
         "n": 1157,
         "head": "Ping pong: the paddle must be IN THE PLAYER'S HAND, with the arm swinging it fable",
         "lane": "arcade",
@@ -3671,6 +3665,19 @@
       {
         "n": 1186,
         "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)"
+      },
+      {
+        "n": 1187,
+        "head": "Toy Fury: the first race still shows a full dashboard",
+        "detail": "hide what a newcomer cannot use yet"
+      },
+      {
+        "n": 1188,
+        "head": "Toy Fury: loop-check's desk leg fails differently each run"
+      },
+      {
+        "n": 1189,
+        "head": "Toy Fury: no check plays the four moves that now live behind \"?\""
       }
     ],
     "waiting": [
@@ -3706,6 +3713,11 @@
       {
         "n": 1156,
         "head": "Replace foosball with TABLE SHUFFLEBOARD in the bar fable",
+        "date": "2026-11-20"
+      },
+      {
+        "n": 1155,
+        "head": "Toy Fury tutorial: far too much at once, \"like they were on acid\" fable",
         "date": "2026-11-20"
       },
       {
@@ -3747,14 +3759,9 @@
         "n": 1069,
         "head": "BAR HALL CHECKS RED ON THE OLD BUILD TOO: Rusty's chest 24 mm into the counter top while he polishes, and the boot check still looking for a",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1066,
-        "head": "SKATE PARK: 8 spots where you walk 7+ cm off the drawn ground",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 779,
+    "shippedTotal": 780,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3762,8 +3769,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 32
+      "2026-11-20": 33
     }
   },
-  "changed": "2026-11-20T21:29:15.675Z"
+  "changed": "2026-11-20T21:34:14.256Z"
 }
