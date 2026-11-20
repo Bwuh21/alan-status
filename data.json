@@ -2662,12 +2662,6 @@
         "since": "2026-11-20 15:34"
       },
       {
-        "n": 927,
-        "head": "DodgeFall's 3D page carries the shared picture-stopped guard but the canary has never opened it",
-        "lane": "arcade2",
-        "since": "2026-11-20 15:04"
-      },
-      {
         "n": 938,
         "head": "Dodgeball: five tuning harnesses are red on the committed build, and one of them exits 0 while printing FAILED",
         "lane": "arcade2",
@@ -3682,6 +3676,10 @@
       {
         "n": 1189,
         "head": "Toy Fury: no check plays the four moves that now live behind \"?\""
+      },
+      {
+        "n": 1190,
+        "head": "Last Call: the picture-stopped canary is red on its own home game, 2 of 19"
       }
     ],
     "waiting": [
@@ -3765,7 +3763,7 @@
         "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 780,
+    "shippedTotal": 781,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3773,8 +3771,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 33
+      "2026-11-20": 34
     }
   },
-  "changed": "2026-11-20T21:39:14.579Z"
+  "changed": "2026-11-20T21:44:14.325Z"
 }
