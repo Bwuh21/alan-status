@@ -2603,12 +2603,6 @@
         "since": "2026-11-20 00:04"
       },
       {
-        "n": 843,
-        "head": "157 one-look Undercroft checks put a foe on the floor with no blind count",
-        "lane": "arcade2",
-        "since": "2026-11-19 23:29"
-      },
-      {
         "n": 846,
         "head": "the Undercroft smoke test cannot boot the game: it waits for a hook the game no longer has",
         "lane": "arcade2",
@@ -3642,6 +3636,11 @@
         "date": "2026-11-20"
       },
       {
+        "n": 843,
+        "head": "157 one-look Undercroft checks put a foe on the floor with no blind count",
+        "date": "2026-11-20"
+      },
+      {
         "n": 842,
         "head": "two Undercroft checks are red or dead on the committed build and nobody is told",
         "date": "2026-11-20"
@@ -3683,15 +3682,9 @@
         "head": "SKATING: make the skating itself better",
         "detail": "the push, the turn, the pop, the grind, the landing (Zack at the keyboard 2026-11-19: \"making it more city style skating than just one skate park and making the skating better\") region-skate",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1057,
-        "head": "THE BAR HALL, BOWLING: make it HOT",
-        "detail": "find what keeps it from being a game he would film, and fix the worst of it",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 751,
+    "shippedTotal": 752,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3699,8 +3692,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 4
+      "2026-11-20": 5
     }
   },
-  "changed": "2026-11-20T07:14:13.420Z"
+  "changed": "2026-11-20T07:19:13.381Z"
 }
