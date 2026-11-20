@@ -2623,6 +2623,12 @@
         "head": "Undercroft: the wizard's stress ride stalls on four of six contracts",
         "lane": "arcade2",
         "since": "2026-11-20 08:34"
+      },
+      {
+        "n": 872,
+        "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it",
+        "lane": "arcade2",
+        "since": "2026-11-20 08:55"
       }
     ],
     "next": [
@@ -3068,10 +3074,6 @@
       {
         "n": 870,
         "head": "Cabinet studio shooter: tall machines lose their tops on a desk frame, and the pass bar sits 1 point under the thinnest real view"
-      },
-      {
-        "n": 872,
-        "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it"
       },
       {
         "n": 878,
@@ -3730,5 +3732,5 @@
       "2026-11-20": 17
     }
   },
-  "changed": "2026-11-20T14:54:24.347Z"
+  "changed": "2026-11-20T15:03:15.217Z"
 }
