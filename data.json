@@ -2588,6 +2588,12 @@
         "since": "2026-11-19 19:39"
       },
       {
+        "n": 595,
+        "head": "18 places in the toy house where one prop sits inside another",
+        "lane": "arcade",
+        "since": "2026-11-19 20:09"
+      },
+      {
         "n": 821,
         "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
         "lane": "arcade2",
@@ -2601,10 +2607,6 @@
       }
     ],
     "next": [
-      {
-        "n": 595,
-        "head": "18 places in the toy house where one prop sits inside another"
-      },
       {
         "n": 1053,
         "head": "SKATE PARK: the plaza deck, the funbox, the kickers and the mega's top are drawn 1.5-7 cm off what the board rides"
@@ -3674,5 +3676,5 @@
       "2026-11-19": 43
     }
   },
-  "changed": "2026-11-20T02:09:15.371Z"
+  "changed": "2026-11-20T02:14:17.441Z"
 }
