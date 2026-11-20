@@ -2609,12 +2609,6 @@
         "since": "2026-11-20 01:59"
       },
       {
-        "n": 856,
-        "head": "Undercroft: on a phone in a party, the boss's name wraps to two lines and lands on the party line (row 670, 2026-11-16)",
-        "lane": "arcade2",
-        "since": "2026-11-20 01:59"
-      },
-      {
         "n": 857,
         "head": "Undercroft: the SOLO walk-in measure reads its phone lane with the controls card up (row 670, 2026-11-16)",
         "lane": "arcade2",
@@ -3633,6 +3627,11 @@
         "date": "2026-11-20"
       },
       {
+        "n": 856,
+        "head": "Undercroft: on a phone in a party, the boss's name wraps to two lines and lands on the party line (row 670, 2026-11-16)",
+        "date": "2026-11-20"
+      },
+      {
         "n": 851,
         "head": "Blend In: the solo shift pays nothing",
         "date": "2026-11-20"
@@ -3667,14 +3666,9 @@
         "n": 1074,
         "head": "TEST LOBBY: three islands over the phone budget and a second-lap memory reading 0.1 MB over",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1068,
-        "head": "SKATE CHECKS RED ON THE OLD BUILD TOO: the door back to (1,1), the DROP IN pad, a friend's kickflip on the other screen",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 756,
+    "shippedTotal": 757,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3682,8 +3676,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 9
+      "2026-11-20": 10
     }
   },
-  "changed": "2026-11-20T10:19:48.741Z"
+  "changed": "2026-11-20T10:54:29.901Z"
 }
