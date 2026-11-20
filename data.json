@@ -3585,6 +3585,26 @@
       {
         "n": 1141,
         "head": "SKATE PARK: the board rolls 1.2 cm under the BACK door pad, z 30.1-31.7"
+      },
+      {
+        "n": 1142,
+        "head": "PACK HANGS before --into: the disk-size courtesy walk stats every file in all 973 past bundles"
+      },
+      {
+        "n": 1143,
+        "head": "Undercroft: the latch sweep's last 6 EXPOSED checks run the game inside an iframe, so the blind guard cannot reach it"
+      },
+      {
+        "n": 1144,
+        "head": "Undercroft: shield-hit's Warden case fails under machine load, on the committed copy too"
+      },
+      {
+        "n": 1145,
+        "head": "Undercroft: dev/gate.mjs never boots: HALF PAGE REFUSED for ../_ui/gfx-guard.js"
+      },
+      {
+        "n": 1146,
+        "head": "Undercroft: prove one check that keeps stepping more than 3.6 real seconds after a death in one run"
       }
     ],
     "waiting": [
@@ -3682,5 +3702,5 @@
       "2026-11-20": 4
     }
   },
-  "changed": "2026-11-20T06:57:54.118Z"
+  "changed": "2026-11-20T07:14:13.420Z"
 }
