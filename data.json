@@ -2629,10 +2629,10 @@
         "since": "2026-11-20 11:19"
       },
       {
-        "n": 887,
-        "head": "Space Golf: four old-game leftovers in dev/ were not triaged",
+        "n": 890,
+        "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake",
         "lane": "arcade2",
-        "since": "2026-11-20 11:44"
+        "since": "2026-11-20 12:15"
       }
     ],
     "next": [
@@ -3098,10 +3098,6 @@
       {
         "n": 888,
         "head": "Tools/planted-sweep.mjs counts archive folders, so a retired harness stays a lead forever"
-      },
-      {
-        "n": 890,
-        "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake"
       },
       {
         "n": 891,
@@ -3737,17 +3733,17 @@
         "date": "2026-11-20"
       },
       {
-        "n": 886,
-        "head": "Space Golf: the frame-rate check only flies tee drives",
+        "n": 887,
+        "head": "Space Golf: four old-game leftovers in dev/ were not triaged",
         "date": "2026-11-20"
       },
       {
-        "n": 885,
-        "head": "Space Golf: its own with-friends check is dead on today's game",
+        "n": 886,
+        "head": "Space Golf: the frame-rate check only flies tee drives",
         "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 771,
+    "shippedTotal": 772,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3755,8 +3751,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 24
+      "2026-11-20": 25
     }
   },
-  "changed": "2026-11-20T18:14:14.632Z"
+  "changed": "2026-11-20T18:19:13.984Z"
 }
