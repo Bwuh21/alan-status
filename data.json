@@ -2613,6 +2613,12 @@
         "head": "Undercroft: on a phone in a party, the boss's name wraps to two lines and lands on the party line (row 670, 2026-11-16)",
         "lane": "arcade2",
         "since": "2026-11-20 01:59"
+      },
+      {
+        "n": 857,
+        "head": "Undercroft: the SOLO walk-in measure reads its phone lane with the controls card up (row 670, 2026-11-16)",
+        "lane": "arcade2",
+        "since": "2026-11-20 04:14"
       }
     ],
     "next": [
@@ -2998,10 +3004,6 @@
       {
         "n": 855,
         "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)"
-      },
-      {
-        "n": 857,
-        "head": "Undercroft: the SOLO walk-in measure reads its phone lane with the controls card up (row 670, 2026-11-16)"
       },
       {
         "n": 858,
@@ -3683,5 +3685,5 @@
       "2026-11-20": 9
     }
   },
-  "changed": "2026-11-20T10:14:23.524Z"
+  "changed": "2026-11-20T10:19:48.741Z"
 }
