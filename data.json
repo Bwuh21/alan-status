@@ -2629,12 +2629,6 @@
         "since": "2026-11-20 11:19"
       },
       {
-        "n": 886,
-        "head": "Space Golf: the frame-rate check only flies tee drives",
-        "lane": "arcade2",
-        "since": "2026-11-20 11:25"
-      },
-      {
         "n": 887,
         "head": "Space Golf: four old-game leftovers in dev/ were not triaged",
         "lane": "arcade2",
@@ -3743,17 +3737,17 @@
         "date": "2026-11-20"
       },
       {
-        "n": 885,
-        "head": "Space Golf: its own with-friends check is dead on today's game",
+        "n": 886,
+        "head": "Space Golf: the frame-rate check only flies tee drives",
         "date": "2026-11-20"
       },
       {
-        "n": 872,
-        "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it",
+        "n": 885,
+        "head": "Space Golf: its own with-friends check is dead on today's game",
         "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 770,
+    "shippedTotal": 771,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3761,8 +3755,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 23
+      "2026-11-20": 24
     }
   },
-  "changed": "2026-11-20T17:49:15.423Z"
+  "changed": "2026-11-20T18:14:14.632Z"
 }
