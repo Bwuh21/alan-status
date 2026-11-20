@@ -2598,17 +2598,25 @@
         "since": "2026-11-19 23:24"
       },
       {
+        "n": 1067,
+        "head": "BOWLING ISLAND (lobby): the giant ball rack and rental shoes on the outside still advertise what the hall no longer has",
+        "lane": "arcade",
+        "since": "2026-11-20 00:04"
+      },
+      {
         "n": 843,
         "head": "157 one-look Undercroft checks put a foe on the floor with no blind count",
         "lane": "arcade2",
         "since": "2026-11-19 23:29"
+      },
+      {
+        "n": 846,
+        "head": "the Undercroft smoke test cannot boot the game: it waits for a hook the game no longer has",
+        "lane": "arcade2",
+        "since": "2026-11-20 00:04"
       }
     ],
     "next": [
-      {
-        "n": 1067,
-        "head": "BOWLING ISLAND (lobby): the giant ball rack and rental shoes on the outside still advertise what the hall no longer has"
-      },
       {
         "n": 1069,
         "head": "BAR HALL CHECKS RED ON THE OLD BUILD TOO: Rusty's chest 24 mm into the counter top while he polishes, and the boot check still looking for a"
@@ -2987,10 +2995,6 @@
       {
         "n": 845,
         "head": "the pot banner has faded before the second bowler has looked up"
-      },
-      {
-        "n": 846,
-        "head": "the Undercroft smoke test cannot boot the game: it waits for a hook the game no longer has"
       },
       {
         "n": 847,
@@ -3680,5 +3684,5 @@
       "2026-11-20": 3
     }
   },
-  "changed": "2026-11-20T06:04:13.997Z"
+  "changed": "2026-11-20T06:09:14.548Z"
 }
