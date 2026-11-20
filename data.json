@@ -2623,6 +2623,12 @@
   "stack": {
     "building": [
       {
+        "n": 1152,
+        "head": "Multiplayer, volleyball: the score stopped updating in the second game",
+        "lane": "arcade",
+        "since": "2026-11-20 11:19"
+      },
+      {
         "n": 885,
         "head": "Space Golf: its own with-friends check is dead on today's game",
         "lane": "arcade2",
@@ -2633,10 +2639,6 @@
       {
         "n": 1151,
         "head": "Multiplayer, air hockey: two players are forced onto ONE side against the house"
-      },
-      {
-        "n": 1152,
-        "head": "Multiplayer, volleyball: the score stopped updating in the second game"
       },
       {
         "n": 1153,
@@ -3764,5 +3766,5 @@
       "2026-11-20": 22
     }
   },
-  "changed": "2026-11-20T17:19:13.646Z"
+  "changed": "2026-11-20T17:24:13.744Z"
 }
