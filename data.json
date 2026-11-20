@@ -2607,6 +2607,18 @@
         "head": "BAR POOL: the free practice house is too strong for a first rack",
         "lane": "arcade",
         "since": "2026-11-20 01:59"
+      },
+      {
+        "n": 858,
+        "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)",
+        "lane": "arcade2",
+        "since": "2026-11-20 05:12"
+      },
+      {
+        "n": 862,
+        "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go",
+        "lane": "arcade2",
+        "since": "2026-11-20 05:10"
       }
     ],
     "next": [
@@ -2994,16 +3006,8 @@
         "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)"
       },
       {
-        "n": 858,
-        "head": "Undercroft: the two-player walk-in is measured in the crypt only, stood still only, and does not say who is locked on (row 670, 2026-11-16)"
-      },
-      {
         "n": 861,
         "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold"
-      },
-      {
-        "n": 862,
-        "head": "TollBridge: opened on its own, the bridge list shows a dash where the difficulty badge and the prize go"
       },
       {
         "n": 863,
@@ -3673,5 +3677,5 @@
       "2026-11-20": 11
     }
   },
-  "changed": "2026-11-20T11:09:29.226Z"
+  "changed": "2026-11-20T11:14:33.167Z"
 }
