@@ -2619,6 +2619,12 @@
         "head": "BAR POOL: the free practice house is too strong for a first rack",
         "lane": "arcade",
         "since": "2026-11-20 01:59"
+      },
+      {
+        "n": 867,
+        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
+        "lane": "arcade2",
+        "since": "2026-11-20 07:44"
       }
     ],
     "next": [
@@ -3056,10 +3062,6 @@
       {
         "n": 864,
         "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome"
-      },
-      {
-        "n": 867,
-        "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU"
       },
       {
         "n": 868,
@@ -3725,5 +3727,5 @@
       "2026-11-20": 14
     }
   },
-  "changed": "2026-11-20T13:39:14.017Z"
+  "changed": "2026-11-20T13:49:14.425Z"
 }
