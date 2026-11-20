@@ -2656,12 +2656,6 @@
         "since": "2026-11-20 15:34"
       },
       {
-        "n": 938,
-        "head": "Dodgeball: five tuning harnesses are red on the committed build, and one of them exits 0 while printing FAILED",
-        "lane": "arcade2",
-        "since": "2026-11-20 15:34"
-      },
-      {
         "n": 949,
         "head": "Corner Pocket: its \"phone\" check has only ever driven a narrow desktop, and on a real phone the break shot never fires",
         "detail": "is that the check or the game?",
@@ -3776,7 +3770,7 @@
         "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 782,
+    "shippedTotal": 783,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3784,8 +3778,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 35
+      "2026-11-20": 36
     }
   },
-  "changed": "2026-11-20T22:29:16.008Z"
+  "changed": "2026-11-20T22:34:14.150Z"
 }
