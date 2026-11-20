@@ -2613,6 +2613,12 @@
         "since": "2026-11-20 07:34"
       },
       {
+        "n": 1150,
+        "head": "Multiplayer, table lock in EVERY game: a third player walked into a game in progress",
+        "lane": "arcade",
+        "since": "2026-11-20 08:19"
+      },
+      {
         "n": 867,
         "head": "Skin Kick: the second after a goal draws about a quarter fewer frames in the self-test; nobody has timed it on a real GPU",
         "lane": "arcade2",
@@ -2620,10 +2626,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1150,
-        "head": "Multiplayer, table lock in EVERY game: a third player walked into a game in progress"
-      },
       {
         "n": 1151,
         "head": "Multiplayer, air hockey: two players are forced onto ONE side against the house"
@@ -3732,5 +3734,5 @@
       "2026-11-20": 16
     }
   },
-  "changed": "2026-11-20T14:19:17.031Z"
+  "changed": "2026-11-20T14:30:12.848Z"
 }
