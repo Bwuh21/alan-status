@@ -2582,12 +2582,6 @@
   "stack": {
     "building": [
       {
-        "n": 592,
-        "head": "Toy house lobby: you walk straight through the flag posts and the bunting poles at every stand",
-        "lane": "arcade",
-        "since": "2026-11-19 19:24"
-      },
-      {
         "n": 593,
         "head": "Toy house lobby: the camera can still end up outside the room (front door, and the garage)",
         "lane": "arcade",
@@ -2598,6 +2592,12 @@
         "head": "Undercroft: the z-fight tool blames ONE line for every part, so 38 same-plane spots cannot be grouped",
         "lane": "arcade2",
         "since": "2026-11-19 19:44"
+      },
+      {
+        "n": 826,
+        "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard",
+        "lane": "arcade2",
+        "since": "2026-11-19 20:04"
       }
     ],
     "next": [
@@ -2995,10 +2995,6 @@
       {
         "n": 824,
         "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair"
-      },
-      {
-        "n": 826,
-        "head": "SpaceGolf's solo seamless-check.mjs fails on a swing the game no longer takes by keyboard"
       },
       {
         "n": 836,
@@ -3667,7 +3663,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 738,
+    "shippedTotal": 739,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3675,8 +3671,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 42
+      "2026-11-19": 43
     }
   },
-  "changed": "2026-11-20T02:04:13.781Z"
+  "changed": "2026-11-20T02:09:15.371Z"
 }
