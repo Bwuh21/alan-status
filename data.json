@@ -2613,12 +2613,6 @@
         "since": "2026-11-20 08:19"
       },
       {
-        "n": 1151,
-        "head": "Multiplayer, air hockey: two players are forced onto ONE side against the house",
-        "lane": "arcade",
-        "since": "2026-11-20 09:29"
-      },
-      {
         "n": 872,
         "head": "Undercroft: next/ is a copy of the game from 10-02 and its checks, and the dungeon skill, still point at it",
         "lane": "arcade2",
@@ -2632,6 +2626,10 @@
       }
     ],
     "next": [
+      {
+        "n": 1151,
+        "head": "Multiplayer, air hockey: two players are forced onto ONE side against the house"
+      },
       {
         "n": 1152,
         "head": "Multiplayer, volleyball: the score stopped updating in the second game"
@@ -3651,6 +3649,23 @@
         "n": 1170,
         "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
         "detail": "foes that never hit the bench bot"
+      },
+      {
+        "n": 1171,
+        "head": "Multiplayer: WATCH a live table",
+        "detail": "the third player can only queue today, never spectate"
+      },
+      {
+        "n": 1172,
+        "head": "Multiplayer: a game against the HOUSE at a party table never locks it"
+      },
+      {
+        "n": 1173,
+        "head": "Multiplayer: walk-in games and the Undercroft entrance bypass the table lock"
+      },
+      {
+        "n": 1174,
+        "head": "Bowling: the lane prompt should say who is bowling and your place in line, like the tables"
       }
     ],
     "waiting": [
@@ -3745,5 +3760,5 @@
       "2026-11-20": 19
     }
   },
-  "changed": "2026-11-20T15:52:26.078Z"
+  "changed": "2026-11-20T16:19:13.413Z"
 }
