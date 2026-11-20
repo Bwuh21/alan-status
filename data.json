@@ -2588,10 +2588,10 @@
         "since": "2026-11-19 20:49"
       },
       {
-        "n": 837,
-        "head": "five of the Undercroft's seven bosses have never been through the combat bench, and the archer is benched as a swordsman",
-        "lane": "arcade2",
-        "since": "2026-11-19 20:34"
+        "n": 1052,
+        "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not",
+        "lane": "arcade",
+        "since": "2026-11-19 22:19"
       },
       {
         "n": 841,
@@ -2601,10 +2601,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1052,
-        "head": "SKATE PARK door: the two raised pads beside the portal's mouth walk at 0.46 m where the drawn wing is not"
-      },
       {
         "n": 1065,
         "head": "RACE GATE: the last 3 orange-strip points you walk through, and a 7 cm seam on the climb"
@@ -3671,7 +3667,7 @@
         "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 744,
+    "shippedTotal": 745,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3679,8 +3675,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 48
+      "2026-11-19": 49
     }
   },
-  "changed": "2026-11-20T04:19:14.023Z"
+  "changed": "2026-11-20T04:24:13.926Z"
 }
