@@ -2593,6 +2593,12 @@
         "since": "2026-11-19 22:19"
       },
       {
+        "n": 1065,
+        "head": "RACE GATE: the last 3 orange-strip points you walk through, and a 7 cm seam on the climb",
+        "lane": "arcade",
+        "since": "2026-11-19 23:24"
+      },
+      {
         "n": 842,
         "head": "two Undercroft checks are red or dead on the committed build and nobody is told",
         "lane": "arcade2",
@@ -2600,10 +2606,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1065,
-        "head": "RACE GATE: the last 3 orange-strip points you walk through, and a 7 cm seam on the climb"
-      },
       {
         "n": 1066,
         "head": "SKATE PARK: 8 spots where you walk 7+ cm off the drawn ground"
@@ -3577,6 +3579,10 @@
       {
         "n": 1138,
         "head": "SKATE PARK: the painted streets and the median are drawn 11 mm over the slab the board rides"
+      },
+      {
+        "n": 1139,
+        "head": "Undercroft: one phone-bench fight still saw the knight jump more than 20 m, after a natural loss, on the row-841 fix"
       }
     ],
     "waiting": [
@@ -3677,5 +3683,5 @@
       "2026-11-19": 51
     }
   },
-  "changed": "2026-11-20T05:24:15.611Z"
+  "changed": "2026-11-20T05:29:13.983Z"
 }
