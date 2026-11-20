@@ -2656,12 +2656,6 @@
         "since": "2026-11-20 12:29"
       },
       {
-        "n": 890,
-        "head": "Ice Hockey: dev/row601-check.mjs holds the rink without clearing camera shake",
-        "lane": "arcade2",
-        "since": "2026-11-20 12:15"
-      },
-      {
         "n": 892,
         "head": "Head or Body: BRUTAL is barely harder than HARD",
         "lane": "arcade2",
@@ -3771,5 +3765,5 @@
       "2026-11-20": 27
     }
   },
-  "changed": "2026-11-20T18:59:15.104Z"
+  "changed": "2026-11-20T19:04:14.083Z"
 }
