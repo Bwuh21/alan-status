@@ -2577,12 +2577,6 @@
   "stack": {
     "building": [
       {
-        "n": 829,
-        "head": "three spots in bath, yard and party hang into head height (0.135-0.16m) on the road, found by road-clear.mjs's new raised pass",
-        "lane": "arcade2",
-        "since": "2026-11-19 17:35"
-      },
-      {
         "n": 818,
         "head": "Barn Burner: \"a rebound in tight vs a cold shot in tight\" cannot be read at 30 matches once the game is 4-on-4",
         "lane": "arcade2",
@@ -3700,5 +3694,5 @@
       "2026-11-19": 37
     }
   },
-  "changed": "2026-11-20T00:54:13.726Z"
+  "changed": "2026-11-20T00:59:13.563Z"
 }
