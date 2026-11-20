@@ -2594,12 +2594,6 @@
         "head": "Toy Fury: a friends-race wreck cannot reach the server, and the dive was wrong about why",
         "lane": "arcade",
         "since": "2026-11-19 15:29"
-      },
-      {
-        "n": 1086,
-        "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done",
-        "lane": "arcade2",
-        "since": "2026-11-19 16:09"
       }
     ],
     "next": [
@@ -3599,6 +3593,11 @@
       {
         "n": 1128,
         "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check "
+      },
+      {
+        "n": 1129,
+        "head": "TOY FURY: the bots never do a TRICK on the Grand Tour",
+        "detail": "their brain thinks both jumps give 0.2 s of air when they give ~0.45 s"
       }
     ],
     "waiting": [
@@ -3620,6 +3619,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1086,
+        "head": "TOY FURY teach-check goes red on the desk: on the Grand Tour the race ends before the card's last steps (slingshot, then trick) are done",
+        "date": "2026-11-19"
+      },
       {
         "n": 1074,
         "head": "TEST LOBBY: three islands over the phone budget and a second-lap memory reading 0.1 MB over",
@@ -3681,14 +3685,9 @@
         "n": 1049,
         "head": "FOOSBALL on a phone: ~330 px of empty felt-less screen above the table in portrait, and your glowing rod reads grey-white, not teal",
         "date": "2026-11-19"
-      },
-      {
-        "n": 1046,
-        "head": "PING PONG desk check: at 3 frames a second the keyboard driver can only block, so the match check fails on a starved machine",
-        "date": "2026-11-19"
       }
     ],
-    "shippedTotal": 732,
+    "shippedTotal": 733,
     "shippedOn": {
       "2026-11-13": 14,
       "2026-11-14": 21,
@@ -3696,8 +3695,8 @@
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
-      "2026-11-19": 36
+      "2026-11-19": 37
     }
   },
-  "changed": "2026-11-19T23:39:43.707Z"
+  "changed": "2026-11-20T00:49:13.897Z"
 }
