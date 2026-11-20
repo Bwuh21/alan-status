@@ -2666,6 +2666,13 @@
         "head": "Dodgeball: five tuning harnesses are red on the committed build, and one of them exits 0 while printing FAILED",
         "lane": "arcade2",
         "since": "2026-11-20 15:34"
+      },
+      {
+        "n": 949,
+        "head": "Corner Pocket: its \"phone\" check has only ever driven a narrow desktop, and on a real phone the break shot never fires",
+        "detail": "is that the check or the game?",
+        "lane": "arcade2",
+        "since": "2026-11-20 15:44"
       }
     ],
     "next": [
@@ -3200,11 +3207,6 @@
       {
         "n": 943,
         "head": "the party travel check is red on the live site and has been since the island was renamed"
-      },
-      {
-        "n": 949,
-        "head": "Corner Pocket: its \"phone\" check has only ever driven a narrow desktop, and on a real phone the break shot never fires",
-        "detail": "is that the check or the game?"
       },
       {
         "n": 950,
@@ -3774,5 +3776,5 @@
       "2026-11-20": 34
     }
   },
-  "changed": "2026-11-20T21:44:14.325Z"
+  "changed": "2026-11-20T21:49:14.021Z"
 }
