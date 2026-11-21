@@ -2735,12 +2735,6 @@
         "since": "2026-11-21 17:14"
       },
       {
-        "n": 1114,
-        "head": "Slab City: \"hold S to brake\" in the tutorial rolls a newcomer backwards into the exit",
-        "lane": "arcade2",
-        "since": "2026-11-21 16:39"
-      },
-      {
         "n": 1115,
         "head": "Slab City on a phone: three things overlap in the first two minutes",
         "lane": "arcade2",
@@ -3732,6 +3726,11 @@
       {
         "n": 1255,
         "head": "nine games' own checks were red on 2026-11-17 and nobody filed them; the new nightly sweep will not either"
+      },
+      {
+        "n": 1256,
+        "head": "Slab City: skate-revert-check has two reds at HEAD",
+        "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate"
       }
     ],
     "waiting": [
@@ -3767,6 +3766,11 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1114,
+        "head": "Slab City: \"hold S to brake\" in the tutorial rolls a newcomer backwards into the exit",
         "date": "2026-11-21"
       },
       {
@@ -3809,15 +3813,9 @@
         "n": 1103,
         "head": "TOY FURY: the free Spark Kart is only LEVEL with the field at its best (24 of 240 in the Grand Tour, field 23.8), and the garage card tells ",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1098,
-        "head": "TOY FURY: the falling-apart look is mostly grime and missing parts at race distance",
-        "detail": "make a three-panel car read hurt at a glance from behind",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 846,
+    "shippedTotal": 847,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3825,8 +3823,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 54
+      "2026-11-21": 55
     }
   },
-  "changed": "2026-11-21T23:19:15.850Z"
+  "changed": "2026-11-21T23:34:15.439Z"
 }
