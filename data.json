@@ -3754,6 +3754,18 @@
       {
         "n": 1227,
         "head": "BAR BOWLING's old checks are blind: item192 walks to a shoe counter the bar no longer has, and toast-fit counts toasts against a stale numbe"
+      },
+      {
+        "n": 1228,
+        "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world"
+      },
+      {
+        "n": 1229,
+        "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind"
+      },
+      {
+        "n": 1230,
+        "head": "HANGTIME on the bursty backup line: 3 of 16 blocks and 4 of 28 steals are still lost past the 0.4 s rewind cap"
       }
     ],
     "waiting": [
@@ -3851,5 +3863,5 @@
       "2026-11-21": 19
     }
   },
-  "changed": "2026-11-21T14:39:16.142Z"
+  "changed": "2026-11-21T14:44:14.513Z"
 }
