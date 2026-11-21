@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T17:45:00.000Z",
+  "updated": "2026-11-21T19:26:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -265,6 +265,11 @@
           "text": "Last Call: the browser can take the graphics away and the game kept playing behind a frozen picture",
           "status": "done",
           "note": "Live 11-03. A browser is allowed to take the graphics chip back off a page at any moment -- when something else on the device wants it, or the tab has sat in the background. Last Call had been told when that happened…"
+        },
+        {
+          "text": "The arcade room itself: when the browser took the graphics away it went blank white and said nothing",
+          "status": "done",
+          "note": "Live 11-21. The games got this fix on 11-16, but the room you walk around in never did. Worse, the false warning browsers fire at startup was enough on its own to freeze the room for good: the test counted zero things…"
         },
         {
           "text": "Toy Fury: four rooms still look like one flat colour above the low wall at the road's edge",
@@ -2713,22 +2718,10 @@
   "stack": {
     "building": [
       {
-        "n": 529,
-        "head": "every other 3D game in the arcade still reports itself healthy while its view is dead",
-        "lane": "arcade",
-        "since": "2026-11-21 12:39"
-      },
-      {
         "n": 530,
         "head": "the Undercroft and Toy Fury rigs have never been swept for clipping at all",
         "lane": "arcade",
         "since": "2026-11-21 13:14"
-      },
-      {
-        "n": 1095,
-        "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
-        "lane": "arcade2",
-        "since": "2026-11-21 12:29"
       },
       {
         "n": 1097,
@@ -3733,12 +3726,16 @@
         "head": "TOY FURY's stepped road dumps you off its last stretch before the loop: walls by the door shove you sideways, twice to the ground"
       },
       {
-        "n": 1237,
-        "head": "TOY FURY: re-tune the Grand Tour's place swaps with a driver that sees the toys, after row 1096"
-      },
-      {
         "n": 1238,
         "head": "HARNESS: replace the next ten sleep-then-grade checks that row 528's detector ranks highest"
+      },
+      {
+        "n": 1239,
+        "head": "Dodgeball says '3d' over a dead picture: its self-report should answer 'lost' when the shared guard says the view is dead"
+      },
+      {
+        "n": 1240,
+        "head": "the shared graphics guard holds a party host's frames, which may freeze the guest: test with two browsers and carve parties out if it does"
       }
     ],
     "waiting": [
@@ -3761,6 +3758,11 @@
     ],
     "shipped": [
       {
+        "n": 1237,
+        "head": "TOY FURY: re-tune the Grand Tour's place swaps with a driver that sees the toys, after row 1096",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1233,
         "head": "Sky Spike: dev/dive-lesson.mjs fails 20 of 20",
         "detail": "since row 1154 the dive step sits behind the \"?\" button and the check never reaches step 4",
@@ -3774,6 +3776,11 @@
       {
         "n": 1096,
         "head": "TOY FURY: the swap probe's drifting driver is blind to the moving toys, so a share of every place-swap number is the probe crashing",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1095,
+        "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
         "date": "2026-11-21"
       },
       {
@@ -3812,20 +3819,9 @@
         "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
         "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1083,
-        "head": "BAR DARTS with a friend: nobody has watched a friend leg end to end since the visit calls, the finish call and the banner went in",
-        "date": "2026-11-21"
-      },
-      {
-        "n": 1078,
-        "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
-        "detail": "clack pitch rises with speed, a short streak follows a puck above 6 m/s",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 826,
+    "shippedTotal": 829,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3833,8 +3829,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 34
+      "2026-11-21": 37
     }
   },
-  "changed": "2026-11-21T19:19:14.419Z"
+  "changed": "2026-11-21T19:29:13.898Z"
 }
