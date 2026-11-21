@@ -2708,6 +2708,13 @@
         "since": "2026-11-21 07:40"
       },
       {
+        "n": 1090,
+        "head": "BAR BOWLING: the roll and its replay are now over half the game",
+        "detail": "5.3 s a ball on a desk, 7 s on a phone",
+        "lane": "arcade",
+        "since": "2026-11-21 08:34"
+      },
+      {
         "n": 1041,
         "head": "HANGTIME ON A REAL LINE: steals, blocks and oops judged on the live host world (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
@@ -2721,11 +2728,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1090,
-        "head": "BAR BOWLING: the roll and its replay are now over half the game",
-        "detail": "5.3 s a ball on a desk, 7 s on a phone"
-      },
       {
         "n": 1091,
         "head": "BAR BOWLING: watch the new ticket line on a real signed-in game, and a friend game end to end"
@@ -3849,5 +3851,5 @@
       "2026-11-21": 19
     }
   },
-  "changed": "2026-11-21T14:31:11.146Z"
+  "changed": "2026-11-21T14:39:16.142Z"
 }
