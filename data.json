@@ -2714,12 +2714,6 @@
         "since": "2026-11-21 06:25"
       },
       {
-        "n": 1040,
-        "head": "LIVE WIRE ON A REAL LINE: same body fault as Haunt, tags judged on the live host world (carried from row 791, 2026-11-18)",
-        "lane": "arcade2",
-        "since": "2026-11-21 04:40"
-      },
-      {
         "n": 1041,
         "head": "HANGTIME ON A REAL LINE: steals, blocks and oops judged on the live host world (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
@@ -3762,6 +3756,10 @@
       {
         "n": 1225,
         "head": "MULTIPLAYER, every game that takes a friend: the room is told a player left and the GAME is not, so a friend who drops mid-match just stands"
+      },
+      {
+        "n": 1226,
+        "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)"
       }
     ],
     "waiting": [
@@ -3833,6 +3831,11 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1040,
+        "head": "LIVE WIRE ON A REAL LINE: same body fault as Haunt, tags judged on the live host world (carried from row 791, 2026-11-18)",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1039,
         "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
         "date": "2026-11-21"
@@ -3841,14 +3844,9 @@
         "n": 1038,
         "head": "BARN BURNER (IceHockey) ON A REAL LINE: tap-vs-hold timed by packet arrivals, own wind-up a round trip late (carried from row 791, 2026-11-1",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1037,
-        "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 807,
+    "shippedTotal": 808,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3856,8 +3854,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 15
+      "2026-11-21": 16
     }
   },
-  "changed": "2026-11-21T12:29:22.532Z"
+  "changed": "2026-11-21T12:54:14.031Z"
 }
