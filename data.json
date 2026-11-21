@@ -2702,13 +2702,6 @@
   "stack": {
     "building": [
       {
-        "n": 1078,
-        "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
-        "detail": "clack pitch rises with speed, a short streak follows a puck above 6 m/s",
-        "lane": "arcade",
-        "since": "2026-11-21 03:39"
-      },
-      {
         "n": 1083,
         "head": "BAR DARTS with a friend: nobody has watched a friend leg end to end since the visit calls, the finish call and the banner went in",
         "lane": "arcade",
@@ -3755,6 +3748,10 @@
       {
         "n": 1219,
         "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured"
+      },
+      {
+        "n": 1220,
+        "head": "BAR AIR HOCKEY: the desk hockey check's \"the puck was hit and moves\" step fails on HEAD as well as on any change, so it guards nothing on th"
       }
     ],
     "waiting": [
@@ -3779,6 +3776,12 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1078,
+        "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
+        "detail": "clack pitch rises with speed, a short streak follows a puck above 6 m/s",
         "date": "2026-11-21"
       },
       {
@@ -3832,14 +3835,9 @@
         "n": 1026,
         "head": "UNDERCROFT, friends: a guest's first riposte hangs their own screen about 0.65 s (HEAD too)",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1157,
-        "head": "Ping pong: the paddle must be IN THE PLAYER'S HAND, with the arm swinging it fable",
-        "date": "2026-11-20 16:28"
       }
     ],
-    "shippedTotal": 803,
+    "shippedTotal": 804,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3847,8 +3845,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 11
+      "2026-11-21": 12
     }
   },
-  "changed": "2026-11-21T10:44:16.029Z"
+  "changed": "2026-11-21T11:09:25.299Z"
 }
