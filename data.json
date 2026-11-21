@@ -2665,6 +2665,12 @@
         "head": "UNDERCROFT carries a failed server patch in the working tree: restore the two tracked files (the patch is already saved, so nothing is lost)",
         "lane": "arcade2",
         "since": "2026-11-20 21:44"
+      },
+      {
+        "n": 1026,
+        "head": "UNDERCROFT, friends: a guest's first riposte hangs their own screen about 0.65 s (HEAD too)",
+        "lane": "arcade2",
+        "since": "2026-11-20 22:39"
       }
     ],
     "next": [
@@ -3242,10 +3248,6 @@
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
       },
       {
-        "n": 1026,
-        "head": "UNDERCROFT, friends: a guest's first riposte hangs their own screen about 0.65 s (HEAD too)"
-      },
-      {
         "n": 1027,
         "head": "COMET CLASH: a first visit starts on NORMAL, where a first-timer wins about 1 match in 10"
       },
@@ -3810,5 +3812,5 @@
       "2026-11-20": 45
     }
   },
-  "changed": "2026-11-21T04:34:16.394Z"
+  "changed": "2026-11-21T04:44:17.144Z"
 }
