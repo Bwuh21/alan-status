@@ -2733,10 +2733,6 @@
     ],
     "next": [
       {
-        "n": 1018,
-        "head": "ORBIT STADIUM's sign says \"six sports\" and there are seven (survey 2026-11-18)"
-      },
-      {
         "n": 524,
         "head": "the pinball bench prints \"NOT CALIBRATED: do not set a bar from this\", and the bar was set from it anyway"
       },
@@ -3860,7 +3856,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 818,
+    "shippedTotal": 819,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3868,8 +3864,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 26
+      "2026-11-21": 27
     }
   },
-  "changed": "2026-11-21T17:49:13.895Z"
+  "changed": "2026-11-21T17:54:14.452Z"
 }
