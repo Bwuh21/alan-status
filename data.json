@@ -2739,6 +2739,12 @@
         "head": "Slab City: \"hold S to brake\" in the tutorial rolls a newcomer backwards into the exit",
         "lane": "arcade2",
         "since": "2026-11-21 16:39"
+      },
+      {
+        "n": 1115,
+        "head": "Slab City on a phone: three things overlap in the first two minutes",
+        "lane": "arcade2",
+        "since": "2026-11-21 16:59"
       }
     ],
     "next": [
@@ -3227,10 +3233,6 @@
       {
         "n": 1109,
         "head": "Strike City: the sideways party harness _i330p/party-rail-check.mjs throws before measuring anything"
-      },
-      {
-        "n": 1115,
-        "head": "Slab City on a phone: three things overlap in the first two minutes"
       },
       {
         "n": 1116,
@@ -3830,5 +3832,5 @@
       "2026-11-21": 53
     }
   },
-  "changed": "2026-11-21T22:54:13.599Z"
+  "changed": "2026-11-21T23:04:15.218Z"
 }
