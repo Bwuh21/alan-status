@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T07:40:00.000Z",
+  "updated": "2026-11-21T08:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -484,6 +484,11 @@
       "title": "Pool tavern island",
       "status": "done",
       "subtasks": [
+        {
+          "text": "Pool: show the balls each side has sunk, and an aim line you can see on a phone",
+          "status": "done",
+          "note": "Live 11-21. A strip across the top of the screen holds every ball: yours on the left, the 8 in the middle, theirs on the right. A ball you sink lights up and drops into place; the rest stay faint. The aim line was one…"
+        },
         {
           "text": "Pool balls need numbers and to actually look like pool balls",
           "status": "done",
@@ -2692,12 +2697,6 @@
   "stack": {
     "building": [
       {
-        "n": 1072,
-        "head": "BAR POOL: a tray of the balls you have sunk, and an aim line you can see on a phone",
-        "lane": "arcade",
-        "since": "2026-11-21 00:54"
-      },
-      {
         "n": 1073,
         "head": "BAR POOL: warn when the white ball is going to follow the ball in",
         "lane": "arcade",
@@ -3743,6 +3742,10 @@
       {
         "n": 1211,
         "head": "Sky Spike: the sideways-phone title card shows no controls line"
+      },
+      {
+        "n": 1212,
+        "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens"
       }
     ],
     "waiting": [
@@ -3767,6 +3770,11 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1072,
+        "head": "BAR POOL: a tray of the balls you have sunk, and an aim line you can see on a phone",
         "date": "2026-11-21"
       },
       {
@@ -3819,14 +3827,9 @@
         "n": 1155,
         "head": "Toy Fury tutorial: far too much at once, \"like they were on acid\" fable",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1154,
-        "head": "Tutorials: teach seamlessly, without overwhelming or interrupting fable",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 795,
+    "shippedTotal": 796,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3834,8 +3837,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 3
+      "2026-11-21": 4
     }
   },
-  "changed": "2026-11-21T07:49:14.321Z"
+  "changed": "2026-11-21T07:54:14.200Z"
 }
