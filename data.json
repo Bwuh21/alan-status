@@ -2723,12 +2723,6 @@
   "stack": {
     "building": [
       {
-        "n": 534,
-        "head": "four more aura checks assert their rarity ladder on ONE skin pair each, with the fire's clock running",
-        "lane": "arcade",
-        "since": "2026-11-21 14:49"
-      },
-      {
         "n": 535,
         "head": "Rusty's left hand is the same cream as his shirt front, so it melts into his chest",
         "lane": "arcade",
@@ -2739,6 +2733,12 @@
         "head": "Slab City: a stalled board's nose sinks into the east side of the City Hall steps",
         "lane": "arcade2",
         "since": "2026-11-21 15:44"
+      },
+      {
+        "n": 1112,
+        "head": "Slab City: the fuzz check calls the designed rail side-step a teleport",
+        "lane": "arcade2",
+        "since": "2026-11-21 15:49"
       }
     ],
     "next": [
@@ -3241,10 +3241,6 @@
         "head": "Strike City: the sideways party harness _i330p/party-rail-check.mjs throws before measuring anything"
       },
       {
-        "n": 1112,
-        "head": "Slab City: the fuzz check calls the designed rail side-step a teleport"
-      },
-      {
         "n": 1113,
         "head": "Slab City: the first job says \"kickflip ON MAIN ST\" but a kickflip anywhere counts"
       },
@@ -3727,6 +3723,19 @@
       {
         "n": 1248,
         "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too"
+      },
+      {
+        "n": 1249,
+        "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a "
+      },
+      {
+        "n": 1250,
+        "head": "SPACE GOLF: row 299's aura claims that row 534 did not re-make",
+        "detail": "the fire in flight, the figure-sized crown through the arcade, names, cost"
+      },
+      {
+        "n": 1251,
+        "head": "HANGTIME: on a phone a Divine aura washes out the name pill above the player (5.55 of 255 a pixel, bar 3)"
       }
     ],
     "waiting": [
@@ -3813,7 +3822,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 839,
+    "shippedTotal": 840,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3821,8 +3830,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 47
+      "2026-11-21": 48
     }
   },
-  "changed": "2026-11-21T21:49:13.952Z"
+  "changed": "2026-11-21T21:54:14.966Z"
 }
