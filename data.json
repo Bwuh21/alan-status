@@ -2708,6 +2708,13 @@
         "since": "2026-11-21 02:19"
       },
       {
+        "n": 1077,
+        "head": "BAR AIR HOCKEY: the table is a flat pink board in a walnut tavern",
+        "detail": "give it the hall's look and a goal light",
+        "lane": "arcade",
+        "since": "2026-11-21 03:19"
+      },
+      {
         "n": 1037,
         "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball",
         "lane": "arcade2",
@@ -2721,11 +2728,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1077,
-        "head": "BAR AIR HOCKEY: the table is a flat pink board in a walnut tavern",
-        "detail": "give it the hall's look and a goal light"
-      },
       {
         "n": 1078,
         "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
@@ -3848,5 +3850,5 @@
       "2026-11-21": 7
     }
   },
-  "changed": "2026-11-21T09:14:13.768Z"
+  "changed": "2026-11-21T09:24:18.893Z"
 }
