@@ -2715,12 +2715,6 @@
         "since": "2026-11-21 04:24"
       },
       {
-        "n": 1038,
-        "head": "BARN BURNER (IceHockey) ON A REAL LINE: tap-vs-hold timed by packet arrivals, own wind-up a round trip late (carried from row 791, 2026-11-1",
-        "lane": "arcade2",
-        "since": "2026-11-21 02:49"
-      },
-      {
         "n": 1039,
         "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
@@ -3751,6 +3745,14 @@
       {
         "n": 1217,
         "head": "BAR AIR HOCKEY with a friend: on a weak phone the far end hears some goals 300+ ms late, and no phone has played the far end"
+      },
+      {
+        "n": 1218,
+        "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1"
+      },
+      {
+        "n": 1219,
+        "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured"
       }
     ],
     "waiting": [
@@ -3805,6 +3807,11 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1038,
+        "head": "BARN BURNER (IceHockey) ON A REAL LINE: tap-vs-hold timed by packet arrivals, own wind-up a round trip late (carried from row 791, 2026-11-1",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1037,
         "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball",
         "date": "2026-11-21"
@@ -3828,14 +3835,9 @@
         "n": 1157,
         "head": "Ping pong: the paddle must be IN THE PLAYER'S HAND, with the arm swinging it fable",
         "date": "2026-11-20 16:28"
-      },
-      {
-        "n": 1174,
-        "head": "Bowling: the lane prompt should say who is bowling and your place in line, like the tables",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 802,
+    "shippedTotal": 803,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3843,8 +3845,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 10
+      "2026-11-21": 11
     }
   },
-  "changed": "2026-11-21T10:29:13.927Z"
+  "changed": "2026-11-21T10:34:13.745Z"
 }
