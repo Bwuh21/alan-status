@@ -2723,12 +2723,6 @@
   "stack": {
     "building": [
       {
-        "n": 572,
-        "head": "a game's own verify can be red for a day and the chain never notices",
-        "lane": "arcade",
-        "since": "2026-11-21 15:54"
-      },
-      {
         "n": 582,
         "head": "Every check that silently prefers a scratch file is reading whatever a dead lane left behind",
         "lane": "arcade",
@@ -3740,6 +3734,10 @@
         "n": 1254,
         "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
         "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate"
+      },
+      {
+        "n": 1255,
+        "head": "nine games' own checks were red on 2026-11-17 and nobody filed them; the new nightly sweep will not either"
       }
     ],
     "waiting": [
@@ -3826,7 +3824,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 843,
+    "shippedTotal": 844,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3834,8 +3832,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 51
+      "2026-11-21": 52
     }
   },
-  "changed": "2026-11-21T22:46:24.166Z"
+  "changed": "2026-11-21T22:49:14.832Z"
 }
