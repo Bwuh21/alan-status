@@ -2724,6 +2724,12 @@
         "since": "2026-11-21 13:14"
       },
       {
+        "n": 531,
+        "head": "geo's coverage of the rigs is decided by boot luck, and nothing says so",
+        "lane": "arcade",
+        "since": "2026-11-21 13:29"
+      },
+      {
         "n": 1097,
         "head": "TOY FURY: combat-check fails \"a fresh device owns no car\"",
         "detail": "a kart is already in the garage after the check wipes storage",
@@ -2732,10 +2738,6 @@
       }
     ],
     "next": [
-      {
-        "n": 531,
-        "head": "geo's coverage of the rigs is decided by boot luck, and nothing says so"
-      },
       {
         "n": 532,
         "head": "Lou is a name on a panel; there is no robot at the shoe desk"
@@ -3832,5 +3834,5 @@
       "2026-11-21": 37
     }
   },
-  "changed": "2026-11-21T19:29:13.898Z"
+  "changed": "2026-11-21T19:34:13.895Z"
 }
