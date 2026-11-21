@@ -2718,12 +2718,6 @@
   "stack": {
     "building": [
       {
-        "n": 531,
-        "head": "geo's coverage of the rigs is decided by boot luck, and nothing says so",
-        "lane": "arcade",
-        "since": "2026-11-21 13:29"
-      },
-      {
         "n": 532,
         "head": "Lou is a name on a panel; there is no robot at the shoe desk",
         "lane": "arcade",
@@ -2734,6 +2728,12 @@
         "head": "TOY FURY: Outside the pack is still near you only half the race (50 percent, the bar is 65), and every pull strong enough to fix it brings t",
         "lane": "arcade2",
         "since": "2026-11-21 13:59"
+      },
+      {
+        "n": 1105,
+        "head": "TOY FURY: the race-start line still says \"lose every panel and the race is gone\", but since row 1064 a wreck outside the derby is a 1.2 seco",
+        "lane": "arcade2",
+        "since": "2026-11-21 14:34"
       }
     ],
     "next": [
@@ -3240,10 +3240,6 @@
         "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m"
       },
       {
-        "n": 1105,
-        "head": "TOY FURY: the race-start line still says \"lose every panel and the race is gone\", but since row 1064 a wreck outside the derby is a 1.2 seco"
-      },
-      {
         "n": 1106,
         "head": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race"
       },
@@ -3734,6 +3730,14 @@
         "n": 1243,
         "head": "TOY FURY: the price ladder is flat again",
         "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families"
+      },
+      {
+        "n": 1244,
+        "head": "BOWLING: the pin rake's two end caps put teal and cream in one plane, because the blade and its rubber lip are both exactly lane-wide"
+      },
+      {
+        "n": 1245,
+        "head": "Undercroft and Toy Fury: clip-check-uc.mjs geo still prints a pair count and nothing about what it left unread"
       }
     ],
     "waiting": [
@@ -3820,7 +3824,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 833,
+    "shippedTotal": 834,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3828,8 +3832,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 41
+      "2026-11-21": 42
     }
   },
-  "changed": "2026-11-21T20:34:14.300Z"
+  "changed": "2026-11-21T20:39:14.197Z"
 }
