@@ -2702,13 +2702,6 @@
   "stack": {
     "building": [
       {
-        "n": 1075,
-        "head": "BAR AIR HOCKEY: the house is too strong for a first match",
-        "detail": "a sloppy hand lost 3 of 3 finished phone matches (3-7, 5-7, 5-7)",
-        "lane": "arcade",
-        "since": "2026-11-21 01:59"
-      },
-      {
         "n": 1076,
         "head": "BAR AIR HOCKEY with a friend: nobody has watched a friend match end to end since the goal burst, banner and heat went in",
         "lane": "arcade",
@@ -3755,6 +3748,11 @@
       {
         "n": 1214,
         "head": "BACK NINE: on a phone held sideways (844x390) the \"Hole 1\" title sits on top of the hole's tip line"
+      },
+      {
+        "n": 1215,
+        "head": "BAR AIR HOCKEY: a puck resting in the house's own corner is a dead table",
+        "detail": "the house parks against it forever"
       }
     ],
     "waiting": [
@@ -3779,6 +3777,12 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1075,
+        "head": "the hand won 7-5 and 7-4 on the page and lost the full rematch 6-7; HIS PLAY of both strengths still owed) arcade",
+        "detail": "BAR AIR HOCKEY: the house is too strong for a first match -- a sloppy hand lost 3 of 3 finished phone matches (3-7, 5-7, 5-7)",
         "date": "2026-11-21"
       },
       {
@@ -3831,14 +3835,9 @@
         "head": "Toy Fury: players end up \"stuck on either side of the wall, not really playing\"",
         "detail": "dial it back a lot fable",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1158,
-        "head": "Skate (Slab City): there is no FLIP, and players glitch past the map edges and into ramps",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 798,
+    "shippedTotal": 799,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3846,8 +3845,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 6
+      "2026-11-21": 7
     }
   },
-  "changed": "2026-11-21T08:54:14.899Z"
+  "changed": "2026-11-21T09:14:13.768Z"
 }
