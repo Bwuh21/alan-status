@@ -2718,10 +2718,10 @@
   "stack": {
     "building": [
       {
-        "n": 532,
-        "head": "Lou is a name on a panel; there is no robot at the shoe desk",
+        "n": 533,
+        "head": "the LOOK is worth more than the RUNG: two DIVINE skins are 1.8x apart while a whole rarity is worth 1.3x, and Zack has to pick size or brigh",
         "lane": "arcade",
-        "since": "2026-11-21 14:24"
+        "since": "2026-11-21 14:44"
       },
       {
         "n": 1104,
@@ -2737,10 +2737,6 @@
       }
     ],
     "next": [
-      {
-        "n": 533,
-        "head": "the LOOK is worth more than the RUNG: two DIVINE skins are 1.8x apart while a whole rarity is worth 1.3x, and Zack has to pick size or brigh"
-      },
       {
         "n": 534,
         "head": "four more aura checks assert their rarity ladder on ONE skin pair each, with the fire's clock running"
@@ -3835,5 +3831,5 @@
       "2026-11-21": 42
     }
   },
-  "changed": "2026-11-21T20:39:14.197Z"
+  "changed": "2026-11-21T20:49:14.161Z"
 }
