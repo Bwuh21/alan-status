@@ -2729,17 +2729,19 @@
         "since": "2026-11-21 15:54"
       },
       {
-        "n": 1112,
-        "head": "Slab City: the fuzz check calls the designed rail side-step a teleport",
+        "n": 582,
+        "head": "Every check that silently prefers a scratch file is reading whatever a dead lane left behind",
+        "lane": "arcade",
+        "since": "2026-11-21 16:29"
+      },
+      {
+        "n": 1113,
+        "head": "Slab City: the first job says \"kickflip ON MAIN ST\" but a kickflip anywhere counts",
         "lane": "arcade2",
-        "since": "2026-11-21 15:49"
+        "since": "2026-11-21 16:29"
       }
     ],
     "next": [
-      {
-        "n": 582,
-        "head": "Every check that silently prefers a scratch file is reading whatever a dead lane left behind"
-      },
       {
         "n": 591,
         "head": "A friend's arrival can freeze the host's screen in 34 games (shader warm-up never finishes)"
@@ -3229,10 +3231,6 @@
       {
         "n": 1109,
         "head": "Strike City: the sideways party harness _i330p/party-rail-check.mjs throws before measuring anything"
-      },
-      {
-        "n": 1113,
-        "head": "Slab City: the first job says \"kickflip ON MAIN ST\" but a kickflip anywhere counts"
       },
       {
         "n": 1114,
@@ -3778,6 +3776,11 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1112,
+        "head": "Slab City: the fuzz check calls the designed rail side-step a teleport",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1111,
         "head": "Slab City: a stalled board's nose sinks into the east side of the City Hall steps",
         "date": "2026-11-21"
@@ -3819,14 +3822,9 @@
         "head": "TOY FURY: combat-check fails \"a fresh device owns no car\"",
         "detail": "a kart is already in the garage after the check wipes storage",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1096,
-        "head": "TOY FURY: the swap probe's drifting driver is blind to the moving toys, so a share of every place-swap number is the probe crashing",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 842,
+    "shippedTotal": 843,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3834,8 +3832,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 50
+      "2026-11-21": 51
     }
   },
-  "changed": "2026-11-21T22:29:13.431Z"
+  "changed": "2026-11-21T22:34:13.742Z"
 }
