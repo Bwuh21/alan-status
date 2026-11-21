@@ -2735,6 +2735,12 @@
         "detail": "make a three-panel car read hurt at a glance from behind",
         "lane": "arcade2",
         "since": "2026-11-21 13:34"
+      },
+      {
+        "n": 1103,
+        "head": "TOY FURY: the free Spark Kart is only LEVEL with the field at its best (24 of 240 in the Grand Tour, field 23.8), and the garage card tells ",
+        "lane": "arcade2",
+        "since": "2026-11-21 13:39"
       }
     ],
     "next": [
@@ -3243,10 +3249,6 @@
         "n": 1101,
         "head": "(row 1176, 11-20: the FOOSBALL half is moot",
         "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m"
-      },
-      {
-        "n": 1103,
-        "head": "TOY FURY: the free Spark Kart is only LEVEL with the field at its best (24 of 240 in the Grand Tour, field 23.8), and the garage card tells "
       },
       {
         "n": 1104,
@@ -3829,5 +3831,5 @@
       "2026-11-21": 38
     }
   },
-  "changed": "2026-11-21T19:39:13.973Z"
+  "changed": "2026-11-21T19:44:14.062Z"
 }
