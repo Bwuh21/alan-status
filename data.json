@@ -2709,6 +2709,12 @@
         "since": "2026-11-21 01:59"
       },
       {
+        "n": 1076,
+        "head": "BAR AIR HOCKEY with a friend: nobody has watched a friend match end to end since the goal burst, banner and heat went in",
+        "lane": "arcade",
+        "since": "2026-11-21 02:19"
+      },
+      {
         "n": 1036,
         "head": "BACK NINE: in a short landscape window the aim camera leaves the golfer tiny at the bottom, behind the SWIPE button",
         "lane": "arcade2",
@@ -2722,10 +2728,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1076,
-        "head": "BAR AIR HOCKEY with a friend: nobody has watched a friend match end to end since the goal burst, banner and heat went in"
-      },
       {
         "n": 1077,
         "head": "BAR AIR HOCKEY: the table is a flat pink board in a walnut tavern",
@@ -3847,5 +3849,5 @@
       "2026-11-21": 5
     }
   },
-  "changed": "2026-11-21T08:19:13.588Z"
+  "changed": "2026-11-21T08:27:56.859Z"
 }
