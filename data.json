@@ -3765,6 +3765,11 @@
         "n": 1233,
         "head": "Sky Spike: dev/dive-lesson.mjs fails 20 of 20",
         "detail": "since row 1154 the dive step sits behind the \"?\" button and the check never reaches step 4"
+      },
+      {
+        "n": 1234,
+        "head": "BAR BOWLING: a computer window that is not focused bowls in slow motion (0.6x)",
+        "detail": "the 12 fps background cap meets the 0.05 s step ceiling"
       }
     ],
     "waiting": [
@@ -3863,5 +3868,5 @@
       "2026-11-21": 24
     }
   },
-  "changed": "2026-11-21T15:49:13.568Z"
+  "changed": "2026-11-21T16:34:17.738Z"
 }
