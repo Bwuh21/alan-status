@@ -2739,6 +2739,12 @@
         "head": "Slab City: the first job says \"kickflip ON MAIN ST\" but a kickflip anywhere counts",
         "lane": "arcade2",
         "since": "2026-11-21 16:29"
+      },
+      {
+        "n": 1114,
+        "head": "Slab City: \"hold S to brake\" in the tutorial rolls a newcomer backwards into the exit",
+        "lane": "arcade2",
+        "since": "2026-11-21 16:39"
       }
     ],
     "next": [
@@ -3231,10 +3237,6 @@
       {
         "n": 1109,
         "head": "Strike City: the sideways party harness _i330p/party-rail-check.mjs throws before measuring anything"
-      },
-      {
-        "n": 1114,
-        "head": "Slab City: \"hold S to brake\" in the tutorial rolls a newcomer backwards into the exit"
       },
       {
         "n": 1115,
@@ -3835,5 +3837,5 @@
       "2026-11-21": 51
     }
   },
-  "changed": "2026-11-21T22:34:13.742Z"
+  "changed": "2026-11-21T22:46:24.166Z"
 }
