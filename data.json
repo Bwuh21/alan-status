@@ -2724,6 +2724,12 @@
         "since": "2026-11-21 14:44"
       },
       {
+        "n": 534,
+        "head": "four more aura checks assert their rarity ladder on ONE skin pair each, with the fire's clock running",
+        "lane": "arcade",
+        "since": "2026-11-21 14:49"
+      },
+      {
         "n": 1104,
         "head": "TOY FURY: Outside the pack is still near you only half the race (50 percent, the bar is 65), and every pull strong enough to fix it brings t",
         "lane": "arcade2",
@@ -2737,10 +2743,6 @@
       }
     ],
     "next": [
-      {
-        "n": 534,
-        "head": "four more aura checks assert their rarity ladder on ONE skin pair each, with the fire's clock running"
-      },
       {
         "n": 535,
         "head": "Rusty's left hand is the same cream as his shirt front, so it melts into his chest"
@@ -3831,5 +3833,5 @@
       "2026-11-21": 42
     }
   },
-  "changed": "2026-11-21T20:49:14.161Z"
+  "changed": "2026-11-21T20:54:14.580Z"
 }
