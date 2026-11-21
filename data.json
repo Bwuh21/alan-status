@@ -2730,12 +2730,6 @@
         "since": "2026-11-21 14:49"
       },
       {
-        "n": 1104,
-        "head": "TOY FURY: Outside the pack is still near you only half the race (50 percent, the bar is 65), and every pull strong enough to fix it brings t",
-        "lane": "arcade2",
-        "since": "2026-11-21 13:59"
-      },
-      {
         "n": 1105,
         "head": "TOY FURY: the race-start line still says \"lose every panel and the race is gone\", but since row 1064 a wreck outside the derby is a 1.2 seco",
         "lane": "arcade2",
@@ -3736,6 +3730,10 @@
       {
         "n": 1245,
         "head": "Undercroft and Toy Fury: clip-check-uc.mjs geo still prints a pair count and nothing about what it left unread"
+      },
+      {
+        "n": 1246,
+        "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed"
       }
     ],
     "waiting": [
@@ -3771,6 +3769,11 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1104,
+        "head": "TOY FURY: Outside the pack is still near you only half the race (50 percent, the bar is 65), and every pull strong enough to fix it brings t",
         "date": "2026-11-21"
       },
       {
@@ -3815,14 +3818,9 @@
         "n": 1089,
         "head": "BAR BOWLING on a phone: the ceiling scoreboard shows scrambled numbers behind the Leave button on the ending",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1088,
-        "head": "BAR BOWLING: the first words a stranger reads are ticket jargon, and every ball says the same two lines",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 834,
+    "shippedTotal": 835,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3830,8 +3828,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 42
+      "2026-11-21": 43
     }
   },
-  "changed": "2026-11-21T20:54:14.580Z"
+  "changed": "2026-11-21T21:09:14.403Z"
 }
