@@ -2729,17 +2729,25 @@
         "since": "2026-11-21 14:49"
       },
       {
+        "n": 535,
+        "head": "Rusty's left hand is the same cream as his shirt front, so it melts into his chest",
+        "lane": "arcade",
+        "since": "2026-11-21 15:24"
+      },
+      {
         "n": 1106,
         "head": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race",
         "lane": "arcade2",
         "since": "2026-11-21 15:09"
+      },
+      {
+        "n": 1108,
+        "head": "TOY FURY: on the HIGH side of a banked corner the barrier is buried to half its height",
+        "lane": "arcade2",
+        "since": "2026-11-21 15:24"
       }
     ],
     "next": [
-      {
-        "n": 535,
-        "head": "Rusty's left hand is the same cream as his shirt front, so it melts into his chest"
-      },
       {
         "n": 572,
         "head": "a game's own verify can be red for a day and the chain never notices"
@@ -3233,10 +3241,6 @@
       {
         "n": 1107,
         "head": "Strike City: the bowling checks' test hook still plants a 4/8/16/30 ticket ladder the live server has not held since 11-04"
-      },
-      {
-        "n": 1108,
-        "head": "TOY FURY: on the HIGH side of a banked corner the barrier is buried to half its height"
       },
       {
         "n": 1109,
@@ -3830,5 +3834,5 @@
       "2026-11-21": 45
     }
   },
-  "changed": "2026-11-21T21:24:14.180Z"
+  "changed": "2026-11-21T21:29:14.681Z"
 }
