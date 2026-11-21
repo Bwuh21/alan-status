@@ -2729,6 +2729,13 @@
         "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
         "lane": "arcade2",
         "since": "2026-11-21 12:29"
+      },
+      {
+        "n": 1097,
+        "head": "TOY FURY: combat-check fails \"a fresh device owns no car\"",
+        "detail": "a kart is already in the garage after the check wipes storage",
+        "lane": "arcade2",
+        "since": "2026-11-21 12:44"
       }
     ],
     "next": [
@@ -3232,11 +3239,6 @@
       {
         "n": 1094,
         "head": "PING PONG: the blade's fade to see-through is eased per frame, not per second"
-      },
-      {
-        "n": 1097,
-        "head": "TOY FURY: combat-check fails \"a fresh device owns no car\"",
-        "detail": "a kart is already in the garage after the check wipes storage"
       },
       {
         "n": 1098,
@@ -3834,5 +3836,5 @@
       "2026-11-21": 33
     }
   },
-  "changed": "2026-11-21T18:44:13.902Z"
+  "changed": "2026-11-21T18:49:16.614Z"
 }
