@@ -2709,6 +2709,12 @@
         "since": "2026-11-21 08:34"
       },
       {
+        "n": 1091,
+        "head": "BAR BOWLING: watch the new ticket line on a real signed-in game, and a friend game end to end",
+        "lane": "arcade",
+        "since": "2026-11-21 08:54"
+      },
+      {
         "n": 1047,
         "head": "Head or Body: is THE READER's step over VELVET real for a person, or only for bots that stop punching under 25 stamina?",
         "lane": "arcade2",
@@ -2716,10 +2722,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1091,
-        "head": "BAR BOWLING: watch the new ticket line on a real signed-in game, and a friend game end to end"
-      },
       {
         "n": 993,
         "head": "THE DEEP GATE: you cannot stand on steps 1 and 3 of its stair",
@@ -3851,5 +3853,5 @@
       "2026-11-21": 21
     }
   },
-  "changed": "2026-11-21T14:54:13.716Z"
+  "changed": "2026-11-21T14:59:13.495Z"
 }
