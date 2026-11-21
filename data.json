@@ -2723,22 +2723,10 @@
   "stack": {
     "building": [
       {
-        "n": 535,
-        "head": "Rusty's left hand is the same cream as his shirt front, so it melts into his chest",
-        "lane": "arcade",
-        "since": "2026-11-21 15:24"
-      },
-      {
         "n": 572,
         "head": "a game's own verify can be red for a day and the chain never notices",
         "lane": "arcade",
         "since": "2026-11-21 15:54"
-      },
-      {
-        "n": 1111,
-        "head": "Slab City: a stalled board's nose sinks into the east side of the City Hall steps",
-        "lane": "arcade2",
-        "since": "2026-11-21 15:44"
       },
       {
         "n": 1112,
@@ -3738,6 +3726,20 @@
       {
         "n": 1251,
         "head": "HANGTIME: on a phone a Divine aura washes out the name pill above the player (5.55 of 255 a pixel, bar 3)"
+      },
+      {
+        "n": 1252,
+        "head": "Rusty's work-cycle claim fails on desk: \"he reached, washed and racked an empty, and came home\""
+      },
+      {
+        "n": 1253,
+        "head": "Slab City: the wall probe never rides a wall",
+        "detail": "0 wall-mode frames in 720 runs, so its solids table says nothing about walls (found by row 1111, 2026-11-21) region-skate"
+      },
+      {
+        "n": 1254,
+        "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
+        "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate"
       }
     ],
     "waiting": [
@@ -3773,6 +3775,11 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1111,
+        "head": "Slab City: a stalled board's nose sinks into the east side of the City Hall steps",
         "date": "2026-11-21"
       },
       {
@@ -3817,14 +3824,9 @@
         "n": 1096,
         "head": "TOY FURY: the swap probe's drifting driver is blind to the moving toys, so a share of every place-swap number is the probe crashing",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1095,
-        "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 840,
+    "shippedTotal": 842,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3832,8 +3834,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 48
+      "2026-11-21": 50
     }
   },
-  "changed": "2026-11-21T21:59:15.180Z"
+  "changed": "2026-11-21T22:29:13.431Z"
 }
