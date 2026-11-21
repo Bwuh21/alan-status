@@ -2702,12 +2702,6 @@
   "stack": {
     "building": [
       {
-        "n": 1087,
-        "head": "BAR BOWLING: the \"playing as a guest\" bubble sits on top of steps 2 and 3 of the how-to card",
-        "lane": "arcade",
-        "since": "2026-11-21 06:25"
-      },
-      {
         "n": 1088,
         "head": "BAR BOWLING: the first words a stranger reads are ticket jargon, and every ball says the same two lines",
         "lane": "arcade",
@@ -3785,6 +3779,11 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1087,
+        "head": "BAR BOWLING: the \"playing as a guest\" bubble sits on top of steps 2 and 3 of the how-to card",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1085,
         "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead",
         "date": "2026-11-21"
@@ -3837,14 +3836,9 @@
         "n": 1040,
         "head": "LIVE WIRE ON A REAL LINE: same body fault as Haunt, tags judged on the live host world (carried from row 791, 2026-11-18)",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1039,
-        "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 809,
+    "shippedTotal": 810,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3852,8 +3846,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 17
+      "2026-11-21": 18
     }
   },
-  "changed": "2026-11-21T13:04:17.930Z"
+  "changed": "2026-11-21T13:34:19.444Z"
 }
