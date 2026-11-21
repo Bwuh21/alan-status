@@ -2713,10 +2713,10 @@
   "stack": {
     "building": [
       {
-        "n": 525,
-        "head": "the arcade has no pinball hand that AIMS, so \"a competent game\" is still a fiction",
+        "n": 527,
+        "head": "a game that fires solo-start twice without a solo-end is charged TWO coins, and nothing in the arcade stops it",
         "lane": "arcade",
-        "since": "2026-11-21 12:14"
+        "since": "2026-11-21 12:24"
       },
       {
         "n": 1096,
@@ -2726,10 +2726,6 @@
       }
     ],
     "next": [
-      {
-        "n": 527,
-        "head": "a game that fires solo-start twice without a solo-end is charged TWO coins, and nothing in the arcade stops it"
-      },
       {
         "n": 528,
         "head": "490 of the 894 verify scripts sleep on a clock before they measure, and nobody knows which of them GATE a verdict on it"
@@ -3034,10 +3030,6 @@
       {
         "n": 864,
         "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome"
-      },
-      {
-        "n": 868,
-        "head": "Pinball cabinet: the power cable hangs in mid-air from the top box"
       },
       {
         "n": 869,
@@ -3849,5 +3841,5 @@
       "2026-11-21": 31
     }
   },
-  "changed": "2026-11-21T18:24:13.741Z"
+  "changed": "2026-11-21T18:29:13.740Z"
 }
