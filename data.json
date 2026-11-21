@@ -2709,18 +2709,26 @@
         "since": "2026-11-21 03:19"
       },
       {
+        "n": 1078,
+        "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
+        "detail": "clack pitch rises with speed, a short streak follows a puck above 6 m/s",
+        "lane": "arcade",
+        "since": "2026-11-21 03:39"
+      },
+      {
         "n": 1038,
         "head": "BARN BURNER (IceHockey) ON A REAL LINE: tap-vs-hold timed by packet arrivals, own wind-up a round trip late (carried from row 791, 2026-11-1",
         "lane": "arcade2",
         "since": "2026-11-21 02:49"
+      },
+      {
+        "n": 1039,
+        "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
+        "lane": "arcade2",
+        "since": "2026-11-21 03:39"
       }
     ],
     "next": [
-      {
-        "n": 1078,
-        "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
-        "detail": "clack pitch rises with speed, a short streak follows a puck above 6 m/s"
-      },
       {
         "n": 1083,
         "head": "BAR DARTS with a friend: nobody has watched a friend leg end to end since the visit calls, the finish call and the banner went in"
@@ -3266,10 +3274,6 @@
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
-      },
-      {
-        "n": 1039,
-        "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)"
       },
       {
         "n": 1040,
@@ -3846,5 +3850,5 @@
       "2026-11-21": 9
     }
   },
-  "changed": "2026-11-21T09:39:13.502Z"
+  "changed": "2026-11-21T09:44:14.127Z"
 }
