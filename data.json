@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T08:05:00.000Z",
+  "updated": "2026-11-21T08:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -484,6 +484,11 @@
       "title": "Pool tavern island",
       "status": "done",
       "subtasks": [
+        {
+          "text": "Pool: warn me before the white ball follows my ball into the pocket",
+          "status": "done",
+          "note": "Live 11-21. On the free practice rack, when your line would sink the ball but the white would drop after it, the pocket shows a red ring of dashes instead of the green one, the line goes red, and the card tells you what…"
+        },
         {
           "text": "Pool: show the balls each side has sunk, and an aim line you can see on a phone",
           "status": "done",
@@ -2697,12 +2702,6 @@
   "stack": {
     "building": [
       {
-        "n": 1073,
-        "head": "BAR POOL: warn when the white ball is going to follow the ball in",
-        "lane": "arcade",
-        "since": "2026-11-21 01:34"
-      },
-      {
         "n": 1075,
         "head": "BAR AIR HOCKEY: the house is too strong for a first match",
         "detail": "a sloppy hand lost 3 of 3 finished phone matches (3-7, 5-7, 5-7)",
@@ -3750,6 +3749,10 @@
       {
         "n": 1212,
         "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens"
+      },
+      {
+        "n": 1213,
+        "head": "BAR POOL: does the red-pocket warning actually cut a stranger's scratches? Replay the stranger hand"
       }
     ],
     "waiting": [
@@ -3774,6 +3777,11 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1073,
+        "head": "BAR POOL: warn when the white ball is going to follow the ball in",
         "date": "2026-11-21"
       },
       {
@@ -3826,14 +3834,9 @@
         "n": 1156,
         "head": "Replace foosball with TABLE SHUFFLEBOARD in the bar fable",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1155,
-        "head": "Toy Fury tutorial: far too much at once, \"like they were on acid\" fable",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 796,
+    "shippedTotal": 797,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3841,8 +3844,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 4
+      "2026-11-21": 5
     }
   },
-  "changed": "2026-11-21T08:04:13.572Z"
+  "changed": "2026-11-21T08:19:13.588Z"
 }
