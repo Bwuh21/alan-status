@@ -2734,6 +2734,12 @@
         "head": "TOY FURY: the race-start line still says \"lose every panel and the race is gone\", but since row 1064 a wreck outside the derby is a 1.2 seco",
         "lane": "arcade2",
         "since": "2026-11-21 14:34"
+      },
+      {
+        "n": 1106,
+        "head": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race",
+        "lane": "arcade2",
+        "since": "2026-11-21 15:09"
       }
     ],
     "next": [
@@ -3230,10 +3236,6 @@
         "n": 1101,
         "head": "(row 1176, 11-20: the FOOSBALL half is moot",
         "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m"
-      },
-      {
-        "n": 1106,
-        "head": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race"
       },
       {
         "n": 1107,
@@ -3831,5 +3833,5 @@
       "2026-11-21": 43
     }
   },
-  "changed": "2026-11-21T21:09:14.403Z"
+  "changed": "2026-11-21T21:14:15.820Z"
 }
