@@ -2713,6 +2713,12 @@
   "stack": {
     "building": [
       {
+        "n": 523,
+        "head": "the arcade's walk-in bar table loads CornerPocket's physics with no version stamp, so it can run a different sim from the cabinet",
+        "lane": "arcade",
+        "since": "2026-11-21 11:44"
+      },
+      {
         "n": 1051,
         "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened",
         "lane": "arcade2",
@@ -2729,10 +2735,6 @@
       {
         "n": 1018,
         "head": "ORBIT STADIUM's sign says \"six sports\" and there are seven (survey 2026-11-18)"
-      },
-      {
-        "n": 523,
-        "head": "the arcade's walk-in bar table loads CornerPocket's physics with no version stamp, so it can run a different sim from the cabinet"
       },
       {
         "n": 524,
@@ -3869,5 +3871,5 @@
       "2026-11-21": 26
     }
   },
-  "changed": "2026-11-21T17:44:13.774Z"
+  "changed": "2026-11-21T17:49:13.895Z"
 }
