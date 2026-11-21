@@ -2713,22 +2713,10 @@
   "stack": {
     "building": [
       {
-        "n": 523,
-        "head": "the arcade's walk-in bar table loads CornerPocket's physics with no version stamp, so it can run a different sim from the cabinet",
-        "lane": "arcade",
-        "since": "2026-11-21 11:44"
-      },
-      {
         "n": 524,
         "head": "the pinball bench prints \"NOT CALIBRATED: do not set a bar from this\", and the bar was set from it anyway",
         "lane": "arcade",
         "since": "2026-11-21 11:59"
-      },
-      {
-        "n": 1051,
-        "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened",
-        "lane": "arcade2",
-        "since": "2026-11-21 09:14"
       },
       {
         "n": 1095,
@@ -3755,11 +3743,6 @@
         "detail": "should the slowest ball be quicker? Judge it with a ball in hand, not from a number"
       },
       {
-        "n": 1233,
-        "head": "Sky Spike: dev/dive-lesson.mjs fails 20 of 20",
-        "detail": "since row 1154 the dive step sits behind the \"?\" button and the check never reaches step 4"
-      },
-      {
         "n": 1234,
         "head": "BAR BOWLING: a computer window that is not focused bowls in slow motion (0.6x)",
         "detail": "the 12 fps background cap meets the 0.05 s step ceiling"
@@ -3793,6 +3776,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1233,
+        "head": "Sky Spike: dev/dive-lesson.mjs fails 20 of 20",
+        "detail": "since row 1154 the dive step sits behind the \"?\" button and the check never reaches step 4",
+        "date": "2026-11-21"
+      },
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
@@ -3851,14 +3840,9 @@
         "head": "BAR AIR HOCKEY: the table is a flat pink board in a walnut tavern",
         "detail": "give it the hall's look and a goal light",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1076,
-        "head": "BAR AIR HOCKEY with a friend: nobody has watched a friend match end to end since the goal burst, banner and heat went in",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 819,
+    "shippedTotal": 822,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3866,8 +3850,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 27
+      "2026-11-21": 30
     }
   },
-  "changed": "2026-11-21T18:04:14.571Z"
+  "changed": "2026-11-21T18:09:13.919Z"
 }
