@@ -2723,12 +2723,6 @@
   "stack": {
     "building": [
       {
-        "n": 582,
-        "head": "Every check that silently prefers a scratch file is reading whatever a dead lane left behind",
-        "lane": "arcade",
-        "since": "2026-11-21 16:29"
-      },
-      {
         "n": 591,
         "head": "A friend's arrival can freeze the host's screen in 34 games (shader warm-up never finishes)",
         "lane": "arcade",
@@ -3821,7 +3815,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 845,
+    "shippedTotal": 846,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3829,8 +3823,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 53
+      "2026-11-21": 54
     }
   },
-  "changed": "2026-11-21T23:04:15.218Z"
+  "changed": "2026-11-21T23:14:15.082Z"
 }
