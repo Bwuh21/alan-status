@@ -2713,22 +2713,10 @@
   "stack": {
     "building": [
       {
-        "n": 524,
-        "head": "the pinball bench prints \"NOT CALIBRATED: do not set a bar from this\", and the bar was set from it anyway",
-        "lane": "arcade",
-        "since": "2026-11-21 11:59"
-      },
-      {
         "n": 525,
         "head": "the arcade has no pinball hand that AIMS, so \"a competent game\" is still a fiction",
         "lane": "arcade",
         "since": "2026-11-21 12:14"
-      },
-      {
-        "n": 1095,
-        "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
-        "lane": "arcade2",
-        "since": "2026-11-21 09:44"
       },
       {
         "n": 1096,
@@ -3256,6 +3244,10 @@
         "head": "PING PONG: the blade's fade to see-through is eased per frame, not per second"
       },
       {
+        "n": 1095,
+        "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10"
+      },
+      {
         "n": 1097,
         "head": "TOY FURY: combat-check fails \"a fresh device owns no car\"",
         "detail": "a kart is already in the garage after the check wipes storage"
@@ -3755,6 +3747,10 @@
       {
         "n": 1236,
         "head": "TOY FURY's stepped road dumps you off its last stretch before the loop: walls by the door shove you sideways, twice to the ground"
+      },
+      {
+        "n": 1237,
+        "head": "TOY FURY: re-tune the Grand Tour's place swaps with a driver that sees the toys, after row 1096"
       }
     ],
     "waiting": [
@@ -3853,5 +3849,5 @@
       "2026-11-21": 31
     }
   },
-  "changed": "2026-11-21T18:19:15.571Z"
+  "changed": "2026-11-21T18:24:13.741Z"
 }
