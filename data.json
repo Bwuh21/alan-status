@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:00:00.000Z",
+  "updated": "2026-11-21T17:45:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2499,7 +2499,8 @@
         },
         {
           "text": "Not from step 1: you cannot stand on steps 1 and 3 of the Deep Gate's stair (row 993, red before this work began)",
-          "status": "todo"
+          "status": "done",
+          "note": "Fixed 2026-11-21. The stairs were always fine: you land at 0.4, 0.8 and 1.2 on the three steps, on desk and phone. The test read your feet while you were still falling, because it stopped on one slow frame. It now waits…"
         },
         {
           "text": "2/8 Bowling, seamless: walk up to a lane and start",
@@ -2712,19 +2713,6 @@
   "stack": {
     "building": [
       {
-        "n": 993,
-        "head": "THE DEEP GATE: you cannot stand on steps 1 and 3 of its stair",
-        "detail": "portal-islands-check is red there on HEAD, before row 969 touched anything",
-        "lane": "arcade",
-        "since": "2026-11-21 09:44"
-      },
-      {
-        "n": 1018,
-        "head": "ORBIT STADIUM's sign says \"six sports\" and there are seven (survey 2026-11-18)",
-        "lane": "arcade",
-        "since": "2026-11-21 11:09"
-      },
-      {
         "n": 1051,
         "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened",
         "lane": "arcade2",
@@ -2738,6 +2726,10 @@
       }
     ],
     "next": [
+      {
+        "n": 1018,
+        "head": "ORBIT STADIUM's sign says \"six sports\" and there are seven (survey 2026-11-18)"
+      },
       {
         "n": 523,
         "head": "the arcade's walk-in bar table loads CornerPocket's physics with no version stamp, so it can run a different sim from the cabinet"
@@ -3771,6 +3763,15 @@
         "n": 1234,
         "head": "BAR BOWLING: a computer window that is not focused bowls in slow motion (0.6x)",
         "detail": "the 12 fps background cap meets the 0.05 s step ceiling"
+      },
+      {
+        "n": 1235,
+        "head": "Sky Spike: a first-time player never meets the dive",
+        "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in"
+      },
+      {
+        "n": 1236,
+        "head": "TOY FURY's stepped road dumps you off its last stretch before the loop: walls by the door shove you sideways, twice to the ground"
       }
     ],
     "waiting": [
@@ -3857,7 +3858,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 817,
+    "shippedTotal": 818,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3865,8 +3866,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 25
+      "2026-11-21": 26
     }
   },
-  "changed": "2026-11-21T17:14:15.228Z"
+  "changed": "2026-11-21T17:44:13.774Z"
 }
