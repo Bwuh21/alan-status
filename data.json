@@ -2730,13 +2730,6 @@
         "since": "2026-11-21 13:29"
       },
       {
-        "n": 1098,
-        "head": "TOY FURY: the falling-apart look is mostly grime and missing parts at race distance",
-        "detail": "make a three-panel car read hurt at a glance from behind",
-        "lane": "arcade2",
-        "since": "2026-11-21 13:34"
-      },
-      {
         "n": 1103,
         "head": "TOY FURY: the free Spark Kart is only LEVEL with the field at its best (24 of 240 in the Grand Tour, field 23.8), and the garage card tells ",
         "lane": "arcade2",
@@ -3735,6 +3728,11 @@
       {
         "n": 1240,
         "head": "the shared graphics guard holds a party host's frames, which may freeze the guest: test with two browsers and carve parties out if it does"
+      },
+      {
+        "n": 1241,
+        "head": "TOY FURY: a clean lap never puts a panel back",
+        "detail": "wear-check seed 33 ends on 1 panel with zero mends"
       }
     ],
     "waiting": [
@@ -3770,6 +3768,12 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1098,
+        "head": "TOY FURY: the falling-apart look is mostly grime and missing parts at race distance",
+        "detail": "make a three-panel car read hurt at a glance from behind",
         "date": "2026-11-21"
       },
       {
@@ -3813,14 +3817,9 @@
         "n": 1087,
         "head": "BAR BOWLING: the \"playing as a guest\" bubble sits on top of steps 2 and 3 of the how-to card",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1085,
-        "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 830,
+    "shippedTotal": 831,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3828,8 +3827,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 38
+      "2026-11-21": 39
     }
   },
-  "changed": "2026-11-21T19:44:14.062Z"
+  "changed": "2026-11-21T19:59:14.102Z"
 }
