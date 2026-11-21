@@ -2719,6 +2719,12 @@
         "head": "Head or Body: is THE READER's step over VELVET real for a person, or only for bots that stop punching under 25 stamina?",
         "lane": "arcade2",
         "since": "2026-11-21 06:54"
+      },
+      {
+        "n": 1050,
+        "head": "Sky Spike: a DIVE pressed outside the lesson is dropped without a sign if you walk into reach first",
+        "lane": "arcade2",
+        "since": "2026-11-21 08:59"
       }
     ],
     "next": [
@@ -3233,10 +3239,6 @@
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
-      },
-      {
-        "n": 1050,
-        "head": "Sky Spike: a DIVE pressed outside the lesson is dropped without a sign if you walk into reach first"
       },
       {
         "n": 1051,
@@ -3853,5 +3855,5 @@
       "2026-11-21": 21
     }
   },
-  "changed": "2026-11-21T14:59:13.495Z"
+  "changed": "2026-11-21T15:04:13.412Z"
 }
