@@ -3703,6 +3703,10 @@
         "n": 1203,
         "head": "SKY SPIKE dive: the whole figure jumps 20-48 px on screen near the dig in 9 of 145 dives",
         "detail": "measure the camera, then decide"
+      },
+      {
+        "n": 1204,
+        "head": "A WATCHER'S ALERT POINTS AT A FILE THAT HAS NO RECORD OF IT: the change log and the daemon's own log are the same file"
       }
     ],
     "waiting": [
@@ -3797,5 +3801,5 @@
       "2026-11-20": 42
     }
   },
-  "changed": "2026-11-21T03:34:29.736Z"
+  "changed": "2026-11-21T03:39:25.569Z"
 }
