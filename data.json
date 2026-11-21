@@ -2708,6 +2708,13 @@
         "since": "2026-11-21 04:24"
       },
       {
+        "n": 1084,
+        "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
+        "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone",
+        "lane": "arcade",
+        "since": "2026-11-21 05:10"
+      },
+      {
         "n": 1039,
         "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
@@ -2721,11 +2728,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1084,
-        "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
-        "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone"
-      },
       {
         "n": 1085,
         "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead"
@@ -3848,5 +3850,5 @@
       "2026-11-21": 12
     }
   },
-  "changed": "2026-11-21T11:09:25.299Z"
+  "changed": "2026-11-21T11:14:18.652Z"
 }
