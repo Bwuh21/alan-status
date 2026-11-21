@@ -2708,6 +2708,12 @@
         "since": "2026-11-21 06:04"
       },
       {
+        "n": 1087,
+        "head": "BAR BOWLING: the \"playing as a guest\" bubble sits on top of steps 2 and 3 of the how-to card",
+        "lane": "arcade",
+        "since": "2026-11-21 06:25"
+      },
+      {
         "n": 1040,
         "head": "LIVE WIRE ON A REAL LINE: same body fault as Haunt, tags judged on the live host world (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
@@ -2721,10 +2727,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1087,
-        "head": "BAR BOWLING: the \"playing as a guest\" bubble sits on top of steps 2 and 3 of the how-to card"
-      },
       {
         "n": 1088,
         "head": "BAR BOWLING: the first words a stranger reads are ticket jargon, and every ball says the same two lines"
@@ -3857,5 +3859,5 @@
       "2026-11-21": 15
     }
   },
-  "changed": "2026-11-21T12:24:17.781Z"
+  "changed": "2026-11-21T12:29:22.532Z"
 }
