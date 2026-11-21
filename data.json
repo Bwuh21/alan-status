@@ -2735,10 +2735,10 @@
         "since": "2026-11-21 15:24"
       },
       {
-        "n": 1110,
-        "head": "Slab City: the grind-pose check still looks for rails row 986 removed",
+        "n": 1111,
+        "head": "Slab City: a stalled board's nose sinks into the east side of the City Hall steps",
         "lane": "arcade2",
-        "since": "2026-11-21 15:34"
+        "since": "2026-11-21 15:44"
       }
     ],
     "next": [
@@ -3239,10 +3239,6 @@
       {
         "n": 1109,
         "head": "Strike City: the sideways party harness _i330p/party-rail-check.mjs throws before measuring anything"
-      },
-      {
-        "n": 1111,
-        "head": "Slab City: a stalled board's nose sinks into the east side of the City Hall steps"
       },
       {
         "n": 1112,
@@ -3769,6 +3765,11 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1110,
+        "head": "Slab City: the grind-pose check still looks for rails row 986 removed",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1106,
         "head": "the live build is what it ran green on)",
         "detail": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race",
@@ -3810,14 +3811,9 @@
         "n": 1095,
         "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1091,
-        "head": "BAR BOWLING: watch the new ticket line on a real signed-in game, and a friend game end to end",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 838,
+    "shippedTotal": 839,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3825,8 +3821,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 46
+      "2026-11-21": 47
     }
   },
-  "changed": "2026-11-21T21:44:13.608Z"
+  "changed": "2026-11-21T21:49:13.952Z"
 }
