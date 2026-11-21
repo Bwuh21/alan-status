@@ -2719,6 +2719,12 @@
         "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
         "since": "2026-11-21 03:39"
+      },
+      {
+        "n": 1040,
+        "head": "LIVE WIRE ON A REAL LINE: same body fault as Haunt, tags judged on the live host world (carried from row 791, 2026-11-18)",
+        "lane": "arcade2",
+        "since": "2026-11-21 04:40"
       }
     ],
     "next": [
@@ -3263,10 +3269,6 @@
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
-      },
-      {
-        "n": 1040,
-        "head": "LIVE WIRE ON A REAL LINE: same body fault as Haunt, tags judged on the live host world (carried from row 791, 2026-11-18)"
       },
       {
         "n": 1041,
@@ -3848,5 +3850,5 @@
       "2026-11-21": 11
     }
   },
-  "changed": "2026-11-21T10:34:13.745Z"
+  "changed": "2026-11-21T10:44:16.029Z"
 }
