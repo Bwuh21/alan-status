@@ -2672,6 +2672,18 @@
         "head": "SKY SPIKE dive: the human press -> dive pipeline is still unmeasured (split off row 784, 2026-11-17)",
         "lane": "arcade2",
         "since": "2026-11-20 19:25"
+      },
+      {
+        "n": 1167,
+        "head": "Undercroft: in the Hollow Manor the Widow (the gate boss) is sometimes \"unreachable\" to the ride bot, from the tile right beside her",
+        "lane": "953)",
+        "since": "2026-11-20 19:35"
+      },
+      {
+        "n": 1168,
+        "head": "Undercroft: a wizard out of mana and the Empty Armour stand 4 m apart doing nothing",
+        "lane": "953)",
+        "since": "2026-11-20 19:35"
       }
     ],
     "next": [
@@ -3582,14 +3594,6 @@
         "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags"
       },
       {
-        "n": 1167,
-        "head": "Undercroft: in the Hollow Manor the Widow (the gate boss) is sometimes \"unreachable\" to the ride bot, from the tile right beside her"
-      },
-      {
-        "n": 1168,
-        "head": "Undercroft: a wizard out of mana and the Empty Armour stand 4 m apart doing nothing"
-      },
-      {
         "n": 1169,
         "head": "Undercroft: the gate check's \"the sign reads whole, not HE GUILD\" leg passes or fails depending on where the walk stops"
       },
@@ -3796,5 +3800,5 @@
       "2026-11-20": 38
     }
   },
-  "changed": "2026-11-21T01:29:25.830Z"
+  "changed": "2026-11-21T01:36:03.208Z"
 }
