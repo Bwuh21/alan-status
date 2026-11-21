@@ -2739,6 +2739,12 @@
         "head": "Slab City on a phone: three things overlap in the first two minutes",
         "lane": "arcade2",
         "since": "2026-11-21 16:59"
+      },
+      {
+        "n": 1116,
+        "head": "Slab City: a goal's street sign sits behind the top panel when you stand in its ring, and far signs stack",
+        "lane": "arcade2",
+        "since": "2026-11-21 17:34"
       }
     ],
     "next": [
@@ -3223,10 +3229,6 @@
       {
         "n": 1109,
         "head": "Strike City: the sideways party harness _i330p/party-rail-check.mjs throws before measuring anything"
-      },
-      {
-        "n": 1116,
-        "head": "Slab City: a goal's street sign sits behind the top panel when you stand in its ring, and far signs stack"
       },
       {
         "n": 1117,
@@ -3826,5 +3828,5 @@
       "2026-11-21": 55
     }
   },
-  "changed": "2026-11-21T23:34:15.439Z"
+  "changed": "2026-11-21T23:39:23.794Z"
 }
