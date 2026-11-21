@@ -2655,12 +2655,6 @@
   "stack": {
     "building": [
       {
-        "n": 1158,
-        "head": "Skate (Slab City): there is no FLIP, and players glitch past the map edges and into ramps",
-        "lane": "arcade",
-        "since": "2026-11-20 15:34"
-      },
-      {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
         "lane": "arcade",
@@ -3708,6 +3702,26 @@
       {
         "n": 1204,
         "head": "A WATCHER'S ALERT POINTS AT A FILE THAT HAS NO RECORD OF IT: the change log and the daemon's own log are the same file"
+      },
+      {
+        "n": 1205,
+        "head": "Skate: the \"KICKFLIP +200 · land it\" pop lands on top of the goal cards on a 390 phone"
+      },
+      {
+        "n": 1206,
+        "head": "Skate: on a phone the rider's own body hides the board while it flips"
+      },
+      {
+        "n": 1207,
+        "head": "Skate: the manual and coffin checks are red on the untouched page, because their start spots end the trick in under a second"
+      },
+      {
+        "n": 1208,
+        "head": "Skate: the W check (5 FAIL) and the end card's RUN IT BACK leg (FR-9) are red on the untouched page"
+      },
+      {
+        "n": 1209,
+        "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame"
       }
     ],
     "waiting": [
@@ -3756,6 +3770,11 @@
         "date": "2026-11-20"
       },
       {
+        "n": 1158,
+        "head": "Skate (Slab City): there is no FLIP, and players glitch past the map edges and into ramps",
+        "date": "2026-11-20"
+      },
+      {
         "n": 1156,
         "head": "Replace foosball with TABLE SHUFFLEBOARD in the bar fable",
         "date": "2026-11-20"
@@ -3784,14 +3803,9 @@
         "n": 1150,
         "head": "Multiplayer, table lock in EVERY game: a third player walked into a game in progress",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1149,
-        "head": "Multiplayer, bowling: friends in the \"same\" game land on DIFFERENT lanes",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 790,
+    "shippedTotal": 791,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3799,8 +3813,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 43
+      "2026-11-20": 44
     }
   },
-  "changed": "2026-11-21T03:49:17.402Z"
+  "changed": "2026-11-21T04:09:20.175Z"
 }
