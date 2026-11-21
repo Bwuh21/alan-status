@@ -2719,6 +2719,12 @@
         "head": "Sky Spike: a DIVE pressed outside the lesson is dropped without a sign if you walk into reach first",
         "lane": "arcade2",
         "since": "2026-11-21 08:59"
+      },
+      {
+        "n": 1051,
+        "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened",
+        "lane": "arcade2",
+        "since": "2026-11-21 09:14"
       }
     ],
     "next": [
@@ -3233,10 +3239,6 @@
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
-      },
-      {
-        "n": 1051,
-        "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened"
       },
       {
         "n": 1079,
@@ -3854,5 +3856,5 @@
       "2026-11-21": 22
     }
   },
-  "changed": "2026-11-21T15:14:13.615Z"
+  "changed": "2026-11-21T15:19:13.700Z"
 }
