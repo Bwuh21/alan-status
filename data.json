@@ -2702,25 +2702,6 @@
   "stack": {
     "building": [
       {
-        "n": 1083,
-        "head": "BAR DARTS with a friend: nobody has watched a friend leg end to end since the visit calls, the finish call and the banner went in",
-        "lane": "arcade",
-        "since": "2026-11-21 04:24"
-      },
-      {
-        "n": 1084,
-        "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
-        "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone",
-        "lane": "arcade",
-        "since": "2026-11-21 05:10"
-      },
-      {
-        "n": 1039,
-        "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
-        "lane": "arcade2",
-        "since": "2026-11-21 03:39"
-      },
-      {
         "n": 1040,
         "head": "LIVE WIRE ON A REAL LINE: same body fault as Haunt, tags judged on the live host world (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
@@ -2728,6 +2709,11 @@
       }
     ],
     "next": [
+      {
+        "n": 1084,
+        "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
+        "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone"
+      },
       {
         "n": 1085,
         "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead"
@@ -3754,6 +3740,23 @@
       {
         "n": 1220,
         "head": "BAR AIR HOCKEY: the desk hockey check's \"the puck was hit and moves\" step fails on HEAD as well as on any change, so it guards nothing on th"
+      },
+      {
+        "n": 1222,
+        "head": "BAR DARTS with a friend: a passer-by can't watch a friend leg",
+        "detail": "the hall chalkboard keeps showing the idle board"
+      },
+      {
+        "n": 1223,
+        "head": "BAR DARTS with 3-4 throwers: a slow page drops the next thrower's early dart and the boards come apart"
+      },
+      {
+        "n": 1224,
+        "head": "BAR DARTS with a friend: at leg end the loser's panel shows a big \"0 left\", the winner's number"
+      },
+      {
+        "n": 1221,
+        "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time"
       }
     ],
     "waiting": [
@@ -3778,6 +3781,11 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1083,
+        "head": "BAR DARTS with a friend: nobody has watched a friend leg end to end since the visit calls, the finish call and the banner went in",
         "date": "2026-11-21"
       },
       {
@@ -3814,6 +3822,11 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1039,
+        "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1038,
         "head": "BARN BURNER (IceHockey) ON A REAL LINE: tap-vs-hold timed by packet arrivals, own wind-up a round trip late (carried from row 791, 2026-11-1",
         "date": "2026-11-21"
@@ -3827,19 +3840,9 @@
         "n": 1036,
         "head": "BACK NINE: in a short landscape window the aim camera leaves the golfer tiny at the bottom, behind the SWIPE button",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1027,
-        "head": "COMET CLASH: a first visit starts on NORMAL, where a first-timer wins about 1 match in 10",
-        "date": "2026-11-21"
-      },
-      {
-        "n": 1026,
-        "head": "UNDERCROFT, friends: a guest's first riposte hangs their own screen about 0.65 s (HEAD too)",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 804,
+    "shippedTotal": 806,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3847,8 +3850,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 12
+      "2026-11-21": 14
     }
   },
-  "changed": "2026-11-21T11:14:18.652Z"
+  "changed": "2026-11-21T12:04:14.802Z"
 }
