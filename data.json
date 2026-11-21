@@ -2683,12 +2683,6 @@
         "since": "2026-11-21 00:54"
       },
       {
-        "n": 1026,
-        "head": "UNDERCROFT, friends: a guest's first riposte hangs their own screen about 0.65 s (HEAD too)",
-        "lane": "arcade2",
-        "since": "2026-11-20 22:39"
-      },
-      {
         "n": 1027,
         "head": "COMET CLASH: a first visit starts on NORMAL, where a first-timer wins about 1 match in 10",
         "lane": "arcade2",
@@ -3754,6 +3748,11 @@
     ],
     "shipped": [
       {
+        "n": 1026,
+        "head": "UNDERCROFT, friends: a guest's first riposte hangs their own screen about 0.65 s (HEAD too)",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1157,
         "head": "Ping pong: the paddle must be IN THE PLAYER'S HAND, with the arm swinging it fable",
         "date": "2026-11-20 16:28"
@@ -3808,23 +3807,18 @@
         "n": 1151,
         "head": "Multiplayer, air hockey: two players are forced onto ONE side against the house",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1150,
-        "head": "Multiplayer, table lock in EVERY game: a third player walked into a game in progress",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 792,
+    "shippedTotal": 793,
     "shippedOn": {
-      "2026-11-14": 21,
       "2026-11-15": 3,
       "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 45
+      "2026-11-20": 45,
+      "2026-11-21": 1
     }
   },
-  "changed": "2026-11-21T06:59:14.343Z"
+  "changed": "2026-11-21T07:24:14.441Z"
 }
