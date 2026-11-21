@@ -2704,10 +2704,10 @@
         "since": "2026-11-21 01:34"
       },
       {
-        "n": 1028,
-        "head": "COMET CLASH: re-read the plays table a week after row 882 (on or after 2026-11-25)",
+        "n": 1036,
+        "head": "BACK NINE: in a short landscape window the aim camera leaves the golfer tiny at the bottom, behind the SWIPE button",
         "lane": "arcade2",
-        "since": "2026-11-21 01:29"
+        "since": "2026-11-21 01:45"
       }
     ],
     "next": [
@@ -3277,10 +3277,6 @@
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
       },
       {
-        "n": 1036,
-        "head": "BACK NINE: in a short landscape window the aim camera leaves the golfer tiny at the bottom, behind the SWIPE button"
-      },
-      {
         "n": 1037,
         "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball"
       },
@@ -3841,5 +3837,5 @@
       "2026-11-21": 3
     }
   },
-  "changed": "2026-11-21T07:39:14.289Z"
+  "changed": "2026-11-21T07:49:14.321Z"
 }
