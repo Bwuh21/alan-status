@@ -2735,12 +2735,6 @@
         "since": "2026-11-21 15:24"
       },
       {
-        "n": 1106,
-        "head": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race",
-        "lane": "arcade2",
-        "since": "2026-11-21 15:09"
-      },
-      {
         "n": 1108,
         "head": "TOY FURY: on the HIGH side of a banked corner the barrier is buried to half its height",
         "lane": "arcade2",
@@ -3737,6 +3731,10 @@
       {
         "n": 1247,
         "head": "AURA: the green skeleton's Divine is still the smallest step up from its Legendary of the four tiered skins"
+      },
+      {
+        "n": 1248,
+        "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too"
       }
     ],
     "waiting": [
@@ -3772,6 +3770,12 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1106,
+        "head": "the live build is what it ran green on)",
+        "detail": "TOY FURY: the phone check's \"no menu is left drawn over the race\" step passes while a card covers the race",
         "date": "2026-11-21"
       },
       {
@@ -3815,15 +3819,9 @@
         "n": 1091,
         "head": "BAR BOWLING: watch the new ticket line on a real signed-in game, and a friend game end to end",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1090,
-        "head": "BAR BOWLING: the roll and its replay are now over half the game",
-        "detail": "5.3 s a ball on a desk, 7 s on a phone",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 837,
+    "shippedTotal": 838,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3831,8 +3829,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 45
+      "2026-11-21": 46
     }
   },
-  "changed": "2026-11-21T21:29:14.681Z"
+  "changed": "2026-11-21T21:34:14.556Z"
 }
