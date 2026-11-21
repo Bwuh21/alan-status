@@ -2661,12 +2661,6 @@
         "since": "2026-11-20 16:34"
       },
       {
-        "n": 1006,
-        "head": "BACK NINE on a 320-wide phone: the title card runs off the bottom of a 320x568 screen",
-        "lane": "arcade2",
-        "since": "2026-11-20 21:04"
-      },
-      {
         "n": 1009,
         "head": "UNDERCROFT carries a failed server patch in the working tree: restore the two tracked files (the patch is already saved, so nothing is lost)",
         "lane": "arcade2",
@@ -3805,7 +3799,7 @@
         "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 791,
+    "shippedTotal": 792,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3813,8 +3807,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 44
+      "2026-11-20": 45
     }
   },
-  "changed": "2026-11-21T04:09:20.175Z"
+  "changed": "2026-11-21T04:34:16.394Z"
 }
