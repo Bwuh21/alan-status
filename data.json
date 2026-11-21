@@ -2719,6 +2719,18 @@
         "since": "2026-11-21 12:24"
       },
       {
+        "n": 528,
+        "head": "490 of the 894 verify scripts sleep on a clock before they measure, and nobody knows which of them GATE a verdict on it",
+        "lane": "arcade",
+        "since": "2026-11-21 12:29"
+      },
+      {
+        "n": 1095,
+        "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
+        "lane": "arcade2",
+        "since": "2026-11-21 12:29"
+      },
+      {
         "n": 1096,
         "head": "TOY FURY: the swap probe's drifting driver is blind to the moving toys, so a share of every place-swap number is the probe crashing",
         "lane": "arcade2",
@@ -2726,10 +2738,6 @@
       }
     ],
     "next": [
-      {
-        "n": 528,
-        "head": "490 of the 894 verify scripts sleep on a clock before they measure, and nobody knows which of them GATE a verdict on it"
-      },
       {
         "n": 529,
         "head": "every other 3D game in the arcade still reports itself healthy while its view is dead"
@@ -3234,10 +3242,6 @@
       {
         "n": 1094,
         "head": "PING PONG: the blade's fade to see-through is eased per frame, not per second"
-      },
-      {
-        "n": 1095,
-        "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10"
       },
       {
         "n": 1097,
@@ -3841,5 +3845,5 @@
       "2026-11-21": 31
     }
   },
-  "changed": "2026-11-21T18:29:13.740Z"
+  "changed": "2026-11-21T18:34:13.844Z"
 }
