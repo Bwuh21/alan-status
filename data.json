@@ -2719,6 +2719,12 @@
         "since": "2026-11-21 11:44"
       },
       {
+        "n": 524,
+        "head": "the pinball bench prints \"NOT CALIBRATED: do not set a bar from this\", and the bar was set from it anyway",
+        "lane": "arcade",
+        "since": "2026-11-21 11:59"
+      },
+      {
         "n": 1051,
         "head": "Sky Spike teach card: the DIVE step's clock mostly counts waiting for a rally that was already running when the step opened",
         "lane": "arcade2",
@@ -2732,10 +2738,6 @@
       }
     ],
     "next": [
-      {
-        "n": 524,
-        "head": "the pinball bench prints \"NOT CALIBRATED: do not set a bar from this\", and the bar was set from it anyway"
-      },
       {
         "n": 525,
         "head": "the arcade has no pinball hand that AIMS, so \"a competent game\" is still a fiction"
@@ -3867,5 +3869,5 @@
       "2026-11-21": 27
     }
   },
-  "changed": "2026-11-21T17:54:14.452Z"
+  "changed": "2026-11-21T18:04:14.571Z"
 }
