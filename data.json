@@ -2666,6 +2666,12 @@
         "head": "SKY SPIKE dive: the human press -> dive pipeline is still unmeasured (split off row 784, 2026-11-17)",
         "lane": "arcade2",
         "since": "2026-11-20 19:25"
+      },
+      {
+        "n": 1006,
+        "head": "BACK NINE on a 320-wide phone: the title card runs off the bottom of a 320x568 screen",
+        "lane": "arcade2",
+        "since": "2026-11-20 21:04"
       }
     ],
     "next": [
@@ -3235,10 +3241,6 @@
         "detail": "GOLF par pay: the arcade calls finish_golf and hands the game its pay rows (row 763's pay half, 2026-11-18)"
       },
       {
-        "n": 1006,
-        "head": "BACK NINE on a 320-wide phone: the title card runs off the bottom of a 320x568 screen"
-      },
-      {
         "n": 1007,
         "head": "ship-game.sh's push gate refuses any game whose root dev harnesses are in HEAD but were never in the clone, because the filter calls them se"
       },
@@ -3786,5 +3788,5 @@
       "2026-11-20": 41
     }
   },
-  "changed": "2026-11-21T02:59:17.151Z"
+  "changed": "2026-11-21T03:09:17.483Z"
 }
