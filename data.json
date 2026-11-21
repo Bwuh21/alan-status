@@ -2702,13 +2702,6 @@
   "stack": {
     "building": [
       {
-        "n": 1084,
-        "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
-        "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone",
-        "lane": "arcade",
-        "since": "2026-11-21 06:04"
-      },
-      {
         "n": 1085,
         "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead",
         "lane": "arcade",
@@ -3794,6 +3787,12 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1084,
+        "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
+        "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1083,
         "head": "BAR DARTS with a friend: nobody has watched a friend leg end to end since the visit calls, the finish call and the banner went in",
         "date": "2026-11-21"
@@ -3845,14 +3844,9 @@
         "n": 1037,
         "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1036,
-        "head": "BACK NINE: in a short landscape window the aim camera leaves the golfer tiny at the bottom, behind the SWIPE button",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 806,
+    "shippedTotal": 807,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3860,8 +3854,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 14
+      "2026-11-21": 15
     }
   },
-  "changed": "2026-11-21T12:14:16.326Z"
+  "changed": "2026-11-21T12:24:17.781Z"
 }
