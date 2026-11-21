@@ -2702,13 +2702,6 @@
   "stack": {
     "building": [
       {
-        "n": 1077,
-        "head": "BAR AIR HOCKEY: the table is a flat pink board in a walnut tavern",
-        "detail": "give it the hall's look and a goal light",
-        "lane": "arcade",
-        "since": "2026-11-21 03:19"
-      },
-      {
         "n": 1078,
         "head": "BAR AIR HOCKEY: a hot puck should sound and look hot",
         "detail": "clack pitch rises with speed, a short streak follows a puck above 6 m/s",
@@ -3783,6 +3776,12 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1077,
+        "head": "BAR AIR HOCKEY: the table is a flat pink board in a walnut tavern",
+        "detail": "give it the hall's look and a goal light",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1076,
         "head": "BAR AIR HOCKEY with a friend: nobody has watched a friend match end to end since the goal burst, banner and heat went in",
         "date": "2026-11-21"
@@ -3832,14 +3831,9 @@
         "n": 1174,
         "head": "Bowling: the lane prompt should say who is bowling and your place in line, like the tables",
         "date": "2026-11-20"
-      },
-      {
-        "n": 1168,
-        "head": "Undercroft: a wizard out of mana and the Empty Armour stand 4 m apart doing nothing",
-        "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 801,
+    "shippedTotal": 802,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3847,8 +3841,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 9
+      "2026-11-21": 10
     }
   },
-  "changed": "2026-11-21T09:44:14.127Z"
+  "changed": "2026-11-21T10:24:14.183Z"
 }
