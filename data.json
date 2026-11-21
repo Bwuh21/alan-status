@@ -2707,6 +2707,12 @@
         "head": "BACK NINE: in a short landscape window the aim camera leaves the golfer tiny at the bottom, behind the SWIPE button",
         "lane": "arcade2",
         "since": "2026-11-21 01:45"
+      },
+      {
+        "n": 1037,
+        "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball",
+        "lane": "arcade2",
+        "since": "2026-11-21 01:54"
       }
     ],
     "next": [
@@ -3276,10 +3282,6 @@
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
       },
       {
-        "n": 1037,
-        "head": "BACK NINE: the Chef's apron juts out like a board when the golfer bends over the ball"
-      },
-      {
         "n": 1038,
         "head": "BARN BURNER (IceHockey) ON A REAL LINE: tap-vs-hold timed by packet arrivals, own wind-up a round trip late (carried from row 791, 2026-11-1"
       },
@@ -3840,5 +3842,5 @@
       "2026-11-21": 4
     }
   },
-  "changed": "2026-11-21T07:54:14.200Z"
+  "changed": "2026-11-21T07:59:14.922Z"
 }
