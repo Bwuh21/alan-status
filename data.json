@@ -2730,11 +2730,11 @@
         "since": "2026-11-21 13:29"
       },
       {
-        "n": 1097,
-        "head": "TOY FURY: combat-check fails \"a fresh device owns no car\"",
-        "detail": "a kart is already in the garage after the check wipes storage",
+        "n": 1098,
+        "head": "TOY FURY: the falling-apart look is mostly grime and missing parts at race distance",
+        "detail": "make a three-panel car read hurt at a glance from behind",
         "lane": "arcade2",
-        "since": "2026-11-21 12:44"
+        "since": "2026-11-21 13:34"
       }
     ],
     "next": [
@@ -3230,11 +3230,6 @@
       {
         "n": 1094,
         "head": "PING PONG: the blade's fade to see-through is eased per frame, not per second"
-      },
-      {
-        "n": 1098,
-        "head": "TOY FURY: the falling-apart look is mostly grime and missing parts at race distance",
-        "detail": "make a three-panel car read hurt at a glance from behind"
       },
       {
         "n": 1099,
@@ -3776,6 +3771,12 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1097,
+        "head": "TOY FURY: combat-check fails \"a fresh device owns no car\"",
+        "detail": "a kart is already in the garage after the check wipes storage",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1096,
         "head": "TOY FURY: the swap probe's drifting driver is blind to the moving toys, so a share of every place-swap number is the probe crashing",
         "date": "2026-11-21"
@@ -3815,15 +3816,9 @@
         "n": 1085,
         "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1084,
-        "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
-        "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 829,
+    "shippedTotal": 830,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3831,8 +3826,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 37
+      "2026-11-21": 38
     }
   },
-  "changed": "2026-11-21T19:34:13.895Z"
+  "changed": "2026-11-21T19:39:13.973Z"
 }
