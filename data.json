@@ -2702,12 +2702,6 @@
   "stack": {
     "building": [
       {
-        "n": 1085,
-        "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead",
-        "lane": "arcade",
-        "since": "2026-11-21 06:04"
-      },
-      {
         "n": 1087,
         "head": "BAR BOWLING: the \"playing as a guest\" bubble sits on top of steps 2 and 3 of the how-to card",
         "lane": "arcade",
@@ -2718,6 +2712,12 @@
         "head": "HANGTIME ON A REAL LINE: steals, blocks and oops judged on the live host world (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
         "since": "2026-11-21 06:09"
+      },
+      {
+        "n": 1047,
+        "head": "Head or Body: is THE READER's step over VELVET real for a person, or only for bots that stop punching under 25 stamina?",
+        "lane": "arcade2",
+        "since": "2026-11-21 06:54"
       }
     ],
     "next": [
@@ -3249,10 +3249,6 @@
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
-      },
-      {
-        "n": 1047,
-        "head": "Head or Body: is THE READER's step over VELVET real for a person, or only for bots that stop punching under 25 stamina?"
       },
       {
         "n": 1050,
@@ -3787,6 +3783,11 @@
         "date": "2026-11-21"
       },
       {
+        "n": 1085,
+        "head": "BAR DARTS on a desk: your own body fills the bottom-right corner of the shot and the chalkboard is cut off at the right edge while you stead",
+        "date": "2026-11-21"
+      },
+      {
         "n": 1084,
         "head": "BAR DARTS: the first dart takes about 20 seconds from walking up",
         "detail": "the teach strip is a three-line paragraph and the panel covers a third of a phone",
@@ -3839,14 +3840,9 @@
         "n": 1039,
         "head": "HAUNT ON A REAL LINE: own body corrected against a position a round trip old, no ack (carried from row 791, 2026-11-18)",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1038,
-        "head": "BARN BURNER (IceHockey) ON A REAL LINE: tap-vs-hold timed by packet arrivals, own wind-up a round trip late (carried from row 791, 2026-11-1",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 808,
+    "shippedTotal": 809,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3854,8 +3850,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 16
+      "2026-11-21": 17
     }
   },
-  "changed": "2026-11-21T12:54:14.031Z"
+  "changed": "2026-11-21T12:59:13.953Z"
 }
