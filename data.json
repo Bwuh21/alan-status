@@ -2708,6 +2708,12 @@
         "since": "2026-11-21 06:25"
       },
       {
+        "n": 1088,
+        "head": "BAR BOWLING: the first words a stranger reads are ticket jargon, and every ball says the same two lines",
+        "lane": "arcade",
+        "since": "2026-11-21 06:59"
+      },
+      {
         "n": 1041,
         "head": "HANGTIME ON A REAL LINE: steals, blocks and oops judged on the live host world (carried from row 791, 2026-11-18)",
         "lane": "arcade2",
@@ -2721,10 +2727,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1088,
-        "head": "BAR BOWLING: the first words a stranger reads are ticket jargon, and every ball says the same two lines"
-      },
       {
         "n": 1089,
         "head": "BAR BOWLING on a phone: the ceiling scoreboard shows scrambled numbers behind the Leave button on the ending"
@@ -3853,5 +3855,5 @@
       "2026-11-21": 17
     }
   },
-  "changed": "2026-11-21T12:59:13.953Z"
+  "changed": "2026-11-21T13:04:17.930Z"
 }
