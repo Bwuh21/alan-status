@@ -2729,6 +2729,12 @@
         "since": "2026-11-21 16:49"
       },
       {
+        "n": 596,
+        "head": "Sideways on a phone, the lobby's top-left buttons clip off the left edge",
+        "lane": "arcade",
+        "since": "2026-11-21 17:14"
+      },
+      {
         "n": 1114,
         "head": "Slab City: \"hold S to brake\" in the tutorial rolls a newcomer backwards into the exit",
         "lane": "arcade2",
@@ -2742,10 +2748,6 @@
       }
     ],
     "next": [
-      {
-        "n": 596,
-        "head": "Sideways on a phone, the lobby's top-left buttons clip off the left edge"
-      },
       {
         "n": 615,
         "head": "the shared how-to card waits 90 s for a lesson luck may never hand over"
@@ -3826,5 +3828,5 @@
       "2026-11-21": 54
     }
   },
-  "changed": "2026-11-21T23:14:15.082Z"
+  "changed": "2026-11-21T23:19:15.850Z"
 }
