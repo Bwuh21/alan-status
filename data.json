@@ -2724,6 +2724,12 @@
         "since": "2026-11-21 13:29"
       },
       {
+        "n": 532,
+        "head": "Lou is a name on a panel; there is no robot at the shoe desk",
+        "lane": "arcade",
+        "since": "2026-11-21 14:24"
+      },
+      {
         "n": 1103,
         "head": "TOY FURY: the free Spark Kart is only LEVEL with the field at its best (24 of 240 in the Grand Tour, field 23.8), and the garage card tells ",
         "lane": "arcade2",
@@ -2737,10 +2743,6 @@
       }
     ],
     "next": [
-      {
-        "n": 532,
-        "head": "Lou is a name on a panel; there is no robot at the shoe desk"
-      },
       {
         "n": 533,
         "head": "the LOOK is worth more than the RUNG: two DIVINE skins are 1.8x apart while a whole rarity is worth 1.3x, and Zack has to pick size or brigh"
@@ -3830,5 +3832,5 @@
       "2026-11-21": 40
     }
   },
-  "changed": "2026-11-21T20:24:14.085Z"
+  "changed": "2026-11-21T20:29:14.270Z"
 }
