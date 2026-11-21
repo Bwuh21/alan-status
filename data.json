@@ -3245,10 +3245,6 @@
         "head": "ship-game.sh's push gate refuses any game whose root dev harnesses are in HEAD but were never in the clone, because the filter calls them se"
       },
       {
-        "n": 1008,
-        "head": "THE WATCHER CRIES DARK ON A LOOKUP THAT MERELY FAILED: any Get-ScheduledTask error reads as \"NOT REGISTERED\", and it texted Zack a false res"
-      },
-      {
         "n": 1009,
         "head": "UNDERCROFT carries a failed server patch in the working tree: restore the two tracked files (the patch is already saved, so nothing is lost)"
       },
@@ -3702,6 +3698,11 @@
       {
         "n": 1202,
         "head": "A BOM shipped into a live ES module today, and only the 21:00 sweep can see it"
+      },
+      {
+        "n": 1203,
+        "head": "SKY SPIKE dive: the whole figure jumps 20-48 px on screen near the dig in 9 of 145 dives",
+        "detail": "measure the camera, then decide"
       }
     ],
     "waiting": [
@@ -3785,7 +3786,7 @@
         "date": "2026-11-20"
       }
     ],
-    "shippedTotal": 788,
+    "shippedTotal": 789,
     "shippedOn": {
       "2026-11-14": 21,
       "2026-11-15": 3,
@@ -3793,8 +3794,8 @@
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
-      "2026-11-20": 41
+      "2026-11-20": 42
     }
   },
-  "changed": "2026-11-21T03:14:18.830Z"
+  "changed": "2026-11-21T03:34:29.736Z"
 }
