@@ -3739,6 +3739,10 @@
       {
         "n": 1237,
         "head": "TOY FURY: re-tune the Grand Tour's place swaps with a driver that sees the toys, after row 1096"
+      },
+      {
+        "n": 1238,
+        "head": "HARNESS: replace the next ten sleep-then-grade checks that row 528's detector ranks highest"
       }
     ],
     "waiting": [
@@ -3836,5 +3840,5 @@
       "2026-11-21": 33
     }
   },
-  "changed": "2026-11-21T18:49:16.614Z"
+  "changed": "2026-11-21T18:54:15.621Z"
 }
