@@ -2723,6 +2723,12 @@
         "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
         "lane": "arcade2",
         "since": "2026-11-21 09:44"
+      },
+      {
+        "n": 1096,
+        "head": "TOY FURY: the swap probe's drifting driver is blind to the moving toys, so a share of every place-swap number is the probe crashing",
+        "lane": "arcade2",
+        "since": "2026-11-21 12:09"
       }
     ],
     "next": [
@@ -2972,10 +2978,6 @@
       {
         "n": 798,
         "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them"
-      },
-      {
-        "n": 799,
-        "head": "a game's OWN split files still carry hand-typed stamps (view3d.js?v=20261009-ink, sim.js?v=1005)"
       },
       {
         "n": 800,
@@ -3250,10 +3252,6 @@
       {
         "n": 1094,
         "head": "PING PONG: the blade's fade to see-through is eased per frame, not per second"
-      },
-      {
-        "n": 1096,
-        "head": "TOY FURY: the swap probe's drifting driver is blind to the moving toys, so a share of every place-swap number is the probe crashing"
       },
       {
         "n": 1097,
@@ -3842,7 +3840,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 822,
+    "shippedTotal": 823,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3850,8 +3848,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 30
+      "2026-11-21": 31
     }
   },
-  "changed": "2026-11-21T18:09:13.919Z"
+  "changed": "2026-11-21T18:14:13.853Z"
 }
