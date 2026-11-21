@@ -2735,12 +2735,6 @@
         "since": "2026-11-21 15:24"
       },
       {
-        "n": 1108,
-        "head": "TOY FURY: on the HIGH side of a banked corner the barrier is buried to half its height",
-        "lane": "arcade2",
-        "since": "2026-11-21 15:24"
-      },
-      {
         "n": 1110,
         "head": "Slab City: the grind-pose check still looks for rails row 986 removed",
         "lane": "arcade2",
@@ -3834,5 +3828,5 @@
       "2026-11-21": 46
     }
   },
-  "changed": "2026-11-21T21:39:13.529Z"
+  "changed": "2026-11-21T21:44:13.608Z"
 }
