@@ -3706,6 +3706,10 @@
       {
         "n": 1199,
         "head": "ship-game guard check reads \"dirty\" through the shared index, so it skips every game while the index is locked"
+      },
+      {
+        "n": 1200,
+        "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall"
       }
     ],
     "waiting": [
@@ -3800,5 +3804,5 @@
       "2026-11-20": 38
     }
   },
-  "changed": "2026-11-21T01:36:03.208Z"
+  "changed": "2026-11-21T02:29:28.720Z"
 }
