@@ -3694,6 +3694,14 @@
       {
         "n": 1200,
         "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall"
+      },
+      {
+        "n": 1201,
+        "head": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row"
+      },
+      {
+        "n": 1202,
+        "head": "A BOM shipped into a live ES module today, and only the 21:00 sweep can see it"
       }
     ],
     "waiting": [
@@ -3788,5 +3796,5 @@
       "2026-11-20": 41
     }
   },
-  "changed": "2026-11-21T03:09:17.483Z"
+  "changed": "2026-11-21T03:14:18.830Z"
 }
