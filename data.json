@@ -2677,6 +2677,12 @@
         "since": "2026-11-20 16:34"
       },
       {
+        "n": 1072,
+        "head": "BAR POOL: a tray of the balls you have sunk, and an aim line you can see on a phone",
+        "lane": "arcade",
+        "since": "2026-11-21 00:54"
+      },
+      {
         "n": 1026,
         "head": "UNDERCROFT, friends: a guest's first riposte hangs their own screen about 0.65 s (HEAD too)",
         "lane": "arcade2",
@@ -2690,10 +2696,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1072,
-        "head": "BAR POOL: a tray of the balls you have sunk, and an aim line you can see on a phone"
-      },
       {
         "n": 1073,
         "head": "BAR POOL: warn when the white ball is going to follow the ball in"
@@ -3824,5 +3826,5 @@
       "2026-11-20": 45
     }
   },
-  "changed": "2026-11-21T06:49:16.985Z"
+  "changed": "2026-11-21T06:59:14.343Z"
 }
