@@ -2729,6 +2729,12 @@
         "since": "2026-11-21 15:24"
       },
       {
+        "n": 572,
+        "head": "a game's own verify can be red for a day and the chain never notices",
+        "lane": "arcade",
+        "since": "2026-11-21 15:54"
+      },
+      {
         "n": 1111,
         "head": "Slab City: a stalled board's nose sinks into the east side of the City Hall steps",
         "lane": "arcade2",
@@ -2742,10 +2748,6 @@
       }
     ],
     "next": [
-      {
-        "n": 572,
-        "head": "a game's own verify can be red for a day and the chain never notices"
-      },
       {
         "n": 582,
         "head": "Every check that silently prefers a scratch file is reading whatever a dead lane left behind"
@@ -3833,5 +3835,5 @@
       "2026-11-21": 48
     }
   },
-  "changed": "2026-11-21T21:54:14.966Z"
+  "changed": "2026-11-21T21:59:15.180Z"
 }
