@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:26:00.000Z",
+  "updated": "2026-11-21T20:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2120,7 +2120,7 @@
         {
           "text": "A clipping skill and a sweep: catch two surfaces fighting before they ship, then fix every one in the arcade (Zack, 2026-10-28)",
           "status": "doing",
-          "note": "11-05, LIVE, and it is a bigger hole than any of the ones below: the checker was only ever looking at the ROOM. Anything that moves -- every character, every moving machine -- it could not read at all, and it said…"
+          "note": "11-21, LIVE: the dungeon's monsters and the toy-house track hazards have been checked now, the two gaps the 11-05 note below left open. Before it was allowed to call anything clean, the checker had to catch a flicker I…"
         },
         {
           "text": "The lobby, made consistent: arches over every bridge, jump pads, the rope to Stardust, and the blank gold plaque (Zack, 2026-10-28)",
@@ -2717,12 +2717,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 530,
-        "head": "the Undercroft and Toy Fury rigs have never been swept for clipping at all",
-        "lane": "arcade",
-        "since": "2026-11-21 13:14"
-      },
       {
         "n": 531,
         "head": "geo's coverage of the rigs is decided by boot luck, and nothing says so",
@@ -3735,6 +3729,10 @@
         "n": 1241,
         "head": "TOY FURY: a clean lap never puts a panel back",
         "detail": "wear-check seed 33 ends on 1 panel with zero mends"
+      },
+      {
+        "n": 1242,
+        "head": "TOY FURY: the cars themselves (the player's and the bots') have never had a rig sweep, only the track hazards have"
       }
     ],
     "waiting": [
@@ -3821,7 +3819,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 831,
+    "shippedTotal": 832,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3829,8 +3827,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 39
+      "2026-11-21": 40
     }
   },
-  "changed": "2026-11-21T20:04:15.532Z"
+  "changed": "2026-11-21T20:24:14.085Z"
 }
