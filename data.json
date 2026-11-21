@@ -2719,6 +2719,12 @@
         "since": "2026-11-21 12:39"
       },
       {
+        "n": 530,
+        "head": "the Undercroft and Toy Fury rigs have never been swept for clipping at all",
+        "lane": "arcade",
+        "since": "2026-11-21 13:14"
+      },
+      {
         "n": 1095,
         "head": "TOY FURY: the house tour still trades 10.8 places a race at the HUD's 0.6 s hold, the one room row 1000 left above 10",
         "lane": "arcade2",
@@ -2733,10 +2739,6 @@
       }
     ],
     "next": [
-      {
-        "n": 530,
-        "head": "the Undercroft and Toy Fury rigs have never been swept for clipping at all"
-      },
       {
         "n": 531,
         "head": "geo's coverage of the rigs is decided by boot luck, and nothing says so"
@@ -3834,5 +3836,5 @@
       "2026-11-21": 34
     }
   },
-  "changed": "2026-11-21T19:14:13.939Z"
+  "changed": "2026-11-21T19:19:14.419Z"
 }
