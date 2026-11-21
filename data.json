@@ -2666,6 +2666,12 @@
         "head": "Undercroft: the wizard job is stuck or loses the boss on five of six contracts",
         "lane": "arcade2",
         "since": "2026-11-20 16:49"
+      },
+      {
+        "n": 956,
+        "head": "SKY SPIKE dive: the human press -> dive pipeline is still unmeasured (split off row 784, 2026-11-17)",
+        "lane": "arcade2",
+        "since": "2026-11-20 19:25"
       }
     ],
     "next": [
@@ -3208,10 +3214,6 @@
       {
         "n": 954,
         "head": "ship-game.sh's drift check misses old, already-committed files the clone never received"
-      },
-      {
-        "n": 956,
-        "head": "SKY SPIKE dive: the human press -> dive pipeline is still unmeasured (split off row 784, 2026-11-17)"
       },
       {
         "n": 958,
@@ -3794,5 +3796,5 @@
       "2026-11-20": 38
     }
   },
-  "changed": "2026-11-21T01:24:21.773Z"
+  "changed": "2026-11-21T01:29:25.830Z"
 }
