@@ -2740,13 +2740,6 @@
         "since": "2026-11-22 06:34"
       },
       {
-        "n": 1136,
-        "head": "Undercroft: a boss's half-health adds silently fail when they would spawn in stone",
-        "detail": "64 of 480 summoner fights got one add instead of two",
-        "lane": "arcade2",
-        "since": "2026-11-22 06:19"
-      },
-      {
         "n": 1137,
         "head": "Undercroft: the archer loses every fight to the Rider, the Nutcracker and the Widow, kiting or not",
         "lane": "arcade2",
@@ -3834,6 +3827,12 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1136,
+        "head": "Undercroft: a boss's half-health adds silently fail when they would spawn in stone",
+        "detail": "64 of 480 summoner fights got one add instead of two",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1135,
         "head": "Undercroft: the Widow is too hard",
         "detail": "a clean knight beats her 3 times in 12, the only one of the seven bosses under the row-837 bar",
@@ -3887,15 +3886,9 @@
         "n": 1237,
         "head": "TOY FURY: re-tune the Grand Tour's place swaps with a driver that sees the toys, after row 1096",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1233,
-        "head": "Sky Spike: dev/dive-lesson.mjs fails 20 of 20",
-        "detail": "since row 1154 the dive step sits behind the \"?\" button and the check never reaches step 4",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 871,
+    "shippedTotal": 872,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3903,8 +3896,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 10
+      "2026-11-22": 11
     }
   },
-  "changed": "2026-11-22T14:10:24.035Z"
+  "changed": "2026-11-22T14:54:44.962Z"
 }
