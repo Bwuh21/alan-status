@@ -2744,6 +2744,12 @@
         "head": "Undercroft: the archer loses every fight to the Rider, the Nutcracker and the Widow, kiting or not",
         "lane": "arcade2",
         "since": "2026-11-22 06:39"
+      },
+      {
+        "n": 1139,
+        "head": "Undercroft: one phone-bench fight still saw the knight jump more than 20 m, after a natural loss, on the row-841 fix",
+        "lane": "arcade2",
+        "since": "2026-11-22 09:00"
       }
     ],
     "next": [
@@ -3208,10 +3214,6 @@
       {
         "n": 1138,
         "head": "SKATE PARK: the painted streets and the median are drawn 11 mm over the slab the board rides"
-      },
-      {
-        "n": 1139,
-        "head": "Undercroft: one phone-bench fight still saw the knight jump more than 20 m, after a natural loss, on the row-841 fix"
       },
       {
         "n": 1140,
@@ -3899,5 +3901,5 @@
       "2026-11-22": 11
     }
   },
-  "changed": "2026-11-22T14:54:44.962Z"
+  "changed": "2026-11-22T15:04:26.008Z"
 }
