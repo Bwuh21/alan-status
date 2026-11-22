@@ -2728,6 +2728,12 @@
   "stack": {
     "building": [
       {
+        "n": 1281,
+        "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "lane": "arcade",
+        "since": "2026-11-22 06:04"
+      },
+      {
         "n": 633,
         "head": "49 of the 50 3D games die SILENTLY when a phone refuses the WebGL context, and the loading card makes it look like they are still loading",
         "lane": "arcade",
@@ -2749,10 +2755,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1281,
-        "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag"
-      },
       {
         "n": 637,
         "head": "the toast docks for HUD the room never published, and 36 of the 50 games have never been through the band gate"
@@ -3902,5 +3904,5 @@
       "2026-11-22": 7
     }
   },
-  "changed": "2026-11-22T11:56:46.589Z"
+  "changed": "2026-11-22T12:09:14.236Z"
 }
