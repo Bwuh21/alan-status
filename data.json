@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:52:00.000Z",
+  "updated": "2026-11-22T01:53:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2419,6 +2419,11 @@
           "note": "Live 2026-11-10. Two lines on the end screen were a mystery. \"Perfect touches\" is usually the biggest number on the card and the game never once showed you earning one -- now the pop above your head goes gold and…"
         },
         {
+          "text": "Sky Spike: your bests follow your account, not your browser (row 619, left over from rows 564 and 616)",
+          "status": "done",
+          "note": "Live 2026-11-21 (the game part; the database part waits for a keyboard sitting). Your fastest spike, most kills, longest rally and best win against each tier were kept only in the browser, so the phone and the desk each…"
+        },
+        {
           "text": "Comet Clash: bigger arenas for bigger teams, 2v2 up to 5v5 (row 609, Zack 2026-11-09)",
           "status": "done",
           "note": "Live 2026-11-10. The rock now grows with the teams: 2v2 keeps the tight court with 4 comets, 3v3 is wider with 5, 4v4 with 6, and 5v5 is the biggest -- about 70% wider -- with 7 comets so nobody waits for a ball. Solo…"
@@ -2722,12 +2727,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 619,
-        "head": "Sky Spike: your bests follow your account, not your browser (left over from rows 564 and 616, 2026-11-10)",
-        "lane": "arcade",
-        "since": "2026-11-21 18:09"
-      },
       {
         "n": 620,
         "head": "Chalkline: the whole game is the last five metres, and that is why the dial is flat (measured building row 454, 2026-11-10)",
@@ -3863,7 +3862,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 853,
+    "shippedTotal": 854,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3871,8 +3870,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 61
+      "2026-11-21": 62
     }
   },
-  "changed": "2026-11-22T01:34:14.023Z"
+  "changed": "2026-11-22T01:39:13.940Z"
 }
