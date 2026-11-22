@@ -2734,13 +2734,6 @@
         "since": "2026-11-21 20:29"
       },
       {
-        "n": 1126,
-        "head": "Slab City: three skate checks are red at HEAD before any edit",
-        "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-22 00:59"
-      },
-      {
         "n": 1128,
         "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check ",
         "lane": "arcade2",
@@ -3807,6 +3800,12 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1126,
+        "head": "Slab City: three skate checks are red at HEAD before any edit",
+        "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1125,
         "head": "Slab City on a phone: the grind catch wants to be wider for thumbs (found by row 1058, 2026-11-19) region-skate",
         "date": "2026-11-22"
@@ -3861,14 +3860,9 @@
         "n": 1117,
         "head": "Slab City: PRO goals still only count inside a session",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1116,
-        "head": "Slab City: a goal's street sign sits behind the top panel when you stand in its ring, and far signs stack",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 864,
+    "shippedTotal": 865,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3876,8 +3870,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 3
+      "2026-11-22": 4
     }
   },
-  "changed": "2026-11-22T07:59:14.081Z"
+  "changed": "2026-11-22T08:14:14.012Z"
 }
