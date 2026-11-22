@@ -2744,6 +2744,12 @@
         "head": "Undercroft: the two-player measure never forms a party on the DESK view",
         "lane": "arcade2",
         "since": "2026-11-22 14:44"
+      },
+      {
+        "n": 1162,
+        "head": "TollBridge: six of the eight house bridges are EASY and none is BRUTAL, so the prize ladder barely moves",
+        "lane": "arcade2",
+        "since": "2026-11-22 14:59"
       }
     ],
     "next": [
@@ -3192,10 +3198,6 @@
       {
         "n": 1142,
         "head": "PACK HANGS before --into: the disk-size courtesy walk stats every file in all 973 past bundles"
-      },
-      {
-        "n": 1162,
-        "head": "TollBridge: six of the eight house bridges are EASY and none is BRUTAL, so the prize ladder barely moves"
       },
       {
         "n": 1163,
@@ -3911,5 +3913,5 @@
       "2026-11-22": 26
     }
   },
-  "changed": "2026-11-22T20:59:19.992Z"
+  "changed": "2026-11-22T21:08:50.176Z"
 }
