@@ -2738,6 +2738,13 @@
         "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding",
         "lane": "arcade2",
         "since": "2026-11-22 03:44"
+      },
+      {
+        "n": 1133,
+        "head": "Undercroft: the wizard's parry lance lands but barely shows",
+        "detail": "the boss is often behind the lens at that instant and the beam is six small sparks",
+        "lane": "arcade2",
+        "since": "2026-11-22 04:39"
       }
     ],
     "next": [
@@ -3197,11 +3204,6 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
-        "n": 1133,
-        "head": "Undercroft: the wizard's parry lance lands but barely shows",
-        "detail": "the boss is often behind the lens at that instant and the beam is six small sparks"
       },
       {
         "n": 1134,
@@ -3868,5 +3870,5 @@
       "2026-11-22": 7
     }
   },
-  "changed": "2026-11-22T10:39:13.985Z"
+  "changed": "2026-11-22T10:44:18.534Z"
 }
