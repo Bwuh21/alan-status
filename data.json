@@ -2734,17 +2734,25 @@
         "since": "2026-11-22 14:39"
       },
       {
+        "n": 647,
+        "head": "six off-floor games play as a thin sideways strip on an upright phone (seen shipping row 322, 2026-11-10)",
+        "lane": "arcade",
+        "since": "2026-11-22 14:44"
+      },
+      {
         "n": 1148,
         "head": "Blend In: check.mjs \"the wind-up lands\" and \"from the blind side\" fail about one run in two, on the committed copy too",
         "lane": "arcade2",
         "since": "2026-11-22 14:29"
+      },
+      {
+        "n": 1161,
+        "head": "Undercroft: the two-player measure never forms a party on the DESK view",
+        "lane": "arcade2",
+        "since": "2026-11-22 14:44"
       }
     ],
     "next": [
-      {
-        "n": 647,
-        "head": "six off-floor games play as a thin sideways strip on an upright phone (seen shipping row 322, 2026-11-10)"
-      },
       {
         "n": 649,
         "head": "Skins: the weak skins row 642 named and did not reach (2026-11-10)"
@@ -3190,10 +3198,6 @@
       {
         "n": 1142,
         "head": "PACK HANGS before --into: the disk-size courtesy walk stats every file in all 973 past bundles"
-      },
-      {
-        "n": 1161,
-        "head": "Undercroft: the two-player measure never forms a party on the DESK view"
       },
       {
         "n": 1162,
@@ -3910,5 +3914,5 @@
       "2026-11-22": 25
     }
   },
-  "changed": "2026-11-22T20:44:14.508Z"
+  "changed": "2026-11-22T20:49:14.340Z"
 }
