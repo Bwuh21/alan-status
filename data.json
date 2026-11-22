@@ -2739,6 +2739,13 @@
         "head": "49 of the 50 3D games die SILENTLY when a phone refuses the WebGL context, and the loading card makes it look like they are still loading",
         "lane": "arcade",
         "since": "2026-11-21 20:29"
+      },
+      {
+        "n": 1126,
+        "head": "Slab City: three skate checks are red at HEAD before any edit",
+        "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-22 00:59"
       }
     ],
     "next": [
@@ -3198,11 +3205,6 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
-        "n": 1126,
-        "head": "Slab City: three skate checks are red at HEAD before any edit",
-        "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate"
       },
       {
         "n": 1128,
@@ -3864,5 +3866,5 @@
       "2026-11-22": 2
     }
   },
-  "changed": "2026-11-22T06:59:15.025Z"
+  "changed": "2026-11-22T07:04:14.986Z"
 }
