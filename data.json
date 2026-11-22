@@ -2739,6 +2739,13 @@
         "detail": "the boss is often behind the lens at that instant and the beam is six small sparks",
         "lane": "arcade2",
         "since": "2026-11-22 04:39"
+      },
+      {
+        "n": 1135,
+        "head": "Undercroft: the Widow is too hard",
+        "detail": "a clean knight beats her 3 times in 12, the only one of the seven bosses under the row-837 bar",
+        "lane": "arcade2",
+        "since": "2026-11-22 05:49"
       }
     ],
     "next": [
@@ -3207,11 +3214,6 @@
         "n": 1134,
         "head": "Toy house: the little track props on the play-room and kitchen floors fight on their tops",
         "detail": "a white slab flush on a pink box, gift ribbons flush on gift lids"
-      },
-      {
-        "n": 1135,
-        "head": "Undercroft: the Widow is too hard",
-        "detail": "a clean knight beats her 3 times in 12, the only one of the seven bosses under the row-837 bar"
       },
       {
         "n": 1136,
@@ -3792,6 +3794,14 @@
       {
         "n": 1295,
         "head": "SecondWind's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
+      },
+      {
+        "n": 1296,
+        "head": "SpaceGolf's own verify.mjs went red (nightly instrument sweep, 2026-11-22)"
+      },
+      {
+        "n": 1297,
+        "head": "StandStill's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3892,5 +3902,5 @@
       "2026-11-22": 7
     }
   },
-  "changed": "2026-11-22T11:49:15.133Z"
+  "changed": "2026-11-22T11:56:46.589Z"
 }
