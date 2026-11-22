@@ -3811,6 +3811,14 @@
       {
         "n": 1321,
         "head": "Arcade: nine two-browser checks in the portal's verify folder boot their guest on ?room=CODE and never press the invite, so they have been b"
+      },
+      {
+        "n": 1322,
+        "head": "Six link-only games (DoubleOut, HordeNight, LaneDay, Pinball, TopplePull, WreckingBall) were never looked at on a phone held sideways"
+      },
+      {
+        "n": 1323,
+        "head": "HordeNight and DoubleOut: on an upright phone the room's menu key sits on the title screen's top-left HUD"
       }
     ],
     "waiting": [
@@ -3907,5 +3915,5 @@
       "2026-11-22": 28
     }
   },
-  "changed": "2026-11-22T22:09:14.524Z"
+  "changed": "2026-11-22T22:14:28.717Z"
 }
