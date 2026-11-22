@@ -2739,6 +2739,12 @@
         "detail": "their brain thinks both jumps give 0.2 s of air when they give ~0.45 s",
         "lane": "arcade2",
         "since": "2026-11-22 02:14"
+      },
+      {
+        "n": 1130,
+        "head": "Barn Burner: the first-visit card says \"shots from in close beat him most\", and at full strength the moving-keeper numbers say the opposite",
+        "lane": "arcade2",
+        "since": "2026-11-22 02:59"
       }
     ],
     "next": [
@@ -3198,10 +3204,6 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
-        "n": 1130,
-        "head": "Barn Burner: the first-visit card says \"shots from in close beat him most\", and at full strength the moving-keeper numbers say the opposite"
       },
       {
         "n": 1132,
@@ -3878,5 +3880,5 @@
       "2026-11-22": 5
     }
   },
-  "changed": "2026-11-22T08:49:14.008Z"
+  "changed": "2026-11-22T09:04:14.441Z"
 }
