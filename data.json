@@ -2734,17 +2734,25 @@
         "since": "2026-11-22 06:34"
       },
       {
+        "n": 638,
+        "head": "three boxed games cannot be started on a phone held sideways when opened on their own",
+        "lane": "arcade",
+        "since": "2026-11-22 11:24"
+      },
+      {
         "n": 1139,
         "head": "Undercroft: one phone-bench fight still saw the knight jump more than 20 m, after a natural loss, on the row-841 fix",
         "lane": "arcade2",
         "since": "2026-11-22 09:00"
+      },
+      {
+        "n": 1140,
+        "head": "Undercroft: after losing a skull contract with skulls banked, the hall's objective line still says TAKE ANOTHER CONTRACT",
+        "lane": "arcade2",
+        "since": "2026-11-22 11:24"
       }
     ],
     "next": [
-      {
-        "n": 638,
-        "head": "three boxed games cannot be started on a phone held sideways when opened on their own"
-      },
       {
         "n": 639,
         "head": "four sideways-filled games draw their start on a canvas, so no sweep has ever judged them sideways"
@@ -3202,10 +3210,6 @@
       {
         "n": 1138,
         "head": "SKATE PARK: the painted streets and the median are drawn 11 mm over the slab the board rides"
-      },
-      {
-        "n": 1140,
-        "head": "Undercroft: after losing a skull contract with skulls banked, the hall's objective line still says TAKE ANOTHER CONTRACT"
       },
       {
         "n": 1141,
@@ -3925,5 +3929,5 @@
       "2026-11-22": 13
     }
   },
-  "changed": "2026-11-22T17:24:13.336Z"
+  "changed": "2026-11-22T17:30:52.008Z"
 }
