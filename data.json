@@ -2728,10 +2728,10 @@
   "stack": {
     "building": [
       {
-        "n": 667,
-        "head": "The ticket-screen rework is LIVE but not committed in the vault: HEAD's arcade.html is 138 lines behind the domain",
+        "n": 669,
+        "head": "__arcade.see.side (and .boom) keep the walking camera's last value while a table camera has the view",
         "lane": "arcade",
-        "since": "2026-11-22 17:44"
+        "since": "2026-11-22 17:54"
       },
       {
         "n": 1169,
@@ -2741,10 +2741,6 @@
       }
     ],
     "next": [
-      {
-        "n": 669,
-        "head": "__arcade.see.side (and .boom) keep the walking camera's last value while a table camera has the view"
-      },
       {
         "n": 679,
         "head": "The skin-door sweep only opens functions named cleanSkin; a colour or skin read straight off a party message beside the door is still found "
@@ -3908,7 +3904,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 897,
+    "shippedTotal": 898,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3916,8 +3912,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 36
+      "2026-11-22": 37
     }
   },
-  "changed": "2026-11-22T23:54:14.017Z"
+  "changed": "2026-11-22T23:59:13.753Z"
 }
