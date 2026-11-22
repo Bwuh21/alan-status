@@ -2728,12 +2728,6 @@
   "stack": {
     "building": [
       {
-        "n": 637,
-        "head": "the toast docks for HUD the room never published, and 36 of the 50 games have never been through the band gate",
-        "lane": "arcade",
-        "since": "2026-11-22 06:34"
-      },
-      {
         "n": 638,
         "head": "three boxed games cannot be started on a phone held sideways when opened on their own",
         "lane": "arcade",
@@ -3817,6 +3811,10 @@
       {
         "n": 1310,
         "head": "Undercroft: no bench player ever steps out of the phase-2 fire, so the Rider's deaths are a fire count"
+      },
+      {
+        "n": 1311,
+        "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags"
       }
     ],
     "waiting": [
@@ -3905,7 +3903,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 877,
+    "shippedTotal": 878,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3913,8 +3911,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 16
+      "2026-11-22": 17
     }
   },
-  "changed": "2026-11-22T18:34:16.300Z"
+  "changed": "2026-11-22T19:44:14.108Z"
 }
