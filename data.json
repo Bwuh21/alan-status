@@ -2740,12 +2740,6 @@
         "since": "2026-11-22 13:44"
       },
       {
-        "n": 1144,
-        "head": "Undercroft: shield-hit's Warden case fails under machine load, on the committed copy too",
-        "lane": "arcade2",
-        "since": "2026-11-22 12:30"
-      },
-      {
         "n": 1145,
         "head": "Undercroft: dev/gate.mjs never boots: HALF PAGE REFUSED for ../_ui/gfx-guard.js",
         "lane": "arcade2",
@@ -3854,6 +3848,11 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1144,
+        "head": "Undercroft: shield-hit's Warden case fails under machine load, on the committed copy too",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1143,
         "head": "Undercroft: the latch sweep's last 6 EXPOSED checks run the game inside an iframe, so the blind guard cannot reach it",
         "date": "2026-11-22"
@@ -3901,14 +3900,9 @@
         "head": "TOY FURY: the bots never do a TRICK on the Grand Tour",
         "detail": "their brain thinks both jumps give 0.2 s of air when they give ~0.45 s",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1128,
-        "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check ",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 879,
+    "shippedTotal": 880,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3916,8 +3910,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 18
+      "2026-11-22": 19
     }
   },
-  "changed": "2026-11-22T20:14:14.545Z"
+  "changed": "2026-11-22T20:19:17.510Z"
 }
