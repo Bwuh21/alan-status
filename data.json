@@ -2740,12 +2740,6 @@
         "since": "2026-11-22 14:44"
       },
       {
-        "n": 1148,
-        "head": "Blend In: check.mjs \"the wind-up lands\" and \"from the blind side\" fail about one run in two, on the committed copy too",
-        "lane": "arcade2",
-        "since": "2026-11-22 14:29"
-      },
-      {
         "n": 1161,
         "head": "Undercroft: the two-player measure never forms a party on the DESK view",
         "lane": "arcade2",
@@ -3817,6 +3811,10 @@
       {
         "n": 1319,
         "head": "four more harnesses still read the purse's #coins, which is gone"
+      },
+      {
+        "n": 1320,
+        "head": "Blend In: four more check.mjs lines flake or fail on this laptop, separate from the reach test"
       }
     ],
     "waiting": [
@@ -3847,6 +3845,11 @@
       {
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1148,
+        "head": "Blend In: check.mjs \"the wind-up lands\" and \"from the blind side\" fail about one run in two, on the committed copy too",
         "date": "2026-11-22"
       },
       {
@@ -3895,15 +3898,9 @@
         "head": "Undercroft: a boss's half-health adds silently fail when they would spawn in stone",
         "detail": "64 of 480 summoner fights got one add instead of two",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1135,
-        "head": "Undercroft: the Widow is too hard",
-        "detail": "a clean knight beats her 3 times in 12, the only one of the seven bosses under the row-837 bar",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 886,
+    "shippedTotal": 887,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3911,8 +3908,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 25
+      "2026-11-22": 26
     }
   },
-  "changed": "2026-11-22T20:49:14.340Z"
+  "changed": "2026-11-22T20:59:19.992Z"
 }
