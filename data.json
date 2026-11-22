@@ -2734,6 +2734,12 @@
         "since": "2026-11-22 15:24"
       },
       {
+        "n": 650,
+        "head": "Skins: run the five retirements at a keyboard sitting, and prove a friend sees the flame tip (2026-11-10)",
+        "lane": "arcade",
+        "since": "2026-11-22 16:14"
+      },
+      {
         "n": 1161,
         "head": "Undercroft: the two-player measure never forms a party on the DESK view",
         "lane": "arcade2",
@@ -2747,10 +2753,6 @@
       }
     ],
     "next": [
-      {
-        "n": 650,
-        "head": "Skins: run the five retirements at a keyboard sitting, and prove a friend sees the flame tip (2026-11-10)"
-      },
       {
         "n": 651,
         "head": "Two skin instruments are blind or broken"
@@ -3915,5 +3917,5 @@
       "2026-11-22": 28
     }
   },
-  "changed": "2026-11-22T22:14:28.717Z"
+  "changed": "2026-11-22T22:19:14.178Z"
 }
