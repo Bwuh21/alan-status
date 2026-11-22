@@ -2734,6 +2734,12 @@
         "since": "2026-11-21 19:49"
       },
       {
+        "n": 626,
+        "head": "the lobby's own history is behind what the lobby is serving, and the next HEAD-based ship will quietly delete a live feature",
+        "lane": "arcade",
+        "since": "2026-11-21 19:54"
+      },
+      {
         "n": 1120,
         "head": "Slab City: SPEED has no life",
         "detail": "four equal pushes then a hard wall at 9, and hands-off you lose almost nothing (found by row 1058, 2026-11-19) region-skate",
@@ -2749,10 +2755,6 @@
       }
     ],
     "next": [
-      {
-        "n": 626,
-        "head": "the lobby's own history is behind what the lobby is serving, and the next HEAD-based ship will quietly delete a live feature"
-      },
       {
         "n": 627,
         "head": "twelve MORE games ask for 82.5 fps, and the ruler cannot reach any of them"
@@ -3862,5 +3864,5 @@
       "2026-11-21": 62
     }
   },
-  "changed": "2026-11-22T01:54:15.247Z"
+  "changed": "2026-11-22T01:59:14.936Z"
 }
