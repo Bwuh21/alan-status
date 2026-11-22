@@ -3770,6 +3770,10 @@
         "n": 1289,
         "head": "Arcade room: four HOT VIEWS read ~130-145 draws, about twice their island's budget",
         "detail": "name the heavy mesh BEFORE the four-way perf record bakes it in"
+      },
+      {
+        "n": 1290,
+        "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3870,5 +3874,5 @@
       "2026-11-22": 7
     }
   },
-  "changed": "2026-11-22T10:44:18.534Z"
+  "changed": "2026-11-22T11:05:15.952Z"
 }
