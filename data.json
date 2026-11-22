@@ -2739,6 +2739,13 @@
         "head": "Slab City: PRO goals still only count inside a session",
         "lane": "arcade2",
         "since": "2026-11-21 18:04"
+      },
+      {
+        "n": 1120,
+        "head": "Slab City: SPEED has no life",
+        "detail": "four equal pushes then a hard wall at 9, and hands-off you lose almost nothing (found by row 1058, 2026-11-19) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-21 19:19"
       }
     ],
     "next": [
@@ -3219,11 +3226,6 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
-        "n": 1120,
-        "head": "Slab City: SPEED has no life",
-        "detail": "four equal pushes then a hard wall at 9, and hands-off you lose almost nothing (found by row 1058, 2026-11-19) region-skate"
       },
       {
         "n": 1121,
@@ -3878,5 +3880,5 @@
       "2026-11-21": 60
     }
   },
-  "changed": "2026-11-22T01:19:13.938Z"
+  "changed": "2026-11-22T01:24:14.286Z"
 }
