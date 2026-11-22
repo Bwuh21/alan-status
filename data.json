@@ -3774,6 +3774,10 @@
       {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
+      },
+      {
+        "n": 1291,
+        "head": "BestLine's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3874,5 +3878,5 @@
       "2026-11-22": 7
     }
   },
-  "changed": "2026-11-22T11:05:15.952Z"
+  "changed": "2026-11-22T11:09:22.246Z"
 }
