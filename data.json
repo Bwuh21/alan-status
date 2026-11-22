@@ -2734,6 +2734,12 @@
         "since": "2026-11-22 06:04"
       },
       {
+        "n": 637,
+        "head": "the toast docks for HUD the room never published, and 36 of the 50 games have never been through the band gate",
+        "lane": "arcade",
+        "since": "2026-11-22 06:34"
+      },
+      {
         "n": 1136,
         "head": "Undercroft: a boss's half-health adds silently fail when they would spawn in stone",
         "detail": "64 of 480 summoner fights got one add instead of two",
@@ -2742,10 +2748,6 @@
       }
     ],
     "next": [
-      {
-        "n": 637,
-        "head": "the toast docks for HUD the room never published, and 36 of the 50 games have never been through the band gate"
-      },
       {
         "n": 638,
         "head": "three boxed games cannot be started on a phone held sideways when opened on their own"
@@ -3798,6 +3800,10 @@
       {
         "n": 1300,
         "head": "Last Call: its own picture-stopped guard fails 2 of 19 legs of its context-loss check: a stray lost event leaves it at 0 draw calls a second"
+      },
+      {
+        "n": 1301,
+        "head": "Undercroft: the rogue still loses to the Widow 9 times in 12 after row 1135"
       }
     ],
     "waiting": [
@@ -3898,5 +3904,5 @@
       "2026-11-22": 10
     }
   },
-  "changed": "2026-11-22T12:34:14.373Z"
+  "changed": "2026-11-22T12:39:14.816Z"
 }
