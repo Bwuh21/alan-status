@@ -3815,6 +3815,10 @@
       {
         "n": 1323,
         "head": "HordeNight and DoubleOut: on an upright phone the room's menu key sits on the title screen's top-left HUD"
+      },
+      {
+        "n": 1324,
+        "head": "Undercroft: on a two-player Ember Vault walk-in, the guest's camera passes 1.45 m from the friend as the friend's figure catches up mid-entr"
       }
     ],
     "waiting": [
@@ -3910,5 +3914,5 @@
       "2026-11-22": 29
     }
   },
-  "changed": "2026-11-22T22:24:14.591Z"
+  "changed": "2026-11-22T22:29:14.335Z"
 }
