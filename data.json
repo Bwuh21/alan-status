@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T04:04:31.778Z",
+  "updated": "2026-11-22T05:08:32.062Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2734,13 +2734,6 @@
         "since": "2026-11-21 20:29"
       },
       {
-        "n": 1123,
-        "head": "Slab City: no POWERSLIDE",
-        "detail": "speed can only be turned or left alone (found by row 1058, 2026-11-19) region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-21 21:19"
-      },
-      {
         "n": 1124,
         "head": "Slab City: a slam has no hit",
         "detail": "no frame freeze, no camera knock when you bail (found by row 1058, 2026-11-19) region-skate",
@@ -3758,6 +3751,16 @@
         "n": 1278,
         "head": "Slab City: FRIENDS never see the ollie wind-up crouch",
         "detail": "it is not on the wire (found building row 1122, 2026-11-21) region-skate"
+      },
+      {
+        "n": 1279,
+        "head": "Slab City: FRIENDS never see your POWERSLIDE",
+        "detail": "the board across and the skid marks are not on the wire (found building row 1123, 2026-11-21) region-skate"
+      },
+      {
+        "n": 1280,
+        "head": "Slab City: the powerslide has no SCREECH of its own",
+        "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate"
       }
     ],
     "waiting": [
@@ -3793,6 +3796,12 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1123,
+        "head": "Slab City: no POWERSLIDE",
+        "detail": "speed can only be turned or left alone (found by row 1058, 2026-11-19) region-skate",
         "date": "2026-11-21"
       },
       {
@@ -3837,14 +3846,9 @@
         "n": 1113,
         "head": "Slab City: the first job says \"kickflip ON MAIN ST\" but a kickflip anywhere counts",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1112,
-        "head": "Slab City: the fuzz check calls the designed rail side-step a teleport",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 860,
+    "shippedTotal": 861,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3852,8 +3856,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 68
+      "2026-11-21": 69
     }
   },
-  "changed": "2026-11-22T04:14:14.096Z"
+  "changed": "2026-11-22T05:09:15.544Z"
 }
