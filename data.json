@@ -2738,6 +2738,13 @@
         "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check ",
         "lane": "arcade2",
         "since": "2026-11-22 01:54"
+      },
+      {
+        "n": 1129,
+        "head": "TOY FURY: the bots never do a TRICK on the Grand Tour",
+        "detail": "their brain thinks both jumps give 0.2 s of air when they give ~0.45 s",
+        "lane": "arcade2",
+        "since": "2026-11-22 02:14"
       }
     ],
     "next": [
@@ -3197,11 +3204,6 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
-        "n": 1129,
-        "head": "TOY FURY: the bots never do a TRICK on the Grand Tour",
-        "detail": "their brain thinks both jumps give 0.2 s of air when they give ~0.45 s"
       },
       {
         "n": 1130,
@@ -3873,5 +3875,5 @@
       "2026-11-22": 4
     }
   },
-  "changed": "2026-11-22T08:14:14.012Z"
+  "changed": "2026-11-22T08:19:14.278Z"
 }
