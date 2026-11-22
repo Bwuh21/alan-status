@@ -2728,12 +2728,6 @@
   "stack": {
     "building": [
       {
-        "n": 659,
-        "head": "Keyboard sitting: run the two waiting payout files, then the earn check must read exit 0 (left by row 381, 2026-11-10)",
-        "lane": "arcade",
-        "since": "2026-11-22 17:39"
-      },
-      {
         "n": 667,
         "head": "The ticket-screen rework is LIVE but not committed in the vault: HEAD's arcade.html is 138 lines behind the domain",
         "lane": "arcade",
@@ -3825,6 +3819,11 @@
       {
         "n": 1332,
         "head": "Robot skins: the chest badge and the jetpack stand 2 cm off the body, so the audit flags every robot skin for the rig, not the skin (left by"
+      },
+      {
+        "n": 1333,
+        "head": "Corner Pocket: the end card says \"2 TICKETS\" and the round paid 3",
+        "detail": "read the room's settlement instead of the price (left by row 659, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3909,7 +3908,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 896,
+    "shippedTotal": 897,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3917,8 +3916,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 35
+      "2026-11-22": 36
     }
   },
-  "changed": "2026-11-22T23:49:13.817Z"
+  "changed": "2026-11-22T23:54:14.017Z"
 }
