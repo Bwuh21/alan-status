@@ -2734,6 +2734,12 @@
         "since": "2026-11-22 14:44"
       },
       {
+        "n": 649,
+        "head": "Skins: the weak skins row 642 named and did not reach (2026-11-10)",
+        "lane": "arcade",
+        "since": "2026-11-22 15:24"
+      },
+      {
         "n": 1161,
         "head": "Undercroft: the two-player measure never forms a party on the DESK view",
         "lane": "arcade2",
@@ -2747,10 +2753,6 @@
       }
     ],
     "next": [
-      {
-        "n": 649,
-        "head": "Skins: the weak skins row 642 named and did not reach (2026-11-10)"
-      },
       {
         "n": 650,
         "head": "Skins: run the five retirements at a keyboard sitting, and prove a friend sees the flame tip (2026-11-10)"
@@ -3911,5 +3913,5 @@
       "2026-11-22": 27
     }
   },
-  "changed": "2026-11-22T21:24:13.578Z"
+  "changed": "2026-11-22T21:29:18.671Z"
 }
