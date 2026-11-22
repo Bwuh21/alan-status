@@ -2745,6 +2745,13 @@
         "detail": "a clean knight beats her 3 times in 12, the only one of the seven bosses under the row-837 bar",
         "lane": "arcade2",
         "since": "2026-11-22 05:49"
+      },
+      {
+        "n": 1136,
+        "head": "Undercroft: a boss's half-health adds silently fail when they would spawn in stone",
+        "detail": "64 of 480 summoner fights got one add instead of two",
+        "lane": "arcade2",
+        "since": "2026-11-22 06:19"
       }
     ],
     "next": [
@@ -3209,11 +3216,6 @@
         "n": 1134,
         "head": "Toy house: the little track props on the play-room and kitchen floors fight on their tops",
         "detail": "a white slab flush on a pink box, gift ribbons flush on gift lids"
-      },
-      {
-        "n": 1136,
-        "head": "Undercroft: a boss's half-health adds silently fail when they would spawn in stone",
-        "detail": "64 of 480 summoner fights got one add instead of two"
       },
       {
         "n": 1137,
@@ -3905,5 +3907,5 @@
       "2026-11-22": 8
     }
   },
-  "changed": "2026-11-22T12:14:17.940Z"
+  "changed": "2026-11-22T12:24:14.772Z"
 }
