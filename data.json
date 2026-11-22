@@ -2734,13 +2734,6 @@
         "since": "2026-11-21 20:29"
       },
       {
-        "n": 1129,
-        "head": "TOY FURY: the bots never do a TRICK on the Grand Tour",
-        "detail": "their brain thinks both jumps give 0.2 s of air when they give ~0.45 s",
-        "lane": "arcade2",
-        "since": "2026-11-22 02:14"
-      },
-      {
         "n": 1130,
         "head": "Barn Burner: the first-visit card says \"shots from in close beat him most\", and at full strength the moving-keeper numbers say the opposite",
         "lane": "arcade2",
@@ -3807,6 +3800,12 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1129,
+        "head": "TOY FURY: the bots never do a TRICK on the Grand Tour",
+        "detail": "their brain thinks both jumps give 0.2 s of air when they give ~0.45 s",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1128,
         "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check ",
         "date": "2026-11-22"
@@ -3861,15 +3860,9 @@
         "head": "Slab City: at full speed the rider stands bolt upright, the same pose as stopped",
         "detail": "nothing in a still frame says speed (found by row 1058, 2026-11-19) region-skate",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1120,
-        "head": "Slab City: SPEED has no life",
-        "detail": "four equal pushes then a hard wall at 9, and hands-off you lose almost nothing (found by row 1058, 2026-11-19) region-skate",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 866,
+    "shippedTotal": 867,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3877,8 +3870,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 5
+      "2026-11-22": 6
     }
   },
-  "changed": "2026-11-22T09:04:14.441Z"
+  "changed": "2026-11-22T09:44:13.959Z"
 }
