@@ -2740,12 +2740,6 @@
         "since": "2026-11-22 11:24"
       },
       {
-        "n": 1140,
-        "head": "Undercroft: after losing a skull contract with skulls banked, the hall's objective line still says TAKE ANOTHER CONTRACT",
-        "lane": "arcade2",
-        "since": "2026-11-22 11:24"
-      },
-      {
         "n": 1143,
         "head": "Undercroft: the latch sweep's last 6 EXPOSED checks run the game inside an iframe, so the blind guard cannot reach it",
         "lane": "arcade2",
@@ -3854,6 +3848,11 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1140,
+        "head": "Undercroft: after losing a skull contract with skulls banked, the hall's objective line still says TAKE ANOTHER CONTRACT",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1139,
         "head": "Undercroft: one phone-bench fight still saw the knight jump more than 20 m, after a natural loss, on the row-841 fix",
         "date": "2026-11-22"
@@ -3902,14 +3901,9 @@
         "head": "Slab City: three skate checks are red at HEAD before any edit",
         "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1125,
-        "head": "Slab City on a phone: the grind catch wants to be wider for thumbs (found by row 1058, 2026-11-19) region-skate",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 876,
+    "shippedTotal": 877,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3917,8 +3911,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 15
+      "2026-11-22": 16
     }
   },
-  "changed": "2026-11-22T18:24:14.911Z"
+  "changed": "2026-11-22T18:29:14.044Z"
 }
