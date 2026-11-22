@@ -3817,6 +3817,10 @@
       {
         "n": 1312,
         "head": "Undercroft: dev/oct06-mp/coop-net.mjs still serves a 10-07 copy of the game (headdir/), so its LEVEL case fails on a bug the live file fixed"
+      },
+      {
+        "n": 1313,
+        "head": "Undercroft: the Gaol Warden's thrust from its full range whiffs a knight who stands still"
       }
     ],
     "waiting": [
@@ -3915,5 +3919,5 @@
       "2026-11-22": 18
     }
   },
-  "changed": "2026-11-22T19:54:46.330Z"
+  "changed": "2026-11-22T20:14:14.545Z"
 }
