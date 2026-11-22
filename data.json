@@ -2728,12 +2728,6 @@
   "stack": {
     "building": [
       {
-        "n": 649,
-        "head": "Skins: the weak skins row 642 named and did not reach (2026-11-10)",
-        "lane": "arcade",
-        "since": "2026-11-22 15:24"
-      },
-      {
         "n": 650,
         "head": "Skins: run the five retirements at a keyboard sitting, and prove a friend sees the flame tip (2026-11-10)",
         "lane": "arcade",
@@ -3916,7 +3910,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 891,
+    "shippedTotal": 892,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3924,8 +3918,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 30
+      "2026-11-22": 31
     }
   },
-  "changed": "2026-11-22T23:04:15.231Z"
+  "changed": "2026-11-22T23:09:14.132Z"
 }
