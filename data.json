@@ -2744,6 +2744,13 @@
         "head": "Toy Fury: the open edge and the jumps still drop a clumsy driver, the same spot lap after lap",
         "lane": "arcade2",
         "since": "2026-11-22 16:29"
+      },
+      {
+        "n": 1165,
+        "head": "Toy Fury: a car nobody is steering now finishes mid-pack",
+        "detail": "decide how much the outside rail should drive",
+        "lane": "arcade2",
+        "since": "2026-11-22 16:44"
       }
     ],
     "next": [
@@ -3188,11 +3195,6 @@
       {
         "n": 1163,
         "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME"
-      },
-      {
-        "n": 1165,
-        "head": "Toy Fury: a car nobody is steering now finishes mid-pack",
-        "detail": "decide how much the outside rail should drive"
       },
       {
         "n": 1166,
@@ -3910,5 +3912,5 @@
       "2026-11-22": 30
     }
   },
-  "changed": "2026-11-22T22:39:14.273Z"
+  "changed": "2026-11-22T22:49:14.369Z"
 }
