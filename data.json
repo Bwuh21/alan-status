@@ -2728,22 +2728,10 @@
   "stack": {
     "building": [
       {
-        "n": 1281,
-        "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
-        "lane": "arcade",
-        "since": "2026-11-22 06:04"
-      },
-      {
         "n": 637,
         "head": "the toast docks for HUD the room never published, and 36 of the 50 games have never been through the band gate",
         "lane": "arcade",
         "since": "2026-11-22 06:34"
-      },
-      {
-        "n": 1137,
-        "head": "Undercroft: the archer loses every fight to the Rider, the Nutcracker and the Widow, kiting or not",
-        "lane": "arcade2",
-        "since": "2026-11-22 06:39"
       },
       {
         "n": 1139,
@@ -3801,6 +3789,42 @@
       {
         "n": 1301,
         "head": "Undercroft: the rogue still loses to the Widow 9 times in 12 after row 1135"
+      },
+      {
+        "n": 1302,
+        "head": "Team picker: wire Splatflag and Second Wind to it"
+      },
+      {
+        "n": 1303,
+        "head": "Team picker: show each game's own team names and colours"
+      },
+      {
+        "n": 1304,
+        "head": "Team picker: ready marks do not survive the host leaving"
+      },
+      {
+        "n": 1305,
+        "head": "Team picker: change teams from the rematch card"
+      },
+      {
+        "n": 1306,
+        "head": "Team picker: sound on a team change and on READY"
+      },
+      {
+        "n": 1307,
+        "head": "Team picker for the bar tables: 2v2 pool, foosball and ping pong doubles"
+      },
+      {
+        "n": 1308,
+        "head": "Team picker: a team change made twice inside one round trip can bounce once"
+      },
+      {
+        "n": 1309,
+        "head": "Undercroft: the bench archer runs from the Widow's phantoms instead of shooting them, so her cell reads the bench and not the bow"
+      },
+      {
+        "n": 1310,
+        "head": "Undercroft: no bench player ever steps out of the phase-2 fire, so the Rider's deaths are a fire count"
       }
     ],
     "waiting": [
@@ -3826,6 +3850,16 @@
         "n": 1282,
         "head": "Toy Fury: a bigger race, not a house full of rooms",
         "detail": "open-road tracks, a map",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1281,
+        "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1137,
+        "head": "Undercroft: the archer loses every fight to the Rider, the Nutcracker and the Widow, kiting or not",
         "date": "2026-11-22"
       },
       {
@@ -3878,19 +3912,9 @@
         "head": "Slab City: a slam has no hit",
         "detail": "no frame freeze, no camera knock when you bail (found by row 1058, 2026-11-19) region-skate",
         "date": "2026-11-22"
-      },
-      {
-        "n": 633,
-        "head": "49 of the 50 3D games die SILENTLY when a phone refuses the WebGL context, and the loading card makes it look like they are still loading",
-        "date": "2026-11-22"
-      },
-      {
-        "n": 1237,
-        "head": "TOY FURY: re-tune the Grand Tour's place swaps with a driver that sees the toys, after row 1096",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 872,
+    "shippedTotal": 874,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3898,8 +3922,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 11
+      "2026-11-22": 13
     }
   },
-  "changed": "2026-11-22T15:04:26.008Z"
+  "changed": "2026-11-22T17:24:13.336Z"
 }
