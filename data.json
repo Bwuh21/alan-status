@@ -2734,18 +2734,19 @@
         "since": "2026-11-22 17:39"
       },
       {
-        "n": 1165,
-        "head": "Toy Fury: a car nobody is steering now finishes mid-pack",
-        "detail": "decide how much the outside rail should drive",
+        "n": 667,
+        "head": "The ticket-screen rework is LIVE but not committed in the vault: HEAD's arcade.html is 138 lines behind the domain",
+        "lane": "arcade",
+        "since": "2026-11-22 17:44"
+      },
+      {
+        "n": 1169,
+        "head": "Undercroft: the gate check's \"the sign reads whole, not HE GUILD\" leg passes or fails depending on where the walk stops",
         "lane": "arcade2",
-        "since": "2026-11-22 16:44"
+        "since": "2026-11-22 17:44"
       }
     ],
     "next": [
-      {
-        "n": 667,
-        "head": "The ticket-screen rework is LIVE but not committed in the vault: HEAD's arcade.html is 138 lines behind the domain"
-      },
       {
         "n": 669,
         "head": "__arcade.see.side (and .boom) keep the walking camera's last value while a table camera has the view"
@@ -3175,10 +3176,6 @@
       {
         "n": 1166,
         "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags"
-      },
-      {
-        "n": 1169,
-        "head": "Undercroft: the gate check's \"the sign reads whole, not HE GUILD\" leg passes or fails depending on where the walk stops"
       },
       {
         "n": 1170,
@@ -3923,5 +3920,5 @@
       "2026-11-22": 35
     }
   },
-  "changed": "2026-11-22T23:44:13.752Z"
+  "changed": "2026-11-22T23:49:13.817Z"
 }
