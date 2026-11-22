@@ -2749,6 +2749,15 @@
     ],
     "next": [
       {
+        "n": 1281,
+        "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag"
+      },
+      {
+        "n": 1282,
+        "head": "Toy Fury: a bigger race, not a house full of rooms",
+        "detail": "open-road tracks, a map"
+      },
+      {
         "n": 637,
         "head": "the toast docks for HUD the room never published, and 36 of the 50 games have never been through the band gate"
       },
@@ -3861,5 +3870,5 @@
       "2026-11-21": 69
     }
   },
-  "changed": "2026-11-22T05:19:13.959Z"
+  "changed": "2026-11-22T05:53:14.264Z"
 }
