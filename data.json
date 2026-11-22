@@ -2734,6 +2734,12 @@
         "since": "2026-11-21 20:19"
       },
       {
+        "n": 633,
+        "head": "49 of the 50 3D games die SILENTLY when a phone refuses the WebGL context, and the loading card makes it look like they are still loading",
+        "lane": "arcade",
+        "since": "2026-11-21 20:29"
+      },
+      {
         "n": 1121,
         "head": "Slab City: at full speed the rider stands bolt upright, the same pose as stopped",
         "detail": "nothing in a still frame says speed (found by row 1058, 2026-11-19) region-skate",
@@ -2742,10 +2748,6 @@
       }
     ],
     "next": [
-      {
-        "n": 633,
-        "head": "49 of the 50 3D games die SILENTLY when a phone refuses the WebGL context, and the loading card makes it look like they are still loading"
-      },
       {
         "n": 637,
         "head": "the toast docks for HUD the room never published, and 36 of the 50 games have never been through the band gate"
@@ -3851,5 +3853,5 @@
       "2026-11-21": 65
     }
   },
-  "changed": "2026-11-22T02:29:14.323Z"
+  "changed": "2026-11-22T02:34:15.179Z"
 }
