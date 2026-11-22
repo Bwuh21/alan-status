@@ -2728,22 +2728,10 @@
   "stack": {
     "building": [
       {
-        "n": 651,
-        "head": "Two skin instruments are blind or broken",
-        "lane": "arcade",
-        "since": "2026-11-22 17:09"
-      },
-      {
         "n": 658,
         "head": "Four games are live on the domain with no source in the vault, so no check can read them",
         "lane": "arcade",
         "since": "2026-11-22 17:19"
-      },
-      {
-        "n": 1164,
-        "head": "Toy Fury: the open edge and the jumps still drop a clumsy driver, the same spot lap after lap",
-        "lane": "arcade2",
-        "since": "2026-11-22 16:29"
       },
       {
         "n": 1165,
@@ -3836,6 +3824,14 @@
       {
         "n": 1330,
         "head": "Toy Fury: on the Backyard a holder driver can pin on the inside rail for 1.4 s at s=67.8 (left by arcade2 building row 1164, 2026-11-22)"
+      },
+      {
+        "n": 1331,
+        "head": "Skin lab: clip-check only knows arcade.html and its boot wait ends silently (left by row 651, 2026-11-22)"
+      },
+      {
+        "n": 1332,
+        "head": "Robot skins: the chest badge and the jetpack stand 2 cm off the body, so the audit flags every robot skin for the rig, not the skin (left by"
       }
     ],
     "waiting": [
@@ -3866,6 +3862,11 @@
       {
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1164,
+        "head": "Toy Fury: the open edge and the jumps still drop a clumsy driver, the same spot lap after lap",
         "date": "2026-11-22"
       },
       {
@@ -3913,14 +3914,9 @@
         "n": 1140,
         "head": "Undercroft: after losing a skull contract with skulls banked, the hall's objective line still says TAKE ANOTHER CONTRACT",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1139,
-        "head": "Undercroft: one phone-bench fight still saw the knight jump more than 20 m, after a natural loss, on the row-841 fix",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 893,
+    "shippedTotal": 895,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3928,8 +3924,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 32
+      "2026-11-22": 34
     }
   },
-  "changed": "2026-11-22T23:24:14.116Z"
+  "changed": "2026-11-22T23:39:13.841Z"
 }
