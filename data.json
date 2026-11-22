@@ -2734,6 +2734,12 @@
         "since": "2026-11-22 17:09"
       },
       {
+        "n": 658,
+        "head": "Four games are live on the domain with no source in the vault, so no check can read them",
+        "lane": "arcade",
+        "since": "2026-11-22 17:19"
+      },
+      {
         "n": 1164,
         "head": "Toy Fury: the open edge and the jumps still drop a clumsy driver, the same spot lap after lap",
         "lane": "arcade2",
@@ -2748,10 +2754,6 @@
       }
     ],
     "next": [
-      {
-        "n": 658,
-        "head": "Four games are live on the domain with no source in the vault, so no check can read them"
-      },
       {
         "n": 659,
         "head": "Keyboard sitting: run the two waiting payout files, then the earn check must read exit 0 (left by row 381, 2026-11-10)"
@@ -3929,5 +3931,5 @@
       "2026-11-22": 32
     }
   },
-  "changed": "2026-11-22T23:14:14.252Z"
+  "changed": "2026-11-22T23:24:14.116Z"
 }
