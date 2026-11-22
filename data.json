@@ -2739,6 +2739,12 @@
         "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate",
         "lane": "arcade2",
         "since": "2026-11-22 00:59"
+      },
+      {
+        "n": 1128,
+        "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check ",
+        "lane": "arcade2",
+        "since": "2026-11-22 01:54"
       }
     ],
     "next": [
@@ -3198,10 +3204,6 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
-        "n": 1128,
-        "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check "
       },
       {
         "n": 1129,
@@ -3877,5 +3879,5 @@
       "2026-11-22": 3
     }
   },
-  "changed": "2026-11-22T07:54:14.467Z"
+  "changed": "2026-11-22T07:59:14.081Z"
 }
