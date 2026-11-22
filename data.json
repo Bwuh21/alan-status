@@ -3817,6 +3817,21 @@
       {
         "n": 1324,
         "head": "Undercroft: on a two-player Ember Vault walk-in, the guest's camera passes 1.45 m from the friend as the friend's figure catches up mid-entr"
+      },
+      {
+        "n": 1325,
+        "head": "Skins: Emperor and Floe are one penguin in two colours",
+        "detail": "give each its own back shape (left by arcade building row 649, 2026-11-22)"
+      },
+      {
+        "n": 1326,
+        "head": "Skins: Orchid and Scout are plain robots with small accessories",
+        "detail": "make the accessory the read, or retire them (left by arcade building row 649, 2026-11-22)"
+      },
+      {
+        "n": 1327,
+        "head": "Skins: Space Marine and Grand Regent",
+        "detail": "check the dive's \"not wide enough\" on a fresh lobby sheet before touching either (left by arcade building row 649, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3912,5 +3927,5 @@
       "2026-11-22": 30
     }
   },
-  "changed": "2026-11-22T22:49:14.369Z"
+  "changed": "2026-11-22T23:04:15.231Z"
 }
