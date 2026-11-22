@@ -2728,6 +2728,12 @@
   "stack": {
     "building": [
       {
+        "n": 623,
+        "head": "the Toy Fury suite exists now, and still nothing calls it on a push",
+        "lane": "arcade",
+        "since": "2026-11-21 19:49"
+      },
+      {
         "n": 1120,
         "head": "Slab City: SPEED has no life",
         "detail": "four equal pushes then a hard wall at 9, and hands-off you lose almost nothing (found by row 1058, 2026-11-19) region-skate",
@@ -2743,10 +2749,6 @@
       }
     ],
     "next": [
-      {
-        "n": 623,
-        "head": "the Toy Fury suite exists now, and still nothing calls it on a push"
-      },
       {
         "n": 626,
         "head": "the lobby's own history is behind what the lobby is serving, and the next HEAD-based ship will quietly delete a live feature"
@@ -3860,5 +3862,5 @@
       "2026-11-21": 62
     }
   },
-  "changed": "2026-11-22T01:44:15.036Z"
+  "changed": "2026-11-22T01:54:15.247Z"
 }
