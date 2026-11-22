@@ -2728,24 +2728,21 @@
   "stack": {
     "building": [
       {
-        "n": 620,
-        "head": "Chalkline: the whole game is the last five metres, and that is why the dial is flat (measured building row 454, 2026-11-10)",
-        "lane": "arcade",
-        "since": "2026-11-21 19:14"
-      },
-      {
         "n": 1120,
         "head": "Slab City: SPEED has no life",
         "detail": "four equal pushes then a hard wall at 9, and hands-off you lose almost nothing (found by row 1058, 2026-11-19) region-skate",
         "lane": "arcade2",
         "since": "2026-11-21 19:19"
+      },
+      {
+        "n": 1121,
+        "head": "Slab City: at full speed the rider stands bolt upright, the same pose as stopped",
+        "detail": "nothing in a still frame says speed (found by row 1058, 2026-11-19) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-21 19:39"
       }
     ],
     "next": [
-      {
-        "n": 621,
-        "head": "Chalkline: a tier-independent coin flip sits on top of the skill dial (measured building row 454, 2026-11-10)"
-      },
       {
         "n": 623,
         "head": "the Toy Fury suite exists now, and still nothing calls it on a push"
@@ -2871,11 +2868,6 @@
       {
         "n": 755,
         "head": "BOWLING: paint the lane sheen into the wood so it can never flicker again"
-      },
-      {
-        "n": 757,
-        "head": "CHALKLINE (the climbing game): take it off the site's floor and directory",
-        "detail": "he is not keeping it"
       },
       {
         "n": 759,
@@ -3219,11 +3211,6 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
-        "n": 1121,
-        "head": "Slab City: at full speed the rider stands bolt upright, the same pose as stopped",
-        "detail": "nothing in a still frame says speed (found by row 1058, 2026-11-19) region-skate"
       },
       {
         "n": 1122,
@@ -3873,5 +3860,5 @@
       "2026-11-21": 62
     }
   },
-  "changed": "2026-11-22T01:39:13.940Z"
+  "changed": "2026-11-22T01:44:15.036Z"
 }
