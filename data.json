@@ -2728,12 +2728,6 @@
   "stack": {
     "building": [
       {
-        "n": 623,
-        "head": "the Toy Fury suite exists now, and still nothing calls it on a push",
-        "lane": "arcade",
-        "since": "2026-11-21 19:49"
-      },
-      {
         "n": 626,
         "head": "the lobby's own history is behind what the lobby is serving, and the next HEAD-based ship will quietly delete a live feature",
         "lane": "arcade",
@@ -3769,6 +3763,10 @@
       {
         "n": 1274,
         "head": "Sideways: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
+      },
+      {
+        "n": 1275,
+        "head": "Toy Fury: row403-check went red with ZERO racing frames, and the ship gate now refuses on it"
       }
     ],
     "waiting": [
@@ -3853,7 +3851,7 @@
         "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 854,
+    "shippedTotal": 855,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3861,8 +3859,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 62
+      "2026-11-21": 63
     }
   },
-  "changed": "2026-11-22T01:59:14.936Z"
+  "changed": "2026-11-22T02:19:14.262Z"
 }
