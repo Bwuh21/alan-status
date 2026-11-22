@@ -2734,10 +2734,10 @@
         "since": "2026-11-22 11:24"
       },
       {
-        "n": 1143,
-        "head": "Undercroft: the latch sweep's last 6 EXPOSED checks run the game inside an iframe, so the blind guard cannot reach it",
-        "lane": "arcade2",
-        "since": "2026-11-22 12:19"
+        "n": 639,
+        "head": "four sideways-filled games draw their start on a canvas, so no sweep has ever judged them sideways",
+        "lane": "arcade",
+        "since": "2026-11-22 13:44"
       },
       {
         "n": 1144,
@@ -2747,10 +2747,6 @@
       }
     ],
     "next": [
-      {
-        "n": 639,
-        "head": "four sideways-filled games draw their start on a canvas, so no sweep has ever judged them sideways"
-      },
       {
         "n": 644,
         "head": "main-look-shot.mjs crashes: the page has no #coins element any more"
@@ -3815,6 +3811,10 @@
       {
         "n": 1311,
         "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags"
+      },
+      {
+        "n": 1312,
+        "head": "Undercroft: dev/oct06-mp/coop-net.mjs still serves a 10-07 copy of the game (headdir/), so its LEVEL case fails on a bug the live file fixed"
       }
     ],
     "waiting": [
@@ -3845,6 +3845,11 @@
       {
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1143,
+        "head": "Undercroft: the latch sweep's last 6 EXPOSED checks run the game inside an iframe, so the blind guard cannot reach it",
         "date": "2026-11-22"
       },
       {
@@ -3895,15 +3900,9 @@
         "n": 1128,
         "head": "PERF GATE looks ONE way per island: Party Planet looking toward the plaza reads 146 draws and 125k tris on today's live lobby, and no check ",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1126,
-        "head": "Slab City: three skate checks are red at HEAD before any edit",
-        "detail": "grind combo banks 0, the DROP IN pad lands you on the tower, and five walk-through failures (found by row 1058, 2026-11-19) region-skate",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 878,
+    "shippedTotal": 879,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3911,8 +3910,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 17
+      "2026-11-22": 18
     }
   },
-  "changed": "2026-11-22T19:44:14.108Z"
+  "changed": "2026-11-22T19:49:14.128Z"
 }
