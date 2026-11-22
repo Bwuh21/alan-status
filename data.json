@@ -2744,6 +2744,12 @@
         "head": "TollBridge: six of the eight house bridges are EASY and none is BRUTAL, so the prize ladder barely moves",
         "lane": "arcade2",
         "since": "2026-11-22 14:59"
+      },
+      {
+        "n": 1164,
+        "head": "Toy Fury: the open edge and the jumps still drop a clumsy driver, the same spot lap after lap",
+        "lane": "arcade2",
+        "since": "2026-11-22 16:29"
       }
     ],
     "next": [
@@ -3188,10 +3194,6 @@
       {
         "n": 1163,
         "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME"
-      },
-      {
-        "n": 1164,
-        "head": "Toy Fury: the open edge and the jumps still drop a clumsy driver, the same spot lap after lap"
       },
       {
         "n": 1165,
@@ -3914,5 +3916,5 @@
       "2026-11-22": 29
     }
   },
-  "changed": "2026-11-22T22:29:14.335Z"
+  "changed": "2026-11-22T22:34:14.669Z"
 }
