@@ -3782,6 +3782,10 @@
       {
         "n": 1292,
         "head": "Dodgeball's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
+      },
+      {
+        "n": 1293,
+        "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3882,5 +3886,5 @@
       "2026-11-22": 7
     }
   },
-  "changed": "2026-11-22T11:24:14.987Z"
+  "changed": "2026-11-22T11:39:27.220Z"
 }
