@@ -2728,10 +2728,10 @@
   "stack": {
     "building": [
       {
-        "n": 650,
-        "head": "Skins: run the five retirements at a keyboard sitting, and prove a friend sees the flame tip (2026-11-10)",
+        "n": 651,
+        "head": "Two skin instruments are blind or broken",
         "lane": "arcade",
-        "since": "2026-11-22 16:14"
+        "since": "2026-11-22 17:09"
       },
       {
         "n": 1164,
@@ -2748,10 +2748,6 @@
       }
     ],
     "next": [
-      {
-        "n": 651,
-        "head": "Two skin instruments are blind or broken"
-      },
       {
         "n": 658,
         "head": "Four games are live on the domain with no source in the vault, so no check can read them"
@@ -3826,6 +3822,18 @@
         "n": 1327,
         "head": "Skins: Space Marine and Grand Regent",
         "detail": "check the dive's \"not wide enough\" on a fresh lobby sheet before touching either (left by arcade building row 649, 2026-11-22)"
+      },
+      {
+        "n": 1328,
+        "head": "Toy Fury: the Bathroom's soap rim still drops a late-steering new player into the water about once a race (left by arcade2 building row 1164"
+      },
+      {
+        "n": 1329,
+        "head": "Toy Fury: a new player's spin-outs on the moving toys (Bathroom robot s~58, Backyard s~14.5 and ~52.5) read as being stuck (left by arcade2 "
+      },
+      {
+        "n": 1330,
+        "head": "Toy Fury: on the Backyard a holder driver can pin on the inside rail for 1.4 s at s=67.8 (left by arcade2 building row 1164, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3910,7 +3918,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 892,
+    "shippedTotal": 893,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3918,8 +3926,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 31
+      "2026-11-22": 32
     }
   },
-  "changed": "2026-11-22T23:09:14.132Z"
+  "changed": "2026-11-22T23:14:14.252Z"
 }
