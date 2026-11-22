@@ -2723,6 +2723,18 @@
   "stack": {
     "building": [
       {
+        "n": 615,
+        "head": "the shared how-to card waits 90 s for a lesson luck may never hand over",
+        "lane": "arcade",
+        "since": "2026-11-21 18:09"
+      },
+      {
+        "n": 619,
+        "head": "Sky Spike: your bests follow your account, not your browser (left over from rows 564 and 616, 2026-11-10)",
+        "lane": "arcade",
+        "since": "2026-11-21 18:09"
+      },
+      {
         "n": 1116,
         "head": "Slab City: a goal's street sign sits behind the top panel when you stand in its ring, and far signs stack",
         "lane": "arcade2",
@@ -2736,14 +2748,6 @@
       }
     ],
     "next": [
-      {
-        "n": 615,
-        "head": "the shared how-to card waits 90 s for a lesson luck may never hand over"
-      },
-      {
-        "n": 619,
-        "head": "Sky Spike: your bests follow your account, not your browser (left over from rows 564 and 616, 2026-11-10)"
-      },
       {
         "n": 620,
         "head": "Chalkline: the whole game is the last five metres, and that is why the dial is flat (measured building row 454, 2026-11-10)"
@@ -3816,5 +3820,5 @@
       "2026-11-21": 58
     }
   },
-  "changed": "2026-11-22T00:09:15.185Z"
+  "changed": "2026-11-22T00:14:15.432Z"
 }
