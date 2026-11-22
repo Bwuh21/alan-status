@@ -2744,6 +2744,12 @@
         "head": "Undercroft: shield-hit's Warden case fails under machine load, on the committed copy too",
         "lane": "arcade2",
         "since": "2026-11-22 12:30"
+      },
+      {
+        "n": 1145,
+        "head": "Undercroft: dev/gate.mjs never boots: HALF PAGE REFUSED for ../_ui/gfx-guard.js",
+        "lane": "arcade2",
+        "since": "2026-11-22 13:49"
       }
     ],
     "next": [
@@ -3204,10 +3210,6 @@
       {
         "n": 1142,
         "head": "PACK HANGS before --into: the disk-size courtesy walk stats every file in all 973 past bundles"
-      },
-      {
-        "n": 1145,
-        "head": "Undercroft: dev/gate.mjs never boots: HALF PAGE REFUSED for ../_ui/gfx-guard.js"
       },
       {
         "n": 1146,
@@ -3913,5 +3915,5 @@
       "2026-11-22": 18
     }
   },
-  "changed": "2026-11-22T19:49:14.128Z"
+  "changed": "2026-11-22T19:54:46.330Z"
 }
