@@ -2728,12 +2728,6 @@
   "stack": {
     "building": [
       {
-        "n": 639,
-        "head": "four sideways-filled games draw their start on a canvas, so no sweep has ever judged them sideways",
-        "lane": "arcade",
-        "since": "2026-11-22 13:44"
-      },
-      {
         "n": 644,
         "head": "main-look-shot.mjs crashes: the page has no #coins element any more",
         "lane": "arcade",
@@ -2744,6 +2738,12 @@
         "head": "Blend In: the house bot wedges on the counters chasing a player who stands still",
         "lane": "arcade2",
         "since": "2026-11-22 14:24"
+      },
+      {
+        "n": 1148,
+        "head": "Blend In: check.mjs \"the wind-up lands\" and \"from the blind side\" fail about one run in two, on the committed copy too",
+        "lane": "arcade2",
+        "since": "2026-11-22 14:29"
       }
     ],
     "next": [
@@ -3200,10 +3200,6 @@
       {
         "n": 1142,
         "head": "PACK HANGS before --into: the disk-size courtesy walk stats every file in all 973 past bundles"
-      },
-      {
-        "n": 1148,
-        "head": "Blend In: check.mjs \"the wind-up lands\" and \"from the blind side\" fail about one run in two, on the committed copy too"
       },
       {
         "n": 1161,
@@ -3819,6 +3815,10 @@
       {
         "n": 1317,
         "head": "Toy Fury: on a phone held sideways the track picker's BACK button sits under the glass"
+      },
+      {
+        "n": 1318,
+        "head": "Broadside Bay: the two-player duel title has never been looked at on a phone held sideways"
       }
     ],
     "waiting": [
@@ -3906,7 +3906,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 883,
+    "shippedTotal": 884,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3914,8 +3914,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 22
+      "2026-11-22": 23
     }
   },
-  "changed": "2026-11-22T20:29:14.633Z"
+  "changed": "2026-11-22T20:34:14.298Z"
 }
