@@ -2744,6 +2744,12 @@
         "head": "Undercroft: the latch sweep's last 6 EXPOSED checks run the game inside an iframe, so the blind guard cannot reach it",
         "lane": "arcade2",
         "since": "2026-11-22 12:19"
+      },
+      {
+        "n": 1144,
+        "head": "Undercroft: shield-hit's Warden case fails under machine load, on the committed copy too",
+        "lane": "arcade2",
+        "since": "2026-11-22 12:30"
       }
     ],
     "next": [
@@ -3208,10 +3214,6 @@
       {
         "n": 1142,
         "head": "PACK HANGS before --into: the disk-size courtesy walk stats every file in all 973 past bundles"
-      },
-      {
-        "n": 1144,
-        "head": "Undercroft: shield-hit's Warden case fails under machine load, on the committed copy too"
       },
       {
         "n": 1145,
@@ -3914,5 +3916,5 @@
       "2026-11-22": 16
     }
   },
-  "changed": "2026-11-22T18:29:14.044Z"
+  "changed": "2026-11-22T18:34:16.300Z"
 }
