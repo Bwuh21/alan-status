@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:53:00.000Z",
+  "updated": "2026-11-22T04:04:31.778Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -631,7 +631,7 @@
         {
           "text": "Skating feel 1: the turn has weight (lean into a carve, a hard carve costs speed)",
           "status": "done",
-          "note": "Live 2026-11-19. A hard turn at full speed now draws a wider arc, costs you speed, and the rider leans hard into it with bent knees. Slow turns are as tight as before. Still to come, each filed: pushes that feel earned,…"
+          "note": "Live 2026-11-19. A hard turn at full speed now draws a wider arc, costs you speed, and the rider leans hard into it with bent knees. Slow turns are as tight as before. Live since, 2026-11-21: pushes that feel earned, a…"
         },
         {
           "text": "The board floats or sinks on the plaza, the funbox, the kickers and the mega ramp",
@@ -2734,13 +2734,6 @@
         "since": "2026-11-21 20:29"
       },
       {
-        "n": 1122,
-        "head": "Slab City: the OLLIE is a button, not a pop",
-        "detail": "instant, 0.94 m at any speed, no crouch before it (found by row 1058, 2026-11-19) region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-21 20:34"
-      },
-      {
         "n": 1123,
         "head": "Slab City: no POWERSLIDE",
         "detail": "speed can only be turned or left alone (found by row 1058, 2026-11-19) region-skate",
@@ -3758,6 +3751,11 @@
       {
         "n": 1277,
         "head": "the step-spread ruler watches every party game's BODY but none of their CAMERAS"
+      },
+      {
+        "n": 1278,
+        "head": "Slab City: FRIENDS never see the ollie wind-up crouch",
+        "detail": "it is not on the wire (found building row 1122, 2026-11-21) region-skate"
       }
     ],
     "waiting": [
@@ -3793,6 +3791,12 @@
       {
         "n": 1160,
         "head": "Volleyball: dive on its own button, a power bar for hits, and let a jumping player hit in the air",
+        "date": "2026-11-21"
+      },
+      {
+        "n": 1122,
+        "head": "Slab City: the OLLIE is a button, not a pop",
+        "detail": "instant, 0.94 m at any speed, no crouch before it (found by row 1058, 2026-11-19) region-skate",
         "date": "2026-11-21"
       },
       {
@@ -3836,14 +3840,9 @@
         "n": 1112,
         "head": "Slab City: the fuzz check calls the designed rail side-step a teleport",
         "date": "2026-11-21"
-      },
-      {
-        "n": 1111,
-        "head": "Slab City: a stalled board's nose sinks into the east side of the City Hall steps",
-        "date": "2026-11-21"
       }
     ],
-    "shippedTotal": 859,
+    "shippedTotal": 860,
     "shippedOn": {
       "2026-11-15": 3,
       "2026-11-16": 79,
@@ -3851,8 +3850,8 @@
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
-      "2026-11-21": 67
+      "2026-11-21": 68
     }
   },
-  "changed": "2026-11-22T03:59:14.442Z"
+  "changed": "2026-11-22T04:09:15.210Z"
 }
