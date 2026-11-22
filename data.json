@@ -2739,6 +2739,13 @@
         "detail": "speed can only be turned or left alone (found by row 1058, 2026-11-19) region-skate",
         "lane": "arcade2",
         "since": "2026-11-21 21:19"
+      },
+      {
+        "n": 1124,
+        "head": "Slab City: a slam has no hit",
+        "detail": "no frame freeze, no camera knock when you bail (found by row 1058, 2026-11-19) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-21 22:09"
       }
     ],
     "next": [
@@ -3194,11 +3201,6 @@
       {
         "n": 1119,
         "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
-        "n": 1124,
-        "head": "Slab City: a slam has no hit",
-        "detail": "no frame freeze, no camera knock when you bail (found by row 1058, 2026-11-19) region-skate"
       },
       {
         "n": 1125,
@@ -3853,5 +3855,5 @@
       "2026-11-21": 68
     }
   },
-  "changed": "2026-11-22T04:09:15.210Z"
+  "changed": "2026-11-22T04:14:14.096Z"
 }
