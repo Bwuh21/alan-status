@@ -2728,22 +2728,16 @@
   "stack": {
     "building": [
       {
-        "n": 638,
-        "head": "three boxed games cannot be started on a phone held sideways when opened on their own",
-        "lane": "arcade",
-        "since": "2026-11-22 11:24"
-      },
-      {
         "n": 639,
         "head": "four sideways-filled games draw their start on a canvas, so no sweep has ever judged them sideways",
         "lane": "arcade",
         "since": "2026-11-22 13:44"
       },
       {
-        "n": 1145,
-        "head": "Undercroft: dev/gate.mjs never boots: HALF PAGE REFUSED for ../_ui/gfx-guard.js",
+        "n": 1146,
+        "head": "Undercroft: prove one check that keeps stepping more than 3.6 real seconds after a death in one run",
         "lane": "arcade2",
-        "since": "2026-11-22 13:49"
+        "since": "2026-11-22 14:19"
       }
     ],
     "next": [
@@ -3204,10 +3198,6 @@
       {
         "n": 1142,
         "head": "PACK HANGS before --into: the disk-size courtesy walk stats every file in all 973 past bundles"
-      },
-      {
-        "n": 1146,
-        "head": "Undercroft: prove one check that keeps stepping more than 3.6 real seconds after a death in one run"
       },
       {
         "n": 1147,
@@ -3815,6 +3805,22 @@
       {
         "n": 1313,
         "head": "Undercroft: the Gaol Warden's thrust from its full range whiffs a knight who stands still"
+      },
+      {
+        "n": 1314,
+        "head": "game-boot.mjs reads THE SCRIPT NEVER RAN for a game whose title card hands out no timer (Cards Down Deep), so ship-game.sh refuses it every "
+      },
+      {
+        "n": 1315,
+        "head": "Gnome Watch: on a phone held sideways the title's PLAY and PLAY A FRIEND sit under the glass and the wordmark is off the top"
+      },
+      {
+        "n": 1316,
+        "head": "Blend In: the sideways sweep reads CANNOT-START at 844x390"
+      },
+      {
+        "n": 1317,
+        "head": "Toy Fury: on a phone held sideways the track picker's BACK button sits under the glass"
       }
     ],
     "waiting": [
@@ -3845,6 +3851,12 @@
       {
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1145,
+        "head": "already fixed by row 871, 452dd6bd; verified)",
+        "detail": "Undercroft: dev/gate.mjs never boots: HALF PAGE REFUSED for ../_ui/gfx-guard.js",
         "date": "2026-11-22"
       },
       {
@@ -3894,15 +3906,9 @@
         "n": 1130,
         "head": "Barn Burner: the first-visit card says \"shots from in close beat him most\", and at full strength the moving-keeper numbers say the opposite",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1129,
-        "head": "TOY FURY: the bots never do a TRICK on the Grand Tour",
-        "detail": "their brain thinks both jumps give 0.2 s of air when they give ~0.45 s",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 880,
+    "shippedTotal": 882,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3910,8 +3916,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 19
+      "2026-11-22": 21
     }
   },
-  "changed": "2026-11-22T20:19:17.510Z"
+  "changed": "2026-11-22T20:24:14.216Z"
 }
