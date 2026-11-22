@@ -3788,6 +3788,10 @@
       {
         "n": 1294,
         "head": "LiveWire's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
+      },
+      {
+        "n": 1295,
+        "head": "SecondWind's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3888,5 +3892,5 @@
       "2026-11-22": 7
     }
   },
-  "changed": "2026-11-22T11:44:15.514Z"
+  "changed": "2026-11-22T11:49:15.133Z"
 }
