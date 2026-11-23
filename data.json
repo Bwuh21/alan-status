@@ -2784,6 +2784,12 @@
         "head": "Last Call: the picture-stopped canary is red on its own home game, 2 of 19",
         "lane": "arcade2",
         "since": "2026-11-22 21:04"
+      },
+      {
+        "n": 1195,
+        "head": "Topple Pull: two harnesses are still on the narrow-desktop grandfather list",
+        "lane": "arcade2",
+        "since": "2026-11-22 21:44"
       }
     ],
     "next": [
@@ -3214,10 +3220,6 @@
       {
         "n": 1194,
         "head": "Ping pong: your own head can sit over a ball coming down your left side on desk"
-      },
-      {
-        "n": 1195,
-        "head": "Topple Pull: two harnesses are still on the narrow-desktop grandfather list"
       },
       {
         "n": 1196,
@@ -3929,5 +3931,5 @@
       "2026-11-22": 56
     }
   },
-  "changed": "2026-11-23T03:44:15.425Z"
+  "changed": "2026-11-23T03:49:15.369Z"
 }
