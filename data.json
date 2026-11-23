@@ -2745,6 +2745,12 @@
         "detail": "foes that never hit the bench bot",
         "lane": "arcade2",
         "since": "2026-11-22 17:59"
+      },
+      {
+        "n": 1175,
+        "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/",
+        "lane": "arcade2",
+        "since": "2026-11-22 18:29"
       }
     ],
     "next": [
@@ -3178,10 +3184,6 @@
       {
         "n": 1173,
         "head": "Multiplayer: walk-in games and the Undercroft entrance bypass the table lock"
-      },
-      {
-        "n": 1175,
-        "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/"
       },
       {
         "n": 1177,
@@ -3917,5 +3919,5 @@
       "2026-11-22": 39
     }
   },
-  "changed": "2026-11-23T00:24:15.295Z"
+  "changed": "2026-11-23T00:34:16.762Z"
 }
