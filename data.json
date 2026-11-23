@@ -2763,12 +2763,6 @@
   "stack": {
     "building": [
       {
-        "n": 702,
-        "head": "The shared launcher calls a restored-but-dead 3D view healthy: every screenshot harness of every WebGL game can photograph nothing",
-        "lane": "arcade",
-        "since": "2026-11-22 19:04"
-      },
-      {
         "n": 703,
         "head": "Does a real phone ever get the restored-but-dead view? If yes the game should heal itself",
         "lane": "arcade",
@@ -3842,6 +3836,10 @@
       {
         "n": 1339,
         "head": "BroadsideBay deck-check: dies at its first read, the page has no #use button any more (left by row 695, 2026-11-22)"
+      },
+      {
+        "n": 1340,
+        "head": "Server: run row 702's dead-view probe FIVE at once (and more) on the real GPU, the load the laptop's 4-browser cap forbids (left by row 702,"
       }
     ],
     "waiting": [
@@ -3927,7 +3925,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 908,
+    "shippedTotal": 909,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3935,8 +3933,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 47
+      "2026-11-22": 48
     }
   },
-  "changed": "2026-11-23T01:39:14.428Z"
+  "changed": "2026-11-23T01:44:14.069Z"
 }
