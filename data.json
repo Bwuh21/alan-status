@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 1226,
-        "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
-        "lane": "arcade2",
-        "since": "2026-11-23 06:24"
-      },
-      {
         "n": 1228,
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
         "lane": "arcade2",
@@ -3740,6 +3734,10 @@
       {
         "n": 1362,
         "head": "BACK NINE: a wedge chip hit too hard can never lip out, so every chip that reaches the cup drops in (three-morning default taken 2026-11-23)"
+      },
+      {
+        "n": 1363,
+        "head": "LIVE WIRE on the bursty backup line: under load the guest reads 0.15 own pops/s (host 0.05) and one never-touched give a run, and the OLD bu"
       }
     ],
     "waiting": [
@@ -3761,6 +3759,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1226,
+        "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
+        "date": "2026-11-23"
+      },
       {
         "n": 1221,
         "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
@@ -3816,14 +3819,9 @@
         "n": 863,
         "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run",
         "date": "2026-11-23"
-      },
-      {
-        "n": 861,
-        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 953,
+    "shippedTotal": 954,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3831,8 +3829,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 30
+      "2026-11-23": 31
     }
   },
-  "changed": "2026-11-23T13:49:13.939Z"
+  "changed": "2026-11-23T13:54:13.476Z"
 }
