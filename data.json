@@ -2784,6 +2784,12 @@
         "head": "Toy Fury: no check plays the four moves that now live behind \"?\"",
         "lane": "arcade2",
         "since": "2026-11-22 20:49"
+      },
+      {
+        "n": 1190,
+        "head": "Last Call: the picture-stopped canary is red on its own home game, 2 of 19",
+        "lane": "arcade2",
+        "since": "2026-11-22 21:04"
       }
     ],
     "next": [
@@ -3201,10 +3207,6 @@
       {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
-      },
-      {
-        "n": 1190,
-        "head": "Last Call: the picture-stopped canary is red on its own home game, 2 of 19"
       },
       {
         "n": 1191,
@@ -3929,5 +3931,5 @@
       "2026-11-22": 54
     }
   },
-  "changed": "2026-11-23T03:04:14.138Z"
+  "changed": "2026-11-23T03:09:14.271Z"
 }
