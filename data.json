@@ -2783,13 +2783,6 @@
   "stack": {
     "building": [
       {
-        "n": 767,
-        "head": "SKINS: the 20 simple fixes from the September audit",
-        "detail": "RE-AUDIT FIRST",
-        "lane": "arcade",
-        "since": "2026-11-23 01:39"
-      },
-      {
         "n": 768,
         "head": "CONVOY and TOLL BRIDGE come off the site",
         "detail": "he is removing both",
@@ -3835,6 +3828,12 @@
         "date": "2026-11-23"
       },
       {
+        "n": 767,
+        "head": "Hornet's near-black legs; skins-2026-11-23-hornet-legs.sql HELD FOR ALAN'S REVIEWED PASS, registered in MIGRATIONS.md; report builds/2026-11",
+        "detail": "SKINS: the 20 simple fixes from the September audit -- RE-AUDIT FIRST",
+        "date": "2026-11-23"
+      },
+      {
         "n": 765,
         "head": "GUEST WITH NO TICKETS: say the rule in one line",
         "date": "2026-11-23"
@@ -3884,15 +3883,9 @@
         "n": 1188,
         "head": "Toy Fury: loop-check's desk leg fails differently each run",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1187,
-        "head": "Toy Fury: the first race still shows a full dashboard",
-        "detail": "hide what a newcomer cannot use yet",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 927,
+    "shippedTotal": 928,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3900,8 +3893,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 4
+      "2026-11-23": 5
     }
   },
-  "changed": "2026-11-23T08:19:15.878Z"
+  "changed": "2026-11-23T08:39:14.587Z"
 }
