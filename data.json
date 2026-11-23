@@ -2804,6 +2804,12 @@
         "since": "2026-11-23 05:34"
       },
       {
+        "n": 853,
+        "head": "Housekeeping: run the stranded-file sweep on a schedule, and teach the full audit its noise (row 388, 2026-11-16)",
+        "lane": "arcade",
+        "since": "2026-11-23 05:49"
+      },
+      {
         "n": 1219,
         "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
         "lane": "arcade2",
@@ -2817,10 +2823,6 @@
       }
     ],
     "next": [
-      {
-        "n": 853,
-        "head": "Housekeeping: run the stranded-file sweep on a schedule, and teach the full audit its noise (row 388, 2026-11-16)"
-      },
       {
         "n": 854,
         "head": "Memory index is at 20.2 KB of its ~24.4 KB read limit: split the next section (2026-11-16)"
@@ -3864,5 +3866,5 @@
       "2026-11-23": 22
     }
   },
-  "changed": "2026-11-23T11:49:17.650Z"
+  "changed": "2026-11-23T11:54:15.633Z"
 }
