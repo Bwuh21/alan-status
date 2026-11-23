@@ -2808,12 +2808,6 @@
   "stack": {
     "building": [
       {
-        "n": 897,
-        "head": "Deep Line: a full string's lowest fish hang under HAUL UP, and a shark's warning ring there cannot be seen",
-        "lane": "arcade",
-        "since": "2026-11-23 13:34"
-      },
-      {
         "n": 898,
         "head": "the three games row 416's sweep did not finish: Undercroft, its preview, and Dark Room",
         "lane": "arcade",
@@ -3722,6 +3716,14 @@
       {
         "n": 1375,
         "head": "coinp-check phone: \"ten coins down the middle win some back\" reads dropped 11 under load"
+      },
+      {
+        "n": 1376,
+        "head": "the shared teach card covers the middle of the screen on a sideways phone: in Deep Line it sits on the string"
+      },
+      {
+        "n": 1377,
+        "head": "Deep Line's own Check.mjs, run with no URL, serves only its own folder, so the shared /_ui and /_teach 404 and it reads HALF PAGE REFUSED"
       }
     ],
     "waiting": [
@@ -3807,7 +3809,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 971,
+    "shippedTotal": 972,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3815,8 +3817,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 48
+      "2026-11-23": 49
     }
   },
-  "changed": "2026-11-23T20:19:16.237Z"
+  "changed": "2026-11-23T20:29:14.170Z"
 }
