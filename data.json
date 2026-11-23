@@ -2839,12 +2839,6 @@
         "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed",
         "lane": "arcade2",
         "since": "2026-11-23 16:24"
-      },
-      {
-        "n": 1248,
-        "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too",
-        "lane": "arcade2",
-        "since": "2026-11-23 16:24"
       }
     ],
     "next": [
@@ -3196,6 +3190,10 @@
       {
         "n": 1247,
         "head": "AURA: the green skeleton's Divine is still the smallest step up from its Legendary of the four tiered skins"
+      },
+      {
+        "n": 1248,
+        "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too"
       },
       {
         "n": 1249,
@@ -3842,5 +3840,5 @@
       "2026-11-23": 56
     }
   },
-  "changed": "2026-11-23T22:29:13.993Z"
+  "changed": "2026-11-23T22:44:16.564Z"
 }
