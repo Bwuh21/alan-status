@@ -2774,6 +2774,12 @@
         "since": "2026-11-22 19:49"
       },
       {
+        "n": 744,
+        "head": "ARCADE MENU: with friends, Leave still says \"You drop out of the round your friends are playing\" after the bell",
+        "lane": "arcade",
+        "since": "2026-11-22 20:19"
+      },
+      {
         "n": 1187,
         "head": "Toy Fury: the first race still shows a full dashboard",
         "detail": "hide what a newcomer cannot use yet",
@@ -2788,10 +2794,6 @@
       }
     ],
     "next": [
-      {
-        "n": 744,
-        "head": "ARCADE MENU: with friends, Leave still says \"You drop out of the round your friends are playing\" after the bell"
-      },
       {
         "n": 746,
         "head": "SKINS: roll the per-skin aura shape out to every tiered skin (out of row 699)",
@@ -3942,5 +3944,5 @@
       "2026-11-22": 50
     }
   },
-  "changed": "2026-11-23T02:19:14.497Z"
+  "changed": "2026-11-23T02:24:16.551Z"
 }
