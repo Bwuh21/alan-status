@@ -2774,6 +2774,13 @@
         "since": "2026-11-22 21:29"
       },
       {
+        "n": 754,
+        "head": "SKINS: a top-tier aura paints no more of a pale skin than an Uncommon does",
+        "detail": "make the top fire BIGGER on pale skins",
+        "lane": "arcade",
+        "since": "2026-11-22 22:09"
+      },
+      {
         "n": 1196,
         "head": "Topple Pull: Ruby thinks past her 900 ms budget",
         "lane": "arcade2",
@@ -2787,11 +2794,6 @@
       }
     ],
     "next": [
-      {
-        "n": 754,
-        "head": "SKINS: a top-tier aura paints no more of a pale skin than an Uncommon does",
-        "detail": "make the top fire BIGGER on pale skins"
-      },
       {
         "n": 755,
         "head": "BOWLING: paint the lane sheen into the wood so it can never flicker again"
@@ -3917,5 +3919,5 @@
       "2026-11-22": 59
     }
   },
-  "changed": "2026-11-23T04:09:13.250Z"
+  "changed": "2026-11-23T04:14:13.647Z"
 }
