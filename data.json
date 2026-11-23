@@ -2783,12 +2783,6 @@
   "stack": {
     "building": [
       {
-        "n": 798,
-        "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them",
-        "lane": "arcade",
-        "since": "2026-11-23 03:14"
-      },
-      {
         "n": 1200,
         "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall",
         "lane": "arcade2",
@@ -2803,6 +2797,10 @@
       }
     ],
     "next": [
+      {
+        "n": 798,
+        "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them"
+      },
       {
         "n": 800,
         "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\""
@@ -3891,5 +3889,5 @@
       "2026-11-23": 9
     }
   },
-  "changed": "2026-11-23T09:24:16.699Z"
+  "changed": "2026-11-23T09:29:13.866Z"
 }
