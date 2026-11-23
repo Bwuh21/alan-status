@@ -2769,10 +2769,10 @@
         "since": "2026-11-22 19:24"
       },
       {
-        "n": 1186,
-        "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)",
-        "lane": "arcade2",
-        "since": "2026-11-22 19:19"
+        "n": 737,
+        "head": "ARCADE: the \"Playing as a guest\" pop-up lands on a game's score on a phone (seen in row 714, Haunt)",
+        "lane": "arcade",
+        "since": "2026-11-22 19:49"
       },
       {
         "n": 1187,
@@ -2783,10 +2783,6 @@
       }
     ],
     "next": [
-      {
-        "n": 737,
-        "head": "ARCADE: the \"Playing as a guest\" pop-up lands on a game's score on a phone (seen in row 714, Haunt)"
-      },
       {
         "n": 744,
         "head": "ARCADE MENU: with friends, Leave still says \"You drop out of the round your friends are playing\" after the bell"
@@ -3840,6 +3836,11 @@
       {
         "n": 1340,
         "head": "Server: run row 702's dead-view probe FIVE at once (and more) on the real GPU, the load the laptop's 4-browser cap forbids (left by row 702,"
+      },
+      {
+        "n": 1341,
+        "head": "Broadside Bay: from a frigate up, one perfect broadside still sinks a sloop",
+        "detail": "the \"one shot the farther along you get\" complaint, measured"
       }
     ],
     "waiting": [
@@ -3870,6 +3871,11 @@
       {
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1186,
+        "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)",
         "date": "2026-11-22"
       },
       {
@@ -3918,14 +3924,9 @@
         "n": 1148,
         "head": "Blend In: check.mjs \"the wind-up lands\" and \"from the blind side\" fail about one run in two, on the committed copy too",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1147,
-        "head": "Blend In: the house bot wedges on the counters chasing a player who stands still",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 909,
+    "shippedTotal": 910,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3933,8 +3934,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 48
+      "2026-11-22": 49
     }
   },
-  "changed": "2026-11-23T01:44:14.069Z"
+  "changed": "2026-11-23T01:54:15.221Z"
 }
