@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 881,
-        "head": "The task watcher finds the home page server down in 10 minutes but nothing restarts it any sooner",
-        "lane": "arcade",
-        "since": "2026-11-23 11:34"
-      },
-      {
         "n": 884,
         "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing",
         "lane": "arcade",
@@ -3174,10 +3168,6 @@
       {
         "n": 1227,
         "head": "BAR BOWLING's old checks are blind: item192 walks to a shoe counter the bar no longer has, and toast-fit counts toasts against a stale numbe"
-      },
-      {
-        "n": 1230,
-        "head": "HANGTIME on the bursty backup line: 3 of 16 blocks and 4 of 28 steals are still lost past the 0.4 s rewind cap"
       },
       {
         "n": 1231,
@@ -3736,6 +3726,10 @@
       {
         "n": 1370,
         "head": "HANGTIME: a guest who dunks over ANOTHER guest may see his own slam snap back to the rim while the host holds it"
+      },
+      {
+        "n": 1371,
+        "head": "Four more servers the task watcher reads (game host, signal relay, usage meter, Ollama) still have no repair"
       }
     ],
     "waiting": [
@@ -3820,7 +3814,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 962,
+    "shippedTotal": 963,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3828,8 +3822,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 39
+      "2026-11-23": 40
     }
   },
-  "changed": "2026-11-23T17:39:14.241Z"
+  "changed": "2026-11-23T17:49:14.144Z"
 }
