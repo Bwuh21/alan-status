@@ -2783,10 +2783,16 @@
   "stack": {
     "building": [
       {
-        "n": 1200,
-        "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall",
-        "lane": "arcade2",
-        "since": "2026-11-23 02:49"
+        "n": 798,
+        "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them",
+        "lane": "arcade",
+        "since": "2026-11-23 03:30"
+      },
+      {
+        "n": 800,
+        "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\"",
+        "lane": "arcade",
+        "since": "2026-11-23 03:29"
       },
       {
         "n": 1203,
@@ -2797,14 +2803,6 @@
       }
     ],
     "next": [
-      {
-        "n": 798,
-        "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them"
-      },
-      {
-        "n": 800,
-        "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\""
-      },
       {
         "n": 812,
         "head": "MINE, at a sitting",
@@ -3792,6 +3790,10 @@
       {
         "n": 1354,
         "head": "Topple Pull: on a phone a pulled bottom-floor block slides under the \"drag down to pull it out\" hint"
+      },
+      {
+        "n": 1355,
+        "head": "Undercroft: the ride's wizard can stand inside the fog gate for 41 frames when the boss fog seals, on the ember contract"
       }
     ],
     "waiting": [
@@ -3813,6 +3815,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1200,
+        "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall",
+        "date": "2026-11-23"
+      },
       {
         "n": 1198,
         "head": "Topple Pull: on a phone the read panel covers the tower's lower floors and the sky above is empty",
@@ -3871,14 +3878,9 @@
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1196,
-        "head": "Topple Pull: Ruby thinks past her 900 ms budget",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 932,
+    "shippedTotal": 933,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3886,8 +3888,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 9
+      "2026-11-23": 10
     }
   },
-  "changed": "2026-11-23T09:29:13.866Z"
+  "changed": "2026-11-23T09:34:15.281Z"
 }
