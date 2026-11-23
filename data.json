@@ -2790,11 +2790,11 @@
         "since": "2026-11-23 03:44"
       },
       {
-        "n": 1203,
-        "head": "SKY SPIKE dive: the whole figure jumps 20-48 px on screen near the dig in 9 of 145 dives",
-        "detail": "measure the camera, then decide",
-        "lane": "arcade2",
-        "since": "2026-11-23 03:09"
+        "n": 813,
+        "head": "MINE",
+        "detail": "the KC weekend watch was promised to his phone and had no reader",
+        "lane": "arcade",
+        "since": "2026-11-23 03:49"
       },
       {
         "n": 1210,
@@ -2804,11 +2804,6 @@
       }
     ],
     "next": [
-      {
-        "n": 813,
-        "head": "MINE",
-        "detail": "the KC weekend watch was promised to his phone and had no reader"
-      },
       {
         "n": 815,
         "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check"
@@ -3786,6 +3781,10 @@
       {
         "n": 1355,
         "head": "Undercroft: the ride's wizard can stand inside the fog gate for 41 frames when the boss fog seals, on the ember contract"
+      },
+      {
+        "n": 1356,
+        "head": "Sky Spike: the figure's height snaps 7-8 px in one frame as a dive leaves its reach pose, 19 of 159 dives"
       }
     ],
     "waiting": [
@@ -3807,6 +3806,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1203,
+        "head": "SKY SPIKE dive: the whole figure jumps 20-48 px on screen near the dig in 9 of 145 dives",
+        "detail": "measure the camera, then decide",
+        "date": "2026-11-23"
+      },
       {
         "n": 1200,
         "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall",
@@ -3864,15 +3869,9 @@
         "n": 759,
         "head": "EVERY PORTAL: run through it OR press E, either one, from BOTH sides",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1282,
-        "head": "Toy Fury: a bigger race, not a house full of rooms",
-        "detail": "open-road tracks, a map",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 934,
+    "shippedTotal": 935,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3880,8 +3879,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 11
+      "2026-11-23": 12
     }
   },
-  "changed": "2026-11-23T09:49:13.969Z"
+  "changed": "2026-11-23T09:54:13.816Z"
 }
