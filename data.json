@@ -2768,12 +2768,6 @@
   "stack": {
     "building": [
       {
-        "n": 737,
-        "head": "ARCADE: the \"Playing as a guest\" pop-up lands on a game's score on a phone (seen in row 714, Haunt)",
-        "lane": "arcade",
-        "since": "2026-11-22 19:49"
-      },
-      {
         "n": 744,
         "head": "ARCADE MENU: with friends, Leave still says \"You drop out of the round your friends are playing\" after the bell",
         "lane": "arcade",
@@ -3933,7 +3927,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 911,
+    "shippedTotal": 912,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3941,8 +3935,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 50
+      "2026-11-22": 51
     }
   },
-  "changed": "2026-11-23T02:24:16.551Z"
+  "changed": "2026-11-23T02:39:14.358Z"
 }
