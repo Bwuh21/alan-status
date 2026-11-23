@@ -2783,13 +2783,6 @@
   "stack": {
     "building": [
       {
-        "n": 792,
-        "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
-        "detail": "raise them clear of the sign",
-        "lane": "arcade",
-        "since": "2026-11-23 01:09"
-      },
-      {
         "n": 765,
         "head": "GUEST WITH NO TICKETS: say the rule in one line",
         "lane": "arcade",
@@ -3838,6 +3831,12 @@
     ],
     "shipped": [
       {
+        "n": 792,
+        "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
+        "detail": "raise them clear of the sign",
+        "date": "2026-11-23"
+      },
+      {
         "n": 760,
         "head": "retire the standalone UndercroftPreview link he sent his brother on 2026-10-01",
         "date": "2026-11-23"
@@ -3893,15 +3892,9 @@
         "n": 1186,
         "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1182,
-        "head": "Volleyball: the dive, the tip and the block are now only behind \"?\"",
-        "detail": "nudge each one once, when the ball asks for it",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 925,
+    "shippedTotal": 926,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3909,8 +3902,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 2
+      "2026-11-23": 3
     }
   },
-  "changed": "2026-11-23T07:29:14.517Z"
+  "changed": "2026-11-23T07:39:13.669Z"
 }
