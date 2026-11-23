@@ -2781,12 +2781,6 @@
         "since": "2026-11-22 22:09"
       },
       {
-        "n": 1196,
-        "head": "Topple Pull: Ruby thinks past her 900 ms budget",
-        "lane": "arcade2",
-        "since": "2026-11-22 21:54"
-      },
-      {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "lane": "arcade2",
@@ -3859,6 +3853,11 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1196,
+        "head": "Topple Pull: Ruby thinks past her 900 ms budget",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1195,
         "head": "Topple Pull: two harnesses are still on the narrow-desktop grandfather list",
         "date": "2026-11-22"
@@ -3904,15 +3903,9 @@
         "n": 1175,
         "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1170,
-        "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
-        "detail": "foes that never hit the bench bot",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 920,
+    "shippedTotal": 921,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3920,8 +3913,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 59
+      "2026-11-22": 60
     }
   },
-  "changed": "2026-11-23T04:24:13.725Z"
+  "changed": "2026-11-23T04:29:13.440Z"
 }
