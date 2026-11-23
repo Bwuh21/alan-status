@@ -2764,6 +2764,13 @@
         "head": "Skin Kick: the old lesson check reads the first lesson, which is now three prompts",
         "lane": "arcade2",
         "since": "2026-11-22 18:59"
+      },
+      {
+        "n": 1182,
+        "head": "Volleyball: the dive, the tip and the block are now only behind \"?\"",
+        "detail": "nudge each one once, when the ball asks for it",
+        "lane": "arcade2",
+        "since": "2026-11-22 19:09"
       }
     ],
     "next": [
@@ -3198,11 +3205,6 @@
       {
         "n": 1179,
         "head": "Multiplayer: move the backup relay off the work laptop onto the rented server"
-      },
-      {
-        "n": 1182,
-        "head": "Volleyball: the dive, the tip and the block are now only behind \"?\"",
-        "detail": "nudge each one once, when the ball asks for it"
       },
       {
         "n": 1183,
@@ -3934,5 +3936,5 @@
       "2026-11-22": 44
     }
   },
-  "changed": "2026-11-23T01:09:13.944Z"
+  "changed": "2026-11-23T01:14:14.027Z"
 }
