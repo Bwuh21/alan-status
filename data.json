@@ -2768,12 +2768,6 @@
   "stack": {
     "building": [
       {
-        "n": 744,
-        "head": "ARCADE MENU: with friends, Leave still says \"You drop out of the round your friends are playing\" after the bell",
-        "lane": "arcade",
-        "since": "2026-11-22 20:19"
-      },
-      {
         "n": 746,
         "head": "SKINS: roll the per-skin aura shape out to every tiered skin (out of row 699)",
         "detail": "WAITS ON his verdict on the 699 sample",
@@ -3927,7 +3921,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 913,
+    "shippedTotal": 914,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3935,8 +3929,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 52
+      "2026-11-22": 53
     }
   },
-  "changed": "2026-11-23T02:44:14.227Z"
+  "changed": "2026-11-23T02:49:14.076Z"
 }
