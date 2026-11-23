@@ -2784,6 +2784,12 @@
         "since": "2026-11-22 23:14"
       },
       {
+        "n": 760,
+        "head": "retire the standalone UndercroftPreview link he sent his brother on 2026-10-01",
+        "lane": "arcade",
+        "since": "2026-11-22 23:54"
+      },
+      {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "lane": "arcade2",
@@ -2797,10 +2803,6 @@
       }
     ],
     "next": [
-      {
-        "n": 760,
-        "head": "retire the standalone UndercroftPreview link he sent his brother on 2026-10-01"
-      },
       {
         "n": 792,
         "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
@@ -3913,5 +3915,5 @@
       "2026-11-22": 62
     }
   },
-  "changed": "2026-11-23T05:54:13.456Z"
+  "changed": "2026-11-23T05:59:13.399Z"
 }
