@@ -2816,16 +2816,34 @@
     }
   ],
   "stack": {
-    "building": [],
-    "next": [
+    "building": [
       {
         "n": 903,
-        "head": "the toy house: 24 drawn pieces above the lens's aim height that no camera shape contains"
+        "head": "the toy house: 24 drawn pieces above the lens's aim height that no camera shape contains",
+        "lane": "arcade",
+        "since": "2026-11-23 15:04"
       },
       {
         "n": 904,
-        "head": "the hall: two flat panels the camera cannot feel, and the lobby the sweep cannot read"
+        "head": "the hall: two flat panels the camera cannot feel, and the lobby the sweep cannot read",
+        "lane": "arcade",
+        "since": "2026-11-23 15:04"
       },
+      {
+        "n": 1243,
+        "head": "TOY FURY: the price ladder is flat again",
+        "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
+        "lane": "arcade2",
+        "since": "2026-11-23 15:04"
+      },
+      {
+        "n": 1246,
+        "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed",
+        "lane": "arcade2",
+        "since": "2026-11-23 15:04"
+      }
+    ],
+    "next": [
       {
         "n": 905,
         "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
@@ -3176,21 +3194,12 @@
         "head": "the shared graphics guard holds a party host's frames, which may freeze the guest: test with two browsers and carve parties out if it does"
       },
       {
-        "n": 1243,
-        "head": "TOY FURY: the price ladder is flat again",
-        "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families"
-      },
-      {
         "n": 1244,
         "head": "BOWLING: the pin rake's two end caps put teal and cream in one plane, because the blade and its rubber lip are both exactly lane-wide"
       },
       {
         "n": 1245,
         "head": "Undercroft and Toy Fury: clip-check-uc.mjs geo still prints a pair count and nothing about what it left unread"
-      },
-      {
-        "n": 1246,
-        "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed"
       },
       {
         "n": 1247,
@@ -3819,5 +3828,5 @@
       "2026-11-23": 52
     }
   },
-  "changed": "2026-11-23T21:04:13.806Z"
+  "changed": "2026-11-23T21:09:17.016Z"
 }
