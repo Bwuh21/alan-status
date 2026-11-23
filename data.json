@@ -2838,6 +2838,12 @@
         "head": "the private drivers quote a dead page's error without its line number",
         "lane": "arcade",
         "since": "2026-11-23 16:24"
+      },
+      {
+        "n": 1249,
+        "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a ",
+        "lane": "arcade2",
+        "since": "2026-11-23 16:54"
       }
     ],
     "next": [
@@ -3193,10 +3199,6 @@
       {
         "n": 1248,
         "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too"
-      },
-      {
-        "n": 1249,
-        "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a "
       },
       {
         "n": 1250,
@@ -3844,5 +3846,5 @@
       "2026-11-23": 57
     }
   },
-  "changed": "2026-11-23T22:54:13.967Z"
+  "changed": "2026-11-23T22:59:15.404Z"
 }
