@@ -2768,24 +2768,25 @@
   "stack": {
     "building": [
       {
-        "n": 746,
-        "head": "SKINS: roll the per-skin aura shape out to every tiered skin (out of row 699)",
-        "detail": "WAITS ON his verdict on the 699 sample",
+        "n": 747,
+        "head": "SKINS: Stormcaller's storm reads orange and thin when he stands still",
         "lane": "arcade",
-        "since": "2026-11-22 20:39"
+        "since": "2026-11-22 20:49"
       },
       {
         "n": 1188,
         "head": "Toy Fury: loop-check's desk leg fails differently each run",
         "lane": "arcade2",
         "since": "2026-11-22 19:59"
+      },
+      {
+        "n": 1189,
+        "head": "Toy Fury: no check plays the four moves that now live behind \"?\"",
+        "lane": "arcade2",
+        "since": "2026-11-22 20:49"
       }
     ],
     "next": [
-      {
-        "n": 747,
-        "head": "SKINS: Stormcaller's storm reads orange and thin when he stands still"
-      },
       {
         "n": 748,
         "head": "HALL: the painted prize board still names the old fixed four shelf skins and their prices"
@@ -3204,10 +3205,6 @@
       {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
-      },
-      {
-        "n": 1189,
-        "head": "Toy Fury: no check plays the four moves that now live behind \"?\""
       },
       {
         "n": 1190,
@@ -3932,5 +3929,5 @@
       "2026-11-22": 53
     }
   },
-  "changed": "2026-11-23T02:49:14.076Z"
+  "changed": "2026-11-23T02:54:15.809Z"
 }
