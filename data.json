@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T07:35:00.000Z",
+  "updated": "2026-11-23T09:30:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2076,7 +2076,7 @@
         {
           "text": "Then the remaining 85 sheets, worst-looking first, and write each verdict into the model ledger",
           "status": "todo",
-          "note": "2026-10-28: 24 OF THESE WERE READ TODAY by item 181 (every Divine and Legendary), re-rendered from the CURRENT build first, which is exactly the re-scope this row asked for below. See the row under this one. || Judged…"
+          "note": "2026-11-23 (row 793): THE 25 ARE READY TO SCORE -- five phone sheets, each skin's last render (30 Oct) on the left and the shop today on the right, from behind at lobby distance:…"
         },
         {
           "text": "The top two shelves re-cut on merit -- 14 Divine and 13 Legendary was too many of each",
@@ -2782,13 +2782,6 @@
   ],
   "stack": {
     "building": [
-      {
-        "n": 793,
-        "head": "SKINS: re-render the 25 skins the October eye-pass never got to",
-        "detail": "MACHINE WORK, NO EYES NEEDED",
-        "lane": "arcade",
-        "since": "2026-11-23 03:14"
-      },
       {
         "n": 798,
         "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them",
@@ -3833,6 +3826,12 @@
         "date": "2026-11-23"
       },
       {
+        "n": 793,
+        "head": "SKINS: re-render the 25 skins the October eye-pass never got to",
+        "detail": "MACHINE WORK, NO EYES NEEDED",
+        "date": "2026-11-23"
+      },
+      {
         "n": 792,
         "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
         "detail": "raise them clear of the sign",
@@ -3879,14 +3878,9 @@
         "n": 1196,
         "head": "Topple Pull: Ruby thinks past her 900 ms budget",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1195,
-        "head": "Topple Pull: two harnesses are still on the narrow-desktop grandfather list",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 931,
+    "shippedTotal": 932,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3894,8 +3888,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 8
+      "2026-11-23": 9
     }
   },
-  "changed": "2026-11-23T09:19:14.884Z"
+  "changed": "2026-11-23T09:24:16.699Z"
 }
