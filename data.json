@@ -2818,7 +2818,14 @@
         "n": 1239,
         "head": "Dodgeball says '3d' over a dead picture: its self-report should answer 'lost' when the shared guard says the view is dead",
         "lane": "arcade2",
-        "since": "2026-11-23 11:54"
+        "since": "2026-11-23 13:39"
+      },
+      {
+        "n": 1241,
+        "head": "TOY FURY: a clean lap never puts a panel back",
+        "detail": "wear-check seed 33 ends on 1 panel with zero mends",
+        "lane": "arcade2",
+        "since": "2026-11-23 13:39"
       }
     ],
     "next": [
@@ -3186,11 +3193,6 @@
       {
         "n": 1240,
         "head": "the shared graphics guard holds a party host's frames, which may freeze the guest: test with two browsers and carve parties out if it does"
-      },
-      {
-        "n": 1241,
-        "head": "TOY FURY: a clean lap never puts a panel back",
-        "detail": "wear-check seed 33 ends on 1 panel with zero mends"
       },
       {
         "n": 1242,
@@ -3824,5 +3826,5 @@
       "2026-11-23": 45
     }
   },
-  "changed": "2026-11-23T19:39:14.666Z"
+  "changed": "2026-11-23T19:44:49.147Z"
 }
