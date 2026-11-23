@@ -2784,6 +2784,12 @@
         "head": "Topple Pull: two harnesses are still on the narrow-desktop grandfather list",
         "lane": "arcade2",
         "since": "2026-11-22 21:44"
+      },
+      {
+        "n": 1196,
+        "head": "Topple Pull: Ruby thinks past her 900 ms budget",
+        "lane": "arcade2",
+        "since": "2026-11-22 21:54"
       }
     ],
     "next": [
@@ -3214,10 +3220,6 @@
       {
         "n": 1194,
         "head": "Ping pong: your own head can sit over a ball coming down your left side on desk"
-      },
-      {
-        "n": 1196,
-        "head": "Topple Pull: Ruby thinks past her 900 ms budget"
       },
       {
         "n": 1197,
@@ -3925,5 +3927,5 @@
       "2026-11-22": 57
     }
   },
-  "changed": "2026-11-23T03:54:13.308Z"
+  "changed": "2026-11-23T03:59:14.094Z"
 }
