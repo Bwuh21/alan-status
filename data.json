@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 878,
-        "head": "Teach probes: 23 of them accept the step TICK as the card finishing",
-        "lane": "arcade",
-        "since": "2026-11-23 08:34"
-      },
-      {
         "n": 1228,
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
         "lane": "arcade2",
@@ -2818,8 +2812,8 @@
     ],
     "next": [
       {
-        "n": 870,
-        "head": "Cabinet studio shooter: tall machines lose their tops on a desk frame, and the pass bar sits 1 point under the thinnest real view"
+        "n": 878,
+        "head": "Teach probes: 23 of them accept the step TICK as the card finishing"
       },
       {
         "n": 879,
@@ -3820,12 +3814,12 @@
         "date": "2026-11-23"
       },
       {
-        "n": 869,
-        "head": "Pod cabinet: the shell is shaded in mismatched square patches from behind",
+        "n": 870,
+        "head": "Cabinet studio shooter: tall machines lose their tops on a desk frame, and the pass bar sits 1 point under the thinnest real view",
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 956,
+    "shippedTotal": 957,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3833,8 +3827,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 33
+      "2026-11-23": 34
     }
   },
-  "changed": "2026-11-23T14:39:14.351Z"
+  "changed": "2026-11-23T15:09:16.815Z"
 }
