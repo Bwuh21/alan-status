@@ -2754,10 +2754,10 @@
         "since": "2026-11-22 18:50"
       },
       {
-        "n": 1175,
-        "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/",
-        "lane": "arcade2",
-        "since": "2026-11-22 18:29"
+        "n": 702,
+        "head": "The shared launcher calls a restored-but-dead 3D view healthy: every screenshot harness of every WebGL game can photograph nothing",
+        "lane": "arcade",
+        "since": "2026-11-22 19:04"
       },
       {
         "n": 1181,
@@ -2767,10 +2767,6 @@
       }
     ],
     "next": [
-      {
-        "n": 702,
-        "head": "The shared launcher calls a restored-but-dead 3D view healthy: every screenshot harness of every WebGL game can photograph nothing"
-      },
       {
         "n": 703,
         "head": "Does a real phone ever get the restored-but-dead view? If yes the game should heal itself"
@@ -3875,6 +3871,11 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1175,
+        "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1170,
         "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
         "detail": "foes that never hit the bench bot",
@@ -3920,14 +3921,9 @@
         "head": "already fixed by row 871, 452dd6bd; verified)",
         "detail": "Undercroft: dev/gate.mjs never boots: HALF PAGE REFUSED for ../_ui/gfx-guard.js",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1144,
-        "head": "Undercroft: shield-hit's Warden case fails under machine load, on the committed copy too",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 904,
+    "shippedTotal": 905,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3935,8 +3931,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 43
+      "2026-11-22": 44
     }
   },
-  "changed": "2026-11-23T01:04:13.922Z"
+  "changed": "2026-11-23T01:09:13.944Z"
 }
