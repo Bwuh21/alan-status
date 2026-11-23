@@ -2801,6 +2801,12 @@
         "head": "Sky Spike: a friend's held spike charges with no prediction, and the kill card covers the point banner",
         "lane": "arcade2",
         "since": "2026-11-23 03:34"
+      },
+      {
+        "n": 1211,
+        "head": "Sky Spike: the sideways-phone title card shows no controls line",
+        "lane": "arcade2",
+        "since": "2026-11-23 03:54"
       }
     ],
     "next": [
@@ -3200,10 +3206,6 @@
       {
         "n": 1209,
         "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame"
-      },
-      {
-        "n": 1211,
-        "head": "Sky Spike: the sideways-phone title card shows no controls line"
       },
       {
         "n": 1212,
@@ -3882,5 +3884,5 @@
       "2026-11-23": 12
     }
   },
-  "changed": "2026-11-23T09:54:13.816Z"
+  "changed": "2026-11-23T09:59:13.845Z"
 }
