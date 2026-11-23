@@ -2835,12 +2835,6 @@
         "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
         "lane": "arcade2",
         "since": "2026-11-23 15:04"
-      },
-      {
-        "n": 1246,
-        "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed",
-        "lane": "arcade2",
-        "since": "2026-11-23 15:04"
       }
     ],
     "next": [
@@ -3196,6 +3190,10 @@
       {
         "n": 1245,
         "head": "Undercroft and Toy Fury: clip-check-uc.mjs geo still prints a pair count and nothing about what it left unread"
+      },
+      {
+        "n": 1246,
+        "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed"
       },
       {
         "n": 1247,
@@ -3828,5 +3826,5 @@
       "2026-11-23": 53
     }
   },
-  "changed": "2026-11-23T21:44:14.295Z"
+  "changed": "2026-11-23T21:59:14.726Z"
 }
