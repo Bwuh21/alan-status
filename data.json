@@ -2793,16 +2793,22 @@
   "stack": {
     "building": [
       {
-        "n": 823,
-        "head": "the z-fight pair test calls boards that only TOUCH an overlap",
-        "lane": "arcade",
-        "since": "2026-11-23 04:44"
-      },
-      {
         "n": 824,
         "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair",
         "lane": "arcade",
         "since": "2026-11-23 04:49"
+      },
+      {
+        "n": 1214,
+        "head": "BACK NINE: on a phone held sideways (844x390) the \"Hole 1\" title sits on top of the hole's tip line",
+        "lane": "arcade2",
+        "since": "2026-11-23 04:54"
+      },
+      {
+        "n": 1218,
+        "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
+        "lane": "arcade2",
+        "since": "2026-11-23 04:54"
       }
     ],
     "next": [
@@ -3192,10 +3198,6 @@
         "head": "BAR POOL: does the red-pocket warning actually cut a stranger's scratches? Replay the stranger hand"
       },
       {
-        "n": 1214,
-        "head": "BACK NINE: on a phone held sideways (844x390) the \"Hole 1\" title sits on top of the hole's tip line"
-      },
-      {
         "n": 1215,
         "head": "BAR AIR HOCKEY: a puck resting in the house's own corner is a dead table",
         "detail": "the house parks against it forever"
@@ -3208,10 +3210,6 @@
       {
         "n": 1217,
         "head": "BAR AIR HOCKEY with a friend: on a weak phone the far end hears some goals 300+ ms late, and no phone has played the far end"
-      },
-      {
-        "n": 1218,
-        "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1"
       },
       {
         "n": 1219,
@@ -3820,6 +3818,11 @@
         "date": "2026-11-23"
       },
       {
+        "n": 823,
+        "head": "the z-fight pair test calls boards that only TOUCH an overlap",
+        "date": "2026-11-23"
+      },
+      {
         "n": 815,
         "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check",
         "date": "2026-11-23"
@@ -3846,15 +3849,9 @@
         "head": "SKINS: re-render the 25 skins the October eye-pass never got to",
         "detail": "MACHINE WORK, NO EYES NEEDED",
         "date": "2026-11-23"
-      },
-      {
-        "n": 792,
-        "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
-        "detail": "raise them clear of the sign",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 940,
+    "shippedTotal": 941,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3862,8 +3859,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 17
+      "2026-11-23": 18
     }
   },
-  "changed": "2026-11-23T10:54:14.698Z"
+  "changed": "2026-11-23T10:59:14.412Z"
 }
