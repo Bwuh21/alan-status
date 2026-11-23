@@ -2783,10 +2783,11 @@
   "stack": {
     "building": [
       {
-        "n": 800,
-        "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\"",
+        "n": 812,
+        "head": "MINE, at a sitting",
+        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them",
         "lane": "arcade",
-        "since": "2026-11-23 03:29"
+        "since": "2026-11-23 03:44"
       },
       {
         "n": 1203,
@@ -2803,11 +2804,6 @@
       }
     ],
     "next": [
-      {
-        "n": 812,
-        "head": "MINE, at a sitting",
-        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them"
-      },
       {
         "n": 813,
         "head": "MINE",
@@ -3887,5 +3883,5 @@
       "2026-11-23": 11
     }
   },
-  "changed": "2026-11-23T09:44:13.834Z"
+  "changed": "2026-11-23T09:49:13.969Z"
 }
