@@ -2808,6 +2808,12 @@
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
         "lane": "arcade2",
         "since": "2026-11-23 06:49"
+      },
+      {
+        "n": 1229,
+        "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
+        "lane": "arcade2",
+        "since": "2026-11-23 08:04"
       }
     ],
     "next": [
@@ -3202,10 +3208,6 @@
       {
         "n": 1227,
         "head": "BAR BOWLING's old checks are blind: item192 walks to a shoe counter the bar no longer has, and toast-fit counts toasts against a stale numbe"
-      },
-      {
-        "n": 1229,
-        "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind"
       },
       {
         "n": 1230,
@@ -3834,5 +3836,5 @@
       "2026-11-23": 31
     }
   },
-  "changed": "2026-11-23T14:01:27.072Z"
+  "changed": "2026-11-23T14:09:13.566Z"
 }
