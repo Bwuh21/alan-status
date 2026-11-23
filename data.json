@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 869,
-        "head": "Pod cabinet: the shell is shaded in mismatched square patches from behind",
-        "lane": "arcade",
-        "since": "2026-11-23 07:54"
-      },
-      {
         "n": 1228,
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
         "lane": "arcade2",
@@ -2818,8 +2812,8 @@
     ],
     "next": [
       {
-        "n": 864,
-        "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome"
+        "n": 869,
+        "head": "Pod cabinet: the shell is shaded in mismatched square patches from behind"
       },
       {
         "n": 870,
@@ -3742,6 +3736,14 @@
       {
         "n": 1363,
         "head": "LIVE WIRE on the bursty backup line: under load the guest reads 0.15 own pops/s (host 0.05) and one never-touched give a run, and the OLD bu"
+      },
+      {
+        "n": 1364,
+        "head": "GLASS BRIDGE: check.mjs \"renderer is drawing\" reads 1 call and 2 triangles on both views, on the committed copy too"
+      },
+      {
+        "n": 1365,
+        "head": "GLASS BRIDGE and KILN RUSH check.mjs both serve on port 8177, so running them together kills one"
       }
     ],
     "waiting": [
@@ -3820,12 +3822,12 @@
         "date": "2026-11-23"
       },
       {
-        "n": 863,
-        "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run",
+        "n": 864,
+        "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome",
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 954,
+    "shippedTotal": 955,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3833,8 +3835,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 31
+      "2026-11-23": 32
     }
   },
-  "changed": "2026-11-23T14:09:13.566Z"
+  "changed": "2026-11-23T14:14:15.303Z"
 }
