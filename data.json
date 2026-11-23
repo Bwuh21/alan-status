@@ -2783,16 +2783,17 @@
   "stack": {
     "building": [
       {
-        "n": 786,
-        "head": "EVERY PARTY GAME OPENS THE SAME WAY: a short \"what is going down\" card, and everyone readies up together",
-        "lane": "arcade",
-        "since": "2026-11-23 02:44"
-      },
-      {
         "n": 1200,
         "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall",
         "lane": "arcade2",
         "since": "2026-11-23 02:49"
+      },
+      {
+        "n": 1203,
+        "head": "SKY SPIKE dive: the whole figure jumps 20-48 px on screen near the dig in 9 of 145 dives",
+        "detail": "measure the camera, then decide",
+        "lane": "arcade2",
+        "since": "2026-11-23 03:09"
       }
     ],
     "next": [
@@ -3191,11 +3192,6 @@
       {
         "n": 1202,
         "head": "A BOM shipped into a live ES module today, and only the 21:00 sweep can see it"
-      },
-      {
-        "n": 1203,
-        "head": "SKY SPIKE dive: the whole figure jumps 20-48 px on screen near the dig in 9 of 145 dives",
-        "detail": "measure the camera, then decide"
       },
       {
         "n": 1204,
@@ -3897,5 +3893,5 @@
       "2026-11-23": 8
     }
   },
-  "changed": "2026-11-23T09:09:13.705Z"
+  "changed": "2026-11-23T09:14:14.208Z"
 }
