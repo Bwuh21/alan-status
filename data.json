@@ -3842,6 +3842,10 @@
         "n": 1341,
         "head": "Broadside Bay: from a frigate up, one perfect broadside still sinks a sloop",
         "detail": "the \"one shot the farther along you get\" complaint, measured"
+      },
+      {
+        "n": 1343,
+        "head": "Clone commit hook: the stale-buffer check refuses a one-line edit to a line an older commit did not have"
       }
     ],
     "waiting": [
@@ -3938,5 +3942,5 @@
       "2026-11-22": 50
     }
   },
-  "changed": "2026-11-23T02:14:16.376Z"
+  "changed": "2026-11-23T02:19:14.497Z"
 }
