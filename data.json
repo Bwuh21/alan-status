@@ -2739,6 +2739,12 @@
         "since": "2026-11-22 18:44"
       },
       {
+        "n": 697,
+        "head": "Every HUD harness that measures an animated plate in virtual frames: a CSS animation is frozen there, so the rect is the first keyframe",
+        "lane": "arcade",
+        "since": "2026-11-22 18:50"
+      },
+      {
         "n": 1170,
         "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
         "detail": "foes that never hit the bench bot",
@@ -2753,10 +2759,6 @@
       }
     ],
     "next": [
-      {
-        "n": 697,
-        "head": "Every HUD harness that measures an animated plate in virtual frames: a CSS animation is frozen there, so the rect is the first keyframe"
-      },
       {
         "n": 702,
         "head": "The shared launcher calls a restored-but-dead 3D view healthy: every screenshot harness of every WebGL game can photograph nothing"
@@ -3918,5 +3920,5 @@
       "2026-11-22": 41
     }
   },
-  "changed": "2026-11-23T00:49:31.668Z"
+  "changed": "2026-11-23T00:54:14.187Z"
 }
