@@ -2780,6 +2780,12 @@
         "since": "2026-11-22 22:09"
       },
       {
+        "n": 755,
+        "head": "BOWLING: paint the lane sheen into the wood so it can never flicker again",
+        "lane": "arcade",
+        "since": "2026-11-22 22:44"
+      },
+      {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "lane": "arcade2",
@@ -2793,10 +2799,6 @@
       }
     ],
     "next": [
-      {
-        "n": 755,
-        "head": "BOWLING: paint the lane sheen into the wood so it can never flicker again"
-      },
       {
         "n": 759,
         "head": "EVERY PORTAL: run through it OR press E, either one, from BOTH sides"
@@ -3917,5 +3919,5 @@
       "2026-11-22": 61
     }
   },
-  "changed": "2026-11-23T04:44:13.363Z"
+  "changed": "2026-11-23T04:49:13.755Z"
 }
