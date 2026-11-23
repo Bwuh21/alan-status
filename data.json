@@ -2790,6 +2790,13 @@
         "since": "2026-11-23 01:39"
       },
       {
+        "n": 768,
+        "head": "CONVOY and TOLL BRIDGE come off the site",
+        "detail": "he is removing both",
+        "lane": "arcade",
+        "since": "2026-11-23 02:14"
+      },
+      {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "lane": "arcade2",
@@ -2803,11 +2810,6 @@
       }
     ],
     "next": [
-      {
-        "n": 768,
-        "head": "CONVOY and TOLL BRIDGE come off the site",
-        "detail": "he is removing both"
-      },
       {
         "n": 785,
         "head": "SPORTS ISLAND: new pictures for SKY SPIKE and COMET CLASH"
@@ -3901,5 +3903,5 @@
       "2026-11-23": 4
     }
   },
-  "changed": "2026-11-23T08:14:16.093Z"
+  "changed": "2026-11-23T08:19:15.878Z"
 }
