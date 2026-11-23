@@ -2804,6 +2804,12 @@
         "since": "2026-11-23 06:39"
       },
       {
+        "n": 863,
+        "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run",
+        "lane": "arcade",
+        "since": "2026-11-23 07:00"
+      },
+      {
         "n": 1226,
         "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
         "lane": "arcade2",
@@ -2817,10 +2823,6 @@
       }
     ],
     "next": [
-      {
-        "n": 863,
-        "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run"
-      },
       {
         "n": 864,
         "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome"
@@ -3844,5 +3846,5 @@
       "2026-11-23": 28
     }
   },
-  "changed": "2026-11-23T12:54:13.555Z"
+  "changed": "2026-11-23T13:04:24.701Z"
 }
