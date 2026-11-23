@@ -2810,12 +2810,6 @@
         "since": "2026-11-23 06:04"
       },
       {
-        "n": 1219,
-        "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
-        "lane": "arcade2",
-        "since": "2026-11-23 05:44"
-      },
-      {
         "n": 1221,
         "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
         "lane": "arcade2",
@@ -3768,6 +3762,10 @@
       {
         "n": 1361,
         "head": "BARN BURNER with a friend: the guest's own skater still pops 2-5 times as often as the host's, even on the desk at 0 ms"
+      },
+      {
+        "n": 1362,
+        "head": "BACK NINE: a wedge chip hit too hard can never lip out, so every chip that reaches the cup drops in (three-morning default taken 2026-11-23)"
       }
     ],
     "waiting": [
@@ -3789,6 +3787,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1219,
+        "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
+        "date": "2026-11-23"
+      },
       {
         "n": 1218,
         "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
@@ -3844,14 +3847,9 @@
         "n": 824,
         "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair",
         "date": "2026-11-23"
-      },
-      {
-        "n": 823,
-        "head": "the z-fight pair test calls boards that only TOUCH an overlap",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 946,
+    "shippedTotal": 947,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3859,8 +3857,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 23
+      "2026-11-23": 24
     }
   },
-  "changed": "2026-11-23T12:09:16.426Z"
+  "changed": "2026-11-23T12:19:13.447Z"
 }
