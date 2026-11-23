@@ -2809,6 +2809,12 @@
         "since": "2026-11-23 12:34"
       },
       {
+        "n": 897,
+        "head": "Deep Line: a full string's lowest fish hang under HAUL UP, and a shark's warning ring there cannot be seen",
+        "lane": "arcade",
+        "since": "2026-11-23 13:34"
+      },
+      {
         "n": 1239,
         "head": "Dodgeball says '3d' over a dead picture: its self-report should answer 'lost' when the shared guard says the view is dead",
         "lane": "arcade2",
@@ -2816,10 +2822,6 @@
       }
     ],
     "next": [
-      {
-        "n": 897,
-        "head": "Deep Line: a full string's lowest fish hang under HAUL UP, and a shark's warning ring there cannot be seen"
-      },
       {
         "n": 898,
         "head": "the three games row 416's sweep did not finish: Undercroft, its preview, and Dark Room"
@@ -3822,5 +3824,5 @@
       "2026-11-23": 45
     }
   },
-  "changed": "2026-11-23T19:34:13.550Z"
+  "changed": "2026-11-23T19:39:14.666Z"
 }
