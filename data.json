@@ -2804,6 +2804,12 @@
         "since": "2026-11-23 05:49"
       },
       {
+        "n": 854,
+        "head": "Memory index is at 20.2 KB of its ~24.4 KB read limit: split the next section (2026-11-16)",
+        "lane": "arcade",
+        "since": "2026-11-23 06:04"
+      },
+      {
         "n": 1219,
         "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
         "lane": "arcade2",
@@ -2817,10 +2823,6 @@
       }
     ],
     "next": [
-      {
-        "n": 854,
-        "head": "Memory index is at 20.2 KB of its ~24.4 KB read limit: split the next section (2026-11-16)"
-      },
       {
         "n": 855,
         "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)"
@@ -3860,5 +3862,5 @@
       "2026-11-23": 23
     }
   },
-  "changed": "2026-11-23T12:04:15.212Z"
+  "changed": "2026-11-23T12:09:16.426Z"
 }
