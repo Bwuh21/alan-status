@@ -2824,6 +2824,13 @@
         "head": "TOY FURY: the cars themselves (the player's and the bots') have never had a rig sweep, only the track hazards have",
         "lane": "arcade2",
         "since": "2026-11-23 13:54"
+      },
+      {
+        "n": 1243,
+        "head": "TOY FURY: the price ladder is flat again",
+        "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
+        "lane": "arcade2",
+        "since": "2026-11-23 14:14"
       }
     ],
     "next": [
@@ -3187,11 +3194,6 @@
       {
         "n": 1240,
         "head": "the shared graphics guard holds a party host's frames, which may freeze the guest: test with two browsers and carve parties out if it does"
-      },
-      {
-        "n": 1243,
-        "head": "TOY FURY: the price ladder is flat again",
-        "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families"
       },
       {
         "n": 1244,
@@ -3816,5 +3818,5 @@
       "2026-11-23": 48
     }
   },
-  "changed": "2026-11-23T20:14:13.833Z"
+  "changed": "2026-11-23T20:19:16.237Z"
 }
