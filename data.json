@@ -2818,18 +2818,6 @@
   "stack": {
     "building": [
       {
-        "n": 904,
-        "head": "the hall: two flat panels the camera cannot feel, and the lobby the sweep cannot read",
-        "lane": "arcade",
-        "since": "2026-11-23 15:39"
-      },
-      {
-        "n": 905,
-        "head": "seven more games whose how-to-play card may ask for a move you cannot make right now",
-        "lane": "arcade",
-        "since": "2026-11-23 15:39"
-      },
-      {
         "n": 1243,
         "head": "TOY FURY: the price ladder is flat again",
         "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
@@ -2838,6 +2826,10 @@
       }
     ],
     "next": [
+      {
+        "n": 905,
+        "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
+      },
       {
         "n": 917,
         "head": "the last 22 flat-sleep boot gates, and five checks that still lean on a settle sleep"
@@ -3730,6 +3722,14 @@
       {
         "n": 1380,
         "head": "a game ship that changes a file the LOBBY imports leaves the lobby's ?v= stamp stale, and the next lobby pack refuses"
+      },
+      {
+        "n": 1381,
+        "head": "the camera sweep cannot stand in the tavern: its anchor drops the player to y -17"
+      },
+      {
+        "n": 1382,
+        "head": "the bowl island: ten slivers the camera cannot feel, right at the sweep's 0.02 m2 floor"
       }
     ],
     "waiting": [
@@ -3815,7 +3815,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 976,
+    "shippedTotal": 977,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3823,8 +3823,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 53
+      "2026-11-23": 54
     }
   },
-  "changed": "2026-11-23T21:59:14.726Z"
+  "changed": "2026-11-23T22:04:14.126Z"
 }
