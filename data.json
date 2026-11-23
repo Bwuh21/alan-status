@@ -2799,6 +2799,12 @@
         "since": "2026-11-23 04:49"
       },
       {
+        "n": 840,
+        "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away",
+        "lane": "arcade",
+        "since": "2026-11-23 04:59"
+      },
+      {
         "n": 1214,
         "head": "BACK NINE: on a phone held sideways (844x390) the \"Hole 1\" title sits on top of the hole's tip line",
         "lane": "arcade2",
@@ -2812,10 +2818,6 @@
       }
     ],
     "next": [
-      {
-        "n": 840,
-        "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away"
-      },
       {
         "n": 845,
         "head": "the pot banner has faded before the second bowler has looked up"
@@ -3862,5 +3864,5 @@
       "2026-11-23": 18
     }
   },
-  "changed": "2026-11-23T10:59:14.412Z"
+  "changed": "2026-11-23T11:04:30.735Z"
 }
