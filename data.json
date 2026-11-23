@@ -2818,6 +2818,18 @@
   "stack": {
     "building": [
       {
+        "n": 905,
+        "head": "seven more games whose how-to-play card may ask for a move you cannot make right now",
+        "lane": "arcade",
+        "since": "2026-11-23 16:04"
+      },
+      {
+        "n": 917,
+        "head": "the last 22 flat-sleep boot gates, and five checks that still lean on a settle sleep",
+        "lane": "arcade",
+        "since": "2026-11-23 16:04"
+      },
+      {
         "n": 1243,
         "head": "TOY FURY: the price ladder is flat again",
         "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
@@ -2826,14 +2838,6 @@
       }
     ],
     "next": [
-      {
-        "n": 905,
-        "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
-      },
-      {
-        "n": 917,
-        "head": "the last 22 flat-sleep boot gates, and five checks that still lean on a settle sleep"
-      },
       {
         "n": 918,
         "head": "the private drivers quote a dead page's error without its line number"
@@ -3826,5 +3830,5 @@
       "2026-11-23": 54
     }
   },
-  "changed": "2026-11-23T22:04:14.126Z"
+  "changed": "2026-11-23T22:09:14.202Z"
 }
