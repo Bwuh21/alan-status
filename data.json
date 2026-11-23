@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-23T00:45:00.000Z",
+  "updated": "2026-11-23T01:00:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Undercroft: monsters whose lunge never reached a man standing right in front of them",
+          "status": "done",
+          "note": "Live 11-22 (row 1170). A lunge slowed down as it got closer, so the ghoul, the drowned, the gourdling and the jack-in-the-box stopped about two metres short and their claws closed on air -- a warning you could ignore.…"
+        },
         {
           "text": "Rail Rat with a friend: their rider was never drawn, and a friend's colour could carry a fake value into 12 games",
           "status": "done",
@@ -2745,13 +2750,6 @@
         "since": "2026-11-22 18:50"
       },
       {
-        "n": 1170,
-        "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
-        "detail": "foes that never hit the bench bot",
-        "lane": "arcade2",
-        "since": "2026-11-22 17:59"
-      },
-      {
         "n": 1175,
         "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/",
         "lane": "arcade2",
@@ -3825,6 +3823,11 @@
       {
         "n": 1336,
         "head": "Skin-door sweep pass 2 cannot see a party field copied into a plain variable first (const c = m.color; HEX.test(c)) (left by row 679, 2026-1"
+      },
+      {
+        "n": 1337,
+        "head": "Undercroft ride: say WHY a kind \"fired N and landed 0\"",
+        "detail": "out of reach or a real whiff (left by row 1170, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3855,6 +3858,12 @@
       {
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1170,
+        "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
+        "detail": "foes that never hit the bench bot",
         "date": "2026-11-22"
       },
       {
@@ -3902,14 +3911,9 @@
         "n": 1144,
         "head": "Undercroft: shield-hit's Warden case fails under machine load, on the committed copy too",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1143,
-        "head": "Undercroft: the latch sweep's last 6 EXPOSED checks run the game inside an iframe, so the blind guard cannot reach it",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 902,
+    "shippedTotal": 903,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3917,8 +3921,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 41
+      "2026-11-22": 42
     }
   },
-  "changed": "2026-11-23T00:54:14.187Z"
+  "changed": "2026-11-23T00:59:15.693Z"
 }
