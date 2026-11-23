@@ -2805,12 +2805,6 @@
         "since": "2026-11-23 04:59"
       },
       {
-        "n": 1214,
-        "head": "BACK NINE: on a phone held sideways (844x390) the \"Hole 1\" title sits on top of the hole's tip line",
-        "lane": "arcade2",
-        "since": "2026-11-23 04:54"
-      },
-      {
         "n": 1218,
         "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
         "lane": "arcade2",
@@ -3771,6 +3765,10 @@
       {
         "n": 1358,
         "head": "ship-game.sh stops itself: its own boot tests rewrite a game's dev result JSONs, and the stale-buffer check then reads them as a revert"
+      },
+      {
+        "n": 1359,
+        "head": "KitchenClash's own party-check.mjs went red (nightly instrument sweep, 2026-11-23)"
       }
     ],
     "waiting": [
@@ -3792,6 +3790,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1214,
+        "head": "BACK NINE: on a phone held sideways (844x390) the \"Hole 1\" title sits on top of the hole's tip line",
+        "date": "2026-11-23"
+      },
       {
         "n": 1211,
         "head": "Sky Spike: the sideways-phone title card shows no controls line",
@@ -3849,15 +3852,9 @@
         "n": 798,
         "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them",
         "date": "2026-11-23"
-      },
-      {
-        "n": 793,
-        "head": "SKINS: re-render the 25 skins the October eye-pass never got to",
-        "detail": "MACHINE WORK, NO EYES NEEDED",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 941,
+    "shippedTotal": 942,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3865,8 +3862,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 18
+      "2026-11-23": 19
     }
   },
-  "changed": "2026-11-23T11:19:20.683Z"
+  "changed": "2026-11-23T11:29:14.680Z"
 }
