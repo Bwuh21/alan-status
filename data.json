@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-23T10:52:00.000Z",
+  "updated": "2026-11-23T11:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Flicker check: catch big flat surfaces that only shimmer when seen from far away (row 824)",
+          "status": "done",
+          "note": "Live 11-23 (row 824). The flicker checker now also looks from 50 m at big surfaces that sit 1 to 2.5 mm apart, because a 2 mm gap that is fine up close shimmers from that far. It found one: the skate park's raised plaza…"
+        },
         {
           "text": "Does a real phone's 3D picture ever come back blank after the phone takes the graphics away? Count it before fixing it",
           "status": "done",
@@ -2793,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 824,
-        "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair",
-        "lane": "arcade",
-        "since": "2026-11-23 04:49"
-      },
-      {
         "n": 840,
         "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away",
         "lane": "arcade",
@@ -2809,6 +2808,12 @@
         "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
         "lane": "arcade2",
         "since": "2026-11-23 04:54"
+      },
+      {
+        "n": 1219,
+        "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
+        "lane": "arcade2",
+        "since": "2026-11-23 05:29"
       }
     ],
     "next": [
@@ -3206,10 +3211,6 @@
       {
         "n": 1217,
         "head": "BAR AIR HOCKEY with a friend: on a weak phone the far end hears some goals 300+ ms late, and no phone has played the far end"
-      },
-      {
-        "n": 1219,
-        "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured"
       },
       {
         "n": 1220,
@@ -3769,6 +3770,10 @@
       {
         "n": 1359,
         "head": "KitchenClash's own party-check.mjs went red (nightly instrument sweep, 2026-11-23)"
+      },
+      {
+        "n": 1360,
+        "head": "OutOfTheSun's own check.mjs went red (nightly instrument sweep, 2026-11-23)"
       }
     ],
     "waiting": [
@@ -3827,6 +3832,11 @@
         "date": "2026-11-23"
       },
       {
+        "n": 824,
+        "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair",
+        "date": "2026-11-23"
+      },
+      {
         "n": 823,
         "head": "the z-fight pair test calls boards that only TOUCH an overlap",
         "date": "2026-11-23"
@@ -3847,14 +3857,9 @@
         "head": "MINE, at a sitting",
         "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them",
         "date": "2026-11-23"
-      },
-      {
-        "n": 798,
-        "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 942,
+    "shippedTotal": 943,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3862,8 +3867,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 19
+      "2026-11-23": 20
     }
   },
-  "changed": "2026-11-23T11:29:14.680Z"
+  "changed": "2026-11-23T11:34:17.024Z"
 }
