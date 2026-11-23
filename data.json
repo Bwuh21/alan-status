@@ -2783,13 +2783,6 @@
   "stack": {
     "building": [
       {
-        "n": 812,
-        "head": "MINE, at a sitting",
-        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them",
-        "lane": "arcade",
-        "since": "2026-11-23 03:44"
-      },
-      {
         "n": 813,
         "head": "MINE",
         "detail": "the KC weekend watch was promised to his phone and had no reader",
@@ -3787,6 +3780,10 @@
       {
         "n": 1356,
         "head": "Sky Spike: the figure's height snaps 7-8 px in one frame as a dive leaves its reach pose, 19 of 159 dives"
+      },
+      {
+        "n": 1357,
+        "head": "Three skill edits the parked ledger lessons asked for, never made"
       }
     ],
     "waiting": [
@@ -3830,6 +3827,12 @@
         "date": "2026-11-23"
       },
       {
+        "n": 812,
+        "head": "MINE, at a sitting",
+        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them",
+        "date": "2026-11-23"
+      },
+      {
         "n": 798,
         "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them",
         "date": "2026-11-23"
@@ -3866,14 +3869,9 @@
         "n": 760,
         "head": "retire the standalone UndercroftPreview link he sent his brother on 2026-10-01",
         "date": "2026-11-23"
-      },
-      {
-        "n": 759,
-        "head": "EVERY PORTAL: run through it OR press E, either one, from BOTH sides",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 935,
+    "shippedTotal": 936,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3881,8 +3879,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 12
+      "2026-11-23": 13
     }
   },
-  "changed": "2026-11-23T09:59:13.845Z"
+  "changed": "2026-11-23T10:09:14.063Z"
 }
