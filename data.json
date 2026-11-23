@@ -2809,6 +2809,12 @@
         "since": "2026-11-23 12:09"
       },
       {
+        "n": 895,
+        "head": "the room call can still come up over the DIRECTORY, the shop and the garage",
+        "lane": "arcade",
+        "since": "2026-11-23 12:34"
+      },
+      {
         "n": 1235,
         "head": "Sky Spike: a first-time player never meets the dive",
         "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in",
@@ -2823,10 +2829,6 @@
       }
     ],
     "next": [
-      {
-        "n": 895,
-        "head": "the room call can still come up over the DIRECTORY, the shop and the garage"
-      },
       {
         "n": 897,
         "head": "Deep Line: a full string's lowest fish hang under HAUL UP, and a shark's warning ring there cannot be seen"
@@ -3824,5 +3826,5 @@
       "2026-11-23": 43
     }
   },
-  "changed": "2026-11-23T18:34:13.567Z"
+  "changed": "2026-11-23T18:39:18.316Z"
 }
