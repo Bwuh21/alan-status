@@ -2802,18 +2802,6 @@
         "head": "Teach probes: 23 of them accept the step TICK as the card finishing",
         "lane": "arcade",
         "since": "2026-11-23 09:09"
-      },
-      {
-        "n": 1228,
-        "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
-        "lane": "arcade2",
-        "since": "2026-11-23 06:49"
-      },
-      {
-        "n": 1229,
-        "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
-        "lane": "arcade2",
-        "since": "2026-11-23 08:04"
       }
     ],
     "next": [
@@ -3196,6 +3184,10 @@
       {
         "n": 1227,
         "head": "BAR BOWLING's old checks are blind: item192 walks to a shoe counter the bar no longer has, and toast-fit counts toasts against a stale numbe"
+      },
+      {
+        "n": 1229,
+        "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind"
       },
       {
         "n": 1230,
@@ -3738,6 +3730,14 @@
       {
         "n": 1365,
         "head": "GLASS BRIDGE and KILN RUSH check.mjs both serve on port 8177, so running them together kills one"
+      },
+      {
+        "n": 1366,
+        "head": "HANGTIME: a bot teammate's lob to a HUMAN jumping at the rim still mostly ends in a pick, after row 1228"
+      },
+      {
+        "n": 1367,
+        "head": "HANGTIME dev/teach-check.mjs desk fails \"the match reached the final whistle\" on the committed build too: a bot-driven match to 11 is not do"
       }
     ],
     "waiting": [
@@ -3759,6 +3759,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1228,
+        "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world (found by row 1041, 2026-11-21)",
+        "detail": "vault ae43a1fc + eba25523, clone 2b09714, deployment 8004982642 (success)",
+        "date": "2026-11-23"
+      },
       {
         "n": 1226,
         "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
@@ -3814,14 +3820,9 @@
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "date": "2026-11-23"
-      },
-      {
-        "n": 870,
-        "head": "Cabinet studio shooter: tall machines lose their tops on a desk frame, and the pass bar sits 1 point under the thinnest real view",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 957,
+    "shippedTotal": 958,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3829,8 +3830,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 34
+      "2026-11-23": 35
     }
   },
-  "changed": "2026-11-23T15:15:15.675Z"
+  "changed": "2026-11-23T16:49:20.495Z"
 }
