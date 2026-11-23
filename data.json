@@ -3767,6 +3767,10 @@
       {
         "n": 1357,
         "head": "Three skill edits the parked ledger lessons asked for, never made"
+      },
+      {
+        "n": 1358,
+        "head": "ship-game.sh stops itself: its own boot tests rewrite a game's dev result JSONs, and the stale-buffer check then reads them as a revert"
       }
     ],
     "waiting": [
@@ -3864,5 +3868,5 @@
       "2026-11-23": 18
     }
   },
-  "changed": "2026-11-23T11:04:30.735Z"
+  "changed": "2026-11-23T11:19:20.683Z"
 }
