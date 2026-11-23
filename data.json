@@ -2808,6 +2808,12 @@
         "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
         "lane": "arcade2",
         "since": "2026-11-23 05:44"
+      },
+      {
+        "n": 1226,
+        "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
+        "lane": "arcade2",
+        "since": "2026-11-23 06:24"
       }
     ],
     "next": [
@@ -3214,10 +3220,6 @@
       {
         "n": 1225,
         "head": "MULTIPLAYER, every game that takes a friend: the room is told a player left and the GAME is not, so a friend who drops mid-match just stands"
-      },
-      {
-        "n": 1226,
-        "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)"
       },
       {
         "n": 1227,
@@ -3854,5 +3856,5 @@
       "2026-11-23": 25
     }
   },
-  "changed": "2026-11-23T12:24:13.291Z"
+  "changed": "2026-11-23T12:29:13.253Z"
 }
