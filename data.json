@@ -2728,12 +2728,6 @@
   "stack": {
     "building": [
       {
-        "n": 669,
-        "head": "__arcade.see.side (and .boom) keep the walking camera's last value while a table camera has the view",
-        "lane": "arcade",
-        "since": "2026-11-22 17:54"
-      },
-      {
         "n": 679,
         "head": "The skin-door sweep only opens functions named cleanSkin; a colour or skin read straight off a party message beside the door is still found ",
         "lane": "arcade",
@@ -3824,6 +3818,10 @@
         "n": 1333,
         "head": "Corner Pocket: the end card says \"2 TICKETS\" and the round paid 3",
         "detail": "read the room's settlement instead of the price (left by row 659, 2026-11-22)"
+      },
+      {
+        "n": 1334,
+        "head": "verify/_i282/bay-camera.mjs: its \"on the floor\" spot reads a 2.6-3.4 m boom against the 3.5-12 it prints (left by row 669, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3908,7 +3906,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 898,
+    "shippedTotal": 899,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3916,8 +3914,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 37
+      "2026-11-22": 38
     }
   },
-  "changed": "2026-11-23T00:07:48.267Z"
+  "changed": "2026-11-23T00:19:14.075Z"
 }
