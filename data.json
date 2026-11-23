@@ -2780,12 +2780,6 @@
         "since": "2026-11-22 21:29"
       },
       {
-        "n": 1189,
-        "head": "Toy Fury: no check plays the four moves that now live behind \"?\"",
-        "lane": "arcade2",
-        "since": "2026-11-22 20:49"
-      },
-      {
         "n": 1190,
         "head": "Last Call: the picture-stopped canary is red on its own home game, 2 of 19",
         "lane": "arcade2",
@@ -3834,6 +3828,10 @@
       {
         "n": 1346,
         "head": "AURA: the tiers check reads 0 lit pixels on every tier"
+      },
+      {
+        "n": 1347,
+        "head": "Toy Fury: on a phone the SLIPSTREAM meter is up by GO + 2 in some first races, 6 pieces on the glass against first-five's bar of 5"
       }
     ],
     "waiting": [
@@ -3864,6 +3862,11 @@
       {
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1189,
+        "head": "Toy Fury: no check plays the four moves that now live behind \"?\"",
         "date": "2026-11-22"
       },
       {
@@ -3913,14 +3916,9 @@
         "n": 1164,
         "head": "Toy Fury: the open edge and the jumps still drop a clumsy driver, the same spot lap after lap",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1162,
-        "head": "TollBridge: six of the eight house bridges are EASY and none is BRUTAL, so the prize ladder barely moves",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 916,
+    "shippedTotal": 917,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3928,8 +3926,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 55
+      "2026-11-22": 56
     }
   },
-  "changed": "2026-11-23T03:34:16.744Z"
+  "changed": "2026-11-23T03:44:15.425Z"
 }
