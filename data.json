@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-23T22:20:00.000Z",
+  "updated": "2026-11-23T22:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Toy Fury: on Upstairs your place kept flipping back and forth (row 1246)",
+          "status": "done",
+          "note": "Live 11-23 (row 1246). About 12 flips a race, half of them on the banister spiral. The room says 'hold the drift', but touching the banister rail threw your drift away, while the bots hopped short drifts for turbo after…"
+        },
         {
           "text": "Toy Fury: the dearer cars out-win the cheap ones again (row 1243)",
           "status": "done",
@@ -2833,12 +2838,6 @@
         "head": "the private drivers quote a dead page's error without its line number",
         "lane": "arcade",
         "since": "2026-11-23 16:24"
-      },
-      {
-        "n": 1246,
-        "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed",
-        "lane": "arcade2",
-        "since": "2026-11-23 16:24"
       }
     ],
     "next": [
@@ -3743,6 +3742,11 @@
         "n": 1385,
         "head": "KnockOn: its own how-to-play check fails 15 rows (the pieces get set, the card reads a step behind)",
         "detail": "same on the build before row 905"
+      },
+      {
+        "n": 1386,
+        "head": "TOY FURY: first-race-check leg 10 fails at HEAD",
+        "detail": "a rival wrecks in the derby and your place does not move"
       }
     ],
     "waiting": [
@@ -3764,6 +3768,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1246,
+        "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed",
+        "date": "2026-11-23"
+      },
       {
         "n": 1243,
         "head": "TOY FURY: the price ladder is flat again",
@@ -3822,14 +3831,9 @@
         "n": 1218,
         "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1214,
-        "head": "BACK NINE: on a phone held sideways (844x390) the \"Hole 1\" title sits on top of the hole's tip line",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 979,
+    "shippedTotal": 980,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3837,8 +3841,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 56
+      "2026-11-23": 57
     }
   },
-  "changed": "2026-11-23T22:44:16.564Z"
+  "changed": "2026-11-23T22:54:13.967Z"
 }
