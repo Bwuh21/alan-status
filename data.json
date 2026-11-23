@@ -2779,6 +2779,13 @@
         "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)",
         "lane": "arcade2",
         "since": "2026-11-22 19:19"
+      },
+      {
+        "n": 1187,
+        "head": "Toy Fury: the first race still shows a full dashboard",
+        "detail": "hide what a newcomer cannot use yet",
+        "lane": "arcade2",
+        "since": "2026-11-22 19:34"
       }
     ],
     "next": [
@@ -3217,11 +3224,6 @@
       {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
-      },
-      {
-        "n": 1187,
-        "head": "Toy Fury: the first race still shows a full dashboard",
-        "detail": "hide what a newcomer cannot use yet"
       },
       {
         "n": 1188,
@@ -3936,5 +3938,5 @@
       "2026-11-22": 47
     }
   },
-  "changed": "2026-11-23T01:34:14.135Z"
+  "changed": "2026-11-23T01:39:14.428Z"
 }
