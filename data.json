@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T05:30:00.000Z",
+  "updated": "2026-11-23T07:10:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -500,6 +500,11 @@
           "text": "Toy Fury porch: the giant portal outside does not look good",
           "status": "done",
           "note": "live 10-16 -- a loop of orange toy track, half the height, out on the lawn"
+        },
+        {
+          "text": "Every portal: run through it OR press E, from BOTH sides (11-12)",
+          "status": "done",
+          "note": "live 11-23 (row 759) -- all 8 doors tested from both sides, both ways: 27 of 32 work, 0 broken; the other 5 sides are against a wall or over a drop where nobody can stand. The Deep Gate walks in now. A door cannot…"
         }
       ]
     },
@@ -2778,12 +2783,6 @@
   "stack": {
     "building": [
       {
-        "n": 759,
-        "head": "EVERY PORTAL: run through it OR press E, either one, from BOTH sides",
-        "lane": "arcade",
-        "since": "2026-11-22 23:14"
-      },
-      {
         "n": 760,
         "head": "retire the standalone UndercroftPreview link he sent his brother on 2026-10-01",
         "lane": "arcade",
@@ -3841,6 +3840,11 @@
     ],
     "shipped": [
       {
+        "n": 759,
+        "head": "EVERY PORTAL: run through it OR press E, either one, from BOTH sides",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1282,
         "head": "Toy Fury: a bigger race, not a house full of rooms",
         "detail": "open-road tracks, a map",
@@ -3897,23 +3901,18 @@
         "n": 1181,
         "head": "Skin Kick: the old lesson check reads the first lesson, which is now three prompts",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1175,
-        "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 923,
+    "shippedTotal": 924,
     "shippedOn": {
-      "2026-11-16": 79,
       "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 62
+      "2026-11-22": 62,
+      "2026-11-23": 1
     }
   },
-  "changed": "2026-11-23T05:59:13.399Z"
+  "changed": "2026-11-23T07:09:14.030Z"
 }
