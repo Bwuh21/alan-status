@@ -2798,6 +2798,12 @@
   "stack": {
     "building": [
       {
+        "n": 878,
+        "head": "Teach probes: 23 of them accept the step TICK as the card finishing",
+        "lane": "arcade",
+        "since": "2026-11-23 09:09"
+      },
+      {
         "n": 1228,
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
         "lane": "arcade2",
@@ -2811,10 +2817,6 @@
       }
     ],
     "next": [
-      {
-        "n": 878,
-        "head": "Teach probes: 23 of them accept the step TICK as the card finishing"
-      },
       {
         "n": 879,
         "head": "The night manager leaves no proof of a tick, so its watcher row can only read the exit code"
@@ -3830,5 +3832,5 @@
       "2026-11-23": 34
     }
   },
-  "changed": "2026-11-23T15:09:16.815Z"
+  "changed": "2026-11-23T15:15:15.675Z"
 }
