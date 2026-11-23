@@ -2804,6 +2804,12 @@
         "since": "2026-11-23 04:59"
       },
       {
+        "n": 845,
+        "head": "the pot banner has faded before the second bowler has looked up",
+        "lane": "arcade",
+        "since": "2026-11-23 05:34"
+      },
+      {
         "n": 1218,
         "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
         "lane": "arcade2",
@@ -2817,10 +2823,6 @@
       }
     ],
     "next": [
-      {
-        "n": 845,
-        "head": "the pot banner has faded before the second bowler has looked up"
-      },
       {
         "n": 853,
         "head": "Housekeeping: run the stranded-file sweep on a schedule, and teach the full audit its noise (row 388, 2026-11-16)"
@@ -3870,5 +3872,5 @@
       "2026-11-23": 20
     }
   },
-  "changed": "2026-11-23T11:34:17.024Z"
+  "changed": "2026-11-23T11:39:14.838Z"
 }
