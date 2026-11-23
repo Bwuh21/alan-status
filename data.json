@@ -2798,16 +2798,23 @@
   "stack": {
     "building": [
       {
-        "n": 884,
-        "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing",
-        "lane": "arcade",
-        "since": "2026-11-23 11:34"
-      },
-      {
         "n": 888,
         "head": "Tools/planted-sweep.mjs counts archive folders, so a retired harness stays a lead forever",
         "lane": "arcade",
         "since": "2026-11-23 11:49"
+      },
+      {
+        "n": 1235,
+        "head": "Sky Spike: a first-time player never meets the dive",
+        "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in",
+        "lane": "arcade2",
+        "since": "2026-11-23 11:54"
+      },
+      {
+        "n": 1239,
+        "head": "Dodgeball says '3d' over a dead picture: its self-report should answer 'lost' when the shared guard says the view is dead",
+        "lane": "arcade2",
+        "since": "2026-11-23 11:54"
       }
     ],
     "next": [
@@ -3182,21 +3189,12 @@
         "detail": "the 12 fps background cap meets the 0.05 s step ceiling"
       },
       {
-        "n": 1235,
-        "head": "Sky Spike: a first-time player never meets the dive",
-        "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in"
-      },
-      {
         "n": 1236,
         "head": "TOY FURY's stepped road dumps you off its last stretch before the loop: walls by the door shove you sideways, twice to the ground"
       },
       {
         "n": 1238,
         "head": "HARNESS: replace the next ten sleep-then-grade checks that row 528's detector ranks highest"
-      },
-      {
-        "n": 1239,
-        "head": "Dodgeball says '3d' over a dead picture: its self-report should answer 'lost' when the shared guard says the view is dead"
       },
       {
         "n": 1240,
@@ -3811,7 +3809,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 963,
+    "shippedTotal": 964,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3819,8 +3817,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 40
+      "2026-11-23": 41
     }
   },
-  "changed": "2026-11-23T17:54:14.359Z"
+  "changed": "2026-11-23T17:59:14.254Z"
 }
