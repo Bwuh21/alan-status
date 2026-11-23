@@ -2790,6 +2790,12 @@
         "since": "2026-11-23 01:09"
       },
       {
+        "n": 765,
+        "head": "GUEST WITH NO TICKETS: say the rule in one line",
+        "lane": "arcade",
+        "since": "2026-11-23 01:24"
+      },
+      {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "lane": "arcade2",
@@ -2803,10 +2809,6 @@
       }
     ],
     "next": [
-      {
-        "n": 765,
-        "head": "GUEST WITH NO TICKETS: say the rule in one line"
-      },
       {
         "n": 767,
         "head": "SKINS: the 20 simple fixes from the September audit",
@@ -3910,5 +3912,5 @@
       "2026-11-23": 2
     }
   },
-  "changed": "2026-11-23T07:24:13.610Z"
+  "changed": "2026-11-23T07:29:14.517Z"
 }
