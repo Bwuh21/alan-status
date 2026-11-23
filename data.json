@@ -2804,6 +2804,12 @@
         "since": "2026-11-23 06:29"
       },
       {
+        "n": 861,
+        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold",
+        "lane": "arcade",
+        "since": "2026-11-23 06:39"
+      },
+      {
         "n": 1221,
         "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
         "lane": "arcade2",
@@ -2817,10 +2823,6 @@
       }
     ],
     "next": [
-      {
-        "n": 861,
-        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold"
-      },
       {
         "n": 863,
         "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run"
@@ -3852,5 +3854,5 @@
       "2026-11-23": 26
     }
   },
-  "changed": "2026-11-23T12:34:18.342Z"
+  "changed": "2026-11-23T12:44:18.942Z"
 }
