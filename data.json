@@ -3203,10 +3203,6 @@
         "head": "AURA: the green skeleton's Divine is still the smallest step up from its Legendary of the four tiered skins"
       },
       {
-        "n": 1248,
-        "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too"
-      },
-      {
         "n": 1250,
         "head": "SPACE GOLF: row 299's aura claims that row 534 did not re-make",
         "detail": "the fire in flight, the figure-sized crown through the arcade, names, cost"
@@ -3763,6 +3759,10 @@
       {
         "n": 1388,
         "head": "the sleep-gate scan cannot see harnesses that boot through a private driver's boot(), and two private drivers have no waitFor at all"
+      },
+      {
+        "n": 1389,
+        "head": "TOY FURY: the knockout-chip bench never photographs the \"safe\" state, only \"YOU GO NEXT\""
       }
     ],
     "waiting": [
@@ -3784,6 +3784,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1248,
+        "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too",
+        "date": "2026-11-23"
+      },
       {
         "n": 1246,
         "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed",
@@ -3842,14 +3847,9 @@
         "n": 1219,
         "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1218,
-        "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 981,
+    "shippedTotal": 982,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3857,8 +3857,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 58
+      "2026-11-23": 59
     }
   },
-  "changed": "2026-11-23T23:19:15.074Z"
+  "changed": "2026-11-23T23:24:14.140Z"
 }
