@@ -2780,12 +2780,6 @@
         "since": "2026-11-22 21:29"
       },
       {
-        "n": 1190,
-        "head": "Last Call: the picture-stopped canary is red on its own home game, 2 of 19",
-        "lane": "arcade2",
-        "since": "2026-11-22 21:04"
-      },
-      {
         "n": 1195,
         "head": "Topple Pull: two harnesses are still on the narrow-desktop grandfather list",
         "lane": "arcade2",
@@ -3867,6 +3861,11 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1190,
+        "head": "Last Call: the picture-stopped canary is red on its own home game, 2 of 19",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1189,
         "head": "Toy Fury: no check plays the four moves that now live behind \"?\"",
         "date": "2026-11-22"
@@ -3913,14 +3912,9 @@
         "n": 1169,
         "head": "Undercroft: the gate check's \"the sign reads whole, not HE GUILD\" leg passes or fails depending on where the walk stops",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1164,
-        "head": "Toy Fury: the open edge and the jumps still drop a clumsy driver, the same spot lap after lap",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 917,
+    "shippedTotal": 918,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3928,8 +3922,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 56
+      "2026-11-22": 57
     }
   },
-  "changed": "2026-11-23T03:49:15.369Z"
+  "changed": "2026-11-23T03:54:13.308Z"
 }
