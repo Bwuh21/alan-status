@@ -2733,10 +2733,10 @@
   "stack": {
     "building": [
       {
-        "n": 692,
-        "head": "Tools/ship-committed-game.sh has no job left and still carries the one-night Undercroft refusal",
+        "n": 695,
+        "head": "Every two-finger phone harness: touchEnd lists the fingers that LIFT, not the ones that stay",
         "lane": "arcade",
-        "since": "2026-11-22 18:19"
+        "since": "2026-11-22 18:44"
       },
       {
         "n": 1170,
@@ -2753,10 +2753,6 @@
       }
     ],
     "next": [
-      {
-        "n": 695,
-        "head": "Every two-finger phone harness: touchEnd lists the fingers that LIFT, not the ones that stay"
-      },
       {
         "n": 697,
         "head": "Every HUD harness that measures an animated plate in virtual frames: a CSS animation is frozen there, so the rect is the first keyframe"
@@ -3911,7 +3907,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 901,
+    "shippedTotal": 902,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3919,8 +3915,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 40
+      "2026-11-22": 41
     }
   },
-  "changed": "2026-11-23T00:44:13.897Z"
+  "changed": "2026-11-23T00:49:31.668Z"
 }
