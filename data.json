@@ -2783,12 +2783,6 @@
   "stack": {
     "building": [
       {
-        "n": 765,
-        "head": "GUEST WITH NO TICKETS: say the rule in one line",
-        "lane": "arcade",
-        "since": "2026-11-23 01:24"
-      },
-      {
         "n": 767,
         "head": "SKINS: the 20 simple fixes from the September audit",
         "detail": "RE-AUDIT FIRST",
@@ -3839,6 +3833,11 @@
         "date": "2026-11-23"
       },
       {
+        "n": 765,
+        "head": "GUEST WITH NO TICKETS: say the rule in one line",
+        "date": "2026-11-23"
+      },
+      {
         "n": 760,
         "head": "retire the standalone UndercroftPreview link he sent his brother on 2026-10-01",
         "date": "2026-11-23"
@@ -3889,14 +3888,9 @@
         "head": "Toy Fury: the first race still shows a full dashboard",
         "detail": "hide what a newcomer cannot use yet",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1186,
-        "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 926,
+    "shippedTotal": 927,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3904,8 +3898,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 3
+      "2026-11-23": 4
     }
   },
-  "changed": "2026-11-23T07:44:13.590Z"
+  "changed": "2026-11-23T08:14:16.093Z"
 }
