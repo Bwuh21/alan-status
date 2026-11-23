@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T09:30:00.000Z",
+  "updated": "2026-11-23T10:45:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2776,6 +2776,11 @@
           "text": "A jumping player can hit the ball in the air, anywhere",
           "status": "done",
           "note": "Shipped 2026-11-21. You no longer have to land in the gold circle first. Jump from wherever you stand and your jump carries you toward the ball. In 183 test jumps the ball was hit in the air 152 times and 55 of them…"
+        },
+        {
+          "text": "A friend's power bar fills as they hold, and the kill card reads clean on a phone (row 1210)",
+          "status": "done",
+          "note": "Shipped 2026-11-23. A friend's power bar used to fill only when the host's picture arrived, a phone-data delay behind their thumb. Now it fills on their own screen as they hold, and the host's number keeps it honest. On…"
         }
       ]
     }
@@ -2783,22 +2788,10 @@
   "stack": {
     "building": [
       {
-        "n": 815,
-        "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check",
-        "lane": "arcade",
-        "since": "2026-11-23 04:09"
-      },
-      {
         "n": 820,
         "head": "the HALL: about 45 same-plane spots across some 25 small line pairs, listed and left",
         "lane": "arcade",
         "since": "2026-11-23 04:14"
-      },
-      {
-        "n": 1210,
-        "head": "Sky Spike: a friend's held spike charges with no prediction, and the kill card covers the point banner",
-        "lane": "arcade2",
-        "since": "2026-11-23 03:34"
       },
       {
         "n": 1211,
@@ -3803,6 +3796,11 @@
     ],
     "shipped": [
       {
+        "n": 1210,
+        "head": "Sky Spike: a friend's held spike charges with no prediction, and the kill card covers the point banner",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1203,
         "head": "SKY SPIKE dive: the whole figure jumps 20-48 px on screen near the dig in 9 of 145 dives",
         "detail": "measure the camera, then decide",
@@ -3821,6 +3819,11 @@
       {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
+        "date": "2026-11-23"
+      },
+      {
+        "n": 815,
+        "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check",
         "date": "2026-11-23"
       },
       {
@@ -3856,20 +3859,9 @@
         "n": 785,
         "head": "SPORTS ISLAND: new pictures for SKY SPIKE and COMET CLASH",
         "date": "2026-11-23"
-      },
-      {
-        "n": 767,
-        "head": "Hornet's near-black legs; skins-2026-11-23-hornet-legs.sql HELD FOR ALAN'S REVIEWED PASS, registered in MIGRATIONS.md; report builds/2026-11",
-        "detail": "SKINS: the 20 simple fixes from the September audit -- RE-AUDIT FIRST",
-        "date": "2026-11-23"
-      },
-      {
-        "n": 765,
-        "head": "GUEST WITH NO TICKETS: say the rule in one line",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 937,
+    "shippedTotal": 939,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3877,8 +3869,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 14
+      "2026-11-23": 16
     }
   },
-  "changed": "2026-11-23T10:19:23.150Z"
+  "changed": "2026-11-23T10:44:13.898Z"
 }
