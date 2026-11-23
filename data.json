@@ -2818,6 +2818,18 @@
   "stack": {
     "building": [
       {
+        "n": 904,
+        "head": "the hall: two flat panels the camera cannot feel, and the lobby the sweep cannot read",
+        "lane": "arcade",
+        "since": "2026-11-23 15:39"
+      },
+      {
+        "n": 905,
+        "head": "seven more games whose how-to-play card may ask for a move you cannot make right now",
+        "lane": "arcade",
+        "since": "2026-11-23 15:39"
+      },
+      {
         "n": 1243,
         "head": "TOY FURY: the price ladder is flat again",
         "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
@@ -2832,14 +2844,6 @@
       }
     ],
     "next": [
-      {
-        "n": 904,
-        "head": "the hall: two flat panels the camera cannot feel, and the lobby the sweep cannot read"
-      },
-      {
-        "n": 905,
-        "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
-      },
       {
         "n": 917,
         "head": "the last 22 flat-sleep boot gates, and five checks that still lean on a settle sleep"
@@ -3824,5 +3828,5 @@
       "2026-11-23": 53
     }
   },
-  "changed": "2026-11-23T21:39:14.216Z"
+  "changed": "2026-11-23T21:44:14.295Z"
 }
