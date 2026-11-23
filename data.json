@@ -2798,21 +2798,19 @@
   "stack": {
     "building": [
       {
-        "n": 1229,
-        "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
-        "lane": "arcade2",
-        "since": "2026-11-23 10:50"
-      }
-    ],
-    "next": [
-      {
         "n": 881,
-        "head": "The task watcher finds the home page server down in 10 minutes but nothing restarts it any sooner"
+        "head": "The task watcher finds the home page server down in 10 minutes but nothing restarts it any sooner",
+        "lane": "arcade",
+        "since": "2026-11-23 11:34"
       },
       {
         "n": 884,
-        "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing"
-      },
+        "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing",
+        "lane": "arcade",
+        "since": "2026-11-23 11:34"
+      }
+    ],
+    "next": [
       {
         "n": 888,
         "head": "Tools/planted-sweep.mjs counts archive folders, so a retired harness stays a lead forever"
@@ -3734,6 +3732,10 @@
       {
         "n": 1369,
         "head": "Six teach probes stall mid-tour on a busy laptop, on a different step each run: KnockOn, BroadsideBay, DeepLine, OutOfTheSun, StandStill, Ri"
+      },
+      {
+        "n": 1370,
+        "head": "HANGTIME: a guest who dunks over ANOTHER guest may see his own slam snap back to the rim while the host holds it"
       }
     ],
     "waiting": [
@@ -3755,6 +3757,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1229,
+        "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
+        "date": "2026-11-23"
+      },
       {
         "n": 1228,
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world (found by row 1041, 2026-11-21)",
@@ -3811,14 +3818,9 @@
         "n": 1198,
         "head": "Topple Pull: on a phone the read panel covers the tower's lower floors and the sky above is empty",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1197,
-        "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 961,
+    "shippedTotal": 962,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3826,8 +3828,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 38
+      "2026-11-23": 39
     }
   },
-  "changed": "2026-11-23T17:29:19.309Z"
+  "changed": "2026-11-23T17:39:14.241Z"
 }
