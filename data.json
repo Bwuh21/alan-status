@@ -2764,6 +2764,12 @@
         "since": "2026-11-22 19:04"
       },
       {
+        "n": 703,
+        "head": "Does a real phone ever get the restored-but-dead view? If yes the game should heal itself",
+        "lane": "arcade",
+        "since": "2026-11-22 19:24"
+      },
+      {
         "n": 1182,
         "head": "Volleyball: the dive, the tip and the block are now only behind \"?\"",
         "detail": "nudge each one once, when the ball asks for it",
@@ -2778,10 +2784,6 @@
       }
     ],
     "next": [
-      {
-        "n": 703,
-        "head": "Does a real phone ever get the restored-but-dead view? If yes the game should heal itself"
-      },
       {
         "n": 737,
         "head": "ARCADE: the \"Playing as a guest\" pop-up lands on a game's score on a phone (seen in row 714, Haunt)"
@@ -3935,5 +3937,5 @@
       "2026-11-22": 46
     }
   },
-  "changed": "2026-11-23T01:24:14.419Z"
+  "changed": "2026-11-23T01:29:14.593Z"
 }
