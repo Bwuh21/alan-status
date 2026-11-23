@@ -2799,6 +2799,12 @@
         "head": "Topple Pull: on a phone the read panel covers the tower's lower floors and the sky above is empty",
         "lane": "arcade2",
         "since": "2026-11-22 22:29"
+      },
+      {
+        "n": 1200,
+        "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall",
+        "lane": "arcade2",
+        "since": "2026-11-23 02:49"
       }
     ],
     "next": [
@@ -3189,10 +3195,6 @@
       {
         "n": 1199,
         "head": "ship-game guard check reads \"dirty\" through the shared index, so it skips every game while the index is locked"
-      },
-      {
-        "n": 1200,
-        "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall"
       },
       {
         "n": 1201,
@@ -3899,5 +3901,5 @@
       "2026-11-23": 6
     }
   },
-  "changed": "2026-11-23T08:49:13.733Z"
+  "changed": "2026-11-23T08:54:13.790Z"
 }
