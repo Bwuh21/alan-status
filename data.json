@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T20:46:00.000Z",
+  "updated": "2026-11-23T21:10:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -851,6 +851,11 @@
           "text": "The car menu before the race screen is bugged (your playtest with Ibrahim, 11-03)",
           "status": "done",
           "note": "Live 11-04. You didn't say how it was bugged, so I walked into it the way you do — title screen, GARAGE, then through the row — and photographed all thirteen cars on a phone and on the desk before touching anything. On…"
+        },
+        {
+          "text": "Check the cars themselves for flickering faces (only the track hazards had been checked)",
+          "status": "done",
+          "note": "Live 11-23. Every ride checked, desk and phone. The coloured stripe on the wheels sat a hair off the black tyre, so on the buggy, pickup, chopper and bike it shimmered once the car was a few metres away. It now stands…"
         }
       ]
     },
@@ -2811,21 +2816,7 @@
     }
   ],
   "stack": {
-    "building": [
-      {
-        "n": 1242,
-        "head": "TOY FURY: the cars themselves (the player's and the bots') have never had a rig sweep, only the track hazards have",
-        "lane": "arcade2",
-        "since": "2026-11-23 13:54"
-      },
-      {
-        "n": 1243,
-        "head": "TOY FURY: the price ladder is flat again",
-        "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
-        "lane": "arcade2",
-        "since": "2026-11-23 14:14"
-      }
-    ],
+    "building": [],
     "next": [
       {
         "n": 903,
@@ -3183,6 +3174,11 @@
       {
         "n": 1240,
         "head": "the shared graphics guard holds a party host's frames, which may freeze the guest: test with two browsers and carve parties out if it does"
+      },
+      {
+        "n": 1243,
+        "head": "TOY FURY: the price ladder is flat again",
+        "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families"
       },
       {
         "n": 1244,
@@ -3719,6 +3715,14 @@
       {
         "n": 1377,
         "head": "Deep Line's own Check.mjs, run with no URL, serves only its own folder, so the shared /_ui and /_teach 404 and it reads HALF PAGE REFUSED"
+      },
+      {
+        "n": 1378,
+        "head": "the rig gate PROVES a 0.25 mm step at 0.3-0.7 m: is it reading edge shimmer as a depth fight?"
+      },
+      {
+        "n": 1379,
+        "head": "clip-check-uc geo/touchCollect still treat a merge on a SCALED node as inert; only rigs reads it"
       }
     ],
     "waiting": [
@@ -3740,6 +3744,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1242,
+        "head": "TOY FURY: the cars themselves (the player's and the bots') have never had a rig sweep, only the track hazards have",
+        "date": "2026-11-23"
+      },
       {
         "n": 1241,
         "head": "TOY FURY: a clean lap never puts a panel back",
@@ -3797,14 +3806,9 @@
         "n": 1211,
         "head": "Sky Spike: the sideways-phone title card shows no controls line",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1210,
-        "head": "Sky Spike: a friend's held spike charges with no prediction, and the kill card covers the point banner",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 974,
+    "shippedTotal": 975,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3812,8 +3816,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 51
+      "2026-11-23": 52
     }
   },
-  "changed": "2026-11-23T20:59:13.835Z"
+  "changed": "2026-11-23T21:04:13.806Z"
 }
