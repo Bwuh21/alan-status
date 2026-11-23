@@ -2849,6 +2849,12 @@
         "since": "2026-11-23 17:14"
       },
       {
+        "n": 922,
+        "head": "eleven more checks press Play and may photograph the game overlay while it is still fading in",
+        "lane": "arcade",
+        "since": "2026-11-23 17:29"
+      },
+      {
         "n": 1249,
         "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a ",
         "lane": "arcade2",
@@ -2863,10 +2869,6 @@
       }
     ],
     "next": [
-      {
-        "n": 922,
-        "head": "eleven more checks press Play and may photograph the game overlay while it is still fading in"
-      },
       {
         "n": 923,
         "head": "a game lane that ships a new CornerPocket sim (or toy-house cars file) is only TOLD the room needs restamping; nothing does it"
@@ -3861,5 +3863,5 @@
       "2026-11-23": 60
     }
   },
-  "changed": "2026-11-23T23:29:14.593Z"
+  "changed": "2026-11-23T23:34:14.216Z"
 }
