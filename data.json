@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-23T01:00:00.000Z",
+  "updated": "2026-11-23T01:12:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Undercroft: an old link still opened the six-week-old October copy of the game",
+          "status": "done",
+          "note": "Live 11-22 (row 1175). Anyone with the old link to the October copy of the Undercroft now lands straight on the real game. Checked on the live site on a phone-sized screen: the old link opens today's dungeon with no…"
+        },
+        {
+          "text": "Phone tests that hold two thumbs down were lifting the wrong one",
+          "status": "done",
+          "note": "11-22 (row 695). Read every test that puts two fingers on the screen at once. Three were lifting the wrong one: the Undercroft phone fight test let go of the stick the first time it pressed a button, so it fought the…"
+        },
         {
           "text": "Undercroft: monsters whose lunge never reached a man standing right in front of them",
           "status": "done",
@@ -2738,12 +2748,6 @@
   "stack": {
     "building": [
       {
-        "n": 695,
-        "head": "Every two-finger phone harness: touchEnd lists the fingers that LIFT, not the ones that stay",
-        "lane": "arcade",
-        "since": "2026-11-22 18:44"
-      },
-      {
         "n": 697,
         "head": "Every HUD harness that measures an animated plate in virtual frames: a CSS animation is frozen there, so the rect is the first keyframe",
         "lane": "arcade",
@@ -2754,6 +2758,12 @@
         "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/",
         "lane": "arcade2",
         "since": "2026-11-22 18:29"
+      },
+      {
+        "n": 1181,
+        "head": "Skin Kick: the old lesson check reads the first lesson, which is now three prompts",
+        "lane": "arcade2",
+        "since": "2026-11-22 18:59"
       }
     ],
     "next": [
@@ -3192,10 +3202,6 @@
       {
         "n": 1179,
         "head": "Multiplayer: move the backup relay off the work laptop onto the rented server"
-      },
-      {
-        "n": 1181,
-        "head": "Skin Kick: the old lesson check reads the first lesson, which is now three prompts"
       },
       {
         "n": 1182,
@@ -3828,6 +3834,14 @@
         "n": 1337,
         "head": "Undercroft ride: say WHY a kind \"fired N and landed 0\"",
         "detail": "out of reach or a real whiff (left by row 1170, 2026-11-22)"
+      },
+      {
+        "n": 1338,
+        "head": "Undercroft touch-f9 (flow 9 on a thumb): its check 0 says the stick never moves the player, even on its own frozen build (left by row 695, 2"
+      },
+      {
+        "n": 1339,
+        "head": "BroadsideBay deck-check: dies at its first read, the page has no #use button any more (left by row 695, 2026-11-22)"
       }
     ],
     "waiting": [
@@ -3913,7 +3927,7 @@
         "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 903,
+    "shippedTotal": 904,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3921,8 +3935,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 42
+      "2026-11-22": 43
     }
   },
-  "changed": "2026-11-23T00:59:15.693Z"
+  "changed": "2026-11-23T01:04:13.922Z"
 }
