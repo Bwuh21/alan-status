@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 861,
-        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold",
-        "lane": "arcade",
-        "since": "2026-11-23 06:39"
-      },
-      {
         "n": 863,
         "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run",
         "lane": "arcade",
@@ -3825,17 +3819,17 @@
         "date": "2026-11-23"
       },
       {
-        "n": 855,
-        "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)",
+        "n": 861,
+        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold",
         "date": "2026-11-23"
       },
       {
-        "n": 854,
-        "head": "Memory index is at 20.2 KB of its ~24.4 KB read limit: split the next section (2026-11-16)",
+        "n": 855,
+        "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)",
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 951,
+    "shippedTotal": 952,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3843,8 +3837,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 28
+      "2026-11-23": 29
     }
   },
-  "changed": "2026-11-23T13:04:24.701Z"
+  "changed": "2026-11-23T13:39:13.392Z"
 }
