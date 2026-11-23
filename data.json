@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 880,
-        "head": "Alan-CodexTalk has a spent trigger and four other background tasks have no watcher row",
-        "lane": "arcade",
-        "since": "2026-11-23 11:09"
-      },
-      {
         "n": 1229,
         "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
         "lane": "arcade2",
@@ -2812,8 +2806,8 @@
     ],
     "next": [
       {
-        "n": 879,
-        "head": "The night manager leaves no proof of a tick, so its watcher row can only read the exit code"
+        "n": 880,
+        "head": "Alan-CodexTalk has a spent trigger and four other background tasks have no watcher row"
       },
       {
         "n": 881,
@@ -3828,7 +3822,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 959,
+    "shippedTotal": 960,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3836,8 +3830,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 36
+      "2026-11-23": 37
     }
   },
-  "changed": "2026-11-23T17:14:18.250Z"
+  "changed": "2026-11-23T17:19:14.877Z"
 }
