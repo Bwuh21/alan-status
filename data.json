@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 863,
-        "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run",
-        "lane": "arcade",
-        "since": "2026-11-23 07:00"
-      },
-      {
         "n": 1226,
         "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
         "lane": "arcade2",
@@ -3819,17 +3813,17 @@
         "date": "2026-11-23"
       },
       {
-        "n": 861,
-        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold",
+        "n": 863,
+        "head": "two aura checks test builds that are gone: aura-v7-check crashes and aura-v8-check fails 7, on every run",
         "date": "2026-11-23"
       },
       {
-        "n": 855,
-        "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)",
+        "n": 861,
+        "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold",
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 952,
+    "shippedTotal": 953,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3837,8 +3831,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 29
+      "2026-11-23": 30
     }
   },
-  "changed": "2026-11-23T13:39:13.392Z"
+  "changed": "2026-11-23T13:49:13.939Z"
 }
