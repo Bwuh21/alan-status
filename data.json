@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-23T01:45:00.000Z",
+  "updated": "2026-11-23T01:46:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Sky Spike: the dive and the block were only taught behind the '?' -- nudge each once, when the ball asks for it",
+          "status": "done",
+          "note": "Live 11-22 (row 1182). The first time a ball lands just out of your reach, one line at the top says OUT OF REACH? TAP DIVE. The first time their hitter jumps while you stand at the net, it says THEY'RE SPIKING - TAP…"
+        },
         {
           "text": "Tests that measured a popping label while it was frozen at its smallest",
           "status": "done",
@@ -2770,13 +2775,6 @@
         "since": "2026-11-22 19:24"
       },
       {
-        "n": 1182,
-        "head": "Volleyball: the dive, the tip and the block are now only behind \"?\"",
-        "detail": "nudge each one once, when the ball asks for it",
-        "lane": "arcade2",
-        "since": "2026-11-22 19:09"
-      },
-      {
         "n": 1186,
         "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)",
         "lane": "arcade2",
@@ -3875,6 +3873,12 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1182,
+        "head": "Volleyball: the dive, the tip and the block are now only behind \"?\"",
+        "detail": "nudge each one once, when the ball asks for it",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1181,
         "head": "Skin Kick: the old lesson check reads the first lesson, which is now three prompts",
         "date": "2026-11-22"
@@ -3919,14 +3923,9 @@
         "n": 1147,
         "head": "Blend In: the house bot wedges on the counters chasing a player who stands still",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1146,
-        "head": "Undercroft: prove one check that keeps stepping more than 3.6 real seconds after a death in one run",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 907,
+    "shippedTotal": 908,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3934,8 +3933,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 46
+      "2026-11-22": 47
     }
   },
-  "changed": "2026-11-23T01:29:14.593Z"
+  "changed": "2026-11-23T01:34:14.135Z"
 }
