@@ -2789,10 +2789,10 @@
         "since": "2026-11-23 02:39"
       },
       {
-        "n": 1197,
-        "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
-        "lane": "arcade2",
-        "since": "2026-11-22 22:04"
+        "n": 786,
+        "head": "EVERY PARTY GAME OPENS THE SAME WAY: a short \"what is going down\" card, and everyone readies up together",
+        "lane": "arcade",
+        "since": "2026-11-23 02:44"
       },
       {
         "n": 1198,
@@ -2802,10 +2802,6 @@
       }
     ],
     "next": [
-      {
-        "n": 786,
-        "head": "EVERY PARTY GAME OPENS THE SAME WAY: a short \"what is going down\" card, and everyone readies up together"
-      },
       {
         "n": 793,
         "head": "SKINS: re-render the 25 skins the October eye-pass never got to",
@@ -3795,6 +3791,18 @@
       {
         "n": 1348,
         "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s"
+      },
+      {
+        "n": 1350,
+        "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found"
+      },
+      {
+        "n": 1351,
+        "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it"
+      },
+      {
+        "n": 1352,
+        "head": "Topple Pull: when the tower falls, the loser cannot see which block did it"
       }
     ],
     "waiting": [
@@ -3816,6 +3824,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1197,
+        "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
+        "date": "2026-11-23"
+      },
       {
         "n": 792,
         "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
@@ -3873,14 +3886,9 @@
         "n": 1189,
         "head": "Toy Fury: no check plays the four moves that now live behind \"?\"",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1188,
-        "head": "Toy Fury: loop-check's desk leg fails differently each run",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 928,
+    "shippedTotal": 929,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3888,8 +3896,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 5
+      "2026-11-23": 6
     }
   },
-  "changed": "2026-11-23T08:44:14.572Z"
+  "changed": "2026-11-23T08:49:13.733Z"
 }
