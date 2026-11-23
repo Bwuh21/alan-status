@@ -2734,17 +2734,26 @@
         "since": "2026-11-22 17:54"
       },
       {
+        "n": 679,
+        "head": "The skin-door sweep only opens functions named cleanSkin; a colour or skin read straight off a party message beside the door is still found ",
+        "lane": "arcade",
+        "since": "2026-11-22 17:59"
+      },
+      {
         "n": 1169,
         "head": "Undercroft: the gate check's \"the sign reads whole, not HE GUILD\" leg passes or fails depending on where the walk stops",
         "lane": "arcade2",
         "since": "2026-11-22 17:44"
+      },
+      {
+        "n": 1170,
+        "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
+        "detail": "foes that never hit the bench bot",
+        "lane": "arcade2",
+        "since": "2026-11-22 17:59"
       }
     ],
     "next": [
-      {
-        "n": 679,
-        "head": "The skin-door sweep only opens functions named cleanSkin; a colour or skin read straight off a party message beside the door is still found "
-      },
       {
         "n": 692,
         "head": "Tools/ship-committed-game.sh has no job left and still carries the one-night Undercroft refusal"
@@ -3166,11 +3175,6 @@
       {
         "n": 1166,
         "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags"
-      },
-      {
-        "n": 1170,
-        "head": "Undercroft: the ride's \"fired N, landed 0\" warnings",
-        "detail": "foes that never hit the bench bot"
       },
       {
         "n": 1171,
@@ -3915,5 +3919,5 @@
       "2026-11-22": 37
     }
   },
-  "changed": "2026-11-22T23:59:13.753Z"
+  "changed": "2026-11-23T00:07:48.267Z"
 }
