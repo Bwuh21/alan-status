@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 888,
-        "head": "Tools/planted-sweep.mjs counts archive folders, so a retired harness stays a lead forever",
-        "lane": "arcade",
-        "since": "2026-11-23 11:49"
-      },
-      {
         "n": 891,
         "head": "WAITS ON HIS WORD",
         "detail": "Auras: the Uncommon flame all but vanishes on a white floor",
@@ -3727,6 +3721,10 @@
       {
         "n": 1371,
         "head": "Four more servers the task watcher reads (game host, signal relay, usage meter, Ollama) still have no repair"
+      },
+      {
+        "n": 1372,
+        "head": "Space Golf: three live checks plant ball.surf, which the rebuilt game never writes"
       }
     ],
     "waiting": [
@@ -3811,7 +3809,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 964,
+    "shippedTotal": 965,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3819,8 +3817,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 41
+      "2026-11-23": 42
     }
   },
-  "changed": "2026-11-23T18:04:14.783Z"
+  "changed": "2026-11-23T18:09:14.388Z"
 }
