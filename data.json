@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 853,
-        "head": "Housekeeping: run the stranded-file sweep on a schedule, and teach the full audit its noise (row 388, 2026-11-16)",
-        "lane": "arcade",
-        "since": "2026-11-23 05:49"
-      },
-      {
         "n": 854,
         "head": "Memory index is at 20.2 KB of its ~24.4 KB read limit: split the next section (2026-11-16)",
         "lane": "arcade",
@@ -3834,6 +3828,11 @@
         "date": "2026-11-23"
       },
       {
+        "n": 853,
+        "head": "Housekeeping: run the stranded-file sweep on a schedule, and teach the full audit its noise (row 388, 2026-11-16)",
+        "date": "2026-11-23"
+      },
+      {
         "n": 845,
         "head": "the pot banner has faded before the second bowler has looked up",
         "date": "2026-11-23"
@@ -3842,14 +3841,9 @@
         "n": 840,
         "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away",
         "date": "2026-11-23"
-      },
-      {
-        "n": 824,
-        "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 947,
+    "shippedTotal": 948,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3857,8 +3851,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 24
+      "2026-11-23": 25
     }
   },
-  "changed": "2026-11-23T12:19:13.447Z"
+  "changed": "2026-11-23T12:24:13.291Z"
 }
