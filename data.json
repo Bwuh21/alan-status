@@ -2798,18 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 880,
-        "head": "Alan-CodexTalk has a spent trigger and four other background tasks have no watcher row",
-        "lane": "arcade",
-        "since": "2026-11-23 11:19"
-      },
-      {
-        "n": 881,
-        "head": "The task watcher finds the home page server down in 10 minutes but nothing restarts it any sooner",
-        "lane": "arcade",
-        "since": "2026-11-23 11:19"
-      },
-      {
         "n": 1229,
         "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
         "lane": "arcade2",
@@ -2817,6 +2805,10 @@
       }
     ],
     "next": [
+      {
+        "n": 881,
+        "head": "The task watcher finds the home page server down in 10 minutes but nothing restarts it any sooner"
+      },
       {
         "n": 884,
         "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing"
@@ -3826,7 +3818,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 960,
+    "shippedTotal": 961,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3834,8 +3826,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 37
+      "2026-11-23": 38
     }
   },
-  "changed": "2026-11-23T17:24:15.055Z"
+  "changed": "2026-11-23T17:29:19.309Z"
 }
