@@ -2849,6 +2849,12 @@
         "since": "2026-11-23 17:29"
       },
       {
+        "n": 923,
+        "head": "a game lane that ships a new CornerPocket sim (or toy-house cars file) is only TOLD the room needs restamping; nothing does it",
+        "lane": "arcade",
+        "since": "2026-11-23 17:54"
+      },
+      {
         "n": 1249,
         "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a ",
         "lane": "arcade2",
@@ -2863,10 +2869,6 @@
       }
     ],
     "next": [
-      {
-        "n": 923,
-        "head": "a game lane that ships a new CornerPocket sim (or toy-house cars file) is only TOLD the room needs restamping; nothing does it"
-      },
       {
         "n": 926,
         "head": "A game that cannot GET a graphics context at all still shows nothing: the shared guard only covers one that was taken away"
@@ -3857,5 +3859,5 @@
       "2026-11-23": 61
     }
   },
-  "changed": "2026-11-23T23:54:14.903Z"
+  "changed": "2026-11-23T23:59:16.039Z"
 }
