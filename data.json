@@ -2804,6 +2804,13 @@
         "since": "2026-11-23 11:49"
       },
       {
+        "n": 891,
+        "head": "WAITS ON HIS WORD",
+        "detail": "Auras: the Uncommon flame all but vanishes on a white floor",
+        "lane": "arcade",
+        "since": "2026-11-23 11:59"
+      },
+      {
         "n": 1235,
         "head": "Sky Spike: a first-time player never meets the dive",
         "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in",
@@ -2818,11 +2825,6 @@
       }
     ],
     "next": [
-      {
-        "n": 891,
-        "head": "WAITS ON HIS WORD",
-        "detail": "Auras: the Uncommon flame all but vanishes on a white floor"
-      },
       {
         "n": 894,
         "head": "Coin pusher check: the stack lesson line reads red on the slow software renderer since row 409"
@@ -3820,5 +3822,5 @@
       "2026-11-23": 41
     }
   },
-  "changed": "2026-11-23T17:59:14.254Z"
+  "changed": "2026-11-23T18:04:14.783Z"
 }
