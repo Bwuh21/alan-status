@@ -2774,11 +2774,11 @@
         "since": "2026-11-22 20:19"
       },
       {
-        "n": 1187,
-        "head": "Toy Fury: the first race still shows a full dashboard",
-        "detail": "hide what a newcomer cannot use yet",
-        "lane": "arcade2",
-        "since": "2026-11-22 19:34"
+        "n": 746,
+        "head": "SKINS: roll the per-skin aura shape out to every tiered skin (out of row 699)",
+        "detail": "WAITS ON his verdict on the 699 sample",
+        "lane": "arcade",
+        "since": "2026-11-22 20:39"
       },
       {
         "n": 1188,
@@ -2788,11 +2788,6 @@
       }
     ],
     "next": [
-      {
-        "n": 746,
-        "head": "SKINS: roll the per-skin aura shape out to every tiered skin (out of row 699)",
-        "detail": "WAITS ON his verdict on the 699 sample"
-      },
       {
         "n": 747,
         "head": "SKINS: Stormcaller's storm reads orange and thin when he stands still"
@@ -3842,6 +3837,10 @@
       {
         "n": 1343,
         "head": "Clone commit hook: the stale-buffer check refuses a one-line edit to a line an older commit did not have"
+      },
+      {
+        "n": 1344,
+        "head": "Toy Fury: the other live-loop checks start their race the moment the page answers, and the boot can still reset it"
       }
     ],
     "waiting": [
@@ -3872,6 +3871,12 @@
       {
         "n": 1281,
         "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
+        "date": "2026-11-22"
+      },
+      {
+        "n": 1187,
+        "head": "Toy Fury: the first race still shows a full dashboard",
+        "detail": "hide what a newcomer cannot use yet",
         "date": "2026-11-22"
       },
       {
@@ -3920,14 +3925,9 @@
         "n": 1161,
         "head": "Undercroft: the two-player measure never forms a party on the DESK view",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1148,
-        "head": "Blend In: check.mjs \"the wind-up lands\" and \"from the blind side\" fail about one run in two, on the committed copy too",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 912,
+    "shippedTotal": 913,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3935,8 +3935,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 51
+      "2026-11-22": 52
     }
   },
-  "changed": "2026-11-23T02:39:14.358Z"
+  "changed": "2026-11-23T02:44:14.227Z"
 }
