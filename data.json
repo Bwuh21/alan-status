@@ -2802,13 +2802,15 @@
         "head": "the till says \"beat it for N tickets\" and never says a win under 20 seconds pays nothing",
         "lane": "arcade",
         "since": "2026-11-23 11:34"
+      },
+      {
+        "n": 888,
+        "head": "Tools/planted-sweep.mjs counts archive folders, so a retired harness stays a lead forever",
+        "lane": "arcade",
+        "since": "2026-11-23 11:49"
       }
     ],
     "next": [
-      {
-        "n": 888,
-        "head": "Tools/planted-sweep.mjs counts archive folders, so a retired harness stays a lead forever"
-      },
       {
         "n": 891,
         "head": "WAITS ON HIS WORD",
@@ -3168,11 +3170,6 @@
       {
         "n": 1227,
         "head": "BAR BOWLING's old checks are blind: item192 walks to a shoe counter the bar no longer has, and toast-fit counts toasts against a stale numbe"
-      },
-      {
-        "n": 1231,
-        "head": "Head or Body: on a person's punch floor, a sharp hand beats VELVET and THE READER 9 times in 10",
-        "detail": "the bosses stop punching under 25 stamina and a person does not"
       },
       {
         "n": 1232,
@@ -3825,5 +3822,5 @@
       "2026-11-23": 40
     }
   },
-  "changed": "2026-11-23T17:49:14.144Z"
+  "changed": "2026-11-23T17:54:14.359Z"
 }
