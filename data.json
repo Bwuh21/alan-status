@@ -2798,6 +2798,12 @@
   "stack": {
     "building": [
       {
+        "n": 869,
+        "head": "Pod cabinet: the shell is shaded in mismatched square patches from behind",
+        "lane": "arcade",
+        "since": "2026-11-23 07:54"
+      },
+      {
         "n": 1228,
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
         "lane": "arcade2",
@@ -2808,10 +2814,6 @@
       {
         "n": 864,
         "head": "72 harness files roll a random debugging port, so two that roll alike drive ONE Chrome"
-      },
-      {
-        "n": 869,
-        "head": "Pod cabinet: the shell is shaded in mismatched square patches from behind"
       },
       {
         "n": 870,
@@ -3832,5 +3834,5 @@
       "2026-11-23": 31
     }
   },
-  "changed": "2026-11-23T13:54:13.476Z"
+  "changed": "2026-11-23T14:01:27.072Z"
 }
