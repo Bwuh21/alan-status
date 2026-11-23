@@ -2818,12 +2818,6 @@
   "stack": {
     "building": [
       {
-        "n": 903,
-        "head": "the toy house: 24 drawn pieces above the lens's aim height that no camera shape contains",
-        "lane": "arcade",
-        "since": "2026-11-23 15:04"
-      },
-      {
         "n": 1243,
         "head": "TOY FURY: the price ladder is flat again",
         "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
@@ -3730,6 +3724,10 @@
       {
         "n": 1379,
         "head": "clip-check-uc geo/touchCollect still treat a merge on a SCALED node as inert; only rigs reads it"
+      },
+      {
+        "n": 1380,
+        "head": "a game ship that changes a file the LOBBY imports leaves the lobby's ?v= stamp stale, and the next lobby pack refuses"
       }
     ],
     "waiting": [
@@ -3815,7 +3813,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 975,
+    "shippedTotal": 976,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3823,8 +3821,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 52
+      "2026-11-23": 53
     }
   },
-  "changed": "2026-11-23T21:14:24.578Z"
+  "changed": "2026-11-23T21:39:14.216Z"
 }
