@@ -2774,6 +2774,12 @@
         "since": "2026-11-22 20:54"
       },
       {
+        "n": 753,
+        "head": "SKINS: the near-white second aura colour on the four other Divine skins (Solaris, Sphinx Lord, Phoenix, Lunara)",
+        "lane": "arcade",
+        "since": "2026-11-22 21:29"
+      },
+      {
         "n": 1189,
         "head": "Toy Fury: no check plays the four moves that now live behind \"?\"",
         "lane": "arcade2",
@@ -2787,10 +2793,6 @@
       }
     ],
     "next": [
-      {
-        "n": 753,
-        "head": "SKINS: the near-white second aura colour on the four other Divine skins (Solaris, Sphinx Lord, Phoenix, Lunara)"
-      },
       {
         "n": 754,
         "head": "SKINS: a top-tier aura paints no more of a pale skin than an Uncommon does",
@@ -3929,5 +3931,5 @@
       "2026-11-22": 55
     }
   },
-  "changed": "2026-11-23T03:29:15.726Z"
+  "changed": "2026-11-23T03:34:16.744Z"
 }
