@@ -2798,6 +2798,18 @@
   "stack": {
     "building": [
       {
+        "n": 869,
+        "head": "Pod cabinet: the shell is shaded in mismatched square patches from behind",
+        "lane": "arcade",
+        "since": "2026-11-23 08:19"
+      },
+      {
+        "n": 870,
+        "head": "Cabinet studio shooter: tall machines lose their tops on a desk frame, and the pass bar sits 1 point under the thinnest real view",
+        "lane": "arcade",
+        "since": "2026-11-23 08:19"
+      },
+      {
         "n": 1228,
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
         "lane": "arcade2",
@@ -2811,14 +2823,6 @@
       }
     ],
     "next": [
-      {
-        "n": 869,
-        "head": "Pod cabinet: the shell is shaded in mismatched square patches from behind"
-      },
-      {
-        "n": 870,
-        "head": "Cabinet studio shooter: tall machines lose their tops on a desk frame, and the pass bar sits 1 point under the thinnest real view"
-      },
       {
         "n": 878,
         "head": "Teach probes: 23 of them accept the step TICK as the card finishing"
@@ -3838,5 +3842,5 @@
       "2026-11-23": 32
     }
   },
-  "changed": "2026-11-23T14:14:15.303Z"
+  "changed": "2026-11-23T14:24:18.311Z"
 }
