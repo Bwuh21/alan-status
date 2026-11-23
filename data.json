@@ -2789,6 +2789,13 @@
         "since": "2026-11-22 23:54"
       },
       {
+        "n": 792,
+        "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
+        "detail": "raise them clear of the sign",
+        "lane": "arcade",
+        "since": "2026-11-23 01:09"
+      },
+      {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "lane": "arcade2",
@@ -2802,11 +2809,6 @@
       }
     ],
     "next": [
-      {
-        "n": 792,
-        "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
-        "detail": "raise them clear of the sign"
-      },
       {
         "n": 765,
         "head": "GUEST WITH NO TICKETS: say the rule in one line"
@@ -3914,5 +3916,5 @@
       "2026-11-23": 1
     }
   },
-  "changed": "2026-11-23T07:09:14.030Z"
+  "changed": "2026-11-23T07:14:13.844Z"
 }
