@@ -2783,12 +2783,6 @@
   "stack": {
     "building": [
       {
-        "n": 798,
-        "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them",
-        "lane": "arcade",
-        "since": "2026-11-23 03:30"
-      },
-      {
         "n": 800,
         "head": "NEEDS A KEYBOARD SESSION: one line in the game-maintenance skill saying \"never type a stamp\"",
         "lane": "arcade",
@@ -3833,6 +3827,11 @@
         "date": "2026-11-23"
       },
       {
+        "n": 798,
+        "head": "91 pages load a shared file with NO cache stamp at all (87 of them the sound kit), so the row-346 gate cannot see them",
+        "date": "2026-11-23"
+      },
+      {
         "n": 793,
         "head": "SKINS: re-render the 25 skins the October eye-pass never got to",
         "detail": "MACHINE WORK, NO EYES NEEDED",
@@ -3875,14 +3874,9 @@
         "head": "Toy Fury: a bigger race, not a house full of rooms",
         "detail": "open-road tracks, a map",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1281,
-        "head": "A SHARED TEAM PICKER: everyone's own mini figure, their name over it, drag",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 933,
+    "shippedTotal": 934,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3890,8 +3884,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 10
+      "2026-11-23": 11
     }
   },
-  "changed": "2026-11-23T09:39:14.421Z"
+  "changed": "2026-11-23T09:44:13.834Z"
 }
