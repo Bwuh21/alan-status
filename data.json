@@ -2774,6 +2774,12 @@
         "since": "2026-11-22 20:49"
       },
       {
+        "n": 748,
+        "head": "HALL: the painted prize board still names the old fixed four shelf skins and their prices",
+        "lane": "arcade",
+        "since": "2026-11-22 20:54"
+      },
+      {
         "n": 1188,
         "head": "Toy Fury: loop-check's desk leg fails differently each run",
         "lane": "arcade2",
@@ -2787,10 +2793,6 @@
       }
     ],
     "next": [
-      {
-        "n": 748,
-        "head": "HALL: the painted prize board still names the old fixed four shelf skins and their prices"
-      },
       {
         "n": 753,
         "head": "SKINS: the near-white second aura colour on the four other Divine skins (Solaris, Sphinx Lord, Phoenix, Lunara)"
@@ -3929,5 +3931,5 @@
       "2026-11-22": 53
     }
   },
-  "changed": "2026-11-23T02:54:15.809Z"
+  "changed": "2026-11-23T02:59:15.481Z"
 }
