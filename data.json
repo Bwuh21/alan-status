@@ -2783,22 +2783,10 @@
   "stack": {
     "building": [
       {
-        "n": 785,
-        "head": "SPORTS ISLAND: new pictures for SKY SPIKE and COMET CLASH",
-        "lane": "arcade",
-        "since": "2026-11-23 02:39"
-      },
-      {
         "n": 786,
         "head": "EVERY PARTY GAME OPENS THE SAME WAY: a short \"what is going down\" card, and everyone readies up together",
         "lane": "arcade",
         "since": "2026-11-23 02:44"
-      },
-      {
-        "n": 1198,
-        "head": "Topple Pull: on a phone the read panel covers the tower's lower floors and the sky above is empty",
-        "lane": "arcade2",
-        "since": "2026-11-22 22:29"
       },
       {
         "n": 1200,
@@ -3805,6 +3793,14 @@
       {
         "n": 1352,
         "head": "Topple Pull: when the tower falls, the loser cannot see which block did it"
+      },
+      {
+        "n": 1353,
+        "head": "Sky Spike: on the sports-island board the players at the net are small"
+      },
+      {
+        "n": 1354,
+        "head": "Topple Pull: on a phone a pulled bottom-floor block slides under the \"drag down to pull it out\" hint"
       }
     ],
     "waiting": [
@@ -3827,6 +3823,11 @@
     ],
     "shipped": [
       {
+        "n": 1198,
+        "head": "Topple Pull: on a phone the read panel covers the tower's lower floors and the sky above is empty",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "date": "2026-11-23"
@@ -3835,6 +3836,11 @@
         "n": 792,
         "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
         "detail": "raise them clear of the sign",
+        "date": "2026-11-23"
+      },
+      {
+        "n": 785,
+        "head": "SPORTS ISLAND: new pictures for SKY SPIKE and COMET CLASH",
         "date": "2026-11-23"
       },
       {
@@ -3878,19 +3884,9 @@
         "n": 1195,
         "head": "Topple Pull: two harnesses are still on the narrow-desktop grandfather list",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1190,
-        "head": "Last Call: the picture-stopped canary is red on its own home game, 2 of 19",
-        "date": "2026-11-22"
-      },
-      {
-        "n": 1189,
-        "head": "Toy Fury: no check plays the four moves that now live behind \"?\"",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 929,
+    "shippedTotal": 931,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3898,8 +3894,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 6
+      "2026-11-23": 8
     }
   },
-  "changed": "2026-11-23T08:54:13.790Z"
+  "changed": "2026-11-23T09:09:13.705Z"
 }
