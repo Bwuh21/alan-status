@@ -2810,12 +2810,6 @@
         "since": "2026-11-23 06:39"
       },
       {
-        "n": 1221,
-        "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
-        "lane": "arcade2",
-        "since": "2026-11-23 05:44"
-      },
-      {
         "n": 1226,
         "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
         "lane": "arcade2",
@@ -3782,6 +3776,11 @@
     ],
     "shipped": [
       {
+        "n": 1221,
+        "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1219,
         "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
         "date": "2026-11-23"
@@ -3836,14 +3835,9 @@
         "n": 853,
         "head": "Housekeeping: run the stranded-file sweep on a schedule, and teach the full audit its noise (row 388, 2026-11-16)",
         "date": "2026-11-23"
-      },
-      {
-        "n": 845,
-        "head": "the pot banner has faded before the second bowler has looked up",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 949,
+    "shippedTotal": 950,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3851,8 +3845,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 26
+      "2026-11-23": 27
     }
   },
-  "changed": "2026-11-23T12:44:18.942Z"
+  "changed": "2026-11-23T12:49:13.303Z"
 }
