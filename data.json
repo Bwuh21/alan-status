@@ -2769,6 +2769,12 @@
         "detail": "nudge each one once, when the ball asks for it",
         "lane": "arcade2",
         "since": "2026-11-22 19:09"
+      },
+      {
+        "n": 1186,
+        "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)",
+        "lane": "arcade2",
+        "since": "2026-11-22 19:19"
       }
     ],
     "next": [
@@ -3211,10 +3217,6 @@
       {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
-      },
-      {
-        "n": 1186,
-        "head": "Broadside Bay: seven more checks boot the game wrong (served from the game folder, or modules as binary)"
       },
       {
         "n": 1187,
@@ -3933,5 +3935,5 @@
       "2026-11-22": 46
     }
   },
-  "changed": "2026-11-23T01:19:14.012Z"
+  "changed": "2026-11-23T01:24:14.419Z"
 }
