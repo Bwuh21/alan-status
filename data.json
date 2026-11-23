@@ -2805,6 +2805,12 @@
         "since": "2026-11-23 11:59"
       },
       {
+        "n": 894,
+        "head": "Coin pusher check: the stack lesson line reads red on the slow software renderer since row 409",
+        "lane": "arcade",
+        "since": "2026-11-23 12:09"
+      },
+      {
         "n": 1235,
         "head": "Sky Spike: a first-time player never meets the dive",
         "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in",
@@ -2819,10 +2825,6 @@
       }
     ],
     "next": [
-      {
-        "n": 894,
-        "head": "Coin pusher check: the stack lesson line reads red on the slow software renderer since row 409"
-      },
       {
         "n": 895,
         "head": "the room call can still come up over the DIRECTORY, the shop and the garage"
@@ -3820,5 +3822,5 @@
       "2026-11-23": 42
     }
   },
-  "changed": "2026-11-23T18:09:14.388Z"
+  "changed": "2026-11-23T18:14:14.695Z"
 }
