@@ -2788,10 +2788,10 @@
   "stack": {
     "building": [
       {
-        "n": 820,
-        "head": "the HALL: about 45 same-plane spots across some 25 small line pairs, listed and left",
+        "n": 823,
+        "head": "the z-fight pair test calls boards that only TOUCH an overlap",
         "lane": "arcade",
-        "since": "2026-11-23 04:14"
+        "since": "2026-11-23 04:44"
       },
       {
         "n": 1211,
@@ -2801,10 +2801,6 @@
       }
     ],
     "next": [
-      {
-        "n": 823,
-        "head": "the z-fight pair test calls boards that only TOUCH an overlap"
-      },
       {
         "n": 824,
         "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair"
@@ -2816,10 +2812,6 @@
       {
         "n": 845,
         "head": "the pot banner has faded before the second bowler has looked up"
-      },
-      {
-        "n": 852,
-        "head": "Arcade hall: the neon sign tubes are the one flicker fix of six that never came back (row 388 found it, 2026-11-16)"
       },
       {
         "n": 853,
@@ -3872,5 +3864,5 @@
       "2026-11-23": 16
     }
   },
-  "changed": "2026-11-23T10:44:13.898Z"
+  "changed": "2026-11-23T10:49:14.042Z"
 }
