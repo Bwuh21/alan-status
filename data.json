@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-23T01:12:00.000Z",
+  "updated": "2026-11-23T01:45:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Tests that measured a popping label while it was frozen at its smallest",
+          "status": "done",
+          "note": "11-22 (row 697). Sky Spike's 'fully on screen' test for the gold PERFECT label measured it at its smallest, frozen first frame (125 px wide), when the player sees it grow to 210 px. Now it measures the label over the…"
+        },
+        {
+          "text": "Skin Kick: the test for the full how-to-play had been switched off since the lessons got shorter",
+          "status": "done",
+          "note": "11-22 (row 1181). The long how-to-play is now what you get from the '?' button, so the test now presses the real '?' as a returning player and does all eight steps (run, kick, score, big shot, trick, shove, slide, gold…"
+        },
         {
           "text": "Undercroft: an old link still opened the six-week-old October copy of the game",
           "status": "done",
@@ -2748,22 +2758,10 @@
   "stack": {
     "building": [
       {
-        "n": 697,
-        "head": "Every HUD harness that measures an animated plate in virtual frames: a CSS animation is frozen there, so the rect is the first keyframe",
-        "lane": "arcade",
-        "since": "2026-11-22 18:50"
-      },
-      {
         "n": 702,
         "head": "The shared launcher calls a restored-but-dead 3D view healthy: every screenshot harness of every WebGL game can photograph nothing",
         "lane": "arcade",
         "since": "2026-11-22 19:04"
-      },
-      {
-        "n": 1181,
-        "head": "Skin Kick: the old lesson check reads the first lesson, which is now three prompts",
-        "lane": "arcade2",
-        "since": "2026-11-22 18:59"
       },
       {
         "n": 1182,
@@ -3873,6 +3871,11 @@
         "date": "2026-11-22"
       },
       {
+        "n": 1181,
+        "head": "Skin Kick: the old lesson check reads the first lesson, which is now three prompts",
+        "date": "2026-11-22"
+      },
+      {
         "n": 1175,
         "head": "Undercroft: the live site still serves the old 10-02 copy of the game at games/Undercroft/next/",
         "date": "2026-11-22"
@@ -3917,15 +3920,9 @@
         "n": 1146,
         "head": "Undercroft: prove one check that keeps stepping more than 3.6 real seconds after a death in one run",
         "date": "2026-11-22"
-      },
-      {
-        "n": 1145,
-        "head": "already fixed by row 871, 452dd6bd; verified)",
-        "detail": "Undercroft: dev/gate.mjs never boots: HALF PAGE REFUSED for ../_ui/gfx-guard.js",
-        "date": "2026-11-22"
       }
     ],
-    "shippedTotal": 905,
+    "shippedTotal": 907,
     "shippedOn": {
       "2026-11-16": 79,
       "2026-11-17": 43,
@@ -3933,8 +3930,8 @@
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
-      "2026-11-22": 44
+      "2026-11-22": 46
     }
   },
-  "changed": "2026-11-23T01:14:14.027Z"
+  "changed": "2026-11-23T01:19:14.012Z"
 }
