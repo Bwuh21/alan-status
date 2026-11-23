@@ -2783,11 +2783,10 @@
   "stack": {
     "building": [
       {
-        "n": 768,
-        "head": "CONVOY and TOLL BRIDGE come off the site",
-        "detail": "he is removing both",
+        "n": 785,
+        "head": "SPORTS ISLAND: new pictures for SKY SPIKE and COMET CLASH",
         "lane": "arcade",
-        "since": "2026-11-23 02:14"
+        "since": "2026-11-23 02:39"
       },
       {
         "n": 1197,
@@ -2803,10 +2802,6 @@
       }
     ],
     "next": [
-      {
-        "n": 785,
-        "head": "SPORTS ISLAND: new pictures for SKY SPIKE and COMET CLASH"
-      },
       {
         "n": 786,
         "head": "EVERY PARTY GAME OPENS THE SAME WAY: a short \"what is going down\" card, and everyone readies up together"
@@ -3896,5 +3891,5 @@
       "2026-11-23": 5
     }
   },
-  "changed": "2026-11-23T08:39:14.587Z"
+  "changed": "2026-11-23T08:44:14.572Z"
 }
