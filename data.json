@@ -2823,12 +2823,6 @@
   "stack": {
     "building": [
       {
-        "n": 905,
-        "head": "seven more games whose how-to-play card may ask for a move you cannot make right now",
-        "lane": "arcade",
-        "since": "2026-11-23 16:04"
-      },
-      {
         "n": 917,
         "head": "the last 22 flat-sleep boot gates, and five checks that still lean on a settle sleep",
         "lane": "arcade",
@@ -3740,6 +3734,11 @@
       {
         "n": 1384,
         "head": "TOY FURY: the Chopper (420 tickets) wins about half its races, more than every dearer ride"
+      },
+      {
+        "n": 1385,
+        "head": "KnockOn: its own how-to-play check fails 15 rows (the pieces get set, the card reads a step behind)",
+        "detail": "same on the build before row 905"
       }
     ],
     "waiting": [
@@ -3826,7 +3825,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 978,
+    "shippedTotal": 979,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3834,8 +3833,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 55
+      "2026-11-23": 56
     }
   },
-  "changed": "2026-11-23T22:19:14.028Z"
+  "changed": "2026-11-23T22:24:13.889Z"
 }
