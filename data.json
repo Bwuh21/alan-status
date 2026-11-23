@@ -2824,12 +2824,6 @@
         "since": "2026-11-23 15:04"
       },
       {
-        "n": 904,
-        "head": "the hall: two flat panels the camera cannot feel, and the lobby the sweep cannot read",
-        "lane": "arcade",
-        "since": "2026-11-23 15:04"
-      },
-      {
         "n": 1243,
         "head": "TOY FURY: the price ladder is flat again",
         "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
@@ -2844,6 +2838,10 @@
       }
     ],
     "next": [
+      {
+        "n": 904,
+        "head": "the hall: two flat panels the camera cannot feel, and the lobby the sweep cannot read"
+      },
       {
         "n": 905,
         "head": "seven more games whose how-to-play card may ask for a move you cannot make right now"
@@ -3828,5 +3826,5 @@
       "2026-11-23": 52
     }
   },
-  "changed": "2026-11-23T21:09:17.016Z"
+  "changed": "2026-11-23T21:14:24.578Z"
 }
