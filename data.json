@@ -2802,6 +2802,18 @@
         "head": "the pot banner has faded before the second bowler has looked up",
         "lane": "arcade",
         "since": "2026-11-23 05:34"
+      },
+      {
+        "n": 1219,
+        "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
+        "lane": "arcade2",
+        "since": "2026-11-23 05:44"
+      },
+      {
+        "n": 1221,
+        "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
+        "lane": "arcade2",
+        "since": "2026-11-23 05:44"
       }
     ],
     "next": [
@@ -3212,10 +3224,6 @@
       {
         "n": 1224,
         "head": "BAR DARTS with a friend: at leg end the loser's panel shows a big \"0 left\", the winner's number"
-      },
-      {
-        "n": 1221,
-        "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time"
       },
       {
         "n": 1225,
@@ -3856,5 +3864,5 @@
       "2026-11-23": 22
     }
   },
-  "changed": "2026-11-23T11:44:14.760Z"
+  "changed": "2026-11-23T11:49:17.650Z"
 }
