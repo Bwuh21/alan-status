@@ -2798,28 +2798,10 @@
   "stack": {
     "building": [
       {
-        "n": 840,
-        "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away",
-        "lane": "arcade",
-        "since": "2026-11-23 04:59"
-      },
-      {
         "n": 845,
         "head": "the pot banner has faded before the second bowler has looked up",
         "lane": "arcade",
         "since": "2026-11-23 05:34"
-      },
-      {
-        "n": 1218,
-        "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
-        "lane": "arcade2",
-        "since": "2026-11-23 04:54"
-      },
-      {
-        "n": 1219,
-        "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
-        "lane": "arcade2",
-        "since": "2026-11-23 05:29"
       }
     ],
     "next": [
@@ -3776,6 +3758,10 @@
       {
         "n": 1360,
         "head": "OutOfTheSun's own check.mjs went red (nightly instrument sweep, 2026-11-23)"
+      },
+      {
+        "n": 1361,
+        "head": "BARN BURNER with a friend: the guest's own skater still pops 2-5 times as often as the host's, even on the desk at 0 ms"
       }
     ],
     "waiting": [
@@ -3797,6 +3783,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1218,
+        "head": "BARN BURNER with a friend: the guest's puck jerks 2-4 times a second on a slow line, against the host's 1",
+        "date": "2026-11-23"
+      },
       {
         "n": 1214,
         "head": "BACK NINE: on a phone held sideways (844x390) the \"Hole 1\" title sits on top of the hole's tip line",
@@ -3834,6 +3825,11 @@
         "date": "2026-11-23"
       },
       {
+        "n": 840,
+        "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away",
+        "date": "2026-11-23"
+      },
+      {
         "n": 824,
         "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair",
         "date": "2026-11-23"
@@ -3847,21 +3843,9 @@
         "n": 815,
         "head": "bowl1022-check still times its waits on the wall clock, the fault row 363 took out of bowl-check",
         "date": "2026-11-23"
-      },
-      {
-        "n": 813,
-        "head": "MINE",
-        "detail": "the KC weekend watch was promised to his phone and had no reader",
-        "date": "2026-11-23"
-      },
-      {
-        "n": 812,
-        "head": "MINE, at a sitting",
-        "detail": "59 maintenance lessons were written, refused by the gate, and parked where nothing reads them",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 943,
+    "shippedTotal": 945,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3869,8 +3853,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 20
+      "2026-11-23": 22
     }
   },
-  "changed": "2026-11-23T11:39:14.838Z"
+  "changed": "2026-11-23T11:44:14.760Z"
 }
