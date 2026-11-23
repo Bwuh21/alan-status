@@ -2789,6 +2789,12 @@
         "since": "2026-11-23 04:09"
       },
       {
+        "n": 820,
+        "head": "the HALL: about 45 same-plane spots across some 25 small line pairs, listed and left",
+        "lane": "arcade",
+        "since": "2026-11-23 04:14"
+      },
+      {
         "n": 1210,
         "head": "Sky Spike: a friend's held spike charges with no prediction, and the kill card covers the point banner",
         "lane": "arcade2",
@@ -2802,10 +2808,6 @@
       }
     ],
     "next": [
-      {
-        "n": 820,
-        "head": "the HALL: about 45 same-plane spots across some 25 small line pairs, listed and left"
-      },
       {
         "n": 823,
         "head": "the z-fight pair test calls boards that only TOUCH an overlap"
@@ -3878,5 +3880,5 @@
       "2026-11-23": 14
     }
   },
-  "changed": "2026-11-23T10:14:14.458Z"
+  "changed": "2026-11-23T10:19:23.150Z"
 }
