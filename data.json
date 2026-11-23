@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T10:45:00.000Z",
+  "updated": "2026-11-23T10:52:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2781,6 +2781,11 @@
           "text": "A friend's power bar fills as they hold, and the kill card reads clean on a phone (row 1210)",
           "status": "done",
           "note": "Shipped 2026-11-23. A friend's power bar used to fill only when the host's picture arrived, a phone-data delay behind their thumb. Now it fills on their own screen as they hold, and the host's number keeps it honest. On…"
+        },
+        {
+          "text": "A sideways phone's title card names the buttons (row 1211)",
+          "status": "done",
+          "note": "Shipped 2026-11-23. Held sideways, the title card used to hide the controls line entirely. It now shows one line under PLAY: left thumb moves, HIT, TIP, DIVE, hold HIT in the air for power. It fits on one line on an…"
         }
       ]
     }
@@ -2794,17 +2799,13 @@
         "since": "2026-11-23 04:44"
       },
       {
-        "n": 1211,
-        "head": "Sky Spike: the sideways-phone title card shows no controls line",
-        "lane": "arcade2",
-        "since": "2026-11-23 03:54"
+        "n": 824,
+        "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair",
+        "lane": "arcade",
+        "since": "2026-11-23 04:49"
       }
     ],
     "next": [
-      {
-        "n": 824,
-        "head": "the 2 mm rule fails at 50 m, and the z-fight sweep never looks that far for a 1 to 2.5 mm pair"
-      },
       {
         "n": 840,
         "head": "the party-rail check still sweeps the \"your ball\" arrow from the world origin, an island away"
@@ -3788,6 +3789,11 @@
     ],
     "shipped": [
       {
+        "n": 1211,
+        "head": "Sky Spike: the sideways-phone title card shows no controls line",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1210,
         "head": "Sky Spike: a friend's held spike charges with no prediction, and the kill card covers the point banner",
         "date": "2026-11-23"
@@ -3846,14 +3852,9 @@
         "head": "SPORTS ISLAND: the hockey sticks on the Barn Burner portal sit over its name",
         "detail": "raise them clear of the sign",
         "date": "2026-11-23"
-      },
-      {
-        "n": 785,
-        "head": "SPORTS ISLAND: new pictures for SKY SPIKE and COMET CLASH",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 939,
+    "shippedTotal": 940,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3861,8 +3862,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 16
+      "2026-11-23": 17
     }
   },
-  "changed": "2026-11-23T10:49:14.042Z"
+  "changed": "2026-11-23T10:54:14.698Z"
 }
