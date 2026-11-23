@@ -2784,6 +2784,12 @@
         "since": "2026-11-22 22:44"
       },
       {
+        "n": 759,
+        "head": "EVERY PORTAL: run through it OR press E, either one, from BOTH sides",
+        "lane": "arcade",
+        "since": "2026-11-22 23:14"
+      },
+      {
         "n": 1197,
         "head": "Topple Pull: the bots' rollout watch is too short to see a slow tip",
         "lane": "arcade2",
@@ -2797,10 +2803,6 @@
       }
     ],
     "next": [
-      {
-        "n": 759,
-        "head": "EVERY PORTAL: run through it OR press E, either one, from BOTH sides"
-      },
       {
         "n": 760,
         "head": "retire the standalone UndercroftPreview link he sent his brother on 2026-10-01"
@@ -3917,5 +3919,5 @@
       "2026-11-22": 62
     }
   },
-  "changed": "2026-11-23T05:14:13.355Z"
+  "changed": "2026-11-23T05:19:14.794Z"
 }
