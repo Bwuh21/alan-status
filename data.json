@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 878,
-        "head": "Teach probes: 23 of them accept the step TICK as the card finishing",
-        "lane": "arcade",
-        "since": "2026-11-23 09:09"
-      },
-      {
         "n": 1229,
         "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
         "lane": "arcade2",
@@ -3740,6 +3734,14 @@
       {
         "n": 1367,
         "head": "HANGTIME dev/teach-check.mjs desk fails \"the match reached the final whistle\" on the committed build too: a bot-driven match to 11 is not do"
+      },
+      {
+        "n": 1368,
+        "head": "HANGTIME teach-check run whole (no shell named): the phone and wide legs never see a card, step -1 from the first read"
+      },
+      {
+        "n": 1369,
+        "head": "Six teach probes stall mid-tour on a busy laptop, on a different step each run: KnockOn, BroadsideBay, DeepLine, OutOfTheSun, StandStill, Ri"
       }
     ],
     "waiting": [
@@ -3824,7 +3826,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 958,
+    "shippedTotal": 959,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3832,8 +3834,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 35
+      "2026-11-23": 36
     }
   },
-  "changed": "2026-11-23T16:54:14.955Z"
+  "changed": "2026-11-23T17:09:14.851Z"
 }
