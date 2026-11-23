@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:45:00.000Z",
+  "updated": "2026-11-23T19:40:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2803,23 +2803,10 @@
   "stack": {
     "building": [
       {
-        "n": 894,
-        "head": "Coin pusher check: the stack lesson line reads red on the slow software renderer since row 409",
-        "lane": "arcade",
-        "since": "2026-11-23 12:09"
-      },
-      {
         "n": 895,
         "head": "the room call can still come up over the DIRECTORY, the shop and the garage",
         "lane": "arcade",
         "since": "2026-11-23 12:34"
-      },
-      {
-        "n": 1235,
-        "head": "Sky Spike: a first-time player never meets the dive",
-        "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in",
-        "lane": "arcade2",
-        "since": "2026-11-23 11:54"
       },
       {
         "n": 1239,
@@ -3731,6 +3718,14 @@
       {
         "n": 1373,
         "head": "Auras on other PALE floors: survey which games need setAuraGround"
+      },
+      {
+        "n": 1374,
+        "head": "Coin pusher: held lines count on the clamped machine clock, so a 6 s line can stand ~12 s on a slow device"
+      },
+      {
+        "n": 1375,
+        "head": "coinp-check phone: \"ten coins down the middle win some back\" reads dropped 11 under load"
       }
     ],
     "waiting": [
@@ -3752,6 +3747,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1235,
+        "head": "Sky Spike: a first-time player never meets the dive",
+        "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in",
+        "date": "2026-11-23"
+      },
       {
         "n": 1229,
         "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
@@ -3808,14 +3809,9 @@
         "n": 1200,
         "head": "Undercroft: a soft lock never lets go when its foe walks away or goes behind a wall",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1198,
-        "head": "Topple Pull: on a phone the read panel covers the tower's lower floors and the sky above is empty",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 966,
+    "shippedTotal": 968,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3823,8 +3819,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 43
+      "2026-11-23": 45
     }
   },
-  "changed": "2026-11-23T18:39:18.316Z"
+  "changed": "2026-11-23T19:34:13.550Z"
 }
