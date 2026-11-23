@@ -2798,12 +2798,6 @@
   "stack": {
     "building": [
       {
-        "n": 855,
-        "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)",
-        "lane": "arcade",
-        "since": "2026-11-23 06:29"
-      },
-      {
         "n": 861,
         "head": "25 games' headless drivers still SLEEP a tap, so on a busy machine every tap is a hold",
         "lane": "arcade",
@@ -2814,6 +2808,12 @@
         "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
         "lane": "arcade2",
         "since": "2026-11-23 06:24"
+      },
+      {
+        "n": 1228,
+        "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world",
+        "lane": "arcade2",
+        "since": "2026-11-23 06:49"
       }
     ],
     "next": [
@@ -3216,10 +3216,6 @@
       {
         "n": 1227,
         "head": "BAR BOWLING's old checks are blind: item192 walks to a shoe counter the bar no longer has, and toast-fit counts toasts against a stale numbe"
-      },
-      {
-        "n": 1228,
-        "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world"
       },
       {
         "n": 1229,
@@ -3827,17 +3823,17 @@
         "date": "2026-11-23"
       },
       {
-        "n": 854,
-        "head": "Memory index is at 20.2 KB of its ~24.4 KB read limit: split the next section (2026-11-16)",
+        "n": 855,
+        "head": "The commit hook is kept installed on this box only: the two server boxes were never checked (row 389, 2026-11-16)",
         "date": "2026-11-23"
       },
       {
-        "n": 853,
-        "head": "Housekeeping: run the stranded-file sweep on a schedule, and teach the full audit its noise (row 388, 2026-11-16)",
+        "n": 854,
+        "head": "Memory index is at 20.2 KB of its ~24.4 KB read limit: split the next section (2026-11-16)",
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 950,
+    "shippedTotal": 951,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3845,8 +3841,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 27
+      "2026-11-23": 28
     }
   },
-  "changed": "2026-11-23T12:49:13.303Z"
+  "changed": "2026-11-23T12:54:13.555Z"
 }
