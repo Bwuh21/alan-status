@@ -2843,12 +2843,6 @@
   "stack": {
     "building": [
       {
-        "n": 921,
-        "head": "four more bar checks still look for the bar at its old cell",
-        "lane": "arcade",
-        "since": "2026-11-23 17:14"
-      },
-      {
         "n": 922,
         "head": "eleven more checks press Play and may photograph the game overlay while it is still fading in",
         "lane": "arcade",
@@ -3852,7 +3846,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 983,
+    "shippedTotal": 984,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3860,8 +3854,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 60
+      "2026-11-23": 61
     }
   },
-  "changed": "2026-11-23T23:34:14.216Z"
+  "changed": "2026-11-23T23:54:14.903Z"
 }
