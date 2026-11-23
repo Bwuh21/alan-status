@@ -2780,6 +2780,12 @@
         "detail": "hide what a newcomer cannot use yet",
         "lane": "arcade2",
         "since": "2026-11-22 19:34"
+      },
+      {
+        "n": 1188,
+        "head": "Toy Fury: loop-check's desk leg fails differently each run",
+        "lane": "arcade2",
+        "since": "2026-11-22 19:59"
       }
     ],
     "next": [
@@ -3214,10 +3220,6 @@
       {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
-      },
-      {
-        "n": 1188,
-        "head": "Toy Fury: loop-check's desk leg fails differently each run"
       },
       {
         "n": 1189,
@@ -3937,5 +3939,5 @@
       "2026-11-22": 49
     }
   },
-  "changed": "2026-11-23T01:54:15.221Z"
+  "changed": "2026-11-23T02:04:15.339Z"
 }
