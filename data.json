@@ -7,6 +7,11 @@
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
         {
+          "text": "Toy Fury: a clean lap on one panel never put a panel back (row 1241)",
+          "status": "done",
+          "note": "Live 11-23 (row 1241). The rule was never broken: the test car had been falling off a drop that lap, so there was no clean lap to reward. The test now judges every lap on its own and passes on 5 of 5 seeds, seed 33…"
+        },
+        {
           "text": "Flicker check: catch big flat surfaces that only shimmer when seen from far away (row 824)",
           "status": "done",
           "note": "Live 11-23 (row 824). The flicker checker now also looks from 50 m at big surfaces that sit 1 to 2.5 mm apart, because a 2 mm gap that is fine up close shimmers from that far. It found one: the skate park's raised plaza…"
@@ -3184,11 +3189,6 @@
         "head": "the shared graphics guard holds a party host's frames, which may freeze the guest: test with two browsers and carve parties out if it does"
       },
       {
-        "n": 1241,
-        "head": "TOY FURY: a clean lap never puts a panel back",
-        "detail": "wear-check seed 33 ends on 1 panel with zero mends"
-      },
-      {
         "n": 1243,
         "head": "TOY FURY: the price ladder is flat again",
         "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families"
@@ -3742,6 +3742,12 @@
     ],
     "shipped": [
       {
+        "n": 1241,
+        "head": "TOY FURY: a clean lap never puts a panel back",
+        "detail": "wear-check seed 33 ends on 1 panel with zero mends",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1239,
         "head": "Dodgeball says '3d' over a dead picture: its self-report should answer 'lost' when the shared guard says the view is dead",
         "date": "2026-11-23"
@@ -3797,15 +3803,9 @@
         "n": 1210,
         "head": "Sky Spike: a friend's held spike charges with no prediction, and the kill card covers the point banner",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1203,
-        "head": "SKY SPIKE dive: the whole figure jumps 20-48 px on screen near the dig in 9 of 145 dives",
-        "detail": "measure the camera, then decide",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 970,
+    "shippedTotal": 971,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3813,8 +3813,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 47
+      "2026-11-23": 48
     }
   },
-  "changed": "2026-11-23T20:09:13.639Z"
+  "changed": "2026-11-23T20:14:13.833Z"
 }
