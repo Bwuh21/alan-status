@@ -2803,16 +2803,16 @@
   "stack": {
     "building": [
       {
-        "n": 895,
-        "head": "the room call can still come up over the DIRECTORY, the shop and the garage",
-        "lane": "arcade",
-        "since": "2026-11-23 12:34"
-      },
-      {
         "n": 897,
         "head": "Deep Line: a full string's lowest fish hang under HAUL UP, and a shark's warning ring there cannot be seen",
         "lane": "arcade",
         "since": "2026-11-23 13:34"
+      },
+      {
+        "n": 1242,
+        "head": "TOY FURY: the cars themselves (the player's and the bots') have never had a rig sweep, only the track hazards have",
+        "lane": "arcade2",
+        "since": "2026-11-23 13:54"
       }
     ],
     "next": [
@@ -3185,10 +3185,6 @@
         "n": 1241,
         "head": "TOY FURY: a clean lap never puts a panel back",
         "detail": "wear-check seed 33 ends on 1 panel with zero mends"
-      },
-      {
-        "n": 1242,
-        "head": "TOY FURY: the cars themselves (the player's and the bots') have never had a rig sweep, only the track hazards have"
       },
       {
         "n": 1243,
@@ -3807,7 +3803,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 969,
+    "shippedTotal": 970,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3815,8 +3811,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 46
+      "2026-11-23": 47
     }
   },
-  "changed": "2026-11-23T19:54:13.789Z"
+  "changed": "2026-11-23T19:59:13.777Z"
 }
