@@ -2864,6 +2864,12 @@
   "stack": {
     "building": [
       {
+        "n": 952,
+        "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip",
+        "lane": "arcade",
+        "since": "2026-11-24 00:04"
+      },
+      {
         "n": 1262,
         "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -2880,10 +2886,6 @@
       {
         "n": 951,
         "head": "the arcade's own \"phone\" pictures are still narrow desktops: burn down the grandfather list for the shared portal checks"
-      },
-      {
-        "n": 952,
-        "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip"
       },
       {
         "n": 954,
@@ -3852,5 +3854,5 @@
       "2026-11-23": 81
     }
   },
-  "changed": "2026-11-24T06:00:40.655Z"
+  "changed": "2026-11-24T06:09:28.488Z"
 }
