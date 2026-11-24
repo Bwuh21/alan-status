@@ -2848,16 +2848,10 @@
   "stack": {
     "building": [
       {
-        "n": 941,
-        "head": "fourteen other one-line panels in the lobby cut their text with three dots and nobody has measured them (left by row 448, 2026-11-17)",
-        "lane": "arcade",
-        "since": "2026-11-23 20:49"
-      },
-      {
-        "n": 1260,
-        "head": "LastCall: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "n": 1261,
+        "head": "IceHockey: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
-        "since": "2026-11-23 20:59"
+        "since": "2026-11-23 21:29"
       }
     ],
     "next": [
@@ -3181,10 +3175,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1261,
-        "head": "IceHockey: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1262,
@@ -3745,6 +3735,14 @@
       {
         "n": 1401,
         "head": "Riposte's desk how-to check still misses its staged parry catch most runs (seen by row 1258, 2026-11-23)"
+      },
+      {
+        "n": 1402,
+        "head": "pinball-check is a dead check: pinball left the bar 2026-11-16 and the check still asks for two machines (left by row 941, 2026-11-23)"
+      },
+      {
+        "n": 1403,
+        "head": "skin card price: measure it against the real skins table, not a stand-in (left by row 941, 2026-11-23)"
       }
     ],
     "waiting": [
@@ -3833,7 +3831,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1000,
+    "shippedTotal": 1001,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3841,8 +3839,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 77
+      "2026-11-23": 78
     }
   },
-  "changed": "2026-11-24T03:29:13.784Z"
+  "changed": "2026-11-24T03:34:13.574Z"
 }
