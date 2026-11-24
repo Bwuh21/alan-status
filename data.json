@@ -2914,6 +2914,13 @@
         "detail": "it is not on the wire (found building row 1121, 2026-11-21) region-skate",
         "lane": "arcade2",
         "since": "2026-11-24 16:34"
+      },
+      {
+        "n": 1278,
+        "head": "Slab City: FRIENDS never see the ollie wind-up crouch",
+        "detail": "it is not on the wire (found building row 1122, 2026-11-21) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-24 16:59"
       }
     ],
     "next": [
@@ -3235,11 +3242,6 @@
       {
         "n": 1277,
         "head": "the step-spread ruler watches every party game's BODY but none of their CAMERAS"
-      },
-      {
-        "n": 1278,
-        "head": "Slab City: FRIENDS never see the ollie wind-up crouch",
-        "detail": "it is not on the wire (found building row 1122, 2026-11-21) region-skate"
       },
       {
         "n": 1279,
@@ -3931,5 +3933,5 @@
       "2026-11-24": 19
     }
   },
-  "changed": "2026-11-24T22:54:14.246Z"
+  "changed": "2026-11-24T23:04:14.717Z"
 }
