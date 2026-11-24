@@ -2848,12 +2848,6 @@
   "stack": {
     "building": [
       {
-        "n": 935,
-        "head": "the shared lesson card leaves the last round's card live when a finished lesson is started again",
-        "lane": "arcade",
-        "since": "2026-11-23 19:04"
-      },
-      {
         "n": 937,
         "head": "four game harnesses die on \"NO SIGN OF LIFE\" before they finish, on the committed build",
         "lane": "arcade",
@@ -2865,6 +2859,12 @@
         "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate",
         "lane": "arcade2",
         "since": "2026-11-23 18:59"
+      },
+      {
+        "n": 1258,
+        "head": "Riposte: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "lane": "arcade2",
+        "since": "2026-11-23 19:34"
       }
     ],
     "next": [
@@ -3196,10 +3196,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1258,
-        "head": "Riposte: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1259,
@@ -3845,7 +3841,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 994,
+    "shippedTotal": 995,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3853,8 +3849,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 71
+      "2026-11-23": 72
     }
   },
-  "changed": "2026-11-24T01:34:13.539Z"
+  "changed": "2026-11-24T01:39:14.490Z"
 }
