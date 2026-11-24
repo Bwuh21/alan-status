@@ -2896,18 +2896,21 @@
         "since": "2026-11-24 11:19"
       },
       {
-        "n": 1270,
-        "head": "TubeGuy: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "n": 1413,
+        "head": "LAUNCH: soccer",
+        "detail": "the movement is choppy, it does not look fluid",
+        "lane": "arcade",
+        "since": "2026-11-24 11:24"
+      },
+      {
+        "n": 1416,
+        "head": "LAUNCH: pool",
+        "detail": "the balls and the table need to look much cooler game-cornerpocket",
         "lane": "arcade2",
-        "since": "2026-11-24 10:49"
+        "since": "2026-11-24 11:24"
       }
     ],
     "next": [
-      {
-        "n": 1413,
-        "head": "LAUNCH: soccer",
-        "detail": "the movement is choppy, it does not look fluid"
-      },
       {
         "n": 1414,
         "head": "LAUNCH: the auras look weird INSIDE the games",
@@ -2916,11 +2919,6 @@
       {
         "n": 1415,
         "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable"
-      },
-      {
-        "n": 1416,
-        "head": "LAUNCH: pool",
-        "detail": "the balls and the table need to look much cooler game-cornerpocket"
       },
       {
         "n": 1417,
@@ -3892,5 +3890,5 @@
       "2026-11-24": 10
     }
   },
-  "changed": "2026-11-24T17:24:15.111Z"
+  "changed": "2026-11-24T17:29:14.085Z"
 }
