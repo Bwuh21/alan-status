@@ -2870,12 +2870,6 @@
         "since": "2026-11-24 00:04"
       },
       {
-        "n": 1262,
-        "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-23 21:34"
-      },
-      {
         "n": 1263,
         "head": "StandStill: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -3755,6 +3749,10 @@
       {
         "n": 1404,
         "head": "two server refusals still lose their last word on a 360 px phone (left by row 942, 2026-11-23)"
+      },
+      {
+        "n": 1405,
+        "head": "Splatflag's phone how-to check loses its paint step to the partner's flags (seen by row 1262, 2026-11-24)"
       }
     ],
     "waiting": [
@@ -3776,6 +3774,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1262,
+        "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-24"
+      },
       {
         "n": 1261,
         "head": "IceHockey: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
@@ -3835,24 +3838,18 @@
         "n": 1246,
         "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1243,
-        "head": "TOY FURY: the price ladder is flat again",
-        "detail": "the three dearest rides no longer out-win the three cheapest on 2 of 4 seed families",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1004,
+    "shippedTotal": 1005,
     "shippedOn": {
-      "2026-11-17": 43,
       "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 81
+      "2026-11-23": 81,
+      "2026-11-24": 1
     }
   },
-  "changed": "2026-11-24T06:09:28.488Z"
+  "changed": "2026-11-24T06:29:19.482Z"
 }
