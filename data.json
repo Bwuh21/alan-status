@@ -2906,6 +2906,12 @@
         "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable",
         "lane": "arcade",
         "since": "2026-11-24 14:19"
+      },
+      {
+        "n": 1275,
+        "head": "Toy Fury: row403-check went red with ZERO racing frames, and the ship gate now refuses on it",
+        "lane": "arcade2",
+        "since": "2026-11-24 14:24"
       }
     ],
     "next": [
@@ -3237,10 +3243,6 @@
       {
         "n": 1274,
         "head": "Sideways: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
-      },
-      {
-        "n": 1275,
-        "head": "Toy Fury: row403-check went red with ZERO racing frames, and the ship gate now refuses on it"
       },
       {
         "n": 1276,
@@ -3915,5 +3917,5 @@
       "2026-11-24": 15
     }
   },
-  "changed": "2026-11-24T20:24:16.059Z"
+  "changed": "2026-11-24T20:29:18.534Z"
 }
