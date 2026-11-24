@@ -2894,6 +2894,12 @@
         "head": "Haunt: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
         "since": "2026-11-24 00:30"
+      },
+      {
+        "n": 1265,
+        "head": "LastHex: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "lane": "arcade2",
+        "since": "2026-11-24 01:05"
       }
     ],
     "next": [
@@ -3205,10 +3211,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1265,
-        "head": "LastHex: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1266,
@@ -3891,5 +3893,5 @@
       "2026-11-24": 3
     }
   },
-  "changed": "2026-11-24T07:04:24.338Z"
+  "changed": "2026-11-24T07:12:05.254Z"
 }
