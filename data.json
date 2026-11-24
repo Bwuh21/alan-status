@@ -2860,13 +2860,6 @@
         "since": "2026-11-23 18:39"
       },
       {
-        "n": 1253,
-        "head": "Slab City: the wall probe never rides a wall",
-        "detail": "0 wall-mode frames in 720 runs, so its solids table says nothing about walls (found by row 1111, 2026-11-21) region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-23 18:19"
-      },
-      {
         "n": 1254,
         "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
         "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate",
@@ -3755,6 +3748,10 @@
       {
         "n": 1392,
         "head": "The ROOM, refused WebGL at boot, sits on \"Building the room…\" for ever: its early check passes, then three throws and nothing says so"
+      },
+      {
+        "n": 1393,
+        "head": "Slab City: now that the wall probe really rides walls, riders who drop off one near the fence get stuck against it, and the drawn board sits"
       }
     ],
     "waiting": [
@@ -3776,6 +3773,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1253,
+        "head": "Slab City: the wall probe never rides a wall",
+        "detail": "0 wall-mode frames in 720 runs, so its solids table says nothing about walls (found by row 1111, 2026-11-21) region-skate",
+        "date": "2026-11-23"
+      },
       {
         "n": 1251,
         "head": "phone 0.02, desk 0.00, plant 8.41 FAIL; looked-at phone shot reads YOU crisp; row 1391 filed)",
@@ -3835,15 +3838,9 @@
         "n": 1229,
         "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1228,
-        "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world (found by row 1041, 2026-11-21)",
-        "detail": "vault ae43a1fc + eba25523, clone 2b09714, deployment 8004982642 (success)",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 990,
+    "shippedTotal": 991,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3851,8 +3848,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 67
+      "2026-11-23": 68
     }
   },
-  "changed": "2026-11-24T00:44:15.213Z"
+  "changed": "2026-11-24T00:54:14.253Z"
 }
