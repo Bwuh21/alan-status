@@ -2858,6 +2858,12 @@
         "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
         "since": "2026-11-23 21:34"
+      },
+      {
+        "n": 1263,
+        "head": "StandStill: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "lane": "arcade2",
+        "since": "2026-11-23 22:14"
       }
     ],
     "next": [
@@ -3177,10 +3183,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1263,
-        "head": "StandStill: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1264,
@@ -3840,5 +3842,5 @@
       "2026-11-23": 79
     }
   },
-  "changed": "2026-11-24T04:14:13.902Z"
+  "changed": "2026-11-24T04:21:14.992Z"
 }
