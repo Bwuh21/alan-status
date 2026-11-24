@@ -2854,6 +2854,12 @@
         "since": "2026-11-23 19:24"
       },
       {
+        "n": 940,
+        "head": "eight harnesses cannot run at all any more: fix the four that guard something, archive the four that are old copies",
+        "lane": "arcade",
+        "since": "2026-11-23 19:39"
+      },
+      {
         "n": 1256,
         "head": "Slab City: skate-revert-check has two reds at HEAD",
         "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate",
@@ -2868,10 +2874,6 @@
       }
     ],
     "next": [
-      {
-        "n": 940,
-        "head": "eight harnesses cannot run at all any more: fix the four that guard something, archive the four that are old copies"
-      },
       {
         "n": 941,
         "head": "fourteen other one-line panels in the lobby cut their text with three dots and nobody has measured them (left by row 448, 2026-11-17)"
@@ -3852,5 +3854,5 @@
       "2026-11-23": 72
     }
   },
-  "changed": "2026-11-24T01:39:14.490Z"
+  "changed": "2026-11-24T01:44:14.307Z"
 }
