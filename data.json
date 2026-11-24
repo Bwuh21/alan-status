@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:55:00.000Z",
+  "updated": "2026-11-24T20:12:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1312,6 +1312,11 @@
           "text": "The ball has stars on it — give it a real soccer-ball pattern",
           "status": "done",
           "note": "live 10-15"
+        },
+        {
+          "text": "Soccer movement is choppy, does not look fluid (Zack, 2026-11-24)",
+          "status": "done",
+          "note": "Live 11-24. It was the camera, not the players: it sat still, then jumped to full speed in one frame. Now it eases in and out, and the push that keeps you clear of the thumb buttons on a phone ramps up instead of…"
         }
       ]
     },
@@ -2890,13 +2895,6 @@
   "stack": {
     "building": [
       {
-        "n": 1413,
-        "head": "LAUNCH: soccer",
-        "detail": "the movement is choppy, it does not look fluid",
-        "lane": "arcade",
-        "since": "2026-11-24 11:24"
-      },
-      {
         "n": 1414,
         "head": "LAUNCH: the auras look weird INSIDE the games",
         "detail": "they need real work fable",
@@ -3817,6 +3815,14 @@
       {
         "n": 1426,
         "head": "SERVER JOB: the team screen with six REAL players on a phone fable"
+      },
+      {
+        "n": 1427,
+        "head": "Skin Kick: a friend's body on the guest's screen is drawn from raw snapshots, unmeasured for choppiness"
+      },
+      {
+        "n": 1428,
+        "head": "Skin Kick: the camera still starts from a dead stop on the desk (2.6% held frames before it eases in)"
       }
     ],
     "waiting": [
@@ -3838,6 +3844,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1413,
+        "head": "LAUNCH: soccer",
+        "detail": "the movement is choppy, it does not look fluid",
+        "date": "2026-11-24"
+      },
       {
         "n": 1412,
         "head": "LAUNCH: the shared team picker on EVERY sports game, with a HOST who sets the match, and room for six (3v3) fable",
@@ -3892,14 +3904,9 @@
         "n": 954,
         "head": "ship-game.sh's drift check misses old, already-committed files the clone never received",
         "date": "2026-11-24"
-      },
-      {
-        "n": 952,
-        "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1017,
+    "shippedTotal": 1018,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3907,8 +3914,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 13
+      "2026-11-24": 14
     }
   },
-  "changed": "2026-11-24T20:09:14.243Z"
+  "changed": "2026-11-24T20:14:14.068Z"
 }
