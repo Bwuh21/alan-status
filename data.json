@@ -2854,6 +2854,12 @@
         "since": "2026-11-23 19:04"
       },
       {
+        "n": 937,
+        "head": "four game harnesses die on \"NO SIGN OF LIFE\" before they finish, on the committed build",
+        "lane": "arcade",
+        "since": "2026-11-23 19:24"
+      },
+      {
         "n": 1254,
         "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
         "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate",
@@ -2869,10 +2875,6 @@
       }
     ],
     "next": [
-      {
-        "n": 937,
-        "head": "four game harnesses die on \"NO SIGN OF LIFE\" before they finish, on the committed build"
-      },
       {
         "n": 940,
         "head": "eight harnesses cannot run at all any more: fix the four that guard something, archive the four that are old copies"
@@ -3856,5 +3858,5 @@
       "2026-11-23": 70
     }
   },
-  "changed": "2026-11-24T01:19:13.480Z"
+  "changed": "2026-11-24T01:29:13.553Z"
 }
