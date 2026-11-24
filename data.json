@@ -2900,12 +2900,6 @@
         "head": "WhistleHerd: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
         "since": "2026-11-24 10:09"
-      },
-      {
-        "n": 1269,
-        "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-24 10:09"
       }
     ],
     "next": [
@@ -3213,6 +3207,10 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
+      },
+      {
+        "n": 1269,
+        "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1270,
@@ -3877,5 +3875,5 @@
       "2026-11-24": 6
     }
   },
-  "changed": "2026-11-24T16:14:20.545Z"
+  "changed": "2026-11-24T16:39:21.777Z"
 }
