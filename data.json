@@ -2858,6 +2858,12 @@
         "head": "LiveWire: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
         "since": "2026-11-23 20:14"
+      },
+      {
+        "n": 1260,
+        "head": "LastCall: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "lane": "arcade2",
+        "since": "2026-11-23 20:59"
       }
     ],
     "next": [
@@ -3181,10 +3187,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1260,
-        "head": "LastCall: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1261,
@@ -3849,5 +3851,5 @@
       "2026-11-23": 76
     }
   },
-  "changed": "2026-11-24T02:59:13.571Z"
+  "changed": "2026-11-24T03:04:15.677Z"
 }
