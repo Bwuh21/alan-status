@@ -2900,13 +2900,15 @@
         "detail": "they need real work fable",
         "lane": "arcade",
         "since": "2026-11-24 13:24"
+      },
+      {
+        "n": 1415,
+        "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable",
+        "lane": "arcade",
+        "since": "2026-11-24 14:19"
       }
     ],
     "next": [
-      {
-        "n": 1415,
-        "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable"
-      },
       {
         "n": 1416,
         "head": "LAUNCH: pool",
@@ -3913,5 +3915,5 @@
       "2026-11-24": 15
     }
   },
-  "changed": "2026-11-24T20:19:13.489Z"
+  "changed": "2026-11-24T20:24:16.059Z"
 }
