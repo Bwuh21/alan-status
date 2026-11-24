@@ -2848,12 +2848,6 @@
   "stack": {
     "building": [
       {
-        "n": 922,
-        "head": "eleven more checks press Play and may photograph the game overlay while it is still fading in",
-        "lane": "arcade",
-        "since": "2026-11-23 17:29"
-      },
-      {
         "n": 923,
         "head": "a game lane that ships a new CornerPocket sim (or toy-house cars file) is only TOLD the room needs restamping; nothing does it",
         "lane": "arcade",
@@ -2864,7 +2858,7 @@
         "head": "SPACE GOLF: row 299's aura claims that row 534 did not re-make",
         "detail": "the fire in flight, the figure-sized crown through the arcade, names, cost",
         "lane": "arcade2",
-        "since": "2026-11-23 17:24"
+        "since": "2026-11-23 18:04"
       }
     ],
     "next": [
@@ -3761,6 +3755,10 @@
       {
         "n": 1389,
         "head": "TOY FURY: the knockout-chip bench never photographs the \"safe\" state, only \"YOU GO NEXT\""
+      },
+      {
+        "n": 1390,
+        "head": "two of row 922's eleven checks are stale against today's room: tanks-cabinet-check finds no RicochetTanks cabinet, item172-hall-fixes dies o"
       }
     ],
     "waiting": [
@@ -3847,7 +3845,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 985,
+    "shippedTotal": 986,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3855,8 +3853,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 62
+      "2026-11-23": 63
     }
   },
-  "changed": "2026-11-24T00:04:16.207Z"
+  "changed": "2026-11-24T00:09:14.351Z"
 }
