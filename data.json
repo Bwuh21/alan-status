@@ -2908,6 +2908,12 @@
         "detail": "the balls and the table need to look much cooler game-cornerpocket",
         "lane": "arcade2",
         "since": "2026-11-24 11:24"
+      },
+      {
+        "n": 1271,
+        "head": "CloudStreet: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "lane": "arcade2",
+        "since": "2026-11-24 11:29"
       }
     ],
     "next": [
@@ -2928,6 +2934,16 @@
       {
         "n": 1418,
         "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players"
+      },
+      {
+        "n": 1420,
+        "head": "LAUNCH: ping pong",
+        "detail": "\"there is no control what so ever\": make it play like Wii Sports table tennis, where you put the ball exactly where you want fable"
+      },
+      {
+        "n": 1421,
+        "head": "LAUNCH: table shuffleboard",
+        "detail": "\"it just looks bad and needs more work done on it\" fable"
       },
       {
         "n": 958,
@@ -3229,10 +3245,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1271,
-        "head": "CloudStreet: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1272,
@@ -3890,5 +3902,5 @@
       "2026-11-24": 10
     }
   },
-  "changed": "2026-11-24T17:29:14.085Z"
+  "changed": "2026-11-24T17:34:27.929Z"
 }
