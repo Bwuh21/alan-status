@@ -2867,7 +2867,7 @@
         {
           "text": "The portal checks people read open a real phone, not a squeezed desktop",
           "status": "done",
-          "note": "Done 2026-11-24. The shop, bar, plaza, HUD, casino-table, cabinet and skate checks were taking their 'phone' pictures on a thin desktop window. Each was run before and after the switch to a real phone screen, and kept…"
+          "note": "Done 2026-11-24. The bar, plaza, HUD, casino-table and cabinet checks were taking their 'phone' pictures on a thin desktop window. Each was run before and after the switch to a real phone screen, and kept only where it…"
         },
         {
           "text": "Three checks go red on a real phone: sign-in boot, the shop reel and the skate view",
@@ -3893,5 +3893,5 @@
       "2026-11-24": 3
     }
   },
-  "changed": "2026-11-24T07:12:05.254Z"
+  "changed": "2026-11-24T07:14:13.878Z"
 }
