@@ -2870,9 +2870,9 @@
           "note": "Done 2026-11-24. The shop, bar, plaza, HUD, casino-table, cabinet and skate checks were taking their 'phone' pictures on a thin desktop window. Each was run before and after the switch to a real phone screen, and kept…"
         },
         {
-          "text": "Two checks go red on a real phone: sign-in boot and the shop reel",
+          "text": "Three checks go red on a real phone: sign-in boot, the shop reel and the skate view",
           "status": "todo",
-          "note": "Kept off the phone until fixed. Filed as rows 1406 and 1407."
+          "note": "Kept off the phone until fixed. Filed as rows 1406, 1407 and 1411. On a sideways phone the skate view reads about half as wide as it should."
         },
         {
           "text": "A long signed-in name spills out of the account button on a phone",
@@ -2890,12 +2890,6 @@
   "stack": {
     "building": [
       {
-        "n": 1263,
-        "head": "StandStill: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-23 22:14"
-      },
-      {
         "n": 1264,
         "head": "Haunt: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -2903,10 +2897,6 @@
       }
     ],
     "next": [
-      {
-        "n": 951,
-        "head": "the arcade's own \"phone\" pictures are still narrow desktops: burn down the grandfather list for the shared portal checks"
-      },
       {
         "n": 952,
         "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip"
@@ -3799,6 +3789,10 @@
       {
         "n": 1410,
         "head": "the chips check signs up a real account on the live database every time it runs (seen by row 951, 2026-11-24)"
+      },
+      {
+        "n": 1411,
+        "head": "on a real sideways phone the skate park's lens is about 33 degrees, not the 74-degree cap its check expects (seen by row 951, 2026-11-24)"
       }
     ],
     "waiting": [
@@ -3821,8 +3815,18 @@
     ],
     "shipped": [
       {
+        "n": 1263,
+        "head": "StandStill: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-24"
+      },
+      {
         "n": 1262,
         "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-24"
+      },
+      {
+        "n": 951,
+        "head": "the arcade's own \"phone\" pictures are still narrow desktops: burn down the grandfather list for the shared portal checks",
         "date": "2026-11-24"
       },
       {
@@ -3874,19 +3878,9 @@
         "n": 1249,
         "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a ",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1248,
-        "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too",
-        "date": "2026-11-23"
-      },
-      {
-        "n": 1246,
-        "head": "TOY FURY: Upstairs place changes run 10.3 a race (bar under 10), the one room over now that Outside is fixed",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1005,
+    "shippedTotal": 1007,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3894,8 +3888,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 1
+      "2026-11-24": 3
     }
   },
-  "changed": "2026-11-24T06:59:05.159Z"
+  "changed": "2026-11-24T07:04:24.338Z"
 }
