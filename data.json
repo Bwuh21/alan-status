@@ -2848,12 +2848,6 @@
   "stack": {
     "building": [
       {
-        "n": 934,
-        "head": "the toy house sweep prints 171 sunk floor pieces in 12 families every run, and all 12 are built that way",
-        "lane": "arcade",
-        "since": "2026-11-23 18:39"
-      },
-      {
         "n": 935,
         "head": "the shared lesson card leaves the last round's card live when a finished lesson is started again",
         "lane": "arcade",
@@ -3758,6 +3752,11 @@
       {
         "n": 1395,
         "head": "Toy house, upstairs mini: the bathtub has no front panel, so its rim rod rides 15 mm over the water"
+      },
+      {
+        "n": 1396,
+        "head": "Toy house outside: the siding course strips may run straight across the back, side and porch windows",
+        "detail": "10 pieces sit 30-50 mm over the window sills at the window's own height"
       }
     ],
     "waiting": [
@@ -3846,7 +3845,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 992,
+    "shippedTotal": 993,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3854,8 +3853,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 69
+      "2026-11-23": 70
     }
   },
-  "changed": "2026-11-24T01:09:15.214Z"
+  "changed": "2026-11-24T01:19:13.480Z"
 }
