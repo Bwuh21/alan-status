@@ -2902,18 +2902,6 @@
         "detail": "they need real work fable",
         "lane": "arcade",
         "since": "2026-11-24 13:24"
-      },
-      {
-        "n": 1272,
-        "head": "DeepLine: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-24 12:17"
-      },
-      {
-        "n": 1273,
-        "head": "BlendIn: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-24 13:21"
       }
     ],
     "next": [
@@ -3245,6 +3233,10 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
+      },
+      {
+        "n": 1273,
+        "head": "BlendIn: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1274,
@@ -3852,6 +3844,11 @@
         "date": "2026-11-24"
       },
       {
+        "n": 1272,
+        "head": "DeepLine: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-24"
+      },
+      {
         "n": 1271,
         "head": "CloudStreet: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-24"
@@ -3900,14 +3897,9 @@
         "n": 952,
         "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip",
         "date": "2026-11-24"
-      },
-      {
-        "n": 951,
-        "head": "the arcade's own \"phone\" pictures are still narrow desktops: burn down the grandfather list for the shared portal checks",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1016,
+    "shippedTotal": 1017,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3915,8 +3907,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 12
+      "2026-11-24": 13
     }
   },
-  "changed": "2026-11-24T19:29:16.212Z"
+  "changed": "2026-11-24T19:44:13.958Z"
 }
