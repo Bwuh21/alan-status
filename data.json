@@ -2848,18 +2848,6 @@
   "stack": {
     "building": [
       {
-        "n": 926,
-        "head": "A game that cannot GET a graphics context at all still shows nothing: the shared guard only covers one that was taken away",
-        "lane": "arcade",
-        "since": "2026-11-23 18:09"
-      },
-      {
-        "n": 1251,
-        "head": "HANGTIME: on a phone a Divine aura washes out the name pill above the player (5.55 of 255 a pixel, bar 3)",
-        "lane": "arcade2",
-        "since": "2026-11-23 18:19"
-      },
-      {
         "n": 1253,
         "head": "Slab City: the wall probe never rides a wall",
         "detail": "0 wall-mode frames in 720 runs, so its solids table says nothing about walls (found by row 1111, 2026-11-21) region-skate",
@@ -3752,6 +3740,15 @@
       {
         "n": 1390,
         "head": "two of row 922's eleven checks are stale against today's room: tanks-cabinet-check finds no RicochetTanks cabinet, item172-hall-fixes dies o"
+      },
+      {
+        "n": 1391,
+        "head": "HANGTIME: the aura check's \"each man's light lands on HIM, left to right\" claim is a coin flip on phone",
+        "detail": "men 1 and 2 land 4-14 px apart against an 8 px bar"
+      },
+      {
+        "n": 1392,
+        "head": "The ROOM, refused WebGL at boot, sits on \"Building the room…\" for ever: its early check passes, then three throws and nothing says so"
       }
     ],
     "waiting": [
@@ -3773,6 +3770,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1251,
+        "head": "phone 0.02, desk 0.00, plant 8.41 FAIL; looked-at phone shot reads YOU crisp; row 1391 filed)",
+        "detail": "HANGTIME: on a phone a Divine aura washes out the name pill above the player (5.55 of 255 a pixel, bar 3)",
+        "date": "2026-11-23"
+      },
       {
         "n": 1250,
         "head": "SPACE GOLF: row 299's aura claims that row 534 did not re-make",
@@ -3832,14 +3835,9 @@
         "head": "HANGTIME alley-oops with a friend on a real line: the catch is still judged on the live host world (found by row 1041, 2026-11-21)",
         "detail": "vault ae43a1fc + eba25523, clone 2b09714, deployment 8004982642 (success)",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1226,
-        "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 988,
+    "shippedTotal": 990,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3847,8 +3845,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 65
+      "2026-11-23": 67
     }
   },
-  "changed": "2026-11-24T00:24:14.696Z"
+  "changed": "2026-11-24T00:34:14.684Z"
 }
