@@ -2890,10 +2890,10 @@
   "stack": {
     "building": [
       {
-        "n": 1269,
-        "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-24 10:49"
+        "n": 1412,
+        "head": "LAUNCH: the shared team picker on EVERY sports game, with a HOST who sets the match, and room for six (3v3) fable",
+        "lane": "arcade",
+        "since": "2026-11-24 11:19"
       },
       {
         "n": 1270,
@@ -2903,10 +2903,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1412,
-        "head": "LAUNCH: the shared team picker on EVERY sports game, with a HOST who sets the match, and room for six (3v3) fable"
-      },
       {
         "n": 1413,
         "head": "LAUNCH: soccer",
@@ -3799,6 +3795,10 @@
       {
         "n": 1411,
         "head": "on a real sideways phone the skate park's lens is about 33 degrees, not the 74-degree cap its check expects (seen by row 951, 2026-11-24)"
+      },
+      {
+        "n": 1419,
+        "head": "Rearview: the \"get ahead of a rival\" lesson is a lottery on the first night (seen by row 1269, 2026-11-24)"
       }
     ],
     "waiting": [
@@ -3820,6 +3820,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1269,
+        "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-24"
+      },
       {
         "n": 1268,
         "head": "WhistleHerd: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
@@ -3874,14 +3879,9 @@
         "n": 1259,
         "head": "LiveWire: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1258,
-        "head": "Riposte: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1013,
+    "shippedTotal": 1014,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3889,8 +3889,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 9
+      "2026-11-24": 10
     }
   },
-  "changed": "2026-11-24T17:19:14.159Z"
+  "changed": "2026-11-24T17:24:15.111Z"
 }
