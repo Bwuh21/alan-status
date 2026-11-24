@@ -2864,12 +2864,6 @@
   "stack": {
     "building": [
       {
-        "n": 942,
-        "head": "eleven lobby notices still lose their last word on a 360 px phone (left by row 448, 2026-11-17)",
-        "lane": "arcade",
-        "since": "2026-11-23 21:34"
-      },
-      {
         "n": 1262,
         "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -3759,6 +3753,10 @@
       {
         "n": 1403,
         "head": "skin card price: measure it against the real skins table, not a stand-in (left by row 941, 2026-11-23)"
+      },
+      {
+        "n": 1404,
+        "head": "two server refusals still lose their last word on a 360 px phone (left by row 942, 2026-11-23)"
       }
     ],
     "waiting": [
@@ -3847,7 +3845,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1002,
+    "shippedTotal": 1003,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3855,8 +3853,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 79
+      "2026-11-23": 80
     }
   },
-  "changed": "2026-11-24T04:54:23.401Z"
+  "changed": "2026-11-24T05:01:30.544Z"
 }
