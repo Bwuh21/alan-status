@@ -2897,6 +2897,13 @@
         "since": "2026-11-24 11:24"
       },
       {
+        "n": 1414,
+        "head": "LAUNCH: the auras look weird INSIDE the games",
+        "detail": "they need real work fable",
+        "lane": "arcade",
+        "since": "2026-11-24 13:24"
+      },
+      {
         "n": 1272,
         "head": "DeepLine: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -2910,11 +2917,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1414,
-        "head": "LAUNCH: the auras look weird INSIDE the games",
-        "detail": "they need real work fable"
-      },
       {
         "n": 1415,
         "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable"
@@ -3916,5 +3918,5 @@
       "2026-11-24": 12
     }
   },
-  "changed": "2026-11-24T19:24:14.436Z"
+  "changed": "2026-11-24T19:29:16.212Z"
 }
