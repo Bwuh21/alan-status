@@ -2897,12 +2897,6 @@
         "since": "2026-11-24 11:24"
       },
       {
-        "n": 1271,
-        "head": "CloudStreet: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-24 12:14"
-      },
-      {
         "n": 1272,
         "head": "DeepLine: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -3854,6 +3848,11 @@
         "date": "2026-11-24"
       },
       {
+        "n": 1271,
+        "head": "CloudStreet: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-24"
+      },
+      {
         "n": 1269,
         "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-24"
@@ -3902,14 +3901,9 @@
         "n": 951,
         "head": "the arcade's own \"phone\" pictures are still narrow desktops: burn down the grandfather list for the shared portal checks",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1261,
-        "head": "IceHockey: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1015,
+    "shippedTotal": 1016,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3917,8 +3911,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 11
+      "2026-11-24": 12
     }
   },
-  "changed": "2026-11-24T18:59:21.976Z"
+  "changed": "2026-11-24T19:19:21.489Z"
 }
