@@ -2890,6 +2890,12 @@
   "stack": {
     "building": [
       {
+        "n": 954,
+        "head": "ship-game.sh's drift check misses old, already-committed files the clone never received",
+        "lane": "arcade",
+        "since": "2026-11-24 01:19"
+      },
+      {
         "n": 1264,
         "head": "Haunt: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -2906,10 +2912,6 @@
       {
         "n": 952,
         "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip"
-      },
-      {
-        "n": 954,
-        "head": "ship-game.sh's drift check misses old, already-committed files the clone never received"
       },
       {
         "n": 958,
@@ -3893,5 +3895,5 @@
       "2026-11-24": 3
     }
   },
-  "changed": "2026-11-24T07:14:13.878Z"
+  "changed": "2026-11-24T07:24:13.777Z"
 }
