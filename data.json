@@ -2854,12 +2854,6 @@
         "since": "2026-11-23 20:49"
       },
       {
-        "n": 1259,
-        "head": "LiveWire: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-23 20:14"
-      },
-      {
         "n": 1260,
         "head": "LastCall: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -3773,6 +3767,11 @@
     ],
     "shipped": [
       {
+        "n": 1259,
+        "head": "LiveWire: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1258,
         "head": "Riposte: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-23"
@@ -3832,15 +3831,9 @@
         "n": 1242,
         "head": "TOY FURY: the cars themselves (the player's and the bots') have never had a rig sweep, only the track hazards have",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1241,
-        "head": "TOY FURY: a clean lap never puts a panel back",
-        "detail": "wear-check seed 33 ends on 1 panel with zero mends",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 999,
+    "shippedTotal": 1000,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3848,8 +3841,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 76
+      "2026-11-23": 77
     }
   },
-  "changed": "2026-11-24T03:04:15.677Z"
+  "changed": "2026-11-24T03:29:13.784Z"
 }
