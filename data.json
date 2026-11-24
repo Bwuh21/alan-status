@@ -2894,6 +2894,12 @@
         "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip",
         "lane": "arcade",
         "since": "2026-11-24 01:19"
+      },
+      {
+        "n": 1265,
+        "head": "LastHex: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "lane": "arcade2",
+        "since": "2026-11-24 09:04"
       }
     ],
     "next": [
@@ -3201,10 +3207,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1265,
-        "head": "LastHex: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1266,
@@ -3887,5 +3889,5 @@
       "2026-11-24": 3
     }
   },
-  "changed": "2026-11-24T15:04:17.395Z"
+  "changed": "2026-11-24T15:09:34.198Z"
 }
