@@ -2890,12 +2890,6 @@
   "stack": {
     "building": [
       {
-        "n": 954,
-        "head": "ship-game.sh's drift check misses old, already-committed files the clone never received",
-        "lane": "arcade",
-        "since": "2026-11-24 11:09"
-      },
-      {
         "n": 1269,
         "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -3857,6 +3851,11 @@
         "date": "2026-11-24"
       },
       {
+        "n": 954,
+        "head": "ship-game.sh's drift check misses old, already-committed files the clone never received",
+        "date": "2026-11-24"
+      },
+      {
         "n": 952,
         "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip",
         "date": "2026-11-24"
@@ -3880,15 +3879,9 @@
         "n": 1258,
         "head": "Riposte: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1256,
-        "head": "Slab City: skate-revert-check has two reds at HEAD",
-        "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1012,
+    "shippedTotal": 1013,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3896,8 +3889,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 8
+      "2026-11-24": 9
     }
   },
-  "changed": "2026-11-24T17:14:14.616Z"
+  "changed": "2026-11-24T17:19:14.159Z"
 }
