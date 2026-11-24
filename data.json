@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-24T00:45:00.000Z",
+  "updated": "2026-11-24T00:50:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Broadside Bay: Uncommon and Rare skins showed no glow on your ship, and Aurora's top glow was half size (row 1249)",
+          "status": "done",
+          "note": "Done 11-23 (row 1249), live. The glow sat partly under the water and partly inside the hull, so the two cheap rarities showed nothing at all. It now sits on the waterline at the stern, and every rarity shows on phone…"
+        },
         {
           "text": "When a game page is broken, the checks now say which line broke it (row 918)",
           "status": "done",
@@ -2855,12 +2860,6 @@
         "since": "2026-11-23 17:54"
       },
       {
-        "n": 1249,
-        "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a ",
-        "lane": "arcade2",
-        "since": "2026-11-23 16:54"
-      },
-      {
         "n": 1250,
         "head": "SPACE GOLF: row 299's aura claims that row 534 did not re-make",
         "detail": "the fire in flight, the figure-sized crown through the arcade, names, cost",
@@ -3784,6 +3783,11 @@
     ],
     "shipped": [
       {
+        "n": 1249,
+        "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a ",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1248,
         "head": "TOY FURY: five more shooting checks start a race through the real start path and then skip(), so the grid card can sit over their shots too",
         "date": "2026-11-23"
@@ -3841,14 +3845,9 @@
         "n": 1221,
         "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1219,
-        "head": "BARN BURNER with a friend: a check or a lunge on the guest has never been measured",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 984,
+    "shippedTotal": 985,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3856,8 +3855,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 61
+      "2026-11-23": 62
     }
   },
-  "changed": "2026-11-23T23:59:16.039Z"
+  "changed": "2026-11-24T00:04:16.207Z"
 }
