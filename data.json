@@ -2852,6 +2852,19 @@
         "head": "A game that cannot GET a graphics context at all still shows nothing: the shared guard only covers one that was taken away",
         "lane": "arcade",
         "since": "2026-11-23 18:09"
+      },
+      {
+        "n": 1251,
+        "head": "HANGTIME: on a phone a Divine aura washes out the name pill above the player (5.55 of 255 a pixel, bar 3)",
+        "lane": "arcade2",
+        "since": "2026-11-23 18:19"
+      },
+      {
+        "n": 1253,
+        "head": "Slab City: the wall probe never rides a wall",
+        "detail": "0 wall-mode frames in 720 runs, so its solids table says nothing about walls (found by row 1111, 2026-11-21) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-23 18:19"
       }
     ],
     "next": [
@@ -3189,17 +3202,8 @@
         "head": "AURA: the green skeleton's Divine is still the smallest step up from its Legendary of the four tiered skins"
       },
       {
-        "n": 1251,
-        "head": "HANGTIME: on a phone a Divine aura washes out the name pill above the player (5.55 of 255 a pixel, bar 3)"
-      },
-      {
         "n": 1252,
         "head": "Rusty's work-cycle claim fails on desk: \"he reached, washed and racked an empty, and came home\""
-      },
-      {
-        "n": 1253,
-        "head": "Slab City: the wall probe never rides a wall",
-        "detail": "0 wall-mode frames in 720 runs, so its solids table says nothing about walls (found by row 1111, 2026-11-21) region-skate"
       },
       {
         "n": 1254,
@@ -3846,5 +3850,5 @@
       "2026-11-23": 65
     }
   },
-  "changed": "2026-11-24T00:19:14.169Z"
+  "changed": "2026-11-24T00:24:14.696Z"
 }
