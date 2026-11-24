@@ -2901,6 +2901,13 @@
         "since": "2026-11-24 14:19"
       },
       {
+        "n": 1416,
+        "head": "LAUNCH: pool",
+        "detail": "the balls and the table need to look much cooler",
+        "lane": "arcade",
+        "since": "2026-11-24 15:00"
+      },
+      {
         "n": 1275,
         "head": "Toy Fury: row403-check went red with ZERO racing frames, and the ship gate now refuses on it",
         "lane": "arcade2",
@@ -2908,11 +2915,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1416,
-        "head": "LAUNCH: pool",
-        "detail": "the balls and the table need to look much cooler"
-      },
       {
         "n": 1417,
         "head": "LAUNCH: pool",
@@ -3919,5 +3921,5 @@
       "2026-11-24": 16
     }
   },
-  "changed": "2026-11-24T20:54:14.674Z"
+  "changed": "2026-11-24T21:04:14.999Z"
 }
