@@ -2890,6 +2890,12 @@
   "stack": {
     "building": [
       {
+        "n": 954,
+        "head": "ship-game.sh's drift check misses old, already-committed files the clone never received",
+        "lane": "arcade",
+        "since": "2026-11-24 11:09"
+      },
+      {
         "n": 1269,
         "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -2934,10 +2940,6 @@
       {
         "n": 1418,
         "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players"
-      },
-      {
-        "n": 954,
-        "head": "ship-game.sh's drift check misses old, already-committed files the clone never received"
       },
       {
         "n": 958,
@@ -3897,5 +3899,5 @@
       "2026-11-24": 8
     }
   },
-  "changed": "2026-11-24T17:09:15.294Z"
+  "changed": "2026-11-24T17:14:14.616Z"
 }
