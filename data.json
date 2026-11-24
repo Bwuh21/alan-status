@@ -2890,12 +2890,6 @@
   "stack": {
     "building": [
       {
-        "n": 1412,
-        "head": "LAUNCH: the shared team picker on EVERY sports game, with a HOST who sets the match, and room for six (3v3) fable",
-        "lane": "arcade",
-        "since": "2026-11-24 11:19"
-      },
-      {
         "n": 1413,
         "head": "LAUNCH: soccer",
         "detail": "the movement is choppy, it does not look fluid",
@@ -3809,6 +3803,30 @@
       {
         "n": 1419,
         "head": "Rearview: the \"get ahead of a rival\" lesson is a lottery on the first night (seen by row 1269, 2026-11-24)"
+      },
+      {
+        "n": 1422,
+        "head": "LAUNCH: Sky Spike (volleyball)",
+        "detail": "let the host pick 3v3, so six friends fit fable"
+      },
+      {
+        "n": 1423,
+        "head": "LAUNCH: Skin Kick (soccer)",
+        "detail": "2v2 and 3v3, chosen by the host fable"
+      },
+      {
+        "n": 1424,
+        "head": "LAUNCH: Hangtime (streetball)",
+        "detail": "the table host picks 1v1 / 2v2 on the team screen, and more than two friends can sit fable"
+      },
+      {
+        "n": 1425,
+        "head": "LAUNCH: Space Golf",
+        "detail": "six golfers in one round fable"
+      },
+      {
+        "n": 1426,
+        "head": "SERVER JOB: the team screen with six REAL players on a phone fable"
       }
     ],
     "waiting": [
@@ -3830,6 +3848,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1412,
+        "head": "LAUNCH: the shared team picker on EVERY sports game, with a HOST who sets the match, and room for six (3v3) fable",
+        "date": "2026-11-24"
+      },
       {
         "n": 1269,
         "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
@@ -3884,14 +3907,9 @@
         "n": 1261,
         "head": "IceHockey: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1259,
-        "head": "LiveWire: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1014,
+    "shippedTotal": 1015,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3899,8 +3917,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 10
+      "2026-11-24": 11
     }
   },
-  "changed": "2026-11-24T18:19:52.194Z"
+  "changed": "2026-11-24T18:59:21.976Z"
 }
