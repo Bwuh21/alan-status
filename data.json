@@ -2894,12 +2894,6 @@
         "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip",
         "lane": "arcade",
         "since": "2026-11-24 01:19"
-      },
-      {
-        "n": 1265,
-        "head": "LastHex: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-24 09:04"
       }
     ],
     "next": [
@@ -3813,6 +3807,11 @@
     ],
     "shipped": [
       {
+        "n": 1265,
+        "head": "LastHex: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-24"
+      },
+      {
         "n": 1263,
         "head": "StandStill: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-24"
@@ -3871,14 +3870,9 @@
         "head": "SPACE GOLF: row 299's aura claims that row 534 did not re-make",
         "detail": "the fire in flight, the figure-sized crown through the arcade, names, cost",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1249,
-        "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a ",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1007,
+    "shippedTotal": 1008,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3886,8 +3880,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 3
+      "2026-11-24": 4
     }
   },
-  "changed": "2026-11-24T15:09:34.198Z"
+  "changed": "2026-11-24T15:24:14.226Z"
 }
