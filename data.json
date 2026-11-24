@@ -2859,6 +2859,32 @@
           "note": "Those sentences come from the database, so changing them is a database change for a reviewed sitting. Filed as row 1404."
         }
       ]
+    },
+    {
+      "title": "The arcade's own 'phone' checks now look through a real phone (row 951)",
+      "status": "done",
+      "subtasks": [
+        {
+          "text": "The portal checks people read open a real phone, not a squeezed desktop",
+          "status": "done",
+          "note": "Done 2026-11-24. The shop, bar, plaza, HUD, casino-table, cabinet and skate checks were taking their 'phone' pictures on a thin desktop window. Each was run before and after the switch to a real phone screen, and kept…"
+        },
+        {
+          "text": "Two checks go red on a real phone: sign-in boot and the shop reel",
+          "status": "todo",
+          "note": "Kept off the phone until fixed. Filed as rows 1406 and 1407."
+        },
+        {
+          "text": "A long signed-in name spills out of the account button on a phone",
+          "status": "todo",
+          "note": "Every signed-in phone player sees it. Filed as row 1408."
+        },
+        {
+          "text": "Nine casino, plaza, bar and golf checks were red before the change",
+          "status": "todo",
+          "note": "The tables and plaza moved under them. Filed as row 1409. The chips check signs up a real account each run: row 1410."
+        }
+      ]
     }
   ],
   "stack": {
@@ -3755,6 +3781,26 @@
       {
         "n": 1405,
         "head": "Splatflag's phone how-to check loses its paint step to the partner's flags (seen by row 1262, 2026-11-24)"
+      },
+      {
+        "n": 1406,
+        "head": "the arcade's sign-in boot check goes redder on a real phone (seen by row 951, 2026-11-24)"
+      },
+      {
+        "n": 1407,
+        "head": "the shop check's statue and reel steps fail on a real phone (seen by row 951, 2026-11-24)"
+      },
+      {
+        "n": 1408,
+        "head": "a signed-in name spills out of the account button on a phone (seen by row 951, 2026-11-24)"
+      },
+      {
+        "n": 1409,
+        "head": "nine portal checks were already red before they ever saw a phone (seen by row 951, 2026-11-24)"
+      },
+      {
+        "n": 1410,
+        "head": "the chips check signs up a real account on the live database every time it runs (seen by row 951, 2026-11-24)"
       }
     ],
     "waiting": [
@@ -3853,5 +3899,5 @@
       "2026-11-24": 1
     }
   },
-  "changed": "2026-11-24T06:34:50.649Z"
+  "changed": "2026-11-24T06:49:41.670Z"
 }
