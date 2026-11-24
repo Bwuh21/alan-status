@@ -2860,13 +2860,6 @@
         "since": "2026-11-23 19:24"
       },
       {
-        "n": 1254,
-        "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
-        "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-23 18:39"
-      },
-      {
         "n": 1256,
         "head": "Slab City: skate-revert-check has two reds at HEAD",
         "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate",
@@ -3759,6 +3752,10 @@
         "n": 1396,
         "head": "Toy house outside: the siding course strips may run straight across the back, side and porch windows",
         "detail": "10 pieces sit 30-50 mm over the window sills at the window's own height"
+      },
+      {
+        "n": 1397,
+        "head": "Slab City: a board crossing a ramp's 19.9 cm side kerb sideways dips 9-16 cm into it for 1-4 frames (VERT RAMP 4, LOADING DOCK 8), because t"
       }
     ],
     "waiting": [
@@ -3780,6 +3777,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1254,
+        "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
+        "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate",
+        "date": "2026-11-23"
+      },
       {
         "n": 1253,
         "head": "Slab City: the wall probe never rides a wall",
@@ -3840,14 +3843,9 @@
         "head": "Sky Spike: a first-time player never meets the dive",
         "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1229,
-        "head": "HANGTIME dunk blocks with a friend on a real line: dunkMet checks the live ball, no rewind",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 993,
+    "shippedTotal": 994,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3855,8 +3853,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 70
+      "2026-11-23": 71
     }
   },
-  "changed": "2026-11-24T01:29:13.553Z"
+  "changed": "2026-11-24T01:34:13.539Z"
 }
