@@ -2854,17 +2854,25 @@
         "since": "2026-11-23 19:39"
       },
       {
+        "n": 941,
+        "head": "fourteen other one-line panels in the lobby cut their text with three dots and nobody has measured them (left by row 448, 2026-11-17)",
+        "lane": "arcade",
+        "since": "2026-11-23 20:14"
+      },
+      {
         "n": 1258,
         "head": "Riposte: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
         "since": "2026-11-23 19:34"
+      },
+      {
+        "n": 1259,
+        "head": "LiveWire: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "lane": "arcade2",
+        "since": "2026-11-23 20:14"
       }
     ],
     "next": [
-      {
-        "n": 941,
-        "head": "fourteen other one-line panels in the lobby cut their text with three dots and nobody has measured them (left by row 448, 2026-11-17)"
-      },
       {
         "n": 942,
         "head": "eleven lobby notices still lose their last word on a 360 px phone (left by row 448, 2026-11-17)"
@@ -3185,10 +3193,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1259,
-        "head": "LiveWire: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1260,
@@ -3849,5 +3853,5 @@
       "2026-11-23": 74
     }
   },
-  "changed": "2026-11-24T02:14:13.739Z"
+  "changed": "2026-11-24T02:19:15.879Z"
 }
