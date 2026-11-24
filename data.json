@@ -2848,22 +2848,33 @@
   "stack": {
     "building": [
       {
+        "n": 931,
+        "head": "the toy house's scattered floor toys sit 5 to 16 mm above the floor, and 276 wall-flush pieces 6 to 30 cm above a surface are still unjudged",
+        "lane": "arcade",
+        "since": "2026-11-23 18:39"
+      },
+      {
+        "n": 934,
+        "head": "the toy house sweep prints 171 sunk floor pieces in 12 families every run, and all 12 are built that way",
+        "lane": "arcade",
+        "since": "2026-11-23 18:39"
+      },
+      {
         "n": 1253,
         "head": "Slab City: the wall probe never rides a wall",
         "detail": "0 wall-mode frames in 720 runs, so its solids table says nothing about walls (found by row 1111, 2026-11-21) region-skate",
         "lane": "arcade2",
         "since": "2026-11-23 18:19"
+      },
+      {
+        "n": 1254,
+        "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
+        "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-23 18:39"
       }
     ],
     "next": [
-      {
-        "n": 931,
-        "head": "the toy house's scattered floor toys sit 5 to 16 mm above the floor, and 276 wall-flush pieces 6 to 30 cm above a surface are still unjudged"
-      },
-      {
-        "n": 934,
-        "head": "the toy house sweep prints 171 sunk floor pieces in 12 families every run, and all 12 are built that way"
-      },
       {
         "n": 935,
         "head": "the shared lesson card leaves the last round's card live when a finished lesson is started again"
@@ -3192,11 +3203,6 @@
       {
         "n": 1252,
         "head": "Rusty's work-cycle claim fails on desk: \"he reached, washed and racked an empty, and came home\""
-      },
-      {
-        "n": 1254,
-        "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
-        "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate"
       },
       {
         "n": 1255,
@@ -3848,5 +3854,5 @@
       "2026-11-23": 67
     }
   },
-  "changed": "2026-11-24T00:34:14.684Z"
+  "changed": "2026-11-24T00:44:15.213Z"
 }
