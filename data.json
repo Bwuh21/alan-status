@@ -2854,6 +2854,12 @@
         "since": "2026-11-23 18:39"
       },
       {
+        "n": 935,
+        "head": "the shared lesson card leaves the last round's card live when a finished lesson is started again",
+        "lane": "arcade",
+        "since": "2026-11-23 19:04"
+      },
+      {
         "n": 1254,
         "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
         "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate",
@@ -2869,10 +2875,6 @@
       }
     ],
     "next": [
-      {
-        "n": 935,
-        "head": "the shared lesson card leaves the last round's card live when a finished lesson is started again"
-      },
       {
         "n": 937,
         "head": "four game harnesses die on \"NO SIGN OF LIFE\" before they finish, on the committed build"
@@ -3855,5 +3857,5 @@
       "2026-11-23": 69
     }
   },
-  "changed": "2026-11-24T01:04:15.213Z"
+  "changed": "2026-11-24T01:09:15.214Z"
 }
