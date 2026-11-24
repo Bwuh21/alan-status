@@ -2852,13 +2852,6 @@
         "head": "A game that cannot GET a graphics context at all still shows nothing: the shared guard only covers one that was taken away",
         "lane": "arcade",
         "since": "2026-11-23 18:09"
-      },
-      {
-        "n": 1250,
-        "head": "SPACE GOLF: row 299's aura claims that row 534 did not re-make",
-        "detail": "the fire in flight, the figure-sized crown through the arcade, names, cost",
-        "lane": "arcade2",
-        "since": "2026-11-23 18:04"
       }
     ],
     "next": [
@@ -3777,6 +3770,12 @@
     ],
     "shipped": [
       {
+        "n": 1250,
+        "head": "SPACE GOLF: row 299's aura claims that row 534 did not re-make",
+        "detail": "the fire in flight, the figure-sized crown through the arcade, names, cost",
+        "date": "2026-11-23"
+      },
+      {
         "n": 1249,
         "head": "BROADSIDE BAY: an Uncommon or Rare captain's aura paints nothing on a ship, Aurora is the dimmest Divine, and the phone check never finds a ",
         "date": "2026-11-23"
@@ -3834,14 +3833,9 @@
         "n": 1226,
         "head": "LIVE WIRE with a friend on the backup line: the guest's own body still jerks about once a second (host 0.2/s)",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1221,
-        "head": "HAUNT: the lesson check fails 1 run in 4 on HEAD, a different step each time",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 987,
+    "shippedTotal": 988,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3849,8 +3843,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 64
+      "2026-11-23": 65
     }
   },
-  "changed": "2026-11-24T00:14:15.574Z"
+  "changed": "2026-11-24T00:19:14.169Z"
 }
