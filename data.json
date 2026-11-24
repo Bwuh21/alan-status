@@ -2895,13 +2895,6 @@
   "stack": {
     "building": [
       {
-        "n": 1414,
-        "head": "LAUNCH: the auras look weird INSIDE the games",
-        "detail": "they need real work fable",
-        "lane": "arcade",
-        "since": "2026-11-24 13:24"
-      },
-      {
         "n": 1415,
         "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable",
         "lane": "arcade",
@@ -3823,6 +3816,14 @@
       {
         "n": 1428,
         "head": "Skin Kick: the camera still starts from a dead stop on the desk (2.6% held frames before it eases in)"
+      },
+      {
+        "n": 1429,
+        "head": "Volleyball: does the aura stay standing while the body dives? Photograph a dive first fable"
+      },
+      {
+        "n": 1430,
+        "head": "Boxing: its own aura check cannot start (the harness refuses a 390-wide window that is not a phone) fable"
       }
     ],
     "waiting": [
@@ -3844,6 +3845,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1414,
+        "head": "LAUNCH: the auras look weird INSIDE the games",
+        "detail": "they need real work fable",
+        "date": "2026-11-24"
+      },
       {
         "n": 1413,
         "head": "LAUNCH: soccer",
@@ -3899,14 +3906,9 @@
         "n": 1263,
         "head": "StandStill: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1262,
-        "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1019,
+    "shippedTotal": 1020,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3914,8 +3916,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 15
+      "2026-11-24": 16
     }
   },
-  "changed": "2026-11-24T20:29:18.534Z"
+  "changed": "2026-11-24T20:54:14.674Z"
 }
