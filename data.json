@@ -2854,12 +2854,6 @@
         "since": "2026-11-23 20:49"
       },
       {
-        "n": 1258,
-        "head": "Riposte: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-23 19:34"
-      },
-      {
         "n": 1259,
         "head": "LiveWire: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -3751,6 +3745,10 @@
       {
         "n": 1400,
         "head": "Space Golf's with-friends check reds one timing line on a busy laptop: \"that hole builds no slower than an ordinary hole change\" (seen by ro"
+      },
+      {
+        "n": 1401,
+        "head": "Riposte's desk how-to check still misses its staged parry catch most runs (seen by row 1258, 2026-11-23)"
       }
     ],
     "waiting": [
@@ -3772,6 +3770,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1258,
+        "head": "Riposte: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "date": "2026-11-23"
+      },
       {
         "n": 1256,
         "head": "Slab City: skate-revert-check has two reds at HEAD",
@@ -3833,14 +3836,9 @@
         "head": "TOY FURY: a clean lap never puts a panel back",
         "detail": "wear-check seed 33 ends on 1 panel with zero mends",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1239,
-        "head": "Dodgeball says '3d' over a dead picture: its self-report should answer 'lost' when the shared guard says the view is dead",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 998,
+    "shippedTotal": 999,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3848,8 +3846,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 75
+      "2026-11-23": 76
     }
   },
-  "changed": "2026-11-24T02:54:14.648Z"
+  "changed": "2026-11-24T02:59:13.571Z"
 }
