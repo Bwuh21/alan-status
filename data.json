@@ -2848,23 +2848,10 @@
   "stack": {
     "building": [
       {
-        "n": 937,
-        "head": "four game harnesses die on \"NO SIGN OF LIFE\" before they finish, on the committed build",
-        "lane": "arcade",
-        "since": "2026-11-23 19:24"
-      },
-      {
         "n": 940,
         "head": "eight harnesses cannot run at all any more: fix the four that guard something, archive the four that are old copies",
         "lane": "arcade",
         "since": "2026-11-23 19:39"
-      },
-      {
-        "n": 1256,
-        "head": "Slab City: skate-revert-check has two reds at HEAD",
-        "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-23 18:59"
       },
       {
         "n": 1258,
@@ -3754,6 +3741,14 @@
       {
         "n": 1397,
         "head": "Slab City: a board crossing a ramp's 19.9 cm side kerb sideways dips 9-16 cm into it for 1-4 frames (VERT RAMP 4, LOADING DOCK 8), because t"
+      },
+      {
+        "n": 1398,
+        "head": "the 26 private game drivers still carry the old life probe that calls an idle tap-driven page dead (left by row 937, 2026-11-23)"
+      },
+      {
+        "n": 1399,
+        "head": "Darts net match failed to finish once in check.mjs, passed on the re-run (seen by row 937, 2026-11-23)"
       }
     ],
     "waiting": [
@@ -3775,6 +3770,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1256,
+        "head": "Slab City: skate-revert-check has two reds at HEAD",
+        "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate",
+        "date": "2026-11-23"
+      },
       {
         "n": 1254,
         "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
@@ -3835,15 +3836,9 @@
         "n": 1239,
         "head": "Dodgeball says '3d' over a dead picture: its self-report should answer 'lost' when the shared guard says the view is dead",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1235,
-        "head": "Sky Spike: a first-time player never meets the dive",
-        "detail": "its tip lives only behind \"?\", so the move the friends could not find on 11-19 is still opt-in",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 995,
+    "shippedTotal": 997,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3851,8 +3846,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 72
+      "2026-11-23": 74
     }
   },
-  "changed": "2026-11-24T01:44:14.307Z"
+  "changed": "2026-11-24T02:14:13.739Z"
 }
