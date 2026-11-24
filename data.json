@@ -2902,6 +2902,13 @@
         "since": "2026-11-24 15:00"
       },
       {
+        "n": 1417,
+        "head": "LAUNCH: pool",
+        "detail": "you cannot SEE two friends playing pool against each other, and pool needs the join screen",
+        "lane": "arcade",
+        "since": "2026-11-24 16:39"
+      },
+      {
         "n": 1275,
         "head": "Toy Fury: row403-check went red with ZERO racing frames, and the ship gate now refuses on it",
         "lane": "arcade2",
@@ -2916,11 +2923,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1417,
-        "head": "LAUNCH: pool",
-        "detail": "you cannot SEE two friends playing pool against each other, and pool needs the join screen"
-      },
       {
         "n": 1418,
         "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players"
@@ -3930,5 +3932,5 @@
       "2026-11-24": 18
     }
   },
-  "changed": "2026-11-24T22:39:14.243Z"
+  "changed": "2026-11-24T22:44:17.586Z"
 }
