@@ -2890,12 +2890,6 @@
   "stack": {
     "building": [
       {
-        "n": 952,
-        "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip",
-        "lane": "arcade",
-        "since": "2026-11-24 01:19"
-      },
-      {
         "n": 1269,
         "head": "Rearview: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
@@ -3861,6 +3855,11 @@
         "date": "2026-11-24"
       },
       {
+        "n": 952,
+        "head": "five games' own checks cannot be trusted tonight: four are red before they start, one is a coin flip",
+        "date": "2026-11-24"
+      },
+      {
         "n": 951,
         "head": "the arcade's own \"phone\" pictures are still narrow desktops: burn down the grandfather list for the shared portal checks",
         "date": "2026-11-24"
@@ -3885,15 +3884,9 @@
         "head": "Slab City: skate-revert-check has two reds at HEAD",
         "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate",
         "date": "2026-11-23"
-      },
-      {
-        "n": 1254,
-        "head": "Slab City: the drawn board still dips 14-22 cm into six solids in the wall probe",
-        "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate",
-        "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 1011,
+    "shippedTotal": 1012,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3901,8 +3894,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 7
+      "2026-11-24": 8
     }
   },
-  "changed": "2026-11-24T16:54:16.819Z"
+  "changed": "2026-11-24T17:09:15.294Z"
 }
