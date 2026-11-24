@@ -2848,12 +2848,6 @@
   "stack": {
     "building": [
       {
-        "n": 931,
-        "head": "the toy house's scattered floor toys sit 5 to 16 mm above the floor, and 276 wall-flush pieces 6 to 30 cm above a surface are still unjudged",
-        "lane": "arcade",
-        "since": "2026-11-23 18:39"
-      },
-      {
         "n": 934,
         "head": "the toy house sweep prints 171 sunk floor pieces in 12 families every run, and all 12 are built that way",
         "lane": "arcade",
@@ -2865,6 +2859,13 @@
         "detail": "VERT RAMP 4 on the ground and five round posts in the air (found by row 1111, 2026-11-21) region-skate",
         "lane": "arcade2",
         "since": "2026-11-23 18:39"
+      },
+      {
+        "n": 1256,
+        "head": "Slab City: skate-revert-check has two reds at HEAD",
+        "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-23 18:59"
       }
     ],
     "next": [
@@ -3200,11 +3201,6 @@
       {
         "n": 1255,
         "head": "nine games' own checks were red on 2026-11-17 and nobody filed them; the new nightly sweep will not either"
-      },
-      {
-        "n": 1256,
-        "head": "Slab City: skate-revert-check has two reds at HEAD",
-        "detail": "a vert-lip ollie lands back inside the ramp, and the live revert plays no whoosh (found by row 1114, 2026-11-21) region-skate"
       },
       {
         "n": 1257,
@@ -3752,6 +3748,14 @@
       {
         "n": 1393,
         "head": "Slab City: now that the wall probe really rides walls, riders who drop off one near the fence get stuck against it, and the drawn board sits"
+      },
+      {
+        "n": 1394,
+        "head": "Toy house minis: about 40 props stand partly or wholly past the round mat's rim, over nothing, and the floater check cannot see it because i"
+      },
+      {
+        "n": 1395,
+        "head": "Toy house, upstairs mini: the bathtub has no front panel, so its rim rod rides 15 mm over the water"
       }
     ],
     "waiting": [
@@ -3840,7 +3844,7 @@
         "date": "2026-11-23"
       }
     ],
-    "shippedTotal": 991,
+    "shippedTotal": 992,
     "shippedOn": {
       "2026-11-17": 43,
       "2026-11-18": 47,
@@ -3848,8 +3852,8 @@
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
-      "2026-11-23": 68
+      "2026-11-23": 69
     }
   },
-  "changed": "2026-11-24T00:54:14.253Z"
+  "changed": "2026-11-24T01:04:15.213Z"
 }
