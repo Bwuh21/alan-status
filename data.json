@@ -2907,6 +2907,12 @@
         "since": "2026-11-24 16:39"
       },
       {
+        "n": 1418,
+        "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players",
+        "lane": "arcade",
+        "since": "2026-11-24 17:24"
+      },
+      {
         "n": 1278,
         "head": "Slab City: FRIENDS never see the ollie wind-up crouch",
         "detail": "it is not on the wire (found building row 1122, 2026-11-21) region-skate",
@@ -2915,10 +2921,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1418,
-        "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players"
-      },
       {
         "n": 1420,
         "head": "LAUNCH: ping pong",
@@ -3837,6 +3839,11 @@
         "n": 1437,
         "head": "Checks: a getMat material with an inline onBeforeCompile holds whatever scope made it",
         "detail": "scan arcade.html for the rest"
+      },
+      {
+        "n": 1438,
+        "head": "Slab City: a friend's tuck crouches and leans but their arms stay out",
+        "detail": "bring them in like your own (found building row 1276, 2026-11-24) region-skate"
       }
     ],
     "waiting": [
@@ -3935,5 +3942,5 @@
       "2026-11-24": 21
     }
   },
-  "changed": "2026-11-24T23:24:14.244Z"
+  "changed": "2026-11-24T23:29:14.164Z"
 }
