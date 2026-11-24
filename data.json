@@ -2901,19 +2901,6 @@
         "detail": "the movement is choppy, it does not look fluid",
         "lane": "arcade",
         "since": "2026-11-24 11:24"
-      },
-      {
-        "n": 1416,
-        "head": "LAUNCH: pool",
-        "detail": "the balls and the table need to look much cooler game-cornerpocket",
-        "lane": "arcade2",
-        "since": "2026-11-24 11:24"
-      },
-      {
-        "n": 1271,
-        "head": "CloudStreet: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "lane": "arcade2",
-        "since": "2026-11-24 11:29"
       }
     ],
     "next": [
@@ -2925,6 +2912,11 @@
       {
         "n": 1415,
         "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable"
+      },
+      {
+        "n": 1416,
+        "head": "LAUNCH: pool",
+        "detail": "the balls and the table need to look much cooler"
       },
       {
         "n": 1417,
@@ -3245,6 +3237,10 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
+      },
+      {
+        "n": 1271,
+        "head": "CloudStreet: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1272,
@@ -3902,5 +3898,5 @@
       "2026-11-24": 10
     }
   },
-  "changed": "2026-11-24T17:34:27.929Z"
+  "changed": "2026-11-24T18:09:41.912Z"
 }
