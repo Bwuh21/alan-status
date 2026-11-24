@@ -2848,21 +2848,31 @@
   "stack": {
     "building": [
       {
+        "n": 942,
+        "head": "eleven lobby notices still lose their last word on a 360 px phone (left by row 448, 2026-11-17)",
+        "lane": "arcade",
+        "since": "2026-11-23 21:34"
+      },
+      {
+        "n": 943,
+        "head": "the party travel check is red on the live site and has been since the island was renamed",
+        "lane": "arcade",
+        "since": "2026-11-23 21:34"
+      },
+      {
         "n": 1261,
         "head": "IceHockey: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "lane": "arcade2",
         "since": "2026-11-23 21:29"
+      },
+      {
+        "n": 1262,
+        "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
+        "lane": "arcade2",
+        "since": "2026-11-23 21:34"
       }
     ],
     "next": [
-      {
-        "n": 942,
-        "head": "eleven lobby notices still lose their last word on a 360 px phone (left by row 448, 2026-11-17)"
-      },
-      {
-        "n": 943,
-        "head": "the party travel check is red on the live site and has been since the island was renamed"
-      },
       {
         "n": 951,
         "head": "the arcade's own \"phone\" pictures are still narrow desktops: burn down the grandfather list for the shared portal checks"
@@ -3175,10 +3185,6 @@
       {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1262,
-        "head": "Splatflag: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)"
       },
       {
         "n": 1263,
@@ -3842,5 +3848,5 @@
       "2026-11-23": 78
     }
   },
-  "changed": "2026-11-24T03:34:13.574Z"
+  "changed": "2026-11-24T03:40:02.351Z"
 }
