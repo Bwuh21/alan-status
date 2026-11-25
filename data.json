@@ -2905,24 +2905,11 @@
   "stack": {
     "building": [
       {
-        "n": 1418,
-        "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players",
-        "lane": "arcade",
-        "since": "2026-11-24 17:24"
-      },
-      {
         "n": 1420,
         "head": "LAUNCH: ping pong",
         "detail": "\"there is no control what so ever\": make it play like Wii Sports table tennis, where you put the ball exactly where you want fable",
         "lane": "arcade",
         "since": "2026-11-24 18:39"
-      },
-      {
-        "n": 1280,
-        "head": "Slab City: the powerslide has no SCREECH of its own",
-        "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-24 18:21"
       },
       {
         "n": 1283,
@@ -3841,6 +3828,11 @@
         "n": 1439,
         "head": "Bar hall: a GUEST's foosball or ping pong game is still invisible to the room",
         "detail": "the host never passes it on"
+      },
+      {
+        "n": 1440,
+        "head": "Checks: skate-leave-sound-check fails its own canary",
+        "detail": "its tap never sees a live skate loop, on HEAD as well as with row 1280 (found building row 1280, 2026-11-24) region-skate"
       }
     ],
     "waiting": [
@@ -3862,6 +3854,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1418,
+        "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players",
+        "date": "2026-11-24"
+      },
       {
         "n": 1417,
         "head": "LAUNCH: pool",
@@ -3897,6 +3894,12 @@
         "date": "2026-11-24"
       },
       {
+        "n": 1280,
+        "head": "Slab City: the powerslide has no SCREECH of its own",
+        "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate",
+        "date": "2026-11-24"
+      },
+      {
         "n": 1279,
         "head": "Slab City: FRIENDS never see your POWERSLIDE",
         "detail": "the board across and the skid marks are not on the wire (found building row 1123, 2026-11-21) region-skate",
@@ -3919,19 +3922,9 @@
         "head": "verify/ is not served, nothing to deploy)",
         "detail": "Toy Fury: row403-check went red with ZERO racing frames, and the ship gate now refuses on it",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1274,
-        "head": "Sideways: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "date": "2026-11-24"
-      },
-      {
-        "n": 1273,
-        "head": "BlendIn: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1028,
+    "shippedTotal": 1030,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3939,8 +3932,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 24
+      "2026-11-24": 26
     }
   },
-  "changed": "2026-11-25T00:54:18.542Z"
+  "changed": "2026-11-25T01:24:13.582Z"
 }
