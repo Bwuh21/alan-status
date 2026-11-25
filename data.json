@@ -2918,13 +2918,6 @@
         "since": "2026-11-24 18:39"
       },
       {
-        "n": 1279,
-        "head": "Slab City: FRIENDS never see your POWERSLIDE",
-        "detail": "the board across and the skid marks are not on the wire (found building row 1123, 2026-11-21) region-skate",
-        "lane": "arcade2",
-        "since": "2026-11-24 17:29"
-      },
-      {
         "n": 1280,
         "head": "Slab City: the powerslide has no SCREECH of its own",
         "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate",
@@ -3902,6 +3895,12 @@
         "date": "2026-11-24"
       },
       {
+        "n": 1279,
+        "head": "Slab City: FRIENDS never see your POWERSLIDE",
+        "detail": "the board across and the skid marks are not on the wire (found building row 1123, 2026-11-21) region-skate",
+        "date": "2026-11-24"
+      },
+      {
         "n": 1278,
         "head": "Slab City: FRIENDS never see the ollie wind-up crouch",
         "detail": "it is not on the wire (found building row 1122, 2026-11-21) region-skate",
@@ -3928,14 +3927,9 @@
         "n": 1273,
         "head": "BlendIn: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1272,
-        "head": "DeepLine: the how-to card still waits 90 s on a step luck must hand you (left over from row 615, 2026-11-21)",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1027,
+    "shippedTotal": 1028,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3943,8 +3937,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 23
+      "2026-11-24": 24
     }
   },
-  "changed": "2026-11-25T00:44:13.605Z"
+  "changed": "2026-11-25T00:49:13.432Z"
 }
