@@ -2916,6 +2916,12 @@
         "head": "Slab City: BAIL-9's lying depth flaps at HEAD (-0.016 .. -0.043 m), a flaky red in three rows' reports (found building row 1124, 2026-11-22)",
         "lane": "arcade2",
         "since": "2026-11-24 18:49"
+      },
+      {
+        "n": 1284,
+        "head": "Toy Fury: a second and third open-road map (row 1282 shipped one)",
+        "lane": "arcade2",
+        "since": "2026-11-24 19:24"
       }
     ],
     "next": [
@@ -3228,10 +3234,6 @@
       {
         "n": 1277,
         "head": "the step-spread ruler watches every party game's BODY but none of their CAMERAS"
-      },
-      {
-        "n": 1284,
-        "head": "Toy Fury: a second and third open-road map (row 1282 shipped one)"
       },
       {
         "n": 1285,
@@ -3833,6 +3835,10 @@
         "n": 1440,
         "head": "Checks: skate-leave-sound-check fails its own canary",
         "detail": "its tap never sees a live skate loop, on HEAD as well as with row 1280 (found building row 1280, 2026-11-24) region-skate"
+      },
+      {
+        "n": 1441,
+        "head": "One account, one seat: a game opened on its OWN (not from the lobby) still lets a second tab of the same account in"
       }
     ],
     "waiting": [
@@ -3935,5 +3941,5 @@
       "2026-11-24": 26
     }
   },
-  "changed": "2026-11-25T01:24:13.582Z"
+  "changed": "2026-11-25T01:29:19.721Z"
 }
