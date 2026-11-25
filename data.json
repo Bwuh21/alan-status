@@ -2912,6 +2912,12 @@
         "since": "2026-11-24 19:29"
       },
       {
+        "n": 958,
+        "head": "audit the ~40 unaudited check.mjs/dev/check.mjs instruments for gate-worthiness, one game at a time (left by row 490, 2026-11-17)",
+        "lane": "arcade",
+        "since": "2026-11-24 20:44"
+      },
+      {
         "n": 1284,
         "head": "Toy Fury: a second and third open-road map (row 1282 shipped one)",
         "lane": "arcade2",
@@ -2926,10 +2932,6 @@
       }
     ],
     "next": [
-      {
-        "n": 958,
-        "head": "audit the ~40 unaudited check.mjs/dev/check.mjs instruments for gate-worthiness, one game at a time (left by row 490, 2026-11-17)"
-      },
       {
         "n": 960,
         "head": "four checks crash instantly on the same exotic code instead of failing a real assertion"
@@ -3958,5 +3960,5 @@
       "2026-11-24": 28
     }
   },
-  "changed": "2026-11-25T02:39:14.754Z"
+  "changed": "2026-11-25T02:49:14.299Z"
 }
