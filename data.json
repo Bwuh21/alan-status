@@ -2916,6 +2916,12 @@
         "detail": "GOLF par pay: the arcade calls finish_golf and hands the game its pay rows (row 763's pay half, 2026-11-18)",
         "lane": "arcade",
         "since": "2026-11-24 22:34"
+      },
+      {
+        "n": 1288,
+        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases",
+        "lane": "arcade2",
+        "since": "2026-11-24 22:39"
       }
     ],
     "next": [
@@ -3202,10 +3208,6 @@
       {
         "n": 1287,
         "head": "Arcade room: a Toy Fury map board on the main island, so the house stops being the lobby"
-      },
-      {
-        "n": 1288,
-        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases"
       },
       {
         "n": 1289,
@@ -3944,5 +3946,5 @@
       "2026-11-24": 38
     }
   },
-  "changed": "2026-11-25T04:39:14.030Z"
+  "changed": "2026-11-25T04:44:13.999Z"
 }
