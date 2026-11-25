@@ -2905,22 +2905,22 @@
   "stack": {
     "building": [
       {
-        "n": 961,
-        "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs",
-        "lane": "arcade",
-        "since": "2026-11-24 22:09"
-      },
-      {
         "n": 1286,
         "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites",
         "lane": "arcade2",
         "since": "2026-11-24 21:14"
+      },
+      {
+        "n": 1288,
+        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases",
+        "lane": "arcade2",
+        "since": "2026-11-24 22:14"
       }
     ],
     "next": [
       {
-        "n": 960,
-        "head": "four checks crash instantly on the same exotic code instead of failing a real assertion"
+        "n": 961,
+        "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs"
       },
       {
         "n": 1003,
@@ -3218,10 +3218,6 @@
       {
         "n": 1287,
         "head": "Arcade room: a Toy Fury map board on the main island, so the house stops being the lobby"
-      },
-      {
-        "n": 1288,
-        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases"
       },
       {
         "n": 1289,
@@ -3946,7 +3942,7 @@
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1038,
+    "shippedTotal": 1039,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3954,8 +3950,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 34
+      "2026-11-24": 35
     }
   },
-  "changed": "2026-11-25T04:14:13.993Z"
+  "changed": "2026-11-25T04:19:13.948Z"
 }
