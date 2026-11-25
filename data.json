@@ -2918,12 +2918,6 @@
         "since": "2026-11-24 22:49"
       },
       {
-        "n": 1288,
-        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases",
-        "lane": "arcade2",
-        "since": "2026-11-24 22:39"
-      },
-      {
         "n": 1289,
         "head": "Arcade room: four HOT VIEWS read ~130-145 draws, about twice their island's budget",
         "detail": "name the heavy mesh BEFORE the four-way perf record bakes it in",
@@ -3932,12 +3926,12 @@
         "date": "2026-11-24"
       },
       {
-        "n": 1286,
-        "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites",
+        "n": 1288,
+        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases",
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1043,
+    "shippedTotal": 1044,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3945,8 +3939,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 39
+      "2026-11-24": 40
     }
   },
-  "changed": "2026-11-25T04:59:15.785Z"
+  "changed": "2026-11-25T05:09:15.760Z"
 }
