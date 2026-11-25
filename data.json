@@ -2905,6 +2905,18 @@
   "stack": {
     "building": [
       {
+        "n": 958,
+        "head": "audit the ~40 unaudited check.mjs/dev/check.mjs instruments for gate-worthiness, one game at a time (left by row 490, 2026-11-17)",
+        "lane": "arcade",
+        "since": "2026-11-24 21:29"
+      },
+      {
+        "n": 960,
+        "head": "four checks crash instantly on the same exotic code instead of failing a real assertion",
+        "lane": "arcade",
+        "since": "2026-11-24 21:29"
+      },
+      {
         "n": 1285,
         "head": "Toy Fury: the open road needs life",
         "detail": "nothing moves on it and the repair bay has no sign",
@@ -2919,10 +2931,6 @@
       }
     ],
     "next": [
-      {
-        "n": 960,
-        "head": "four checks crash instantly on the same exotic code instead of failing a real assertion"
-      },
       {
         "n": 961,
         "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs"
@@ -3958,5 +3966,5 @@
       "2026-11-24": 30
     }
   },
-  "changed": "2026-11-25T03:29:13.883Z"
+  "changed": "2026-11-25T03:34:15.479Z"
 }
