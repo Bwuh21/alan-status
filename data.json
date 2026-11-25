@@ -3840,6 +3840,14 @@
       {
         "n": 1464,
         "head": "Bar: the pool table is about 45 draws in the bar's worst view (0,-9 at 90 deg, now the heaviest view in the arcade at 141)"
+      },
+      {
+        "n": 1465,
+        "head": "KitchenClash's own party-check.mjs went red (nightly instrument sweep, 2026-11-25)"
+      },
+      {
+        "n": 1466,
+        "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-25)"
       }
     ],
     "waiting": [
@@ -3940,5 +3948,5 @@
       "2026-11-24": 43
     }
   },
-  "changed": "2026-11-25T05:39:14.019Z"
+  "changed": "2026-11-25T11:19:14.544Z"
 }
