@@ -2919,12 +2919,6 @@
         "since": "2026-11-24 19:29"
       },
       {
-        "n": 1283,
-        "head": "Slab City: BAIL-9's lying depth flaps at HEAD (-0.016 .. -0.043 m), a flaky red in three rows' reports (found building row 1124, 2026-11-22)",
-        "lane": "arcade2",
-        "since": "2026-11-24 18:49"
-      },
-      {
         "n": 1284,
         "head": "Toy Fury: a second and third open-road map (row 1282 shipped one)",
         "lane": "arcade2",
@@ -3841,6 +3835,11 @@
       {
         "n": 1441,
         "head": "One account, one seat: a game opened on its OWN (not from the lobby) still lets a second tab of the same account in"
+      },
+      {
+        "n": 1442,
+        "head": "Lobby: a walking flop can stall for 20 s headless",
+        "detail": "0.3 s left on its clock, or stuck in the get-up hop off the ground"
       }
     ],
     "waiting": [
@@ -3902,6 +3901,11 @@
         "date": "2026-11-24"
       },
       {
+        "n": 1283,
+        "head": "Slab City: BAIL-9's lying depth flaps at HEAD (-0.016 .. -0.043 m), a flaky red in three rows' reports (found building row 1124, 2026-11-22)",
+        "date": "2026-11-24"
+      },
+      {
         "n": 1280,
         "head": "Slab City: the powerslide has no SCREECH of its own",
         "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate",
@@ -3924,15 +3928,9 @@
         "head": "Slab City: FRIENDS never see your speed tuck",
         "detail": "it is not on the wire (found building row 1121, 2026-11-21) region-skate",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1275,
-        "head": "verify/ is not served, nothing to deploy)",
-        "detail": "Toy Fury: row403-check went red with ZERO racing frames, and the ship gate now refuses on it",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1030,
+    "shippedTotal": 1031,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3940,8 +3938,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 26
+      "2026-11-24": 27
     }
   },
-  "changed": "2026-11-25T01:34:15.298Z"
+  "changed": "2026-11-25T02:09:14.909Z"
 }
