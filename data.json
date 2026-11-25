@@ -2905,6 +2905,12 @@
   "stack": {
     "building": [
       {
+        "n": 961,
+        "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs",
+        "lane": "arcade",
+        "since": "2026-11-24 22:09"
+      },
+      {
         "n": 1286,
         "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites",
         "lane": "arcade2",
@@ -2915,10 +2921,6 @@
       {
         "n": 960,
         "head": "four checks crash instantly on the same exotic code instead of failing a real assertion"
-      },
-      {
-        "n": 961,
-        "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs"
       },
       {
         "n": 1003,
@@ -3955,5 +3957,5 @@
       "2026-11-24": 34
     }
   },
-  "changed": "2026-11-25T04:09:13.941Z"
+  "changed": "2026-11-25T04:14:13.993Z"
 }
