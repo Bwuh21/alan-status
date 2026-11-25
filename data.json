@@ -2919,10 +2919,6 @@
     ],
     "next": [
       {
-        "n": 961,
-        "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs"
-      },
-      {
         "n": 1003,
         "head": "THE CHAIN hands a lane a row that already SHIPPED: game-manager pops a pre-loaded brief without re-reading the row's heading"
       },
@@ -3853,6 +3849,10 @@
       {
         "n": 1460,
         "head": "Toy Fury road: zone-ride never touches the rumble band at s 39.68-43.78"
+      },
+      {
+        "n": 1461,
+        "head": "the live BroadsideBay folder still serves about 25 harness files that the ship filter now drops"
       }
     ],
     "waiting": [
@@ -3942,7 +3942,7 @@
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1039,
+    "shippedTotal": 1040,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3950,8 +3950,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 35
+      "2026-11-24": 36
     }
   },
-  "changed": "2026-11-25T04:19:13.948Z"
+  "changed": "2026-11-25T04:24:14.304Z"
 }
