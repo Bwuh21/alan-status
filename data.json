@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T05:11:00.000Z",
+  "updated": "2026-11-25T05:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -608,6 +608,11 @@
           "text": "Pool: show the balls each side has sunk, and an aim line you can see on a phone",
           "status": "done",
           "note": "Live 11-21. A strip across the top of the screen holds every ball: yours on the left, the 8 in the middle, theirs on the right. A ball you sink lights up and drops into place; the rest stay faint. The aim line was one…"
+        },
+        {
+          "text": "Arcade: the heaviest views toward the plaza draw less, and the speed check now looks four ways per island (row 1289)",
+          "status": "done",
+          "note": "Live 2026-11-24. Looking at the plaza from a neighbouring island was the heaviest thing in the arcade, about twice what each island is allowed. The six walkways now draw as one piece instead of six, the two coin rings…"
         },
         {
           "text": "Pool: everyone in the bar can watch a match they are not in, and pool has the join screen (Zack, 2026-11-24, row 1417)",
@@ -2911,13 +2916,6 @@
         "since": "2026-11-24 23:14"
       },
       {
-        "n": 1289,
-        "head": "Arcade room: four HOT VIEWS read ~130-145 draws, about twice their island's budget",
-        "detail": "name the heavy mesh BEFORE the four-way perf record bakes it in",
-        "lane": "arcade2",
-        "since": "2026-11-24 22:44"
-      },
-      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3838,6 +3836,10 @@
       {
         "n": 1462,
         "head": "Arcade room: on a 4x-slowed phone one ~550 ms long task lands 1-3 s AFTER the first frame, in the old build and the new"
+      },
+      {
+        "n": 1464,
+        "head": "Bar: the pool table is about 45 draws in the bar's worst view (0,-9 at 90 deg, now the heaviest view in the arcade at 141)"
       }
     ],
     "waiting": [
@@ -3921,12 +3923,13 @@
         "date": "2026-11-24"
       },
       {
-        "n": 1288,
-        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases",
+        "n": 1289,
+        "head": "Arcade room: four HOT VIEWS read ~130-145 draws, about twice their island's budget",
+        "detail": "name the heavy mesh BEFORE the four-way perf record bakes it in",
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1046,
+    "shippedTotal": 1047,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3934,8 +3937,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 42
+      "2026-11-24": 43
     }
   },
-  "changed": "2026-11-25T05:24:14.294Z"
+  "changed": "2026-11-25T05:39:14.019Z"
 }
