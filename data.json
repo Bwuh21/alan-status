@@ -2923,6 +2923,13 @@
         "head": "Toy Fury: a second and third open-road map (row 1282 shipped one)",
         "lane": "arcade2",
         "since": "2026-11-24 19:24"
+      },
+      {
+        "n": 1285,
+        "head": "Toy Fury: the open road needs life",
+        "detail": "nothing moves on it and the repair bay has no sign",
+        "lane": "arcade2",
+        "since": "2026-11-24 20:13"
       }
     ],
     "next": [
@@ -3230,11 +3237,6 @@
       {
         "n": 1277,
         "head": "the step-spread ruler watches every party game's BODY but none of their CAMERAS"
-      },
-      {
-        "n": 1285,
-        "head": "Toy Fury: the open road needs life",
-        "detail": "nothing moves on it and the repair bay has no sign"
       },
       {
         "n": 1286,
@@ -3941,5 +3943,5 @@
       "2026-11-24": 27
     }
   },
-  "changed": "2026-11-25T02:09:14.909Z"
+  "changed": "2026-11-25T02:15:10.945Z"
 }
