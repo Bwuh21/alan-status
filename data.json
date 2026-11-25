@@ -2923,6 +2923,12 @@
         "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate",
         "lane": "arcade2",
         "since": "2026-11-24 18:21"
+      },
+      {
+        "n": 1283,
+        "head": "Slab City: BAIL-9's lying depth flaps at HEAD (-0.016 .. -0.043 m), a flaky red in three rows' reports (found building row 1124, 2026-11-22)",
+        "lane": "arcade2",
+        "since": "2026-11-24 18:49"
       }
     ],
     "next": [
@@ -3235,10 +3241,6 @@
       {
         "n": 1277,
         "head": "the step-spread ruler watches every party game's BODY but none of their CAMERAS"
-      },
-      {
-        "n": 1283,
-        "head": "Slab City: BAIL-9's lying depth flaps at HEAD (-0.016 .. -0.043 m), a flaky red in three rows' reports (found building row 1124, 2026-11-22)"
       },
       {
         "n": 1284,
@@ -3940,5 +3942,5 @@
       "2026-11-24": 24
     }
   },
-  "changed": "2026-11-25T00:49:13.432Z"
+  "changed": "2026-11-25T00:54:18.542Z"
 }
