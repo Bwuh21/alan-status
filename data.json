@@ -2911,6 +2911,13 @@
         "since": "2026-11-24 17:24"
       },
       {
+        "n": 1420,
+        "head": "LAUNCH: ping pong",
+        "detail": "\"there is no control what so ever\": make it play like Wii Sports table tennis, where you put the ball exactly where you want fable",
+        "lane": "arcade",
+        "since": "2026-11-24 18:39"
+      },
+      {
         "n": 1279,
         "head": "Slab City: FRIENDS never see your POWERSLIDE",
         "detail": "the board across and the skid marks are not on the wire (found building row 1123, 2026-11-21) region-skate",
@@ -2926,11 +2933,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1420,
-        "head": "LAUNCH: ping pong",
-        "detail": "\"there is no control what so ever\": make it play like Wii Sports table tennis, where you put the ball exactly where you want fable"
-      },
       {
         "n": 1421,
         "head": "LAUNCH: table shuffleboard",
@@ -3944,5 +3946,5 @@
       "2026-11-24": 23
     }
   },
-  "changed": "2026-11-25T00:39:14.946Z"
+  "changed": "2026-11-25T00:44:13.605Z"
 }
