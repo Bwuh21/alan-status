@@ -2905,12 +2905,6 @@
   "stack": {
     "building": [
       {
-        "n": 1007,
-        "head": "ship-game.sh's push gate refuses any game whose root dev harnesses are in HEAD but were never in the clone, because the filter calls them se",
-        "lane": "arcade",
-        "since": "2026-11-24 22:49"
-      },
-      {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
         "lane": "arcade",
@@ -2931,6 +2925,10 @@
       }
     ],
     "next": [
+      {
+        "n": 1463,
+        "head": "about 30 node test scripts already sit on the live site (leaked before rows 954/1007): take them off the clone"
+      },
       {
         "n": 1079,
         "head": "TEST LOBBY: the plaza arch and the island sign hide the top of every new island from the carpet (found by row 1061, 2026-11-19) region-lobby"
@@ -3928,7 +3926,7 @@
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1045,
+    "shippedTotal": 1046,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3936,8 +3934,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 41
+      "2026-11-24": 42
     }
   },
-  "changed": "2026-11-25T05:19:16.701Z"
+  "changed": "2026-11-25T05:24:14.294Z"
 }
