@@ -2912,6 +2912,13 @@
         "since": "2026-11-24 18:39"
       },
       {
+        "n": 1421,
+        "head": "LAUNCH: table shuffleboard",
+        "detail": "\"it just looks bad and needs more work done on it\" fable",
+        "lane": "arcade",
+        "since": "2026-11-24 19:29"
+      },
+      {
         "n": 1283,
         "head": "Slab City: BAIL-9's lying depth flaps at HEAD (-0.016 .. -0.043 m), a flaky red in three rows' reports (found building row 1124, 2026-11-22)",
         "lane": "arcade2",
@@ -2925,11 +2932,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1421,
-        "head": "LAUNCH: table shuffleboard",
-        "detail": "\"it just looks bad and needs more work done on it\" fable"
-      },
       {
         "n": 958,
         "head": "audit the ~40 unaudited check.mjs/dev/check.mjs instruments for gate-worthiness, one game at a time (left by row 490, 2026-11-17)"
@@ -3941,5 +3943,5 @@
       "2026-11-24": 26
     }
   },
-  "changed": "2026-11-25T01:29:19.721Z"
+  "changed": "2026-11-25T01:34:15.298Z"
 }
