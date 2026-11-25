@@ -2905,25 +2905,6 @@
   "stack": {
     "building": [
       {
-        "n": 958,
-        "head": "audit the ~40 unaudited check.mjs/dev/check.mjs instruments for gate-worthiness, one game at a time (left by row 490, 2026-11-17)",
-        "lane": "arcade",
-        "since": "2026-11-24 21:29"
-      },
-      {
-        "n": 960,
-        "head": "four checks crash instantly on the same exotic code instead of failing a real assertion",
-        "lane": "arcade",
-        "since": "2026-11-24 21:29"
-      },
-      {
-        "n": 1285,
-        "head": "Toy Fury: the open road needs life",
-        "detail": "nothing moves on it and the repair bay has no sign",
-        "lane": "arcade2",
-        "since": "2026-11-24 20:13"
-      },
-      {
         "n": 1286,
         "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites",
         "lane": "arcade2",
@@ -2931,6 +2912,10 @@
       }
     ],
     "next": [
+      {
+        "n": 960,
+        "head": "four checks crash instantly on the same exotic code instead of failing a real assertion"
+      },
       {
         "n": 961,
         "head": "ship-game.sh's /probe\\.mjs$ exclusion has the same exact-match gap row 518 just closed for check.mjs"
@@ -3254,10 +3239,6 @@
         "head": "Dodgeball's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
       },
       {
-        "n": 1293,
-        "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
-      },
-      {
         "n": 1294,
         "head": "LiveWire's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
       },
@@ -3268,10 +3249,6 @@
       {
         "n": 1296,
         "head": "SpaceGolf's own verify.mjs went red (nightly instrument sweep, 2026-11-22)"
-      },
-      {
-        "n": 1297,
-        "head": "StandStill's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
       },
       {
         "n": 1298,
@@ -3866,6 +3843,18 @@
       {
         "n": 1457,
         "head": "Shuffleboard: the cabinet around the new top is still the old flat box"
+      },
+      {
+        "n": 1458,
+        "head": "continue row 958: audit the next unaudited game check, prove it honest, gate ONE more game (left by row 958, 2026-11-24)"
+      },
+      {
+        "n": 1459,
+        "head": "Toy Fury coast: the REPAIR gantry is hidden behind the walled bend until the car is almost under it"
+      },
+      {
+        "n": 1460,
+        "head": "Toy Fury road: zone-ride never touches the rumble band at s 39.68-43.78"
       }
     ],
     "waiting": [
@@ -3939,23 +3928,23 @@
         "date": "2026-11-24"
       },
       {
-        "n": 1284,
-        "head": "Toy Fury: a second and third open-road map (row 1282 shipped one)",
+        "n": 1297,
+        "head": "StandStill's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "date": "2026-11-24"
       },
       {
-        "n": 1283,
-        "head": "Slab City: BAIL-9's lying depth flaps at HEAD (-0.016 .. -0.043 m), a flaky red in three rows' reports (found building row 1124, 2026-11-22)",
+        "n": 1293,
+        "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "date": "2026-11-24"
       },
       {
-        "n": 1280,
-        "head": "Slab City: the powerslide has no SCREECH of its own",
-        "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate",
+        "n": 1285,
+        "head": "Toy Fury: the open road needs life",
+        "detail": "nothing moves on it and the repair bay has no sign",
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1034,
+    "shippedTotal": 1038,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3963,8 +3952,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 30
+      "2026-11-24": 34
     }
   },
-  "changed": "2026-11-25T03:34:15.479Z"
+  "changed": "2026-11-25T04:09:13.941Z"
 }
