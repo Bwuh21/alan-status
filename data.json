@@ -2909,14 +2909,16 @@
         "head": "GOLF on the island: the sign and the directory say BACK NINE, and the ringed planet comes off the board (row 763's arcade half, no SQL, 2026",
         "lane": "arcade",
         "since": "2026-11-24 22:24"
-      }
-    ],
-    "next": [
+      },
       {
         "n": 1005,
         "head": "WAITS ON golf-par-pay-2026-11-18.sql",
-        "detail": "GOLF par pay: the arcade calls finish_golf and hands the game its pay rows (row 763's pay half, 2026-11-18)"
-      },
+        "detail": "GOLF par pay: the arcade calls finish_golf and hands the game its pay rows (row 763's pay half, 2026-11-18)",
+        "lane": "arcade",
+        "since": "2026-11-24 22:34"
+      }
+    ],
+    "next": [
       {
         "n": 1007,
         "head": "ship-game.sh's push gate refuses any game whose root dev harnesses are in HEAD but were never in the clone, because the filter calls them se"
@@ -3942,5 +3944,5 @@
       "2026-11-24": 38
     }
   },
-  "changed": "2026-11-25T04:34:13.990Z"
+  "changed": "2026-11-25T04:39:14.030Z"
 }
