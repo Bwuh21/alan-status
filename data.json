@@ -2923,6 +2923,12 @@
         "detail": "nothing moves on it and the repair bay has no sign",
         "lane": "arcade2",
         "since": "2026-11-24 20:13"
+      },
+      {
+        "n": 1286,
+        "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites",
+        "lane": "arcade2",
+        "since": "2026-11-24 21:14"
       }
     ],
     "next": [
@@ -3226,10 +3232,6 @@
       {
         "n": 1277,
         "head": "the step-spread ruler watches every party game's BODY but none of their CAMERAS"
-      },
-      {
-        "n": 1286,
-        "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites"
       },
       {
         "n": 1287,
@@ -3957,5 +3959,5 @@
       "2026-11-24": 29
     }
   },
-  "changed": "2026-11-25T03:09:14.064Z"
+  "changed": "2026-11-25T03:19:15.003Z"
 }
