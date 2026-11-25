@@ -2912,6 +2912,12 @@
         "since": "2026-11-24 22:34"
       },
       {
+        "n": 1007,
+        "head": "ship-game.sh's push gate refuses any game whose root dev harnesses are in HEAD but were never in the clone, because the filter calls them se",
+        "lane": "arcade",
+        "since": "2026-11-24 22:49"
+      },
+      {
         "n": 1288,
         "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases",
         "lane": "arcade2",
@@ -2926,10 +2932,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1007,
-        "head": "ship-game.sh's push gate refuses any game whose root dev harnesses are in HEAD but were never in the clone, because the filter calls them se"
-      },
       {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
@@ -3942,5 +3944,5 @@
       "2026-11-24": 39
     }
   },
-  "changed": "2026-11-25T04:49:14.010Z"
+  "changed": "2026-11-25T04:54:14.197Z"
 }
