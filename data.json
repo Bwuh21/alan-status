@@ -2905,13 +2905,6 @@
   "stack": {
     "building": [
       {
-        "n": 1420,
-        "head": "LAUNCH: ping pong",
-        "detail": "\"there is no control what so ever\": make it play like Wii Sports table tennis, where you put the ball exactly where you want fable",
-        "lane": "arcade",
-        "since": "2026-11-24 18:39"
-      },
-      {
         "n": 1421,
         "head": "LAUNCH: table shuffleboard",
         "detail": "\"it just looks bad and needs more work done on it\" fable",
@@ -3851,6 +3844,19 @@
       {
         "n": 1444,
         "head": "Strike City: take the walk to the ball return out between balls (default taken by the 2026-11-24 nightly reflection on the three-morning rul"
+      },
+      {
+        "n": 1447,
+        "head": "Bar ping pong: on a desk screen your own head covers the near-left of the table"
+      },
+      {
+        "n": 1448,
+        "head": "Bar ping pong: a dead-straight push lands 6 cm right of centre, and the aim ring has never been pictured mid-stroke"
+      },
+      {
+        "n": 1449,
+        "head": "Checks: pong-hold-check fails two cases on HEAD as well",
+        "detail": "a fast sweep, and the far-end seat"
       }
     ],
     "waiting": [
@@ -3872,6 +3878,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1420,
+        "head": "LAUNCH: ping pong",
+        "detail": "\"there is no control what so ever\": make it play like Wii Sports table tennis, where you put the ball exactly where you want fable",
+        "date": "2026-11-24"
+      },
       {
         "n": 1418,
         "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players",
@@ -3933,15 +3945,9 @@
         "head": "Slab City: FRIENDS never see the ollie wind-up crouch",
         "detail": "it is not on the wire (found building row 1122, 2026-11-21) region-skate",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1276,
-        "head": "Slab City: FRIENDS never see your speed tuck",
-        "detail": "it is not on the wire (found building row 1121, 2026-11-21) region-skate",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1031,
+    "shippedTotal": 1032,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3949,8 +3955,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 27
+      "2026-11-24": 28
     }
   },
-  "changed": "2026-11-25T02:34:14.233Z"
+  "changed": "2026-11-25T02:39:14.754Z"
 }
