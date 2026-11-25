@@ -2918,12 +2918,6 @@
         "since": "2026-11-24 20:44"
       },
       {
-        "n": 1284,
-        "head": "Toy Fury: a second and third open-road map (row 1282 shipped one)",
-        "lane": "arcade2",
-        "since": "2026-11-24 19:24"
-      },
-      {
         "n": 1285,
         "head": "Toy Fury: the open road needs life",
         "detail": "nothing moves on it and the repair bay has no sign",
@@ -3859,6 +3853,10 @@
         "n": 1449,
         "head": "Checks: pong-hold-check fails two cases on HEAD as well",
         "detail": "a fast sweep, and the far-end seat"
+      },
+      {
+        "n": 1453,
+        "head": "Toy Fury checks: zone-ride reports FAIL on every repair bay, because a bay only mends a car that is hurt"
       }
     ],
     "waiting": [
@@ -3926,6 +3924,11 @@
         "date": "2026-11-24"
       },
       {
+        "n": 1284,
+        "head": "Toy Fury: a second and third open-road map (row 1282 shipped one)",
+        "date": "2026-11-24"
+      },
+      {
         "n": 1283,
         "head": "Slab City: BAIL-9's lying depth flaps at HEAD (-0.016 .. -0.043 m), a flaky red in three rows' reports (found building row 1124, 2026-11-22)",
         "date": "2026-11-24"
@@ -3941,15 +3944,9 @@
         "head": "Slab City: FRIENDS never see your POWERSLIDE",
         "detail": "the board across and the skid marks are not on the wire (found building row 1123, 2026-11-21) region-skate",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1278,
-        "head": "Slab City: FRIENDS never see the ollie wind-up crouch",
-        "detail": "it is not on the wire (found building row 1122, 2026-11-21) region-skate",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1032,
+    "shippedTotal": 1033,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3957,8 +3954,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 28
+      "2026-11-24": 29
     }
   },
-  "changed": "2026-11-25T02:49:14.299Z"
+  "changed": "2026-11-25T03:09:14.064Z"
 }
