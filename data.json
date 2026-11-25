@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:34:49.000Z",
+  "updated": "2026-11-25T04:50:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1424,7 +1424,7 @@
         {
           "text": "\"The game is now BACK NINE\"",
           "status": "done",
-          "note": "The title card, the tab and the heading say Back Nine (Clover Coast Golf Club), on one line on a phone and a desk. Live 2026-11-18. The arcade's island sign and directory still say Golf: that is row 1004."
+          "note": "The title card, the tab and the heading say Back Nine (Clover Coast Golf Club), on one line on a phone and a desk. Live 2026-11-18. The arcade's island sign and the directory say BACK NINE too, the flag flies clear of…"
         },
         {
           "text": "\"The ball in the air is jittery, a part of the club isn't connected, one arm is bugged, the club is sometimes turned around, and the skins look weird\"",
@@ -2905,12 +2905,6 @@
   "stack": {
     "building": [
       {
-        "n": 1004,
-        "head": "GOLF on the island: the sign and the directory say BACK NINE, and the ringed planet comes off the board (row 763's arcade half, no SQL, 2026",
-        "lane": "arcade",
-        "since": "2026-11-24 22:24"
-      },
-      {
         "n": 1005,
         "head": "WAITS ON golf-par-pay-2026-11-18.sql",
         "detail": "GOLF par pay: the arcade calls finish_golf and hands the game its pay rows (row 763's pay half, 2026-11-18)",
@@ -2922,6 +2916,13 @@
         "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases",
         "lane": "arcade2",
         "since": "2026-11-24 22:39"
+      },
+      {
+        "n": 1289,
+        "head": "Arcade room: four HOT VIEWS read ~130-145 draws, about twice their island's budget",
+        "detail": "name the heavy mesh BEFORE the four-way perf record bakes it in",
+        "lane": "arcade2",
+        "since": "2026-11-24 22:44"
       }
     ],
     "next": [
@@ -3208,11 +3209,6 @@
       {
         "n": 1287,
         "head": "Arcade room: a Toy Fury map board on the main island, so the house stops being the lobby"
-      },
-      {
-        "n": 1289,
-        "head": "Arcade room: four HOT VIEWS read ~130-145 draws, about twice their island's budget",
-        "detail": "name the heavy mesh BEFORE the four-way perf record bakes it in"
       },
       {
         "n": 1290,
@@ -3935,7 +3931,7 @@
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1042,
+    "shippedTotal": 1043,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3943,8 +3939,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 38
+      "2026-11-24": 39
     }
   },
-  "changed": "2026-11-25T04:44:13.999Z"
+  "changed": "2026-11-25T04:49:14.010Z"
 }
