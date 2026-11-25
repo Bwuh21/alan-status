@@ -2911,6 +2911,12 @@
         "since": "2026-11-24 22:49"
       },
       {
+        "n": 1010,
+        "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
+        "lane": "arcade",
+        "since": "2026-11-24 23:14"
+      },
+      {
         "n": 1289,
         "head": "Arcade room: four HOT VIEWS read ~130-145 draws, about twice their island's budget",
         "detail": "name the heavy mesh BEFORE the four-way perf record bakes it in",
@@ -2925,10 +2931,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1010,
-        "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e"
-      },
       {
         "n": 1079,
         "head": "TEST LOBBY: the plaza arch and the island sign hide the top of every new island from the carpet (found by row 1061, 2026-11-19) region-lobby"
@@ -3937,5 +3939,5 @@
       "2026-11-24": 41
     }
   },
-  "changed": "2026-11-25T05:14:14.034Z"
+  "changed": "2026-11-25T05:19:16.701Z"
 }
