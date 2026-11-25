@@ -2909,18 +2909,6 @@
         "head": "GOLF on the island: the sign and the directory say BACK NINE, and the ringed planet comes off the board (row 763's arcade half, no SQL, 2026",
         "lane": "arcade",
         "since": "2026-11-24 22:24"
-      },
-      {
-        "n": 1286,
-        "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites",
-        "lane": "arcade2",
-        "since": "2026-11-24 21:14"
-      },
-      {
-        "n": 1288,
-        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases",
-        "lane": "arcade2",
-        "since": "2026-11-24 22:14"
       }
     ],
     "next": [
@@ -3212,6 +3200,10 @@
       {
         "n": 1287,
         "head": "Arcade room: a Toy Fury map board on the main island, so the house stops being the lobby"
+      },
+      {
+        "n": 1288,
+        "head": "Arcade room: the FIRST time you turn round at the toy house or in the big arcade hall, the room links shaders and uploads a pile of canvases"
       },
       {
         "n": 1289,
@@ -3934,13 +3926,12 @@
         "date": "2026-11-24"
       },
       {
-        "n": 1285,
-        "head": "Toy Fury: the open road needs life",
-        "detail": "nothing moves on it and the repair bay has no sign",
+        "n": 1286,
+        "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites",
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1041,
+    "shippedTotal": 1042,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3948,8 +3939,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 37
+      "2026-11-24": 38
     }
   },
-  "changed": "2026-11-25T04:29:14.065Z"
+  "changed": "2026-11-25T04:34:13.990Z"
 }
