@@ -2918,6 +2918,13 @@
         "detail": "the board across and the skid marks are not on the wire (found building row 1123, 2026-11-21) region-skate",
         "lane": "arcade2",
         "since": "2026-11-24 17:29"
+      },
+      {
+        "n": 1280,
+        "head": "Slab City: the powerslide has no SCREECH of its own",
+        "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate",
+        "lane": "arcade2",
+        "since": "2026-11-24 18:21"
       }
     ],
     "next": [
@@ -3235,11 +3242,6 @@
       {
         "n": 1277,
         "head": "the step-spread ruler watches every party game's BODY but none of their CAMERAS"
-      },
-      {
-        "n": 1280,
-        "head": "Slab City: the powerslide has no SCREECH of its own",
-        "detail": "the grind loop pitched up stands in (found building row 1123, 2026-11-21) region-skate"
       },
       {
         "n": 1283,
@@ -3938,5 +3940,5 @@
       "2026-11-24": 22
     }
   },
-  "changed": "2026-11-25T00:14:28.024Z"
+  "changed": "2026-11-25T00:24:22.132Z"
 }
