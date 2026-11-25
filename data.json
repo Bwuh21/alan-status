@@ -3842,6 +3842,15 @@
         "n": 1442,
         "head": "Lobby: a walking flop can stall for 20 s headless",
         "detail": "0.3 s left on its clock, or stuck in the get-up hop off the ground"
+      },
+      {
+        "n": 1443,
+        "head": "Sky Spike: make Ace beatable",
+        "detail": "his keeper stops 99 of every 100 shots he is square for (default taken by the 2026-11-24 nightly reflection on the three-morning rule, ask ace-keeper-more-beatable-20261109)"
+      },
+      {
+        "n": 1444,
+        "head": "Strike City: take the walk to the ball return out between balls (default taken by the 2026-11-24 nightly reflection on the three-morning rul"
       }
     ],
     "waiting": [
@@ -3943,5 +3952,5 @@
       "2026-11-24": 27
     }
   },
-  "changed": "2026-11-25T02:15:10.945Z"
+  "changed": "2026-11-25T02:34:14.233Z"
 }
