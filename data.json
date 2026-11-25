@@ -2905,6 +2905,12 @@
   "stack": {
     "building": [
       {
+        "n": 1004,
+        "head": "GOLF on the island: the sign and the directory say BACK NINE, and the ringed planet comes off the board (row 763's arcade half, no SQL, 2026",
+        "lane": "arcade",
+        "since": "2026-11-24 22:24"
+      },
+      {
         "n": 1286,
         "head": "Toy Fury: repair bays on the four house tracks, and tune how hard damage bites",
         "lane": "arcade2",
@@ -2918,14 +2924,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1003,
-        "head": "THE CHAIN hands a lane a row that already SHIPPED: game-manager pops a pre-loaded brief without re-reading the row's heading"
-      },
-      {
-        "n": 1004,
-        "head": "GOLF on the island: the sign and the directory say BACK NINE, and the ringed planet comes off the board (row 763's arcade half, no SQL, 2026"
-      },
       {
         "n": 1005,
         "head": "WAITS ON golf-par-pay-2026-11-18.sql",
@@ -3942,7 +3940,7 @@
         "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1040,
+    "shippedTotal": 1041,
     "shippedOn": {
       "2026-11-18": 47,
       "2026-11-19": 51,
@@ -3950,8 +3948,8 @@
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 36
+      "2026-11-24": 37
     }
   },
-  "changed": "2026-11-25T04:24:14.304Z"
+  "changed": "2026-11-25T04:29:14.065Z"
 }
