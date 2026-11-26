@@ -2989,13 +2989,6 @@
         "since": "2026-11-26 13:14"
       },
       {
-        "n": 1486,
-        "head": "LAUNCH: Slab City (the skate park)",
-        "detail": "first-minute touch-up",
-        "lane": "arcade2",
-        "since": "2026-11-26 13:09"
-      },
-      {
         "n": 1501,
         "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends",
         "lane": "arcade2",
@@ -3736,6 +3729,10 @@
       {
         "n": 1567,
         "head": "TOY FURY: the Grand Tour rug short cut does not punish a sloppy line, and the three drift-meter sounds have not been heard by a person (left"
+      },
+      {
+        "n": 1568,
+        "head": "CHECK: Slab City's sideways-HUD check reads the step banner the moment a delayed \"NEW BOARD\" pop lands on it (left over from row 1486, 2026-"
       }
     ],
     "waiting": [
@@ -3799,6 +3796,12 @@
         "date": "2026-11-26"
       },
       {
+        "n": 1486,
+        "head": "LAUNCH: Slab City (the skate park)",
+        "detail": "first-minute touch-up",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1485,
         "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3821,15 +3824,9 @@
         "head": "LAUNCH: Back Nine (space golf)",
         "detail": "touch-up and multiplayer READY or NOT",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1481,
-        "head": "LAUNCH: Riposte (sword duel)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1075,
+    "shippedTotal": 1076,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3837,8 +3834,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 27
+      "2026-11-26": 28
     }
   },
-  "changed": "2026-11-26T19:49:15.914Z"
+  "changed": "2026-11-26T20:09:14.483Z"
 }
