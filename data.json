@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-26T21:15:00.000Z",
+  "updated": "2026-11-26T23:30:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Air hockey, shuffleboard, ping pong with a friend: after the match the far end could not start a house game (row 1535, with 1502, 1503, 1509)",
+          "status": "done",
+          "note": "Done 11-26 (row 1535), live. When a friend's match ends, either player can now tap (or press Space) to play the house straight away; before, the far end's taps did nothing until the other player walked off. On a phone…"
+        },
         {
           "text": "Darts with a friend: when the friend leaves, the host was left throwing alone (row 1515)",
           "status": "done",
@@ -2985,13 +2990,6 @@
   "stack": {
     "building": [
       {
-        "n": 1535,
-        "head": "LAUNCH: one rule for three bar tables",
-        "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)",
-        "lane": "arcade2",
-        "since": "2026-11-26 14:45"
-      },
-      {
         "n": 770,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) PARTY ISLAND FLOW",
         "detail": "it is RANDOM, the whole party goes in together, and you keep playing",
@@ -3498,14 +3496,6 @@
         "head": "Comet Clash teach-check: the phone half sometimes reads a card that is not there"
       },
       {
-        "n": 1502,
-        "head": "AIR HOCKEY with a friend: after the match the far end cannot play the house its card offers, and the phone is told to press Space"
-      },
-      {
-        "n": 1503,
-        "head": "SHUFFLEBOARD with a friend: after the match the far end cannot play the house its card offers"
-      },
-      {
         "n": 1504,
         "head": "verify/foos-check.mjs still tests the FOOSBALL table that row 1176 replaced with shuffleboard: retarget or retire it"
       },
@@ -3524,10 +3514,6 @@
       {
         "n": 1508,
         "head": "BestLine's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
-      },
-      {
-        "n": 1509,
-        "head": "PING PONG with a friend: the phone is never told how to move its paddle, and after the match the far end cannot play the house its card offe"
       },
       {
         "n": 1510,
@@ -3739,6 +3725,10 @@
       {
         "n": 1574,
         "head": "The front-door check is broken: it pokes a coins readout the lobby no longer has, and dies before its signed-in half"
+      },
+      {
+        "n": 1575,
+        "head": "PING PONG with a friend: when the friend drops mid-match, the host's card never says they left"
       }
     ],
     "waiting": [
@@ -3808,30 +3798,29 @@
         "date": "2026-11-26"
       },
       {
+        "n": 1535,
+        "head": "LAUNCH: one rule for three bar tables",
+        "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1515,
         "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
         "detail": "land the proven fix",
         "date": "2026-11-26"
       },
       {
-        "n": 1501,
-        "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends",
+        "n": 1509,
+        "head": "PING PONG with a friend: the phone is never told how to move its paddle, and after the match the far end cannot play the house its card offe",
         "date": "2026-11-26"
       },
       {
-        "n": 1491,
-        "head": "Logs/game-manager/multiplayer-readiness-2026-11.md; report builds/2026-11-26-0859-arcade.md; filed row 1535, moved 1501 and 1515 up)",
-        "detail": "LAUNCH: the multiplayer readiness table",
-        "date": "2026-11-26"
-      },
-      {
-        "n": 1486,
-        "head": "LAUNCH: Slab City (the skate park)",
-        "detail": "first-minute touch-up",
+        "n": 1503,
+        "head": "SHUFFLEBOARD with a friend: after the match the far end cannot play the house its card offers",
         "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1082,
+    "shippedTotal": 1086,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3839,8 +3828,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 34
+      "2026-11-26": 38
     }
   },
-  "changed": "2026-11-26T22:34:13.480Z"
+  "changed": "2026-11-26T22:44:14.135Z"
 }
