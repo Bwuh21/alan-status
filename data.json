@@ -2910,13 +2910,6 @@
   "stack": {
     "building": [
       {
-        "n": 1467,
-        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
-        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable",
-        "lane": "arcade2",
-        "since": "2026-11-25 23:49"
-      },
-      {
         "n": 1469,
         "head": "LAUNCH: Eight-ball at the bar (BarPool)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3481,6 +3474,10 @@
       {
         "n": 1492,
         "head": "Skin Kick's edge knee (softPan) is a per-frame step, so the lens eases toward the wall faster on a 120 Hz screen than on 60 Hz"
+      },
+      {
+        "n": 1493,
+        "head": "LOBBY LOOSE ENDS: the small things the public lobby still gets wrong (found building row 1467) region-lobby"
       }
     ],
     "waiting": [
@@ -3502,6 +3499,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1467,
+        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
+        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable",
+        "date": "2026-11-26"
+      },
       {
         "n": 1092,
         "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass",
@@ -3563,14 +3566,9 @@
         "head": "LAUNCH: soccer",
         "detail": "the movement is choppy, it does not look fluid",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1412,
-        "head": "LAUNCH: the shared team picker on EVERY sports game, with a HOST who sets the match, and room for six (3v3) fable",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1050,
+    "shippedTotal": 1051,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3578,8 +3576,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 2
+      "2026-11-26": 3
     }
   },
-  "changed": "2026-11-26T07:14:26.520Z"
+  "changed": "2026-11-26T07:34:13.839Z"
 }
