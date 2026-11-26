@@ -2917,13 +2917,6 @@
         "since": "2026-11-25 23:49"
       },
       {
-        "n": 1468,
-        "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
-        "detail": "this row only FILES the per-game rows",
-        "lane": "arcade2",
-        "since": "2026-11-25 23:24"
-      },
-      {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
         "lane": "arcade",
@@ -3512,6 +3505,12 @@
     ],
     "shipped": [
       {
+        "n": 1468,
+        "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
+        "detail": "this row only FILES the per-game rows",
+        "date": "2026-11-25"
+      },
+      {
         "n": 1421,
         "head": "LAUNCH: table shuffleboard",
         "detail": "\"it just looks bad and needs more work done on it\" fable",
@@ -3571,24 +3570,18 @@
         "n": 1293,
         "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1289,
-        "head": "Arcade room: four HOT VIEWS read ~130-145 draws, about twice their island's budget",
-        "detail": "name the heavy mesh BEFORE the four-way perf record bakes it in",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1047,
+    "shippedTotal": 1048,
     "shippedOn": {
-      "2026-11-18": 47,
       "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
-      "2026-11-24": 43
+      "2026-11-24": 43,
+      "2026-11-25": 1
     }
   },
-  "changed": "2026-11-26T05:54:14.150Z"
+  "changed": "2026-11-26T05:59:13.806Z"
 }
