@@ -2960,12 +2960,6 @@
   "stack": {
     "building": [
       {
-        "n": 1537,
-        "head": "LAUNCH: HAUNT, KITCHEN CLASH and GNOME WATCH come off the site",
-        "lane": "arcade",
-        "since": "2026-11-26 10:17"
-      },
-      {
         "n": 1538,
         "head": "LAUNCH: THE CAMERA IN SMALL ROOMS",
         "detail": "put the camera between you and a wall and it \"bugs out crazy\" (Zack, keyboard, 2026-11-26) fable",
@@ -3265,10 +3259,6 @@
       {
         "n": 1311,
         "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags"
-      },
-      {
-        "n": 1315,
-        "head": "Gnome Watch: on a phone held sideways the title's PLAY and PLAY A FRIEND sit under the glass and the wordmark is off the top"
       },
       {
         "n": 1317,
@@ -3739,6 +3729,11 @@
     ],
     "shipped": [
       {
+        "n": 1537,
+        "head": "LAUNCH: HAUNT, KITCHEN CLASH and GNOME WATCH come off the site",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1491,
         "head": "Logs/game-manager/multiplayer-readiness-2026-11.md; report builds/2026-11-26-0859-arcade.md; filed row 1535, moved 1501 and 1515 up)",
         "detail": "LAUNCH: the multiplayer readiness table",
@@ -3803,15 +3798,9 @@
         "head": "LAUNCH: Comet Clash (dodgeball)",
         "detail": "touch-up and multiplayer READY or NOT",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1475,
-        "head": "LAUNCH: Barn Burner (ice hockey)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1065,
+    "shippedTotal": 1066,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3819,8 +3808,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 17
+      "2026-11-26": 18
     }
   },
-  "changed": "2026-11-26T17:14:13.900Z"
+  "changed": "2026-11-26T17:24:13.672Z"
 }
