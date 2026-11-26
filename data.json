@@ -2927,6 +2927,13 @@
         "since": "2026-11-26 01:34"
       },
       {
+        "n": 1471,
+        "head": "LAUNCH: shuffleboard at the bar (HallFoos)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade2",
+        "since": "2026-11-26 03:24"
+      },
+      {
         "n": 1476,
         "head": "LAUNCH: Comet Clash (dodgeball)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -2948,11 +2955,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1471,
-        "head": "LAUNCH: shuffleboard at the bar (HallFoos)",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
       {
         "n": 1472,
         "head": "LAUNCH: ping pong at the bar (HallPong)",
@@ -3596,5 +3598,5 @@
       "2026-11-26": 4
     }
   },
-  "changed": "2026-11-26T09:24:14.170Z"
+  "changed": "2026-11-26T09:29:14.614Z"
 }
