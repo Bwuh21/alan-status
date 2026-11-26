@@ -2934,38 +2934,8 @@
         "detail": "this row only FILES the per-game rows"
       },
       {
-        "n": 1463,
-        "head": "about 30 node test scripts already sit on the live site (leaked before rows 954/1007): take them off the clone"
-      },
-      {
-        "n": 1079,
-        "head": "TEST LOBBY: the plaza arch and the island sign hide the top of every new island from the carpet (found by row 1061, 2026-11-19) region-lobby"
-      },
-      {
-        "n": 1080,
-        "head": "TEST LOBBY: the three leftovers from the idea sheet",
-        "detail": "stadium scoreboard on the trophy base, party light dots on the plaza, the back of the king's head (found by row 1061, 2026-11-19) region-lobby"
-      },
-      {
-        "n": 1081,
-        "head": "TEST LOBBY: one looping sound per island that swells as you walk up (found by row 1061, 2026-11-19) region-lobby"
-      },
-      {
-        "n": 1082,
-        "head": "TEST LOBBY: row 1061's two heavier cells",
-        "detail": "stadium +4.5k and party +9k triangles on a phone (found by row 1061, 2026-11-19) region-lobby"
-      },
-      {
         "n": 1092,
         "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass"
-      },
-      {
-        "n": 1093,
-        "head": "PING PONG feel check (a): a 10% bar read off 16-20 unseeded points flips red and green on the same page"
-      },
-      {
-        "n": 1094,
-        "head": "PING PONG: the blade's fade to see-through is eased per frame, not per second"
       },
       {
         "n": 1099,
@@ -2981,41 +2951,8 @@
         "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m"
       },
       {
-        "n": 1107,
-        "head": "Strike City: the bowling checks' test hook still plants a 4/8/16/30 ticket ladder the live server has not held since 11-04"
-      },
-      {
-        "n": 1109,
-        "head": "Strike City: the sideways party harness _i330p/party-rail-check.mjs throws before measuring anything"
-      },
-      {
-        "n": 1118,
-        "head": "Every headless check of the room ran it at 12 frames a second: a headless page has no focus, so the room drops to its background cap"
-      },
-      {
-        "n": 1119,
-        "head": "PING PONG with a friend: the party check has no frame-rate switch, so on software drawing (2-3 fps) it times out at 6-3 after 409 s"
-      },
-      {
         "n": 1132,
         "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding"
-      },
-      {
-        "n": 1134,
-        "head": "Toy house: the little track props on the play-room and kitchen floors fight on their tops",
-        "detail": "a white slab flush on a pink box, gift ribbons flush on gift lids"
-      },
-      {
-        "n": 1138,
-        "head": "SKATE PARK: the painted streets and the median are drawn 11 mm over the slab the board rides"
-      },
-      {
-        "n": 1141,
-        "head": "SKATE PARK: the board rolls 1.2 cm under the BACK door pad, z 30.1-31.7"
-      },
-      {
-        "n": 1142,
-        "head": "PACK HANGS before --into: the disk-size courtesy walk stats every file in all 973 past bundles"
       },
       {
         "n": 1163,
@@ -3035,10 +2972,6 @@
         "head": "Multiplayer: a game against the HOUSE at a party table never locks it"
       },
       {
-        "n": 1173,
-        "head": "Multiplayer: walk-in games and the Undercroft entrance bypass the table lock"
-      },
-      {
         "n": 1177,
         "head": "Multiplayer: a slow host starves every friend's updates"
       },
@@ -3052,10 +2985,6 @@
         "head": "Multiplayer: move the backup relay off the work laptop onto the rented server"
       },
       {
-        "n": 1183,
-        "head": "Bowling: no check walks to the ball return between balls, and none runs the lane sideways"
-      },
-      {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
       },
@@ -3065,32 +2994,12 @@
         "detail": "give the house a body and put a friend's bat in their figure's hand"
       },
       {
-        "n": 1192,
-        "head": "Ping pong: the feel check's scripted hand only ever blocks, so legs (b) and (c) fail on the untouched page"
-      },
-      {
-        "n": 1193,
-        "head": "Ping pong: the see check's \"far half is 146 px\" leg reads 137-159 from run to run"
-      },
-      {
         "n": 1194,
         "head": "Ping pong: your own head can sit over a ball coming down your left side on desk"
       },
       {
-        "n": 1199,
-        "head": "ship-game guard check reads \"dirty\" through the shared index, so it skips every game while the index is locked"
-      },
-      {
         "n": 1201,
         "head": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row"
-      },
-      {
-        "n": 1202,
-        "head": "A BOM shipped into a live ES module today, and only the 21:00 sweep can see it"
-      },
-      {
-        "n": 1204,
-        "head": "A WATCHER'S ALERT POINTS AT A FILE THAT HAS NO RECORD OF IT: the change log and the daemon's own log are the same file"
       },
       {
         "n": 1205,
@@ -3099,14 +3008,6 @@
       {
         "n": 1206,
         "head": "Skate: on a phone the rider's own body hides the board while it flips"
-      },
-      {
-        "n": 1207,
-        "head": "Skate: the manual and coffin checks are red on the untouched page, because their start spots end the trick in under a second"
-      },
-      {
-        "n": 1208,
-        "head": "Skate: the W check (5 FAIL) and the end card's RUN IT BACK leg (FR-9) are red on the untouched page"
       },
       {
         "n": 1209,
@@ -3135,10 +3036,6 @@
         "head": "BAR AIR HOCKEY with a friend: on a weak phone the far end hears some goals 300+ ms late, and no phone has played the far end"
       },
       {
-        "n": 1220,
-        "head": "BAR AIR HOCKEY: the desk hockey check's \"the puck was hit and moves\" step fails on HEAD as well as on any change, so it guards nothing on th"
-      },
-      {
         "n": 1222,
         "head": "BAR DARTS with a friend: a passer-by can't watch a friend leg",
         "detail": "the hall chalkboard keeps showing the idle board"
@@ -3156,10 +3053,6 @@
         "head": "MULTIPLAYER, every game that takes a friend: the room is told a player left and the GAME is not, so a friend who drops mid-match just stands"
       },
       {
-        "n": 1227,
-        "head": "BAR BOWLING's old checks are blind: item192 walks to a shoe counter the bar no longer has, and toast-fit counts toasts against a stale numbe"
-      },
-      {
         "n": 1232,
         "head": "BAR BOWLING: a soft swipe is a 5-second ball",
         "detail": "should the slowest ball be quicker? Judge it with a ball in hand, not from a number"
@@ -3174,20 +3067,12 @@
         "head": "TOY FURY's stepped road dumps you off its last stretch before the loop: walls by the door shove you sideways, twice to the ground"
       },
       {
-        "n": 1238,
-        "head": "HARNESS: replace the next ten sleep-then-grade checks that row 528's detector ranks highest"
-      },
-      {
         "n": 1240,
         "head": "the shared graphics guard holds a party host's frames, which may freeze the guest: test with two browsers and carve parties out if it does"
       },
       {
         "n": 1244,
         "head": "BOWLING: the pin rake's two end caps put teal and cream in one plane, because the blade and its rubber lip are both exactly lane-wide"
-      },
-      {
-        "n": 1245,
-        "head": "Undercroft and Toy Fury: clip-check-uc.mjs geo still prints a pair count and nothing about what it left unread"
       },
       {
         "n": 1247,
@@ -3198,56 +3083,8 @@
         "head": "Rusty's work-cycle claim fails on desk: \"he reached, washed and racked an empty, and came home\""
       },
       {
-        "n": 1255,
-        "head": "nine games' own checks were red on 2026-11-17 and nobody filed them; the new nightly sweep will not either"
-      },
-      {
         "n": 1257,
         "head": "Sideways on a phone, the right-hand touch keys (Jump, emote, Slab City's trick keys) ignore the notch side"
-      },
-      {
-        "n": 1277,
-        "head": "the step-spread ruler watches every party game's BODY but none of their CAMERAS"
-      },
-      {
-        "n": 1287,
-        "head": "Arcade room: a Toy Fury map board on the main island, so the house stops being the lobby"
-      },
-      {
-        "n": 1291,
-        "head": "BestLine's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
-      },
-      {
-        "n": 1292,
-        "head": "Dodgeball's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
-      },
-      {
-        "n": 1294,
-        "head": "LiveWire's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
-      },
-      {
-        "n": 1295,
-        "head": "SecondWind's own check.mjs went red (nightly instrument sweep, 2026-11-22)"
-      },
-      {
-        "n": 1296,
-        "head": "SpaceGolf's own verify.mjs went red (nightly instrument sweep, 2026-11-22)"
-      },
-      {
-        "n": 1298,
-        "head": "Undercroft: in a locked boss fight on a phone the camera can sit BESIDE the wizard, not behind, so the lance comes in from off-screen"
-      },
-      {
-        "n": 1299,
-        "head": "Undercroft: in a party only the caster sees the wizard's lance streak"
-      },
-      {
-        "n": 1300,
-        "head": "Last Call: its own picture-stopped guard fails 2 of 19 legs of its context-loss check: a stray lost event leaves it at 0 draw calls a second"
-      },
-      {
-        "n": 1301,
-        "head": "Undercroft: the rogue still loses to the Widow 9 times in 12 after row 1135"
       },
       {
         "n": 1302,
@@ -3278,36 +3115,12 @@
         "head": "Team picker: a team change made twice inside one round trip can bounce once"
       },
       {
-        "n": 1309,
-        "head": "Undercroft: the bench archer runs from the Widow's phantoms instead of shooting them, so her cell reads the bench and not the bow"
-      },
-      {
-        "n": 1310,
-        "head": "Undercroft: no bench player ever steps out of the phase-2 fire, so the Rider's deaths are a fire count"
-      },
-      {
         "n": 1311,
         "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags"
       },
       {
-        "n": 1312,
-        "head": "Undercroft: dev/oct06-mp/coop-net.mjs still serves a 10-07 copy of the game (headdir/), so its LEVEL case fails on a bug the live file fixed"
-      },
-      {
-        "n": 1313,
-        "head": "Undercroft: the Gaol Warden's thrust from its full range whiffs a knight who stands still"
-      },
-      {
-        "n": 1314,
-        "head": "game-boot.mjs reads THE SCRIPT NEVER RAN for a game whose title card hands out no timer (Cards Down Deep), so ship-game.sh refuses it every "
-      },
-      {
         "n": 1315,
         "head": "Gnome Watch: on a phone held sideways the title's PLAY and PLAY A FRIEND sit under the glass and the wordmark is off the top"
-      },
-      {
-        "n": 1316,
-        "head": "Blend In: the sideways sweep reads CANNOT-START at 844x390"
       },
       {
         "n": 1317,
@@ -3318,28 +3131,12 @@
         "head": "Broadside Bay: the two-player duel title has never been looked at on a phone held sideways"
       },
       {
-        "n": 1319,
-        "head": "four more harnesses still read the purse's #coins, which is gone"
-      },
-      {
-        "n": 1320,
-        "head": "Blend In: four more check.mjs lines flake or fail on this laptop, separate from the reach test"
-      },
-      {
-        "n": 1321,
-        "head": "Arcade: nine two-browser checks in the portal's verify folder boot their guest on ?room=CODE and never press the invite, so they have been b"
-      },
-      {
         "n": 1322,
         "head": "Six link-only games (DoubleOut, HordeNight, LaneDay, Pinball, TopplePull, WreckingBall) were never looked at on a phone held sideways"
       },
       {
         "n": 1323,
         "head": "HordeNight and DoubleOut: on an upright phone the room's menu key sits on the title screen's top-left HUD"
-      },
-      {
-        "n": 1324,
-        "head": "Undercroft: on a two-player Ember Vault walk-in, the guest's camera passes 1.45 m from the friend as the friend's figure catches up mid-entr"
       },
       {
         "n": 1325,
@@ -3352,11 +3149,6 @@
         "detail": "make the accessory the read, or retire them (left by arcade building row 649, 2026-11-22)"
       },
       {
-        "n": 1327,
-        "head": "Skins: Space Marine and Grand Regent",
-        "detail": "check the dive's \"not wide enough\" on a fresh lobby sheet before touching either (left by arcade building row 649, 2026-11-22)"
-      },
-      {
         "n": 1328,
         "head": "Toy Fury: the Bathroom's soap rim still drops a late-steering new player into the water about once a race (left by arcade2 building row 1164"
       },
@@ -3365,50 +3157,9 @@
         "head": "Toy Fury: a new player's spin-outs on the moving toys (Bathroom robot s~58, Backyard s~14.5 and ~52.5) read as being stuck (left by arcade2 "
       },
       {
-        "n": 1330,
-        "head": "Toy Fury: on the Backyard a holder driver can pin on the inside rail for 1.4 s at s=67.8 (left by arcade2 building row 1164, 2026-11-22)"
-      },
-      {
-        "n": 1331,
-        "head": "Skin lab: clip-check only knows arcade.html and its boot wait ends silently (left by row 651, 2026-11-22)"
-      },
-      {
-        "n": 1332,
-        "head": "Robot skins: the chest badge and the jetpack stand 2 cm off the body, so the audit flags every robot skin for the rig, not the skin (left by"
-      },
-      {
         "n": 1333,
         "head": "Corner Pocket: the end card says \"2 TICKETS\" and the round paid 3",
         "detail": "read the room's settlement instead of the price (left by row 659, 2026-11-22)"
-      },
-      {
-        "n": 1334,
-        "head": "verify/_i282/bay-camera.mjs: its \"on the floor\" spot reads a 2.6-3.4 m boom against the 3.5-12 it prints (left by row 669, 2026-11-22)"
-      },
-      {
-        "n": 1335,
-        "head": "Undercroft: four other gate legs flip run to run on the same file (left by arcade2 building row 1169, 2026-11-22)"
-      },
-      {
-        "n": 1336,
-        "head": "Skin-door sweep pass 2 cannot see a party field copied into a plain variable first (const c = m.color; HEX.test(c)) (left by row 679, 2026-1"
-      },
-      {
-        "n": 1337,
-        "head": "Undercroft ride: say WHY a kind \"fired N and landed 0\"",
-        "detail": "out of reach or a real whiff (left by row 1170, 2026-11-22)"
-      },
-      {
-        "n": 1338,
-        "head": "Undercroft touch-f9 (flow 9 on a thumb): its check 0 says the stick never moves the player, even on its own frozen build (left by row 695, 2"
-      },
-      {
-        "n": 1339,
-        "head": "BroadsideBay deck-check: dies at its first read, the page has no #use button any more (left by row 695, 2026-11-22)"
-      },
-      {
-        "n": 1340,
-        "head": "Server: run row 702's dead-view probe FIVE at once (and more) on the real GPU, the load the laptop's 4-browser cap forbids (left by row 702,"
       },
       {
         "n": 1341,
@@ -3416,20 +3167,8 @@
         "detail": "the \"one shot the farther along you get\" complaint, measured"
       },
       {
-        "n": 1343,
-        "head": "Clone commit hook: the stale-buffer check refuses a one-line edit to a line an older commit did not have"
-      },
-      {
-        "n": 1344,
-        "head": "Toy Fury: the other live-loop checks start their race the moment the page answers, and the boot can still reset it"
-      },
-      {
         "n": 1345,
         "head": "Toy Fury: on a desk the \"?\" button sits on top of the speed panel"
-      },
-      {
-        "n": 1346,
-        "head": "AURA: the tiers check reads 0 lit pixels on every tier"
       },
       {
         "n": 1347,
@@ -3460,28 +3199,8 @@
         "head": "Topple Pull: on a phone a pulled bottom-floor block slides under the \"drag down to pull it out\" hint"
       },
       {
-        "n": 1355,
-        "head": "Undercroft: the ride's wizard can stand inside the fog gate for 41 frames when the boss fog seals, on the ember contract"
-      },
-      {
         "n": 1356,
         "head": "Sky Spike: the figure's height snaps 7-8 px in one frame as a dive leaves its reach pose, 19 of 159 dives"
-      },
-      {
-        "n": 1357,
-        "head": "Three skill edits the parked ledger lessons asked for, never made"
-      },
-      {
-        "n": 1358,
-        "head": "ship-game.sh stops itself: its own boot tests rewrite a game's dev result JSONs, and the stale-buffer check then reads them as a revert"
-      },
-      {
-        "n": 1359,
-        "head": "KitchenClash's own party-check.mjs went red (nightly instrument sweep, 2026-11-23)"
-      },
-      {
-        "n": 1360,
-        "head": "OutOfTheSun's own check.mjs went red (nightly instrument sweep, 2026-11-23)"
       },
       {
         "n": 1361,
@@ -3496,40 +3215,12 @@
         "head": "LIVE WIRE on the bursty backup line: under load the guest reads 0.15 own pops/s (host 0.05) and one never-touched give a run, and the OLD bu"
       },
       {
-        "n": 1364,
-        "head": "GLASS BRIDGE: check.mjs \"renderer is drawing\" reads 1 call and 2 triangles on both views, on the committed copy too"
-      },
-      {
-        "n": 1365,
-        "head": "GLASS BRIDGE and KILN RUSH check.mjs both serve on port 8177, so running them together kills one"
-      },
-      {
         "n": 1366,
         "head": "HANGTIME: a bot teammate's lob to a HUMAN jumping at the rim still mostly ends in a pick, after row 1228"
       },
       {
-        "n": 1367,
-        "head": "HANGTIME dev/teach-check.mjs desk fails \"the match reached the final whistle\" on the committed build too: a bot-driven match to 11 is not do"
-      },
-      {
-        "n": 1368,
-        "head": "HANGTIME teach-check run whole (no shell named): the phone and wide legs never see a card, step -1 from the first read"
-      },
-      {
-        "n": 1369,
-        "head": "Six teach probes stall mid-tour on a busy laptop, on a different step each run: KnockOn, BroadsideBay, DeepLine, OutOfTheSun, StandStill, Ri"
-      },
-      {
         "n": 1370,
         "head": "HANGTIME: a guest who dunks over ANOTHER guest may see his own slam snap back to the rim while the host holds it"
-      },
-      {
-        "n": 1371,
-        "head": "Four more servers the task watcher reads (game host, signal relay, usage meter, Ollama) still have no repair"
-      },
-      {
-        "n": 1372,
-        "head": "Space Golf: three live checks plant ball.surf, which the rebuilt game never writes"
       },
       {
         "n": 1373,
@@ -3540,36 +3231,12 @@
         "head": "Coin pusher: held lines count on the clamped machine clock, so a 6 s line can stand ~12 s on a slow device"
       },
       {
-        "n": 1375,
-        "head": "coinp-check phone: \"ten coins down the middle win some back\" reads dropped 11 under load"
-      },
-      {
         "n": 1376,
         "head": "the shared teach card covers the middle of the screen on a sideways phone: in Deep Line it sits on the string"
       },
       {
-        "n": 1377,
-        "head": "Deep Line's own Check.mjs, run with no URL, serves only its own folder, so the shared /_ui and /_teach 404 and it reads HALF PAGE REFUSED"
-      },
-      {
-        "n": 1378,
-        "head": "the rig gate PROVES a 0.25 mm step at 0.3-0.7 m: is it reading edge shimmer as a depth fight?"
-      },
-      {
-        "n": 1379,
-        "head": "clip-check-uc geo/touchCollect still treat a merge on a SCALED node as inert; only rigs reads it"
-      },
-      {
         "n": 1380,
         "head": "a game ship that changes a file the LOBBY imports leaves the lobby's ?v= stamp stale, and the next lobby pack refuses"
-      },
-      {
-        "n": 1381,
-        "head": "the camera sweep cannot stand in the tavern: its anchor drops the player to y -17"
-      },
-      {
-        "n": 1382,
-        "head": "the bowl island: ten slivers the camera cannot feel, right at the sweep's 0.02 m2 floor"
       },
       {
         "n": 1383,
@@ -3580,80 +3247,12 @@
         "head": "TOY FURY: the Chopper (420 tickets) wins about half its races, more than every dearer ride"
       },
       {
-        "n": 1385,
-        "head": "KnockOn: its own how-to-play check fails 15 rows (the pieces get set, the card reads a step behind)",
-        "detail": "same on the build before row 905"
-      },
-      {
-        "n": 1386,
-        "head": "TOY FURY: first-race-check leg 10 fails at HEAD",
-        "detail": "a rival wrecks in the derby and your place does not move"
-      },
-      {
-        "n": 1387,
-        "head": "the guessed boot sleep grew back: 11 new flat-sleep gates written since 11-16"
-      },
-      {
-        "n": 1388,
-        "head": "the sleep-gate scan cannot see harnesses that boot through a private driver's boot(), and two private drivers have no waitFor at all"
-      },
-      {
-        "n": 1389,
-        "head": "TOY FURY: the knockout-chip bench never photographs the \"safe\" state, only \"YOU GO NEXT\""
-      },
-      {
-        "n": 1390,
-        "head": "two of row 922's eleven checks are stale against today's room: tanks-cabinet-check finds no RicochetTanks cabinet, item172-hall-fixes dies o"
-      },
-      {
-        "n": 1391,
-        "head": "HANGTIME: the aura check's \"each man's light lands on HIM, left to right\" claim is a coin flip on phone",
-        "detail": "men 1 and 2 land 4-14 px apart against an 8 px bar"
-      },
-      {
         "n": 1392,
         "head": "The ROOM, refused WebGL at boot, sits on \"Building the room…\" for ever: its early check passes, then three throws and nothing says so"
       },
       {
         "n": 1393,
         "head": "Slab City: now that the wall probe really rides walls, riders who drop off one near the fence get stuck against it, and the drawn board sits"
-      },
-      {
-        "n": 1394,
-        "head": "Toy house minis: about 40 props stand partly or wholly past the round mat's rim, over nothing, and the floater check cannot see it because i"
-      },
-      {
-        "n": 1395,
-        "head": "Toy house, upstairs mini: the bathtub has no front panel, so its rim rod rides 15 mm over the water"
-      },
-      {
-        "n": 1396,
-        "head": "Toy house outside: the siding course strips may run straight across the back, side and porch windows",
-        "detail": "10 pieces sit 30-50 mm over the window sills at the window's own height"
-      },
-      {
-        "n": 1397,
-        "head": "Slab City: a board crossing a ramp's 19.9 cm side kerb sideways dips 9-16 cm into it for 1-4 frames (VERT RAMP 4, LOADING DOCK 8), because t"
-      },
-      {
-        "n": 1398,
-        "head": "the 26 private game drivers still carry the old life probe that calls an idle tap-driven page dead (left by row 937, 2026-11-23)"
-      },
-      {
-        "n": 1399,
-        "head": "Darts net match failed to finish once in check.mjs, passed on the re-run (seen by row 937, 2026-11-23)"
-      },
-      {
-        "n": 1400,
-        "head": "Space Golf's with-friends check reds one timing line on a busy laptop: \"that hole builds no slower than an ordinary hole change\" (seen by ro"
-      },
-      {
-        "n": 1401,
-        "head": "Riposte's desk how-to check still misses its staged parry catch most runs (seen by row 1258, 2026-11-23)"
-      },
-      {
-        "n": 1402,
-        "head": "pinball-check is a dead check: pinball left the bar 2026-11-16 and the check still asks for two machines (left by row 941, 2026-11-23)"
       },
       {
         "n": 1403,
@@ -3664,32 +3263,12 @@
         "head": "two server refusals still lose their last word on a 360 px phone (left by row 942, 2026-11-23)"
       },
       {
-        "n": 1405,
-        "head": "Splatflag's phone how-to check loses its paint step to the partner's flags (seen by row 1262, 2026-11-24)"
-      },
-      {
-        "n": 1406,
-        "head": "the arcade's sign-in boot check goes redder on a real phone (seen by row 951, 2026-11-24)"
-      },
-      {
-        "n": 1407,
-        "head": "the shop check's statue and reel steps fail on a real phone (seen by row 951, 2026-11-24)"
-      },
-      {
         "n": 1408,
         "head": "a signed-in name spills out of the account button on a phone (seen by row 951, 2026-11-24)"
       },
       {
-        "n": 1409,
-        "head": "nine portal checks were already red before they ever saw a phone (seen by row 951, 2026-11-24)"
-      },
-      {
         "n": 1410,
         "head": "the chips check signs up a real account on the live database every time it runs (seen by row 951, 2026-11-24)"
-      },
-      {
-        "n": 1411,
-        "head": "on a real sideways phone the skate park's lens is about 33 degrees, not the 74-degree cap its check expects (seen by row 951, 2026-11-24)"
       },
       {
         "n": 1419,
@@ -3732,10 +3311,6 @@
         "head": "Volleyball: does the aura stay standing while the body dives? Photograph a dive first fable"
       },
       {
-        "n": 1430,
-        "head": "Boxing: its own aura check cannot start (the harness refuses a 390-wide window that is not a phone) fable"
-      },
-      {
         "n": 1431,
         "head": "Bar hall: the BOWLING lanes get the join screen too (row 1415 did the five tables)"
       },
@@ -3749,23 +3324,6 @@
         "detail": "name the real ends"
       },
       {
-        "n": 1434,
-        "head": "Checks: four older two-player checks may still wait for a bar match that no longer starts by itself"
-      },
-      {
-        "n": 1435,
-        "head": "Toy Fury: the auto-driver crosses ONE boost gate in 20 s on house (row 403 recorded 13)"
-      },
-      {
-        "n": 1436,
-        "head": "Bar pool table: the cushion faces are still one flat green; give them the lit-cloth look the bed has"
-      },
-      {
-        "n": 1437,
-        "head": "Checks: a getMat material with an inline onBeforeCompile holds whatever scope made it",
-        "detail": "scan arcade.html for the rest"
-      },
-      {
         "n": 1438,
         "head": "Slab City: a friend's tuck crouches and leans but their arms stay out",
         "detail": "bring them in like your own (found building row 1276, 2026-11-24) region-skate"
@@ -3774,11 +3332,6 @@
         "n": 1439,
         "head": "Bar hall: a GUEST's foosball or ping pong game is still invisible to the room",
         "detail": "the host never passes it on"
-      },
-      {
-        "n": 1440,
-        "head": "Checks: skate-leave-sound-check fails its own canary",
-        "detail": "its tap never sees a live skate loop, on HEAD as well as with row 1280 (found building row 1280, 2026-11-24) region-skate"
       },
       {
         "n": 1441,
@@ -3803,19 +3356,6 @@
         "head": "Bar ping pong: on a desk screen your own head covers the near-left of the table"
       },
       {
-        "n": 1448,
-        "head": "Bar ping pong: a dead-straight push lands 6 cm right of centre, and the aim ring has never been pictured mid-stroke"
-      },
-      {
-        "n": 1449,
-        "head": "Checks: pong-hold-check fails two cases on HEAD as well",
-        "detail": "a fast sweep, and the far-end seat"
-      },
-      {
-        "n": 1453,
-        "head": "Toy Fury checks: zone-ride reports FAIL on every repair bay, because a bay only mends a car that is hurt"
-      },
-      {
         "n": 1455,
         "head": "Shuffleboard: the house is now the weaker player, because you can aim and it still guesses"
       },
@@ -3824,40 +3364,12 @@
         "head": "Shuffleboard with a friend: the guest hears no slide and no knock"
       },
       {
-        "n": 1457,
-        "head": "Shuffleboard: the cabinet around the new top is still the old flat box"
-      },
-      {
-        "n": 1458,
-        "head": "continue row 958: audit the next unaudited game check, prove it honest, gate ONE more game (left by row 958, 2026-11-24)"
-      },
-      {
         "n": 1459,
         "head": "Toy Fury coast: the REPAIR gantry is hidden behind the walled bend until the car is almost under it"
       },
       {
         "n": 1460,
         "head": "Toy Fury road: zone-ride never touches the rumble band at s 39.68-43.78"
-      },
-      {
-        "n": 1461,
-        "head": "the live BroadsideBay folder still serves about 25 harness files that the ship filter now drops"
-      },
-      {
-        "n": 1462,
-        "head": "Arcade room: on a 4x-slowed phone one ~550 ms long task lands 1-3 s AFTER the first frame, in the old build and the new"
-      },
-      {
-        "n": 1464,
-        "head": "Bar: the pool table is about 45 draws in the bar's worst view (0,-9 at 90 deg, now the heaviest view in the arcade at 141)"
-      },
-      {
-        "n": 1465,
-        "head": "KitchenClash's own party-check.mjs went red (nightly instrument sweep, 2026-11-25)"
-      },
-      {
-        "n": 1466,
-        "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-25)"
       }
     ],
     "waiting": [
@@ -3958,5 +3470,5 @@
       "2026-11-24": 43
     }
   },
-  "changed": "2026-11-26T01:59:14.169Z"
+  "changed": "2026-11-26T05:19:13.309Z"
 }
