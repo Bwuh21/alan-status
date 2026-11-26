@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T08:15:00.000Z",
+  "updated": "2026-11-26T09:22:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1166,6 +1166,11 @@
           "text": "Launch check: Barn Burner with a friend, and a friend who leaves",
           "status": "done",
           "note": "LIVE 11-26. Two screens, a desk and a phone, with the invite button really pressed: the friend opened the link, got asked to join, and the two of you played a whole match to the horn with the same score on both screens.…"
+        },
+        {
+          "text": "Launch check: Eight-ball at the bar with a friend, and a friend who leaves",
+          "status": "done",
+          "note": "11-26: READY with a friend. Two screens, a desk and a phone, with the invite really pressed: the friend opened the link, joined, both sat at the pool table and readied up, and you played a whole rack to the end, with…"
         }
       ]
     },
@@ -2915,13 +2920,6 @@
   "stack": {
     "building": [
       {
-        "n": 1469,
-        "head": "LAUNCH: Eight-ball at the bar (BarPool)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade2",
-        "since": "2026-11-25 23:59"
-      },
-      {
         "n": 1470,
         "head": "LAUNCH: the bar's air hockey table (HallHockey)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3598,5 +3596,5 @@
       "2026-11-26": 4
     }
   },
-  "changed": "2026-11-26T09:14:24.467Z"
+  "changed": "2026-11-26T09:24:14.170Z"
 }
