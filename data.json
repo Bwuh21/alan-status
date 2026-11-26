@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T09:22:00.000Z",
+  "updated": "2026-11-26T10:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1326,6 +1326,11 @@
           "text": "Comet Clash: the comet leaves from the hand you see, on your friend's screen too (row 819)",
           "status": "done",
           "note": "Live 2026-11-19. While you wind up, the comet now sits in your player's drawn hand. Before, it hung about a metre off, hidden behind the body. When anyone lets go, the comet starts from the thrower's hand on BOTH…"
+        },
+        {
+          "text": "Launch check: Comet Clash with a friend, and a friend who leaves",
+          "status": "done",
+          "note": "LIVE 11-26. READY with a friend. Two screens, a desk and a phone, with the invite button really pressed: the friend opened the link, was asked to join, and you played a whole match to 5-4 with the same score on both…"
         }
       ]
     },
@@ -2934,13 +2939,6 @@
         "since": "2026-11-26 03:24"
       },
       {
-        "n": 1476,
-        "head": "LAUNCH: Comet Clash (dodgeball)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 01:10"
-      },
-      {
         "n": 1477,
         "head": "LAUNCH: Sky Spike (volleyball)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3497,6 +3495,18 @@
         "n": 1497,
         "head": "BAR POOL: sideways on a phone the card sits on the cue ball",
         "detail": "move it to a left rail"
+      },
+      {
+        "n": 1498,
+        "head": "Comet Clash sideways on a phone: the court sits small and far, with scenery filling the bottom half"
+      },
+      {
+        "n": 1499,
+        "head": "Comet Clash: you wear your arcade colours, which can be red while you play for BLUE"
+      },
+      {
+        "n": 1500,
+        "head": "Comet Clash teach-check: the phone half sometimes reads a card that is not there"
       }
     ],
     "waiting": [
@@ -3518,6 +3528,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1476,
+        "head": "LAUNCH: Comet Clash (dodgeball)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
       {
         "n": 1475,
         "head": "LAUNCH: Barn Burner (ice hockey)",
@@ -3579,15 +3595,9 @@
         "n": 1415,
         "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1414,
-        "head": "LAUNCH: the auras look weird INSIDE the games",
-        "detail": "they need real work fable",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1052,
+    "shippedTotal": 1053,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3595,8 +3605,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 4
+      "2026-11-26": 5
     }
   },
-  "changed": "2026-11-26T09:29:14.614Z"
+  "changed": "2026-11-26T09:54:14.086Z"
 }
