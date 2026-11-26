@@ -3480,6 +3480,18 @@
       {
         "n": 1493,
         "head": "LOBBY LOOSE ENDS: the small things the public lobby still gets wrong (found building row 1467) region-lobby"
+      },
+      {
+        "n": 1494,
+        "head": "Barn Burner with a friend: both people read \"PLAYER\" on the rink and on the end card"
+      },
+      {
+        "n": 1495,
+        "head": "Barn Burner on a phone: a newcomer cannot tell which skater is theirs, and the left thumb has nothing drawn"
+      },
+      {
+        "n": 1496,
+        "head": "Barn Burner with a friend: the guest's screen flashes WAITING FOR THE HOST in the first minute"
       }
     ],
     "waiting": [
@@ -3581,5 +3593,5 @@
       "2026-11-26": 3
     }
   },
-  "changed": "2026-11-26T07:41:13.554Z"
+  "changed": "2026-11-26T07:51:15.147Z"
 }
