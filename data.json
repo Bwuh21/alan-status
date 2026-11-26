@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T10:45:00.000Z",
+  "updated": "2026-11-26T10:55:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2834,6 +2834,11 @@
           "text": "Measure the netcode, both ends, over a full rally",
           "status": "done",
           "note": "Done 2026-11-20, and it found a second bug. On a phone the host was sending 16 updates a second instead of 20, and the friend 22 inputs instead of 30. Fixed, now exact. Simulated phone data (80 ms): updates arrive every…"
+        },
+        {
+          "text": "Launch check: Sky Spike with a friend, and a friend who leaves",
+          "status": "done",
+          "note": "LIVE 11-26. READY with a friend. A desk and a phone, with the invite button really pressed: the friend opened the link, was asked to join, and you played a whole match to 11 with the same score on both screens. Then the…"
         }
       ]
     },
@@ -2937,11 +2942,11 @@
         "since": "2026-11-26 03:59"
       },
       {
-        "n": 1477,
-        "head": "LAUNCH: Sky Spike (volleyball)",
+        "n": 1473,
+        "head": "LAUNCH: darts at the bar (BarDarts)",
         "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 03:13"
+        "lane": "arcade2",
+        "since": "2026-11-26 04:50"
       },
       {
         "n": 1478,
@@ -2958,11 +2963,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1473,
-        "head": "LAUNCH: darts at the bar (BarDarts)",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
       {
         "n": 1474,
         "head": "LAUNCH: bowling",
@@ -3522,6 +3522,14 @@
       {
         "n": 1505,
         "head": "SHUFFLEBOARD never says what scores: a newcomer thinks every puck on the board counts"
+      },
+      {
+        "n": 1506,
+        "head": "the lobby's island warm throws reading 'isReady' in a two-browser room, so verify/volleyball-party-check.mjs is red on every run"
+      },
+      {
+        "n": 1507,
+        "head": "Sky Spike with a friend: after a friend leaves, the bot in their seat still wears their name"
       }
     ],
     "waiting": [
@@ -3543,6 +3551,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1477,
+        "head": "LAUNCH: Sky Spike (volleyball)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
       {
         "n": 1476,
         "head": "LAUNCH: Comet Clash (dodgeball)",
@@ -3605,14 +3619,9 @@
         "head": "LAUNCH: pool",
         "detail": "the balls and the table need to look much cooler",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1415,
-        "head": "LAUNCH: the same join screen (avatars, names, ready up, a host) for the BAR games fable",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1053,
+    "shippedTotal": 1054,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3620,8 +3629,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 5
+      "2026-11-26": 6
     }
   },
-  "changed": "2026-11-26T10:34:14.167Z"
+  "changed": "2026-11-26T10:54:21.774Z"
 }
