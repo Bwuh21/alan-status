@@ -2945,13 +2945,6 @@
   "stack": {
     "building": [
       {
-        "n": 1474,
-        "head": "LAUNCH: bowling",
-        "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT",
-        "lane": "arcade2",
-        "since": "2026-11-26 05:15"
-      },
-      {
         "n": 1480,
         "head": "LAUNCH: Head or Body (boxing)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3563,6 +3556,11 @@
       {
         "n": 1517,
         "head": "TopplePull's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
+      },
+      {
+        "n": 1518,
+        "head": "bowling with a friend: when the friend leaves on their turn, the host's \"left the lane\" line is wiped at once by \"Your ball!\"",
+        "detail": "land the proven fix"
       }
     ],
     "waiting": [
@@ -3665,5 +3663,5 @@
       "2026-11-26": 8
     }
   },
-  "changed": "2026-11-26T12:00:33.256Z"
+  "changed": "2026-11-26T12:49:15.505Z"
 }
