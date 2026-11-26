@@ -3014,6 +3014,11 @@
         "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable"
       },
       {
+        "n": 1551,
+        "head": "LAUNCH: CONNECT DISCORD",
+        "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable"
+      },
+      {
         "n": 1501,
         "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends"
       },
@@ -3804,5 +3809,5 @@
       "2026-11-26": 16
     }
   },
-  "changed": "2026-11-26T16:28:38.840Z"
+  "changed": "2026-11-26T16:34:26.064Z"
 }
