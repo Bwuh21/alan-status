@@ -2954,13 +2954,6 @@
         "since": "2026-11-26 05:15"
       },
       {
-        "n": 1478,
-        "head": "LAUNCH: Hangtime (streetball)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 03:59"
-      },
-      {
         "n": 1479,
         "head": "LAUNCH: Skin Kick (1v1 soccer)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3570,6 +3563,12 @@
     ],
     "shipped": [
       {
+        "n": 1478,
+        "head": "LAUNCH: Hangtime (streetball)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1477,
         "head": "LAUNCH: Sky Spike (volleyball)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3631,15 +3630,9 @@
         "head": "LAUNCH: pool",
         "detail": "you cannot SEE two friends playing pool against each other, and pool needs the join screen",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1416,
-        "head": "LAUNCH: pool",
-        "detail": "the balls and the table need to look much cooler",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1054,
+    "shippedTotal": 1055,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3647,8 +3640,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 6
+      "2026-11-26": 7
     }
   },
-  "changed": "2026-11-26T11:19:14.032Z"
+  "changed": "2026-11-26T11:25:09.708Z"
 }
