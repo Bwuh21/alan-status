@@ -3000,6 +3000,19 @@
   "stack": {
     "building": [
       {
+        "n": 774,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) BROADSIDE BAY: ev",
+        "lane": "arcade",
+        "since": "2026-11-26 17:14"
+      },
+      {
+        "n": 776,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SHOVE OFF: the pa",
+        "detail": "he likes it",
+        "lane": "arcade2",
+        "since": "2026-11-26 17:14"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3007,15 +3020,6 @@
       }
     ],
     "next": [
-      {
-        "n": 774,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) BROADSIDE BAY: ev"
-      },
-      {
-        "n": 776,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SHOVE OFF: the pa",
-        "detail": "he likes it"
-      },
       {
         "n": 777,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LAST HEX: the par"
@@ -3836,5 +3840,5 @@
       "2026-11-26": 40
     }
   },
-  "changed": "2026-11-26T23:14:13.675Z"
+  "changed": "2026-11-26T23:19:13.631Z"
 }
