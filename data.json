@@ -2924,6 +2924,16 @@
     ],
     "next": [
       {
+        "n": 1467,
+        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
+        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable"
+      },
+      {
+        "n": 1468,
+        "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
+        "detail": "this row only FILES the per-game rows"
+      },
+      {
         "n": 1463,
         "head": "about 30 node test scripts already sit on the live site (leaked before rows 954/1007): take them off the clone"
       },
@@ -3948,5 +3958,5 @@
       "2026-11-24": 43
     }
   },
-  "changed": "2026-11-25T11:19:14.544Z"
+  "changed": "2026-11-26T01:59:14.169Z"
 }
