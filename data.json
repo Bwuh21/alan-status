@@ -2931,6 +2931,13 @@
         "since": "2026-11-26 00:19"
       },
       {
+        "n": 1476,
+        "head": "LAUNCH: Comet Clash (dodgeball)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade",
+        "since": "2026-11-26 01:10"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -2962,11 +2969,6 @@
         "n": 1474,
         "head": "LAUNCH: bowling",
         "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT"
-      },
-      {
-        "n": 1476,
-        "head": "LAUNCH: Comet Clash (dodgeball)",
-        "detail": "touch-up and multiplayer READY or NOT"
       },
       {
         "n": 1477,
@@ -3579,5 +3581,5 @@
       "2026-11-26": 2
     }
   },
-  "changed": "2026-11-26T07:09:14.759Z"
+  "changed": "2026-11-26T07:14:26.520Z"
 }
