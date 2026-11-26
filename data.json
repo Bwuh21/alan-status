@@ -2999,6 +2999,13 @@
         "since": "2026-11-26 14:45"
       },
       {
+        "n": 770,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) PARTY ISLAND FLOW",
+        "detail": "it is RANDOM, the whole party goes in together, and you keep playing",
+        "lane": "arcade",
+        "since": "2026-11-26 15:37"
+      },
+      {
         "n": 773,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) OUT OF THE SUN: d",
         "lane": "arcade2",
@@ -3012,11 +3019,6 @@
       }
     ],
     "next": [
-      {
-        "n": 770,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) PARTY ISLAND FLOW",
-        "detail": "it is RANDOM, the whole party goes in together, and you keep playing"
-      },
       {
         "n": 774,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) BROADSIDE BAY: ev"
@@ -3843,5 +3845,5 @@
       "2026-11-26": 33
     }
   },
-  "changed": "2026-11-26T21:14:14.443Z"
+  "changed": "2026-11-26T21:40:50.682Z"
 }
