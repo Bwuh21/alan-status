@@ -2932,11 +2932,25 @@
         "since": "2026-11-26 03:24"
       },
       {
+        "n": 1472,
+        "head": "LAUNCH: ping pong at the bar (HallPong)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade2",
+        "since": "2026-11-26 03:59"
+      },
+      {
         "n": 1477,
         "head": "LAUNCH: Sky Spike (volleyball)",
         "detail": "touch-up and multiplayer READY or NOT",
         "lane": "arcade",
         "since": "2026-11-26 03:13"
+      },
+      {
+        "n": 1478,
+        "head": "LAUNCH: Hangtime (streetball)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade",
+        "since": "2026-11-26 03:59"
       },
       {
         "n": 1290,
@@ -2947,11 +2961,6 @@
     ],
     "next": [
       {
-        "n": 1472,
-        "head": "LAUNCH: ping pong at the bar (HallPong)",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
-      {
         "n": 1473,
         "head": "LAUNCH: darts at the bar (BarDarts)",
         "detail": "touch-up and multiplayer READY or NOT"
@@ -2960,11 +2969,6 @@
         "n": 1474,
         "head": "LAUNCH: bowling",
         "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT"
-      },
-      {
-        "n": 1478,
-        "head": "LAUNCH: Hangtime (streetball)",
-        "detail": "touch-up and multiplayer READY or NOT"
       },
       {
         "n": 1479,
@@ -3609,5 +3613,5 @@
       "2026-11-26": 5
     }
   },
-  "changed": "2026-11-26T09:59:14.242Z"
+  "changed": "2026-11-26T10:04:48.527Z"
 }
