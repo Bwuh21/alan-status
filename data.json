@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T10:55:00.000Z",
+  "updated": "2026-11-26T11:20:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1280,6 +1280,11 @@
           "text": "Nothing carried from one match to the next — beat your friend five times and the sixth game started like the first",
           "status": "done",
           "note": "11-09 LIVE. The night's score. Play your friend and the end screen now keeps the running score for the night — TONIGHT · YOU 3 – 2 GRANDREGENT — and it is waiting on the 1v1 / 2v2 screen before the next tip-off, so you…"
+        },
+        {
+          "text": "Launch check: Hangtime with a friend, and a friend who leaves",
+          "status": "done",
+          "note": "LIVE 11-26. READY with a friend. A desk and a phone, with the invite button really pressed: the friend opened the link, was asked to join, you both played 2v2 against two bots to the end, and both screens showed the…"
         }
       ]
     },
@@ -2942,6 +2947,13 @@
         "since": "2026-11-26 04:50"
       },
       {
+        "n": 1474,
+        "head": "LAUNCH: bowling",
+        "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT",
+        "lane": "arcade2",
+        "since": "2026-11-26 05:15"
+      },
+      {
         "n": 1478,
         "head": "LAUNCH: Hangtime (streetball)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -2963,11 +2975,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1474,
-        "head": "LAUNCH: bowling",
-        "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT"
-      },
       {
         "n": 1480,
         "head": "LAUNCH: Head or Body (boxing)",
@@ -3537,6 +3544,10 @@
       {
         "n": 1510,
         "head": "a guest's first go at a bar table on a phone: the \"Guests play bots free\" toast sits on top of the one-line lesson"
+      },
+      {
+        "n": 1511,
+        "head": "Hangtime: the team name is cut off on the scoreboard, and a party loss card says \"Run it back.\" over a BACK TO THE ARCADE button"
       }
     ],
     "waiting": [
@@ -3639,5 +3650,5 @@
       "2026-11-26": 6
     }
   },
-  "changed": "2026-11-26T11:09:14.972Z"
+  "changed": "2026-11-26T11:19:14.032Z"
 }
