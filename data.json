@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:10:00.000Z",
+  "updated": "2026-11-26T17:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2787,6 +2787,11 @@
           "note": "Live 2026-11-19. On a slow machine your paddle read your swing too fast (a normal push at 10 frames a second counted as a smash). It now reads in real time: same push reads the same from 3 to 60 frames a second. The…"
         },
         {
+          "text": "Ping pong with a friend: a ball your friend hits before it bounces is called the way their screen saw it (row 1100)",
+          "status": "done",
+          "note": "Live 2026-11-26. Hitting the ball before it bounces is still a fault, as against the house, but now your friend's own screen makes the call where it drew the ball and their bat, and both screens agree. Before, the host…"
+        },
+        {
           "text": "The bowling end: still clipping, and bowling balls lie on the seats (row 1032, Zack 2026-11-18)",
           "status": "done",
           "note": "Live 2026-11-18. The balls on the seats were decoration: two house balls per ball return, set past its end and out over the settee. Gone; the rack by the counter holds the house balls. A real ball can't end up on a…"
@@ -2968,10 +2973,11 @@
         "since": "2026-11-26 10:17"
       },
       {
-        "n": 1100,
-        "head": "PING PONG with a friend: a ball hit before it bounces (a volley) is still judged by the host on the friend's late paddle",
-        "lane": "arcade",
-        "since": "2026-11-26 09:09"
+        "n": 1542,
+        "head": "LAUNCH: COMET CLASH with a friend",
+        "detail": "a thrown ball is pushed ahead by a fixed 85 ms whatever the line is (Codex read, 2026-11-26)",
+        "lane": "arcade2",
+        "since": "2026-11-26 10:59"
       },
       {
         "n": 1290,
@@ -2995,11 +3001,6 @@
         "n": 1541,
         "head": "LAUNCH: MULTIPLAYER",
         "detail": "a fast ball or puck must never look laggy on a friend's screen (Zack, keyboard, 2026-11-26) fable"
-      },
-      {
-        "n": 1542,
-        "head": "LAUNCH: COMET CLASH with a friend",
-        "detail": "a thrown ball is pushed ahead by a fixed 85 ms whatever the line is (Codex read, 2026-11-26)"
       },
       {
         "n": 1543,
@@ -3710,6 +3711,14 @@
       {
         "n": 1553,
         "head": "skate-landscape-hud: gate the tutorial at EVERY step, not step 1 as a note (seen by row 1486, 2026-11-26)"
+      },
+      {
+        "n": 1554,
+        "head": "PING PONG with a friend: the two-page party check cannot finish its match on a loaded machine (6-4 after 410 s at 2-3 fps), so \"the match pl"
+      },
+      {
+        "n": 1555,
+        "head": "PING PONG on a desk: the solo check's \"no console errors\" is red on HEAD with a three.js warm-up error, Cannot read properties of undefined "
       }
     ],
     "waiting": [
@@ -3804,7 +3813,7 @@
         "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1064,
+    "shippedTotal": 1065,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3812,8 +3821,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 16
+      "2026-11-26": 17
     }
   },
-  "changed": "2026-11-26T16:54:26.017Z"
+  "changed": "2026-11-26T17:04:13.829Z"
 }
