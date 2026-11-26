@@ -2982,13 +2982,6 @@
         "since": "2026-11-26 12:29"
       },
       {
-        "n": 1543,
-        "head": "LAUNCH: TOY FURY",
-        "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable",
-        "lane": "arcade2",
-        "since": "2026-11-26 12:29"
-      },
-      {
         "n": 1551,
         "head": "LAUNCH: CONNECT DISCORD",
         "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable",
@@ -3763,6 +3756,12 @@
     ],
     "shipped": [
       {
+        "n": 1543,
+        "head": "LAUNCH: TOY FURY",
+        "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1542,
         "head": "LAUNCH: COMET CLASH with a friend",
         "detail": "a thrown ball is pushed ahead by a fixed 85 ms whatever the line is (Codex read, 2026-11-26)",
@@ -3826,15 +3825,9 @@
         "head": "LAUNCH: Riposte (sword duel)",
         "detail": "touch-up and multiplayer READY or NOT",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1480,
-        "head": "LAUNCH: Head or Body (boxing)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1074,
+    "shippedTotal": 1075,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3842,8 +3835,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 26
+      "2026-11-26": 27
     }
   },
-  "changed": "2026-11-26T19:39:17.640Z"
+  "changed": "2026-11-26T19:44:13.861Z"
 }
