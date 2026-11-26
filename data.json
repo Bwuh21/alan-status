@@ -2972,11 +2972,25 @@
         "since": "2026-11-26 11:29"
       },
       {
+        "n": 1541,
+        "head": "LAUNCH: MULTIPLAYER",
+        "detail": "a fast ball or puck must never look laggy on a friend's screen (Zack, keyboard, 2026-11-26) fable",
+        "lane": "arcade",
+        "since": "2026-11-26 12:29"
+      },
+      {
         "n": 1542,
         "head": "LAUNCH: COMET CLASH with a friend",
         "detail": "a thrown ball is pushed ahead by a fixed 85 ms whatever the line is (Codex read, 2026-11-26)",
         "lane": "arcade2",
         "since": "2026-11-26 10:59"
+      },
+      {
+        "n": 1543,
+        "head": "LAUNCH: TOY FURY",
+        "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable",
+        "lane": "arcade2",
+        "since": "2026-11-26 12:29"
       },
       {
         "n": 1290,
@@ -2986,16 +3000,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1541,
-        "head": "LAUNCH: MULTIPLAYER",
-        "detail": "a fast ball or puck must never look laggy on a friend's screen (Zack, keyboard, 2026-11-26) fable"
-      },
-      {
-        "n": 1543,
-        "head": "LAUNCH: TOY FURY",
-        "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable"
-      },
       {
         "n": 1551,
         "head": "LAUNCH: CONNECT DISCORD",
@@ -3825,5 +3829,5 @@
       "2026-11-26": 24
     }
   },
-  "changed": "2026-11-26T18:24:13.725Z"
+  "changed": "2026-11-26T18:34:13.865Z"
 }
