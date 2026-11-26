@@ -3013,6 +3013,19 @@
         "since": "2026-11-26 17:14"
       },
       {
+        "n": 777,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LAST HEX: the par",
+        "lane": "arcade",
+        "since": "2026-11-26 17:19"
+      },
+      {
+        "n": 779,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LIVE WIRE: you WA",
+        "detail": "hold it when it blows and you score; and a better map",
+        "lane": "arcade2",
+        "since": "2026-11-26 17:19"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3020,15 +3033,6 @@
       }
     ],
     "next": [
-      {
-        "n": 777,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LAST HEX: the par"
-      },
-      {
-        "n": 779,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LIVE WIRE: you WA",
-        "detail": "hold it when it blows and you score; and a better map"
-      },
       {
         "n": 780,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SPLATFLAG becomes"
@@ -3840,5 +3844,5 @@
       "2026-11-26": 40
     }
   },
-  "changed": "2026-11-26T23:19:13.631Z"
+  "changed": "2026-11-26T23:27:17.508Z"
 }
