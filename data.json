@@ -2968,13 +2968,6 @@
         "since": "2026-11-26 10:17"
       },
       {
-        "n": 1486,
-        "head": "LAUNCH: Slab City (the skate park)",
-        "detail": "first-minute touch-up",
-        "lane": "arcade2",
-        "since": "2026-11-26 08:09"
-      },
-      {
         "n": 1100,
         "head": "PING PONG with a friend: a ball hit before it bounces (a volley) is still judged by the host on the friend's late paddle",
         "lane": "arcade",
@@ -3017,6 +3010,11 @@
         "n": 1551,
         "head": "LAUNCH: CONNECT DISCORD",
         "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable"
+      },
+      {
+        "n": 1486,
+        "head": "LAUNCH: Slab City (the skate park)",
+        "detail": "first-minute touch-up"
       },
       {
         "n": 1501,
@@ -3704,6 +3702,14 @@
       {
         "n": 1550,
         "head": "HEAD OR BODY: teach block-then-counter first, and let a big punch be read (Codex sports review, 2026-11-26)"
+      },
+      {
+        "n": 1552,
+        "head": "skate-check: the phone ollie leg fails a clean ollie under load (seen by row 1486, 2026-11-26)"
+      },
+      {
+        "n": 1553,
+        "head": "skate-landscape-hud: gate the tutorial at EVERY step, not step 1 as a note (seen by row 1486, 2026-11-26)"
       }
     ],
     "waiting": [
@@ -3809,5 +3815,5 @@
       "2026-11-26": 16
     }
   },
-  "changed": "2026-11-26T16:34:26.064Z"
+  "changed": "2026-11-26T16:54:26.017Z"
 }
