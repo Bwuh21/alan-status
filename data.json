@@ -3512,6 +3512,18 @@
       {
         "n": 1502,
         "head": "AIR HOCKEY with a friend: after the match the far end cannot play the house its card offers, and the phone is told to press Space"
+      },
+      {
+        "n": 1503,
+        "head": "SHUFFLEBOARD with a friend: after the match the far end cannot play the house its card offers"
+      },
+      {
+        "n": 1504,
+        "head": "verify/foos-check.mjs still tests the FOOSBALL table that row 1176 replaced with shuffleboard: retarget or retire it"
+      },
+      {
+        "n": 1505,
+        "head": "SHUFFLEBOARD never says what scores: a newcomer thinks every puck on the board counts"
       }
     ],
     "waiting": [
@@ -3613,5 +3625,5 @@
       "2026-11-26": 5
     }
   },
-  "changed": "2026-11-26T10:04:48.527Z"
+  "changed": "2026-11-26T10:19:47.417Z"
 }
