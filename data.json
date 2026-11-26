@@ -7,6 +7,11 @@
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
         {
+          "text": "Party Planet: no picking -- one JOIN, random games, the whole party together, keep playing (row 770)",
+          "status": "done",
+          "note": "Done 11-26 (row 770), live. One button at the podium: press JOIN and a random party game starts, then another, and another, never one of the last few you played, until you tap Stop (it is on every card between rounds).…"
+        },
+        {
           "text": "Air hockey, shuffleboard, ping pong with a friend: after the match the far end could not start a house game (row 1535, with 1502, 1503, 1509)",
           "status": "done",
           "note": "Done 11-26 (row 1535), live. When a friend's match ends, either player can now tap (or press Space) to play the house straight away; before, the far end's taps did nothing until the other player walked off. On a phone…"
@@ -2990,13 +2995,6 @@
   "stack": {
     "building": [
       {
-        "n": 770,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) PARTY ISLAND FLOW",
-        "detail": "it is RANDOM, the whole party goes in together, and you keep playing",
-        "lane": "arcade",
-        "since": "2026-11-26 15:37"
-      },
-      {
         "n": 773,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) OUT OF THE SUN: d",
         "lane": "arcade2",
@@ -3729,6 +3727,10 @@
       {
         "n": 1575,
         "head": "PING PONG with a friend: when the friend drops mid-match, the host's card never says they left"
+      },
+      {
+        "n": 1576,
+        "head": "two old Party Planet checks still read PARTY_ROUNDS / partyBag, which row 770 removed"
       }
     ],
     "waiting": [
@@ -3820,7 +3822,7 @@
         "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1086,
+    "shippedTotal": 1087,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3828,8 +3830,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 38
+      "2026-11-26": 39
     }
   },
-  "changed": "2026-11-26T22:54:13.920Z"
+  "changed": "2026-11-26T22:59:13.451Z"
 }
