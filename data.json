@@ -2996,6 +2996,12 @@
         "since": "2026-11-26 13:09"
       },
       {
+        "n": 1501,
+        "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends",
+        "lane": "arcade2",
+        "since": "2026-11-26 13:44"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3003,10 +3009,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1501,
-        "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends"
-      },
       {
         "n": 1515,
         "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
@@ -3838,5 +3840,5 @@
       "2026-11-26": 27
     }
   },
-  "changed": "2026-11-26T19:44:13.861Z"
+  "changed": "2026-11-26T19:49:15.914Z"
 }
