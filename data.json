@@ -2929,13 +2929,6 @@
         "since": "2026-11-26 01:34"
       },
       {
-        "n": 1475,
-        "head": "LAUNCH: Barn Burner (ice hockey)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 00:19"
-      },
-      {
         "n": 1476,
         "head": "LAUNCH: Comet Clash (dodgeball)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3497,6 +3490,11 @@
       {
         "n": 1496,
         "head": "Barn Burner with a friend: the guest's screen flashes WAITING FOR THE HOST in the first minute"
+      },
+      {
+        "n": 1497,
+        "head": "BAR POOL: sideways on a phone the card sits on the cue ball",
+        "detail": "move it to a left rail"
       }
     ],
     "waiting": [
@@ -3518,6 +3516,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1475,
+        "head": "LAUNCH: Barn Burner (ice hockey)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
       {
         "n": 1467,
         "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
@@ -3579,15 +3583,9 @@
         "head": "LAUNCH: the auras look weird INSIDE the games",
         "detail": "they need real work fable",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1413,
-        "head": "LAUNCH: soccer",
-        "detail": "the movement is choppy, it does not look fluid",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1051,
+    "shippedTotal": 1052,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3595,8 +3593,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 3
+      "2026-11-26": 4
     }
   },
-  "changed": "2026-11-26T09:00:52.608Z"
+  "changed": "2026-11-26T09:04:17.185Z"
 }
