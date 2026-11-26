@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T05:55:00.000Z",
+  "updated": "2026-11-26T07:30:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -2931,12 +2931,6 @@
         "since": "2026-11-26 00:19"
       },
       {
-        "n": 1092,
-        "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass",
-        "lane": "arcade",
-        "since": "2026-11-25 23:24"
-      },
-      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3507,6 +3501,11 @@
     ],
     "shipped": [
       {
+        "n": 1092,
+        "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
         "date": "2026-11-26"
@@ -3567,14 +3566,9 @@
         "n": 1412,
         "head": "LAUNCH: the shared team picker on EVERY sports game, with a HOST who sets the match, and room for six (3v3) fable",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1297,
-        "head": "StandStill's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1049,
+    "shippedTotal": 1050,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3582,8 +3576,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 1
+      "2026-11-26": 2
     }
   },
-  "changed": "2026-11-26T06:24:13.522Z"
+  "changed": "2026-11-26T07:09:14.759Z"
 }
