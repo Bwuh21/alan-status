@@ -2964,6 +2964,19 @@
         "since": "2026-11-26 07:19"
       },
       {
+        "n": 1486,
+        "head": "LAUNCH: Slab City (the skate park)",
+        "detail": "first-minute touch-up",
+        "lane": "arcade2",
+        "since": "2026-11-26 08:09"
+      },
+      {
+        "n": 1491,
+        "head": "LAUNCH: the multiplayer readiness table",
+        "lane": "arcade",
+        "since": "2026-11-26 08:09"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -2971,11 +2984,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1486,
-        "head": "LAUNCH: Slab City (the skate park)",
-        "detail": "first-minute touch-up"
-      },
       {
         "n": 1487,
         "head": "LAUNCH: Skee ball",
@@ -2995,10 +3003,6 @@
         "n": 1490,
         "head": "LAUNCH: the Claw machine",
         "detail": "first-minute touch-up"
-      },
-      {
-        "n": 1491,
-        "head": "LAUNCH: the multiplayer readiness table"
       },
       {
         "n": 1099,
@@ -3691,5 +3695,5 @@
       "2026-11-26": 12
     }
   },
-  "changed": "2026-11-26T14:04:14.060Z"
+  "changed": "2026-11-26T14:14:21.659Z"
 }
