@@ -2999,6 +2999,12 @@
         "since": "2026-11-26 14:45"
       },
       {
+        "n": 773,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) OUT OF THE SUN: d",
+        "lane": "arcade2",
+        "since": "2026-11-26 15:09"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3010,10 +3016,6 @@
         "n": 770,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) PARTY ISLAND FLOW",
         "detail": "it is RANDOM, the whole party goes in together, and you keep playing"
-      },
-      {
-        "n": 773,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) OUT OF THE SUN: d"
       },
       {
         "n": 774,
@@ -3841,5 +3843,5 @@
       "2026-11-26": 33
     }
   },
-  "changed": "2026-11-26T21:09:14.166Z"
+  "changed": "2026-11-26T21:14:14.443Z"
 }
