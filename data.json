@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-26T21:11:00.000Z",
+  "updated": "2026-11-26T21:15:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Darts with a friend: when the friend leaves, the host was left throwing alone (row 1515)",
+          "status": "done",
+          "note": "Done 11-26 (row 1515), live. When your friend leaves mid-leg, the leg ends: a banner says \"<NAME> LEFT, the leg is off\" and one press of \"Back to the room\" gets you out, with your score untouched. In the test that took…"
+        },
         {
           "text": "Air hockey with a friend: a puck stuck in a near corner and the match never ended (row 1501)",
           "status": "done",
@@ -2980,25 +2985,11 @@
   "stack": {
     "building": [
       {
-        "n": 1541,
-        "head": "LAUNCH: MULTIPLAYER",
-        "detail": "a fast ball or puck must never look laggy on a friend's screen (Zack, keyboard, 2026-11-26) fable",
-        "lane": "arcade",
-        "since": "2026-11-26 12:29"
-      },
-      {
         "n": 1551,
         "head": "LAUNCH: CONNECT DISCORD",
         "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable",
         "lane": "arcade",
         "since": "2026-11-26 13:14"
-      },
-      {
-        "n": 1515,
-        "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
-        "detail": "land the proven fix",
-        "lane": "arcade2",
-        "since": "2026-11-26 14:09"
       },
       {
         "n": 1535,
@@ -3100,15 +3091,6 @@
       {
         "n": 1172,
         "head": "Multiplayer: a game against the HOUSE at a party table never locks it"
-      },
-      {
-        "n": 1177,
-        "head": "Multiplayer: a slow host starves every friend's updates"
-      },
-      {
-        "n": 1178,
-        "head": "Multiplayer: the host sends every table's status 17 times a second",
-        "detail": "94% of every update"
       },
       {
         "n": 1179,
@@ -3736,6 +3718,26 @@
       {
         "n": 1568,
         "head": "CHECK: Slab City's sideways-HUD check reads the step banner the moment a delayed \"NEW BOARD\" pop lands on it (left over from row 1486, 2026-"
+      },
+      {
+        "n": 1569,
+        "head": "PING PONG with a friend: the ball jumps 17 times every 10 s on a friend's screen at 80 ms, and the HOST's own ball jumps too"
+      },
+      {
+        "n": 1570,
+        "head": "POOL with a friend: what a friend sees of the balls under delay was never measured"
+      },
+      {
+        "n": 1571,
+        "head": "BOWLING with a friend: what a friend sees of the ball under delay was never measured"
+      },
+      {
+        "n": 1572,
+        "head": "AIR HOCKEY with a friend: the puck is still one trip late on a slow connection, and 9 to 13 jumps per 10 s remain (left over from row 1541, "
+      },
+      {
+        "n": 1573,
+        "head": "Multiplayer: a host slowed 20x still sends friends only 5 updates a second (left over from row 1177, 2026-11-26)"
       }
     ],
     "waiting": [
@@ -3770,6 +3772,12 @@
         "date": "2026-11-26"
       },
       {
+        "n": 1541,
+        "head": "LAUNCH: MULTIPLAYER",
+        "detail": "a fast ball or puck must never look laggy on a friend's screen (Zack, keyboard, 2026-11-26) fable",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1540,
         "head": "LAUNCH: TOY FURY",
         "detail": "the bugs and the clipping a racer hits",
@@ -3790,6 +3798,12 @@
       {
         "n": 1537,
         "head": "LAUNCH: HAUNT, KITCHEN CLASH and GNOME WATCH come off the site",
+        "date": "2026-11-26"
+      },
+      {
+        "n": 1515,
+        "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
+        "detail": "land the proven fix",
         "date": "2026-11-26"
       },
       {
@@ -3814,21 +3828,9 @@
         "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
         "detail": "touch-up and multiplayer READY or NOT",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1484,
-        "head": "LAUNCH: DodgeFall 3D",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "date": "2026-11-26"
-      },
-      {
-        "n": 1483,
-        "head": "LAUNCH: Sideways (getaway cars)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1077,
+    "shippedTotal": 1081,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3836,8 +3838,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 29
+      "2026-11-26": 33
     }
   },
-  "changed": "2026-11-26T20:49:24.700Z"
+  "changed": "2026-11-26T21:09:14.166Z"
 }
