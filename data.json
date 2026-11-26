@@ -2935,13 +2935,6 @@
   "stack": {
     "building": [
       {
-        "n": 1472,
-        "head": "LAUNCH: ping pong at the bar (HallPong)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade2",
-        "since": "2026-11-26 03:59"
-      },
-      {
         "n": 1473,
         "head": "LAUNCH: darts at the bar (BarDarts)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3536,6 +3529,14 @@
       {
         "n": 1508,
         "head": "BestLine's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
+      },
+      {
+        "n": 1509,
+        "head": "PING PONG with a friend: the phone is never told how to move its paddle, and after the match the far end cannot play the house its card offe"
+      },
+      {
+        "n": 1510,
+        "head": "a guest's first go at a bar table on a phone: the \"Guests play bots free\" toast sits on top of the one-line lesson"
       }
     ],
     "waiting": [
@@ -3638,5 +3639,5 @@
       "2026-11-26": 6
     }
   },
-  "changed": "2026-11-26T11:07:09.810Z"
+  "changed": "2026-11-26T11:09:14.972Z"
 }
