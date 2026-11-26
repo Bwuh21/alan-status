@@ -3715,10 +3715,6 @@
       {
         "n": 1554,
         "head": "PING PONG with a friend: the two-page party check cannot finish its match on a loaded machine (6-4 after 410 s at 2-3 fps), so \"the match pl"
-      },
-      {
-        "n": 1555,
-        "head": "PING PONG on a desk: the solo check's \"no console errors\" is red on HEAD with a three.js warm-up error, Cannot read properties of undefined "
       }
     ],
     "waiting": [
@@ -3824,5 +3820,5 @@
       "2026-11-26": 17
     }
   },
-  "changed": "2026-11-26T17:04:13.829Z"
+  "changed": "2026-11-26T17:09:13.983Z"
 }
