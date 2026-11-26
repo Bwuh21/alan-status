@@ -2945,13 +2945,6 @@
   "stack": {
     "building": [
       {
-        "n": 1480,
-        "head": "LAUNCH: Head or Body (boxing)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 05:32"
-      },
-      {
         "n": 1481,
         "head": "LAUNCH: Riposte (sword duel)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3561,6 +3554,22 @@
         "n": 1518,
         "head": "bowling with a friend: when the friend leaves on their turn, the host's \"left the lane\" line is wiped at once by \"Your ball!\"",
         "detail": "land the proven fix"
+      },
+      {
+        "n": 1519,
+        "head": "Head or Body: the bot keeps punching through the live-fire lesson, so a first-timer is scored on before they have thrown a punch"
+      },
+      {
+        "n": 1520,
+        "head": "Head or Body: on a sideways phone the title's move list is faint over the lit ring floor"
+      },
+      {
+        "n": 1521,
+        "head": "Head or Body: the host's 3D view lost its graphics context once on the end screen with several browsers open"
+      },
+      {
+        "n": 1522,
+        "head": "Head or Body: no check covers the GUEST giving up on a host who goes silent mid-fight"
       }
     ],
     "waiting": [
@@ -3582,6 +3591,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1480,
+        "head": "LAUNCH: Head or Body (boxing)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
       {
         "n": 1479,
         "head": "LAUNCH: Skin Kick (1v1 soccer)",
@@ -3645,14 +3660,9 @@
         "head": "LAUNCH: ping pong",
         "detail": "\"there is no control what so ever\": make it play like Wii Sports table tennis, where you put the ball exactly where you want fable",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1418,
-        "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1056,
+    "shippedTotal": 1057,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3660,8 +3670,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 8
+      "2026-11-26": 9
     }
   },
-  "changed": "2026-11-26T12:49:15.505Z"
+  "changed": "2026-11-26T12:54:13.848Z"
 }
