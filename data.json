@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-27T00:05:00.000Z",
+  "updated": "2026-11-27T00:06:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Out of the Sun: dive all the way to the ground, and the whole party in one fight (row 773)",
+          "status": "done",
+          "note": "Done 11-26 (row 773), live. No invisible floor: hold the stick down and you reach the street, and the street ends you. With friends: everyone in one sky, one life each, last one flying wins, 90-second clock (most kills…"
+        },
         {
           "text": "Party Planet: no picking -- one JOIN, random games, the whole party together, keep playing (row 770)",
           "status": "done",
@@ -2995,12 +3000,6 @@
   "stack": {
     "building": [
       {
-        "n": 773,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) OUT OF THE SUN: d",
-        "lane": "arcade2",
-        "since": "2026-11-26 15:09"
-      },
-      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3731,6 +3730,10 @@
       {
         "n": 1576,
         "head": "two old Party Planet checks still read PARTY_ROUNDS / partyBag, which row 770 removed"
+      },
+      {
+        "n": 1577,
+        "head": "OUT OF THE SUN: one frame fault seen once in the party bell run, never caught again"
       }
     ],
     "waiting": [
@@ -3822,7 +3825,7 @@
         "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1087,
+    "shippedTotal": 1088,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3830,8 +3833,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 39
+      "2026-11-26": 40
     }
   },
-  "changed": "2026-11-26T22:59:13.451Z"
+  "changed": "2026-11-26T23:14:13.675Z"
 }
