@@ -2917,10 +2917,23 @@
         "since": "2026-11-25 23:19"
       },
       {
+        "n": 1468,
+        "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
+        "detail": "this row only FILES the per-game rows",
+        "lane": "arcade2",
+        "since": "2026-11-25 23:24"
+      },
+      {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
         "lane": "arcade",
         "since": "2026-11-25 23:19"
+      },
+      {
+        "n": 1092,
+        "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass",
+        "lane": "arcade",
+        "since": "2026-11-25 23:24"
       },
       {
         "n": 1290,
@@ -2930,15 +2943,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1468,
-        "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
-        "detail": "this row only FILES the per-game rows"
-      },
-      {
-        "n": 1092,
-        "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass"
-      },
       {
         "n": 1099,
         "head": "PING PONG with a friend: the far player's body stands at mid-end while their paddle roams up to a metre off it"
@@ -3472,5 +3476,5 @@
       "2026-11-24": 43
     }
   },
-  "changed": "2026-11-26T05:24:13.407Z"
+  "changed": "2026-11-26T05:29:13.432Z"
 }
