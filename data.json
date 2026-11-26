@@ -2963,6 +2963,12 @@
         "since": "2026-11-26 08:59"
       },
       {
+        "n": 1100,
+        "head": "PING PONG with a friend: a ball hit before it bounces (a volley) is still judged by the host on the friend's late paddle",
+        "lane": "arcade",
+        "since": "2026-11-26 09:09"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3003,10 +3009,6 @@
         "n": 1535,
         "head": "LAUNCH: one rule for three bar tables",
         "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)"
-      },
-      {
-        "n": 1100,
-        "head": "PING PONG with a friend: a ball hit before it bounces (a volley) is still judged by the host on the friend's late paddle"
       },
       {
         "n": 1101,
@@ -3705,5 +3707,5 @@
       "2026-11-26": 15
     }
   },
-  "changed": "2026-11-26T15:04:18.461Z"
+  "changed": "2026-11-26T15:14:24.484Z"
 }
