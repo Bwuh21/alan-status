@@ -2945,13 +2945,6 @@
   "stack": {
     "building": [
       {
-        "n": 1481,
-        "head": "LAUNCH: Riposte (sword duel)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 05:54"
-      },
-      {
         "n": 1482,
         "head": "LAUNCH: Back Nine (space golf)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3608,6 +3601,12 @@
     ],
     "shipped": [
       {
+        "n": 1481,
+        "head": "LAUNCH: Riposte (sword duel)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1480,
         "head": "LAUNCH: Head or Body (boxing)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3670,15 +3669,9 @@
         "head": "LAUNCH: table shuffleboard",
         "detail": "\"it just looks bad and needs more work done on it\" fable",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1420,
-        "head": "LAUNCH: ping pong",
-        "detail": "\"there is no control what so ever\": make it play like Wii Sports table tennis, where you put the ball exactly where you want fable",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1057,
+    "shippedTotal": 1058,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3686,8 +3679,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 9
+      "2026-11-26": 10
     }
   },
-  "changed": "2026-11-26T13:14:15.421Z"
+  "changed": "2026-11-26T13:19:13.942Z"
 }
