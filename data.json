@@ -2966,6 +2966,13 @@
         "since": "2026-11-26 10:17"
       },
       {
+        "n": 1538,
+        "head": "LAUNCH: THE CAMERA IN SMALL ROOMS",
+        "detail": "put the camera between you and a wall and it \"bugs out crazy\" (Zack, keyboard, 2026-11-26) fable",
+        "lane": "arcade",
+        "since": "2026-11-26 11:09"
+      },
+      {
         "n": 1540,
         "head": "LAUNCH: TOY FURY",
         "detail": "the bugs and the clipping a racer hits",
@@ -2987,11 +2994,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1538,
-        "head": "LAUNCH: THE CAMERA IN SMALL ROOMS",
-        "detail": "put the camera between you and a wall and it \"bugs out crazy\" (Zack, keyboard, 2026-11-26) fable"
-      },
       {
         "n": 1539,
         "head": "LAUNCH: TOY FURY's island",
@@ -3820,5 +3822,5 @@
       "2026-11-26": 17
     }
   },
-  "changed": "2026-11-26T17:09:13.983Z"
+  "changed": "2026-11-26T17:14:13.900Z"
 }
