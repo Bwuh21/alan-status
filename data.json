@@ -3574,6 +3574,18 @@
       {
         "n": 1522,
         "head": "Head or Body: no check covers the GUEST giving up on a host who goes silent mid-fight"
+      },
+      {
+        "n": 1523,
+        "head": "Riposte: the host's desk view lost its graphics context with only two browsers open"
+      },
+      {
+        "n": 1524,
+        "head": "Riposte: on a sideways phone the big \"ALLEZ\" call sits on top of the YOU / opponent name tags"
+      },
+      {
+        "n": 1525,
+        "head": "Riposte: no check covers the GUEST side of the 10 s silence rule, or a phone coming back from the background"
       }
     ],
     "waiting": [
@@ -3677,5 +3689,5 @@
       "2026-11-26": 9
     }
   },
-  "changed": "2026-11-26T12:59:21.941Z"
+  "changed": "2026-11-26T13:14:15.421Z"
 }
