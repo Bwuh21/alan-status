@@ -2979,13 +2979,6 @@
         "since": "2026-11-26 12:29"
       },
       {
-        "n": 1542,
-        "head": "LAUNCH: COMET CLASH with a friend",
-        "detail": "a thrown ball is pushed ahead by a fixed 85 ms whatever the line is (Codex read, 2026-11-26)",
-        "lane": "arcade2",
-        "since": "2026-11-26 10:59"
-      },
-      {
         "n": 1543,
         "head": "LAUNCH: TOY FURY",
         "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable",
@@ -3747,6 +3740,12 @@
     ],
     "shipped": [
       {
+        "n": 1542,
+        "head": "LAUNCH: COMET CLASH with a friend",
+        "detail": "a thrown ball is pushed ahead by a fixed 85 ms whatever the line is (Codex read, 2026-11-26)",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1540,
         "head": "LAUNCH: TOY FURY",
         "detail": "the bugs and the clipping a racer hits",
@@ -3810,15 +3809,9 @@
         "head": "LAUNCH: Skin Kick (1v1 soccer)",
         "detail": "touch-up and multiplayer READY or NOT",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1478,
-        "head": "LAUNCH: Hangtime (streetball)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1072,
+    "shippedTotal": 1073,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3826,8 +3819,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 24
+      "2026-11-26": 25
     }
   },
-  "changed": "2026-11-26T18:34:13.865Z"
+  "changed": "2026-11-26T19:09:13.881Z"
 }
