@@ -2990,19 +2990,28 @@
     ],
     "next": [
       {
-        "n": 1488,
-        "head": "LAUNCH: Hoops (the basketball machine)",
-        "detail": "first-minute touch-up"
+        "n": 1537,
+        "head": "LAUNCH: HAUNT, KITCHEN CLASH and GNOME WATCH come off the site"
       },
       {
-        "n": 1489,
-        "head": "LAUNCH: Pinball",
-        "detail": "first-minute touch-up"
+        "n": 1538,
+        "head": "LAUNCH: THE CAMERA IN SMALL ROOMS",
+        "detail": "put the camera between you and a wall and it \"bugs out crazy\" (Zack, keyboard, 2026-11-26) fable"
       },
       {
-        "n": 1490,
-        "head": "LAUNCH: the Claw machine",
-        "detail": "first-minute touch-up"
+        "n": 1539,
+        "head": "LAUNCH: TOY FURY's island",
+        "detail": "clear the way to the portal (Zack, keyboard, 2026-11-26) fable"
+      },
+      {
+        "n": 1540,
+        "head": "LAUNCH: TOY FURY",
+        "detail": "the bugs and the clipping a racer hits"
+      },
+      {
+        "n": 1541,
+        "head": "LAUNCH: MULTIPLAYER",
+        "detail": "a fast ball or puck must never look laggy on a friend's screen (Zack, keyboard, 2026-11-26) fable"
       },
       {
         "n": 1501,
@@ -3594,19 +3603,6 @@
         "head": "Toy Fury sideways: title blurb over the wordmark, stacked race notices, cut-off garage name"
       },
       {
-        "n": 1532,
-        "head": "DodgeFall 3D phone first minute: teach lesson 4 waits for a rival who is not near, and sideways the last card covers the score"
-      },
-      {
-        "n": 1533,
-        "head": "DodgeFall 3D party: first to 8 with two friends may run long",
-        "detail": "measure a human pair before changing it"
-      },
-      {
-        "n": 1534,
-        "head": "DodgeFall 3D: a guest whose tab sits hidden over ~5 min flickers between bot and player on the host"
-      },
-      {
         "n": 1536,
         "head": "Ping pong: a PASSER-BY watching two friends play still sees both players stand off their bats"
       }
@@ -3714,5 +3710,5 @@
       "2026-11-26": 16
     }
   },
-  "changed": "2026-11-26T16:01:15.186Z"
+  "changed": "2026-11-26T16:11:43.270Z"
 }
