@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-26T21:10:00.000Z",
+  "updated": "2026-11-26T21:11:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Air hockey with a friend: a puck stuck in a near corner and the match never ended (row 1501)",
+          "status": "done",
+          "note": "Done 11-26 (row 1501), live. A mallet parked in a corner could push the puck through the wall, and the wall then kept flipping it back out, so it sat dead at speed 0. In the test, 3 friend matches of 7 hung that way.…"
+        },
         {
           "text": "Toy Fury's two islands: clear the walk from where you land to the door (row 1539)",
           "status": "done",
@@ -2989,12 +2994,6 @@
         "since": "2026-11-26 13:14"
       },
       {
-        "n": 1501,
-        "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends",
-        "lane": "arcade2",
-        "since": "2026-11-26 13:44"
-      },
-      {
         "n": 1515,
         "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
         "detail": "land the proven fix",
@@ -3792,6 +3791,11 @@
         "date": "2026-11-26"
       },
       {
+        "n": 1501,
+        "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1491,
         "head": "Logs/game-manager/multiplayer-readiness-2026-11.md; report builds/2026-11-26-0859-arcade.md; filed row 1535, moved 1501 and 1515 up)",
         "detail": "LAUNCH: the multiplayer readiness table",
@@ -3820,15 +3824,9 @@
         "head": "LAUNCH: Sideways (getaway cars)",
         "detail": "touch-up and multiplayer READY or NOT",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1482,
-        "head": "LAUNCH: Back Nine (space golf)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1076,
+    "shippedTotal": 1077,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3836,8 +3834,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 28
+      "2026-11-26": 29
     }
   },
-  "changed": "2026-11-26T20:14:21.854Z"
+  "changed": "2026-11-26T20:39:16.131Z"
 }
