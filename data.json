@@ -2917,6 +2917,13 @@
         "since": "2026-11-25 23:49"
       },
       {
+        "n": 1469,
+        "head": "LAUNCH: Eight-ball at the bar (BarPool)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade2",
+        "since": "2026-11-25 23:59"
+      },
+      {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
         "lane": "arcade",
@@ -2936,11 +2943,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1469,
-        "head": "LAUNCH: Eight-ball at the bar (BarPool)",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
       {
         "n": 1470,
         "head": "LAUNCH: the bar's air hockey table (HallHockey)",
@@ -3583,5 +3585,5 @@
       "2026-11-25": 1
     }
   },
-  "changed": "2026-11-26T05:59:13.806Z"
+  "changed": "2026-11-26T06:04:14.181Z"
 }
