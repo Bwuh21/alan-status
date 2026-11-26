@@ -2925,13 +2925,6 @@
   "stack": {
     "building": [
       {
-        "n": 1470,
-        "head": "LAUNCH: the bar's air hockey table (HallHockey)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade2",
-        "since": "2026-11-26 01:34"
-      },
-      {
         "n": 1471,
         "head": "LAUNCH: shuffleboard at the bar (HallFoos)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3507,6 +3500,14 @@
       {
         "n": 1500,
         "head": "Comet Clash teach-check: the phone half sometimes reads a card that is not there"
+      },
+      {
+        "n": 1501,
+        "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends"
+      },
+      {
+        "n": 1502,
+        "head": "AIR HOCKEY with a friend: after the match the far end cannot play the house its card offers, and the phone is told to press Space"
       }
     ],
     "waiting": [
@@ -3608,5 +3609,5 @@
       "2026-11-26": 5
     }
   },
-  "changed": "2026-11-26T09:54:14.086Z"
+  "changed": "2026-11-26T09:59:14.242Z"
 }
