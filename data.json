@@ -2961,6 +2961,13 @@
         "since": "2026-11-26 04:59"
       },
       {
+        "n": 1480,
+        "head": "LAUNCH: Head or Body (boxing)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade",
+        "since": "2026-11-26 05:32"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -2968,11 +2975,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1480,
-        "head": "LAUNCH: Head or Body (boxing)",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
       {
         "n": 1481,
         "head": "LAUNCH: Riposte (sword duel)",
@@ -3541,6 +3543,10 @@
       {
         "n": 1511,
         "head": "Hangtime: the team name is cut off on the scoreboard, and a party loss card says \"Run it back.\" over a BACK TO THE ARCADE button"
+      },
+      {
+        "n": 1512,
+        "head": "LaneDay's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
       }
     ],
     "waiting": [
@@ -3643,5 +3649,5 @@
       "2026-11-26": 7
     }
   },
-  "changed": "2026-11-26T11:25:09.708Z"
+  "changed": "2026-11-26T11:35:08.500Z"
 }
