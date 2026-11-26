@@ -2910,6 +2910,13 @@
   "stack": {
     "building": [
       {
+        "n": 1467,
+        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
+        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable",
+        "lane": "arcade2",
+        "since": "2026-11-25 23:49"
+      },
+      {
         "n": 1468,
         "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
         "detail": "this row only FILES the per-game rows",
@@ -2937,9 +2944,118 @@
     ],
     "next": [
       {
-        "n": 1467,
-        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
-        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable"
+        "n": 1469,
+        "head": "LAUNCH: Eight-ball at the bar (BarPool)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1470,
+        "head": "LAUNCH: the bar's air hockey table (HallHockey)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1471,
+        "head": "LAUNCH: shuffleboard at the bar (HallFoos)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1472,
+        "head": "LAUNCH: ping pong at the bar (HallPong)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1473,
+        "head": "LAUNCH: darts at the bar (BarDarts)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1474,
+        "head": "LAUNCH: bowling",
+        "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1475,
+        "head": "LAUNCH: Barn Burner (ice hockey)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1476,
+        "head": "LAUNCH: Comet Clash (dodgeball)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1477,
+        "head": "LAUNCH: Sky Spike (volleyball)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1478,
+        "head": "LAUNCH: Hangtime (streetball)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1479,
+        "head": "LAUNCH: Skin Kick (1v1 soccer)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1480,
+        "head": "LAUNCH: Head or Body (boxing)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1481,
+        "head": "LAUNCH: Riposte (sword duel)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1482,
+        "head": "LAUNCH: Back Nine (space golf)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1483,
+        "head": "LAUNCH: Sideways (getaway cars)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1484,
+        "head": "LAUNCH: DodgeFall 3D",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1485,
+        "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
+        "detail": "touch-up and multiplayer READY or NOT"
+      },
+      {
+        "n": 1486,
+        "head": "LAUNCH: Slab City (the skate park)",
+        "detail": "first-minute touch-up"
+      },
+      {
+        "n": 1487,
+        "head": "LAUNCH: Skee ball",
+        "detail": "first-minute touch-up"
+      },
+      {
+        "n": 1488,
+        "head": "LAUNCH: Hoops (the basketball machine)",
+        "detail": "first-minute touch-up"
+      },
+      {
+        "n": 1489,
+        "head": "LAUNCH: Pinball",
+        "detail": "first-minute touch-up"
+      },
+      {
+        "n": 1490,
+        "head": "LAUNCH: the Claw machine",
+        "detail": "first-minute touch-up"
+      },
+      {
+        "n": 1491,
+        "head": "LAUNCH: the multiplayer readiness table"
       },
       {
         "n": 1099,
@@ -3474,5 +3590,5 @@
       "2026-11-24": 43
     }
   },
-  "changed": "2026-11-26T05:49:14.791Z"
+  "changed": "2026-11-26T05:54:14.150Z"
 }
