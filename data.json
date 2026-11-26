@@ -2984,6 +2984,13 @@
         "since": "2026-11-26 12:29"
       },
       {
+        "n": 1551,
+        "head": "LAUNCH: CONNECT DISCORD",
+        "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable",
+        "lane": "arcade",
+        "since": "2026-11-26 13:14"
+      },
+      {
         "n": 1486,
         "head": "LAUNCH: Slab City (the skate park)",
         "detail": "first-minute touch-up",
@@ -2998,11 +3005,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1551,
-        "head": "LAUNCH: CONNECT DISCORD",
-        "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable"
-      },
       {
         "n": 1501,
         "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends"
@@ -3830,5 +3832,5 @@
       "2026-11-26": 26
     }
   },
-  "changed": "2026-11-26T19:14:13.813Z"
+  "changed": "2026-11-26T19:19:27.930Z"
 }
