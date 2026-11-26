@@ -2966,6 +2966,13 @@
         "since": "2026-11-26 06:54"
       },
       {
+        "n": 1485,
+        "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade",
+        "since": "2026-11-26 07:19"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -2973,11 +2980,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1485,
-        "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
       {
         "n": 1486,
         "head": "LAUNCH: Slab City (the skate park)",
@@ -3682,5 +3684,5 @@
       "2026-11-26": 10
     }
   },
-  "changed": "2026-11-26T13:19:13.942Z"
+  "changed": "2026-11-26T13:24:14.023Z"
 }
