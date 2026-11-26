@@ -2967,6 +2967,13 @@
         "since": "2026-11-26 11:09"
       },
       {
+        "n": 1539,
+        "head": "LAUNCH: TOY FURY's island",
+        "detail": "clear the way to the portal (Zack, keyboard, 2026-11-26) fable",
+        "lane": "arcade",
+        "since": "2026-11-26 11:29"
+      },
+      {
         "n": 1540,
         "head": "LAUNCH: TOY FURY",
         "detail": "the bugs and the clipping a racer hits",
@@ -2988,11 +2995,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1539,
-        "head": "LAUNCH: TOY FURY's island",
-        "detail": "clear the way to the portal (Zack, keyboard, 2026-11-26) fable"
-      },
       {
         "n": 1541,
         "head": "LAUNCH: MULTIPLAYER",
@@ -3811,5 +3813,5 @@
       "2026-11-26": 18
     }
   },
-  "changed": "2026-11-26T17:24:13.672Z"
+  "changed": "2026-11-26T17:34:17.494Z"
 }
