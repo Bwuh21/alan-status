@@ -3547,6 +3547,10 @@
       {
         "n": 1512,
         "head": "LaneDay's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
+      },
+      {
+        "n": 1513,
+        "head": "LiarsDice's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
       }
     ],
     "waiting": [
@@ -3649,5 +3653,5 @@
       "2026-11-26": 7
     }
   },
-  "changed": "2026-11-26T11:35:08.500Z"
+  "changed": "2026-11-26T11:39:14.113Z"
 }
