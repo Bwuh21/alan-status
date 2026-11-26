@@ -2910,13 +2910,6 @@
   "stack": {
     "building": [
       {
-        "n": 1467,
-        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
-        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable",
-        "lane": "arcade2",
-        "since": "2026-11-25 23:19"
-      },
-      {
         "n": 1468,
         "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
         "detail": "this row only FILES the per-game rows",
@@ -2943,6 +2936,11 @@
       }
     ],
     "next": [
+      {
+        "n": 1467,
+        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
+        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable"
+      },
       {
         "n": 1099,
         "head": "PING PONG with a friend: the far player's body stands at mid-end while their paddle roams up to a metre off it"
@@ -3476,5 +3474,5 @@
       "2026-11-24": 43
     }
   },
-  "changed": "2026-11-26T05:29:13.432Z"
+  "changed": "2026-11-26T05:49:14.791Z"
 }
