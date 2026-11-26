@@ -3001,6 +3001,13 @@
         "since": "2026-11-26 14:09"
       },
       {
+        "n": 1535,
+        "head": "LAUNCH: one rule for three bar tables",
+        "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)",
+        "lane": "arcade2",
+        "since": "2026-11-26 14:45"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3008,11 +3015,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1535,
-        "head": "LAUNCH: one rule for three bar tables",
-        "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)"
-      },
       {
         "n": 770,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) PARTY ISLAND FLOW",
@@ -3837,5 +3839,5 @@
       "2026-11-26": 29
     }
   },
-  "changed": "2026-11-26T20:39:16.131Z"
+  "changed": "2026-11-26T20:49:24.700Z"
 }
