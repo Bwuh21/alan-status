@@ -2957,10 +2957,10 @@
         "since": "2026-11-26 08:09"
       },
       {
-        "n": 1491,
-        "head": "LAUNCH: the multiplayer readiness table",
+        "n": 1099,
+        "head": "PING PONG with a friend: the far player's body stands at mid-end while their paddle roams up to a metre off it",
         "lane": "arcade",
-        "since": "2026-11-26 08:09"
+        "since": "2026-11-26 08:59"
       },
       {
         "n": 1290,
@@ -2991,8 +2991,18 @@
         "detail": "first-minute touch-up"
       },
       {
-        "n": 1099,
-        "head": "PING PONG with a friend: the far player's body stands at mid-end while their paddle roams up to a metre off it"
+        "n": 1501,
+        "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends"
+      },
+      {
+        "n": 1515,
+        "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
+        "detail": "land the proven fix"
+      },
+      {
+        "n": 1535,
+        "head": "LAUNCH: one rule for three bar tables",
+        "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)"
       },
       {
         "n": 1100,
@@ -3462,10 +3472,6 @@
         "head": "Comet Clash teach-check: the phone half sometimes reads a card that is not there"
       },
       {
-        "n": 1501,
-        "head": "AIR HOCKEY with a friend: a puck can wedge dead in a near corner and the match never ends"
-      },
-      {
         "n": 1502,
         "head": "AIR HOCKEY with a friend: after the match the far end cannot play the house its card offers, and the phone is told to press Space"
       },
@@ -3516,11 +3522,6 @@
       {
         "n": 1514,
         "head": "SecondWind's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
-      },
-      {
-        "n": 1515,
-        "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
-        "detail": "land the proven fix"
       },
       {
         "n": 1516,
@@ -3621,6 +3622,12 @@
     ],
     "shipped": [
       {
+        "n": 1491,
+        "head": "Logs/game-manager/multiplayer-readiness-2026-11.md; report builds/2026-11-26-0859-arcade.md; filed row 1535, moved 1501 and 1515 up)",
+        "detail": "LAUNCH: the multiplayer readiness table",
+        "date": "2026-11-26"
+      },
+      {
         "n": 1485,
         "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3685,15 +3692,9 @@
         "head": "LAUNCH: Barn Burner (ice hockey)",
         "detail": "touch-up and multiplayer READY or NOT",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1467,
-        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
-        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1062,
+    "shippedTotal": 1063,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3701,8 +3702,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 14
+      "2026-11-26": 15
     }
   },
-  "changed": "2026-11-26T14:59:14.428Z"
+  "changed": "2026-11-26T15:04:18.461Z"
 }
