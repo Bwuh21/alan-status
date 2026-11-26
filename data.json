@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:52:00.000Z",
+  "updated": "2026-11-26T14:05:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1470,6 +1470,11 @@
           "text": "\"A good solo round pays tickets\" -- par or better, more per stroke under",
           "status": "done",
           "note": "Live 2026-11-24. A solo round at par or better pays: 3 tickets at par on a three-hole course, 6 on the full nine, more per stroke under, topped up once per course a day and inside the 60-a-day ceiling. The title card,…"
+        },
+        {
+          "text": "Launch check: Back Nine with a friend, and a friend who leaves",
+          "status": "done",
+          "note": "LIVE 11-26. READY. Two screens, a desk and a phone, with the invite button really pressed: the friend opened the link, accepted, and you played all three holes together. Both screens showed the final card and the same…"
         }
       ]
     },
@@ -2945,20 +2950,6 @@
   "stack": {
     "building": [
       {
-        "n": 1482,
-        "head": "LAUNCH: Back Nine (space golf)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade2",
-        "since": "2026-11-26 05:54"
-      },
-      {
-        "n": 1483,
-        "head": "LAUNCH: Sideways (getaway cars)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 06:54"
-      },
-      {
         "n": 1484,
         "head": "LAUNCH: DodgeFall 3D",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3581,6 +3572,22 @@
       {
         "n": 1525,
         "head": "Riposte: no check covers the GUEST side of the 10 s silence rule, or a phone coming back from the background"
+      },
+      {
+        "n": 1526,
+        "head": "ARCADE: a phone put away for more than ~10 s during a party game loses its seat for good, and the game cannot take it back"
+      },
+      {
+        "n": 1527,
+        "head": "the portal's golf party check tests the retired turn-based golf and fails 6 of 6: rewrite it for party golf or retire it"
+      },
+      {
+        "n": 1528,
+        "head": "Back Nine on a sideways phone: the title card's bottom line is cut off, and the how-to card sits on top of the shot callout"
+      },
+      {
+        "n": 1529,
+        "head": "Sideways: a guest who joins but never sends a single packet leaves the host on WAITING"
       }
     ],
     "waiting": [
@@ -3602,6 +3609,18 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1483,
+        "head": "LAUNCH: Sideways (getaway cars)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
+      {
+        "n": 1482,
+        "head": "LAUNCH: Back Nine (space golf)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
       {
         "n": 1481,
         "head": "LAUNCH: Riposte (sword duel)",
@@ -3659,21 +3678,9 @@
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1468,
-        "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
-        "detail": "this row only FILES the per-game rows",
-        "date": "2026-11-25"
-      },
-      {
-        "n": 1421,
-        "head": "LAUNCH: table shuffleboard",
-        "detail": "\"it just looks bad and needs more work done on it\" fable",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1058,
+    "shippedTotal": 1060,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3681,8 +3688,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 10
+      "2026-11-26": 12
     }
   },
-  "changed": "2026-11-26T13:24:14.023Z"
+  "changed": "2026-11-26T14:04:14.060Z"
 }
