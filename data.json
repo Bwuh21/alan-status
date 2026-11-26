@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:20:00.000Z",
+  "updated": "2026-11-26T11:52:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1357,6 +1357,11 @@
           "text": "Soccer movement is choppy, does not look fluid (Zack, 2026-11-24)",
           "status": "done",
           "note": "Live 11-24. It was the camera, not the players: it sat still, then jumped to full speed in one frame. Now it eases in and out, and the push that keeps you clear of the thumb buttons on a phone ramps up instead of…"
+        },
+        {
+          "text": "Launch check: Skin Kick with a friend, and a friend who leaves",
+          "status": "done",
+          "note": "LIVE 11-26. READY with a friend: a full match finished with the same score on both screens. Two players without accounts used to both read PLAYER; now it is YOU and FRIEND. When a friend leaves, a bot takes their spot…"
         }
       ]
     },
@@ -2940,25 +2945,11 @@
   "stack": {
     "building": [
       {
-        "n": 1473,
-        "head": "LAUNCH: darts at the bar (BarDarts)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade2",
-        "since": "2026-11-26 04:50"
-      },
-      {
         "n": 1474,
         "head": "LAUNCH: bowling",
         "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT",
         "lane": "arcade2",
         "since": "2026-11-26 05:15"
-      },
-      {
-        "n": 1479,
-        "head": "LAUNCH: Skin Kick (1v1 soccer)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 04:59"
       },
       {
         "n": 1480,
@@ -3560,6 +3551,14 @@
         "n": 1515,
         "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
         "detail": "land the proven fix"
+      },
+      {
+        "n": 1516,
+        "head": "Skin Kick: after a friend leaves mid-match, the host's bot win counts toward the solo streak"
+      },
+      {
+        "n": 1517,
+        "head": "TopplePull's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
       }
     ],
     "waiting": [
@@ -3581,6 +3580,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1479,
+        "head": "LAUNCH: Skin Kick (1v1 soccer)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
       {
         "n": 1478,
         "head": "LAUNCH: Hangtime (streetball)",
@@ -3643,15 +3648,9 @@
         "n": 1418,
         "head": "LAUNCH BUG: one account signed in on two tabs can join the SAME lobby as two players",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1417,
-        "head": "LAUNCH: pool",
-        "detail": "you cannot SEE two friends playing pool against each other, and pool needs the join screen",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1055,
+    "shippedTotal": 1056,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3659,8 +3658,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 7
+      "2026-11-26": 8
     }
   },
-  "changed": "2026-11-26T11:44:16.146Z"
+  "changed": "2026-11-26T11:54:16.457Z"
 }
