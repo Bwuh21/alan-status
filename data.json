@@ -2924,12 +2924,6 @@
         "since": "2026-11-25 23:59"
       },
       {
-        "n": 1010,
-        "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
-        "lane": "arcade",
-        "since": "2026-11-25 23:19"
-      },
-      {
         "n": 1092,
         "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass",
         "lane": "arcade",
@@ -3485,6 +3479,10 @@
       {
         "n": 1460,
         "head": "Toy Fury road: zone-ride never touches the rumble band at s 39.68-43.78"
+      },
+      {
+        "n": 1492,
+        "head": "Skin Kick's edge knee (softPan) is a per-frame step, so the lens eases toward the wall faster on a 120 Hz screen than on 60 Hz"
       }
     ],
     "waiting": [
@@ -3506,6 +3504,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1010,
+        "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
+        "date": "2026-11-26"
+      },
       {
         "n": 1468,
         "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
@@ -3567,23 +3570,18 @@
         "n": 1297,
         "head": "StandStill's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "date": "2026-11-24"
-      },
-      {
-        "n": 1293,
-        "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
-        "date": "2026-11-24"
       }
     ],
-    "shippedTotal": 1048,
+    "shippedTotal": 1049,
     "shippedOn": {
-      "2026-11-19": 51,
       "2026-11-20": 45,
       "2026-11-21": 69,
       "2026-11-22": 62,
       "2026-11-23": 81,
       "2026-11-24": 43,
-      "2026-11-25": 1
+      "2026-11-25": 1,
+      "2026-11-26": 1
     }
   },
-  "changed": "2026-11-26T06:04:14.181Z"
+  "changed": "2026-11-26T06:14:28.896Z"
 }
