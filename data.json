@@ -3551,6 +3551,15 @@
       {
         "n": 1513,
         "head": "LiarsDice's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
+      },
+      {
+        "n": 1514,
+        "head": "SecondWind's own check.mjs went red (nightly instrument sweep, 2026-11-26)"
+      },
+      {
+        "n": 1515,
+        "head": "DARTS with a friend: when the friend leaves, the host is left throwing alone",
+        "detail": "land the proven fix"
       }
     ],
     "waiting": [
@@ -3653,5 +3662,5 @@
       "2026-11-26": 7
     }
   },
-  "changed": "2026-11-26T11:39:14.113Z"
+  "changed": "2026-11-26T11:44:16.146Z"
 }
