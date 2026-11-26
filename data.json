@@ -2924,6 +2924,13 @@
         "since": "2026-11-25 23:59"
       },
       {
+        "n": 1475,
+        "head": "LAUNCH: Barn Burner (ice hockey)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade",
+        "since": "2026-11-26 00:19"
+      },
+      {
         "n": 1092,
         "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass",
         "lane": "arcade",
@@ -2961,11 +2968,6 @@
         "n": 1474,
         "head": "LAUNCH: bowling",
         "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT"
-      },
-      {
-        "n": 1475,
-        "head": "LAUNCH: Barn Burner (ice hockey)",
-        "detail": "touch-up and multiplayer READY or NOT"
       },
       {
         "n": 1476,
@@ -3583,5 +3585,5 @@
       "2026-11-26": 1
     }
   },
-  "changed": "2026-11-26T06:14:28.896Z"
+  "changed": "2026-11-26T06:24:13.522Z"
 }
