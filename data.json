@@ -2959,6 +2959,20 @@
         "since": "2026-11-26 05:54"
       },
       {
+        "n": 1483,
+        "head": "LAUNCH: Sideways (getaway cars)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade",
+        "since": "2026-11-26 06:54"
+      },
+      {
+        "n": 1484,
+        "head": "LAUNCH: DodgeFall 3D",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade2",
+        "since": "2026-11-26 06:54"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -2966,16 +2980,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1483,
-        "head": "LAUNCH: Sideways (getaway cars)",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
-      {
-        "n": 1484,
-        "head": "LAUNCH: DodgeFall 3D",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
       {
         "n": 1485,
         "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
@@ -3673,5 +3677,5 @@
       "2026-11-26": 9
     }
   },
-  "changed": "2026-11-26T12:54:13.848Z"
+  "changed": "2026-11-26T12:59:21.941Z"
 }
