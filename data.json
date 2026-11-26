@@ -2917,6 +2917,13 @@
         "since": "2026-11-25 23:59"
       },
       {
+        "n": 1470,
+        "head": "LAUNCH: the bar's air hockey table (HallHockey)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade2",
+        "since": "2026-11-26 01:34"
+      },
+      {
         "n": 1475,
         "head": "LAUNCH: Barn Burner (ice hockey)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -2938,11 +2945,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1470,
-        "head": "LAUNCH: the bar's air hockey table (HallHockey)",
-        "detail": "touch-up and multiplayer READY or NOT"
-      },
       {
         "n": 1471,
         "head": "LAUNCH: shuffleboard at the bar (HallFoos)",
@@ -3579,5 +3581,5 @@
       "2026-11-26": 3
     }
   },
-  "changed": "2026-11-26T07:34:13.839Z"
+  "changed": "2026-11-26T07:41:13.554Z"
 }
