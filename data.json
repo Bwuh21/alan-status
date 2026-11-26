@@ -2910,10 +2910,17 @@
   "stack": {
     "building": [
       {
+        "n": 1467,
+        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
+        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable",
+        "lane": "arcade2",
+        "since": "2026-11-25 23:19"
+      },
+      {
         "n": 1010,
         "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
         "lane": "arcade",
-        "since": "2026-11-24 23:14"
+        "since": "2026-11-25 23:19"
       },
       {
         "n": 1290,
@@ -2923,11 +2930,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1467,
-        "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
-        "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable"
-      },
       {
         "n": 1468,
         "head": "LAUNCH: go through EVERY game, touch it up, and say whether its MULTIPLAYER is ready",
@@ -3470,5 +3472,5 @@
       "2026-11-24": 43
     }
   },
-  "changed": "2026-11-26T05:19:13.309Z"
+  "changed": "2026-11-26T05:24:13.407Z"
 }
