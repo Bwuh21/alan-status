@@ -2936,6 +2936,13 @@
         "since": "2026-11-26 01:10"
       },
       {
+        "n": 1477,
+        "head": "LAUNCH: Sky Spike (volleyball)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "lane": "arcade",
+        "since": "2026-11-26 03:13"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -2962,11 +2969,6 @@
         "n": 1474,
         "head": "LAUNCH: bowling",
         "detail": "Strike City's lanes (Lane1 to Lane4, one row for all four) -- touch-up and multiplayer READY or NOT"
-      },
-      {
-        "n": 1477,
-        "head": "LAUNCH: Sky Spike (volleyball)",
-        "detail": "touch-up and multiplayer READY or NOT"
       },
       {
         "n": 1478,
@@ -3596,5 +3598,5 @@
       "2026-11-26": 4
     }
   },
-  "changed": "2026-11-26T09:04:17.185Z"
+  "changed": "2026-11-26T09:14:24.467Z"
 }
