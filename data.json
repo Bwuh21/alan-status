@@ -2955,6 +2955,19 @@
   "stack": {
     "building": [
       {
+        "n": 1537,
+        "head": "LAUNCH: HAUNT, KITCHEN CLASH and GNOME WATCH come off the site",
+        "lane": "arcade",
+        "since": "2026-11-26 10:17"
+      },
+      {
+        "n": 1540,
+        "head": "LAUNCH: TOY FURY",
+        "detail": "the bugs and the clipping a racer hits",
+        "lane": "arcade2",
+        "since": "2026-11-26 10:17"
+      },
+      {
         "n": 1486,
         "head": "LAUNCH: Slab City (the skate park)",
         "detail": "first-minute touch-up",
@@ -2976,10 +2989,6 @@
     ],
     "next": [
       {
-        "n": 1537,
-        "head": "LAUNCH: HAUNT, KITCHEN CLASH and GNOME WATCH come off the site"
-      },
-      {
         "n": 1538,
         "head": "LAUNCH: THE CAMERA IN SMALL ROOMS",
         "detail": "put the camera between you and a wall and it \"bugs out crazy\" (Zack, keyboard, 2026-11-26) fable"
@@ -2990,11 +2999,6 @@
         "detail": "clear the way to the portal (Zack, keyboard, 2026-11-26) fable"
       },
       {
-        "n": 1540,
-        "head": "LAUNCH: TOY FURY",
-        "detail": "the bugs and the clipping a racer hits"
-      },
-      {
         "n": 1541,
         "head": "LAUNCH: MULTIPLAYER",
         "detail": "a fast ball or puck must never look laggy on a friend's screen (Zack, keyboard, 2026-11-26) fable"
@@ -3003,6 +3007,11 @@
         "n": 1542,
         "head": "LAUNCH: COMET CLASH with a friend",
         "detail": "a thrown ball is pushed ahead by a fixed 85 ms whatever the line is (Codex read, 2026-11-26)"
+      },
+      {
+        "n": 1543,
+        "head": "LAUNCH: TOY FURY",
+        "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable"
       },
       {
         "n": 1501,
@@ -3017,6 +3026,66 @@
         "n": 1535,
         "head": "LAUNCH: one rule for three bar tables",
         "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)"
+      },
+      {
+        "n": 770,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) PARTY ISLAND FLOW",
+        "detail": "it is RANDOM, the whole party goes in together, and you keep playing"
+      },
+      {
+        "n": 773,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) OUT OF THE SUN: d"
+      },
+      {
+        "n": 774,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) BROADSIDE BAY: ev"
+      },
+      {
+        "n": 776,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SHOVE OFF: the pa",
+        "detail": "he likes it"
+      },
+      {
+        "n": 777,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LAST HEX: the par"
+      },
+      {
+        "n": 779,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LIVE WIRE: you WA",
+        "detail": "hold it when it blows and you score; and a better map"
+      },
+      {
+        "n": 780,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SPLATFLAG becomes"
+      },
+      {
+        "n": 786,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) EVERY PARTY GAME "
+      },
+      {
+        "n": 850,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) Party island: han"
+      },
+      {
+        "n": 948,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) Live Wire: a simp"
+      },
+      {
+        "n": 962,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LastHex's own tut"
+      },
+      {
+        "n": 963,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LastCall: a first"
+      },
+      {
+        "n": 964,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LiveWire's two \"<"
+      },
+      {
+        "n": 966,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SecondWind has ze",
+        "detail": "every down in a blind run happened with no attacker, no flash, nothing readable"
       },
       {
         "n": 1101,
@@ -3601,6 +3670,35 @@
       {
         "n": 1536,
         "head": "Ping pong: a PASSER-BY watching two friends play still sees both players stand off their bats"
+      },
+      {
+        "n": 1544,
+        "head": "BARN BURNER: a full-charge shot from the slot may be the one answer",
+        "detail": "make the finish a real choice of corner (Codex sports review, 2026-11-26)"
+      },
+      {
+        "n": 1545,
+        "head": "COMET CLASH: a tied round on the clock is decided by hits from EARLIER rounds, and the catch is taught too late (Codex sports review, 2026-1"
+      },
+      {
+        "n": 1546,
+        "head": "BACK NINE: if a rival's planner fails the round can never go on, and the first swing does not teach itself (Codex sports review, 2026-11-26)"
+      },
+      {
+        "n": 1547,
+        "head": "SKY SPIKE: say why a spike missed, and make tip-versus-spike a choice you can feel (Codex sports review, 2026-11-26)"
+      },
+      {
+        "n": 1548,
+        "head": "HANGTIME: the defender never learns your favourite move (Codex sports review, 2026-11-26)"
+      },
+      {
+        "n": 1549,
+        "head": "SKIN KICK: the held kick is the game's best decision and nobody is told it exists (Codex sports review, 2026-11-26)"
+      },
+      {
+        "n": 1550,
+        "head": "HEAD OR BODY: teach block-then-counter first, and let a big punch be read (Codex sports review, 2026-11-26)"
       }
     ],
     "waiting": [
@@ -3706,5 +3804,5 @@
       "2026-11-26": 16
     }
   },
-  "changed": "2026-11-26T16:16:42.587Z"
+  "changed": "2026-11-26T16:28:38.840Z"
 }
