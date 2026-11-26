@@ -2950,20 +2950,6 @@
   "stack": {
     "building": [
       {
-        "n": 1484,
-        "head": "LAUNCH: DodgeFall 3D",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade2",
-        "since": "2026-11-26 06:54"
-      },
-      {
-        "n": 1485,
-        "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade",
-        "since": "2026-11-26 07:19"
-      },
-      {
         "n": 1486,
         "head": "LAUNCH: Slab City (the skate park)",
         "detail": "first-minute touch-up",
@@ -3592,6 +3578,27 @@
       {
         "n": 1529,
         "head": "Sideways: a guest who joins but never sends a single packet leaves the host on WAITING"
+      },
+      {
+        "n": 1530,
+        "head": "Arcade: an invited guest who has never played Toy Fury meets the forced solo tutorial before they can race their friend"
+      },
+      {
+        "n": 1531,
+        "head": "Toy Fury sideways: title blurb over the wordmark, stacked race notices, cut-off garage name"
+      },
+      {
+        "n": 1532,
+        "head": "DodgeFall 3D phone first minute: teach lesson 4 waits for a rival who is not near, and sideways the last card covers the score"
+      },
+      {
+        "n": 1533,
+        "head": "DodgeFall 3D party: first to 8 with two friends may run long",
+        "detail": "measure a human pair before changing it"
+      },
+      {
+        "n": 1534,
+        "head": "DodgeFall 3D: a guest whose tab sits hidden over ~5 min flickers between bot and player on the host"
       }
     ],
     "waiting": [
@@ -3613,6 +3620,18 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1485,
+        "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
+      {
+        "n": 1484,
+        "head": "LAUNCH: DodgeFall 3D",
+        "detail": "touch-up and multiplayer READY or NOT",
+        "date": "2026-11-26"
+      },
       {
         "n": 1483,
         "head": "LAUNCH: Sideways (getaway cars)",
@@ -3672,19 +3691,9 @@
         "head": "LAUNCH: PLAY WITH RANDOMS INSTEAD OF BOTS",
         "detail": "open rooms, and a seat that waits for a real player before a bot takes it fable",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1092,
-        "head": "PING PONG on a phone: the far ball is 9.6 px and your paddle at its sideways limit is partly off the glass",
-        "date": "2026-11-26"
-      },
-      {
-        "n": 1010,
-        "head": "CODEX REVIEWS NOTHING BECAUSE NOTHING RUNS IT: wire Tools/codex-review.mjs into a lane's ship path (the 2026-11-11 keep verdict has had no e",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1060,
+    "shippedTotal": 1062,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3692,8 +3701,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 12
+      "2026-11-26": 14
     }
   },
-  "changed": "2026-11-26T14:14:21.659Z"
+  "changed": "2026-11-26T14:59:14.428Z"
 }
