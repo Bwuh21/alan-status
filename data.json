@@ -2930,13 +2930,6 @@
   "stack": {
     "building": [
       {
-        "n": 1471,
-        "head": "LAUNCH: shuffleboard at the bar (HallFoos)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "lane": "arcade2",
-        "since": "2026-11-26 03:24"
-      },
-      {
         "n": 1472,
         "head": "LAUNCH: ping pong at the bar (HallPong)",
         "detail": "touch-up and multiplayer READY or NOT",
@@ -3630,5 +3623,5 @@
       "2026-11-26": 5
     }
   },
-  "changed": "2026-11-26T10:29:20.576Z"
+  "changed": "2026-11-26T10:34:14.167Z"
 }
