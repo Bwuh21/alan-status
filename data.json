@@ -3709,6 +3709,31 @@
       {
         "n": 1554,
         "head": "PING PONG with a friend: the two-page party check cannot finish its match on a loaded machine (6-4 after 410 s at 2-3 fps), so \"the match pl"
+      },
+      {
+        "n": 1555,
+        "head": "Toy Fury: rival cars poke 2-7 cm through the rail on Upstairs, the Grand Tour and Outside (left by arcade2 building row 1540, 2026-11-26)"
+      },
+      {
+        "n": 1556,
+        "head": "Toy Fury: the chase camera has no wall test, so it swings through poles and walls (Codex item, reproduced by arcade2 row 1540, 2026-11-26)"
+      },
+      {
+        "n": 1557,
+        "head": "Toy Fury: cars in a pack overlap each other by 2-3 cm, and two cars in the air pass through each other (left by arcade2 building row 1540, 2"
+      },
+      {
+        "n": 1558,
+        "head": "Toy Fury: the last car bodies through room parts",
+        "detail": "Party 26 frames, Outside 18, Upstairs 15 (left by arcade2 building row 1540, 2026-11-26)"
+      },
+      {
+        "n": 1559,
+        "head": "Toy Fury: a put-back after a fall checks only for gaps, never for a mover or a car (Codex item, true in code, not reproduced; arcade2 row 15"
+      },
+      {
+        "n": 1560,
+        "head": "Toy Fury: on a phone the Upstairs robot is a small grey shape you barely see 1 s before it hits you (seen by arcade2 row 1540, 2026-11-26)"
       }
     ],
     "waiting": [
@@ -3813,5 +3838,5 @@
       "2026-11-26": 18
     }
   },
-  "changed": "2026-11-26T17:34:17.494Z"
+  "changed": "2026-11-26T18:04:14.012Z"
 }
