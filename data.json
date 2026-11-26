@@ -2985,13 +2985,6 @@
   "stack": {
     "building": [
       {
-        "n": 1551,
-        "head": "LAUNCH: CONNECT DISCORD",
-        "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable",
-        "lane": "arcade",
-        "since": "2026-11-26 13:14"
-      },
-      {
         "n": 1535,
         "head": "LAUNCH: one rule for three bar tables",
         "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)",
@@ -3742,6 +3735,10 @@
       {
         "n": 1573,
         "head": "Multiplayer: a host slowed 20x still sends friends only 5 updates a second (left over from row 1177, 2026-11-26)"
+      },
+      {
+        "n": 1574,
+        "head": "The front-door check is broken: it pokes a coins readout the lobby no longer has, and dies before its signed-in half"
       }
     ],
     "waiting": [
@@ -3763,6 +3760,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1551,
+        "head": "LAUNCH: CONNECT DISCORD",
+        "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable",
+        "date": "2026-11-26"
+      },
       {
         "n": 1543,
         "head": "LAUNCH: TOY FURY",
@@ -3826,15 +3829,9 @@
         "head": "LAUNCH: Slab City (the skate park)",
         "detail": "first-minute touch-up",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1485,
-        "head": "LAUNCH: Toy Fury (racing, the Grand Tour track)",
-        "detail": "touch-up and multiplayer READY or NOT",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1081,
+    "shippedTotal": 1082,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3842,8 +3839,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 33
+      "2026-11-26": 34
     }
   },
-  "changed": "2026-11-26T21:40:50.682Z"
+  "changed": "2026-11-26T22:34:13.480Z"
 }
