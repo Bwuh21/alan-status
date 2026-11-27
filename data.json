@@ -3099,17 +3099,19 @@
         "since": "2026-11-27 00:59"
       },
       {
+        "n": 1163,
+        "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME",
+        "lane": "arcade",
+        "since": "2026-11-27 01:40"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
-        "since": "2026-11-24 23:09"
+        "since": "2026-11-27 01:40"
       }
     ],
     "next": [
-      {
-        "n": 1163,
-        "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME"
-      },
       {
         "n": 1166,
         "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags"
@@ -3928,5 +3930,5 @@
       "2026-11-27": 7
     }
   },
-  "changed": "2026-11-27T07:29:13.966Z"
+  "changed": "2026-11-27T07:44:20.368Z"
 }
