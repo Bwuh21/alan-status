@@ -3119,17 +3119,25 @@
         "since": "2026-11-27 12:10"
       },
       {
+        "n": 1213,
+        "head": "BAR POOL: does the red-pocket warning actually cut a stranger's scratches? Replay the stranger hand",
+        "lane": "arcade",
+        "since": "2026-11-27 12:50"
+      },
+      {
         "n": 1351,
         "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it",
         "lane": "arcade2",
         "since": "2026-11-27 09:21"
+      },
+      {
+        "n": 1352,
+        "head": "Topple Pull: when the tower falls, the loser cannot see which block did it",
+        "lane": "arcade2",
+        "since": "2026-11-27 12:50"
       }
     ],
     "next": [
-      {
-        "n": 1213,
-        "head": "BAR POOL: does the red-pocket warning actually cut a stranger's scratches? Replay the stranger hand"
-      },
       {
         "n": 1215,
         "head": "BAR AIR HOCKEY: a puck resting in the house's own corner is a dead table",
@@ -3240,10 +3248,6 @@
         "n": 1326,
         "head": "Skins: Orchid and Scout are plain robots with small accessories",
         "detail": "make the accessory the read, or retire them (left by arcade building row 649, 2026-11-22)"
-      },
-      {
-        "n": 1352,
-        "head": "Topple Pull: when the tower falls, the loser cannot see which block did it"
       },
       {
         "n": 1353,
@@ -3976,5 +3980,5 @@
       "2026-11-27": 26
     }
   },
-  "changed": "2026-11-27T18:49:13.339Z"
+  "changed": "2026-11-27T18:56:51.194Z"
 }
