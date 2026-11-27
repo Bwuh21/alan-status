@@ -3103,12 +3103,6 @@
   "stack": {
     "building": [
       {
-        "n": 1201,
-        "head": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row",
-        "lane": "arcade",
-        "since": "2026-11-27 09:55"
-      },
-      {
         "n": 1205,
         "head": "Skate: the \"KICKFLIP +200 · land it\" pop lands on top of the goal cards on a 390 phone",
         "lane": "arcade",
@@ -3941,6 +3935,12 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1201,
+        "head": "no site change rides with it, the row is the switch) arcade",
+        "detail": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1194,
         "head": "Ping pong: your own head can sit over a ball coming down your left side on desk",
         "date": "2026-11-27"
@@ -3960,14 +3960,9 @@
         "n": 1179,
         "head": "Multiplayer: move the backup relay off the work laptop onto the rented server",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1172,
-        "head": "Multiplayer: a game against the HOUSE at a party table never locks it",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1117,
+    "shippedTotal": 1118,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3975,8 +3970,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 21
+      "2026-11-27": 22
     }
   },
-  "changed": "2026-11-27T16:29:15.676Z"
+  "changed": "2026-11-27T16:54:14.225Z"
 }
