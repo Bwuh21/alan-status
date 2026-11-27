@@ -3113,12 +3113,6 @@
   "stack": {
     "building": [
       {
-        "n": 1212,
-        "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens",
-        "lane": "arcade",
-        "since": "2026-11-27 12:10"
-      },
-      {
         "n": 1213,
         "head": "BAR POOL: does the red-pocket warning actually cut a stranger's scratches? Replay the stranger hand",
         "lane": "arcade",
@@ -3948,6 +3942,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1212,
+        "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1209,
         "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame",
         "date": "2026-11-27"
@@ -3961,15 +3960,9 @@
         "n": 1205,
         "head": "Skate: the \"KICKFLIP +200 · land it\" pop lands on top of the goal cards on a 390 phone",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1201,
-        "head": "no site change rides with it, the row is the switch) arcade",
-        "detail": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1122,
+    "shippedTotal": 1123,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3977,8 +3970,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 26
+      "2026-11-27": 27
     }
   },
-  "changed": "2026-11-27T18:56:51.194Z"
+  "changed": "2026-11-27T19:34:13.976Z"
 }
