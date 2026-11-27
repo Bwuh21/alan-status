@@ -3000,12 +3000,6 @@
   "stack": {
     "building": [
       {
-        "n": 774,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) BROADSIDE BAY: ev",
-        "lane": "arcade",
-        "since": "2026-11-26 17:14"
-      },
-      {
         "n": 776,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SHOVE OFF: the pa",
         "detail": "he likes it",
@@ -3742,6 +3736,16 @@
       {
         "n": 1577,
         "head": "OUT OF THE SUN: one frame fault seen once in the party bell run, never caught again"
+      },
+      {
+        "n": 1578,
+        "head": "BROADSIDE BAY: half the quick rounds end on the clock with two ships afloat",
+        "detail": "close the bay in the last 30 seconds"
+      },
+      {
+        "n": 1579,
+        "head": "BROADSIDE BAY: the watching captain",
+        "detail": "a sunk player should see every sinking land and get a smooth cut when the leader changes"
       }
     ],
     "waiting": [
@@ -3833,7 +3837,7 @@
         "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1088,
+    "shippedTotal": 1089,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3841,8 +3845,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 40
+      "2026-11-26": 41
     }
   },
-  "changed": "2026-11-26T23:27:17.508Z"
+  "changed": "2026-11-27T00:04:14.227Z"
 }
