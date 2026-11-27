@@ -1299,6 +1299,11 @@
           "text": "Launch check: Shuffleboard at the bar with a friend, and a friend who leaves",
           "status": "done",
           "note": "11-26: READY with a friend. Two screens, a desk and a phone, with the invite really pressed: the friend opened the link, joined, both sat at the shuffleboard and readied up, and you played a whole match, 40 pucks to…"
+        },
+        {
+          "text": "On a phone, the sign-in message at the start covers the two far players' names",
+          "status": "done",
+          "note": "LIVE 11-27 (row 1311). While the how-to card is up on an upright phone, the rink now sits about 20 px lower, so the 'sign in for tickets' message that slides under the card no longer lands on the far players at the…"
         }
       ]
     },
@@ -3090,16 +3095,16 @@
         "since": "2026-11-27 00:50"
       },
       {
+        "n": 1132,
+        "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding",
+        "lane": "arcade",
+        "since": "2026-11-27 00:59"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
         "since": "2026-11-24 23:09"
-      },
-      {
-        "n": 1311,
-        "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags",
-        "lane": "arcade2",
-        "since": "2026-11-27 00:24"
       },
       {
         "n": 1318,
@@ -3109,10 +3114,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1132,
-        "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding"
-      },
       {
         "n": 1163,
         "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME"
@@ -3853,6 +3854,11 @@
     ],
     "shipped": [
       {
+        "n": 1311,
+        "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags",
+        "date": "2026-11-27"
+      },
+      {
         "n": 966,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SecondWind has ze",
         "detail": "every down in a blind run happened with no attacker, no flash, nothing readable",
@@ -3914,14 +3920,9 @@
         "head": "LAUNCH: THE CAMERA IN SMALL ROOMS",
         "detail": "put the camera between you and a wall and it \"bugs out crazy\" (Zack, keyboard, 2026-11-26) fable",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1537,
-        "head": "LAUNCH: HAUNT, KITCHEN CLASH and GNOME WATCH come off the site",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1100,
+    "shippedTotal": 1101,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3929,8 +3930,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 4
+      "2026-11-27": 5
     }
   },
-  "changed": "2026-11-27T06:59:13.738Z"
+  "changed": "2026-11-27T07:04:13.812Z"
 }
