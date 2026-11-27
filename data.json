@@ -3104,6 +3104,12 @@
         "since": "2026-11-27 01:40"
       },
       {
+        "n": 1166,
+        "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags",
+        "lane": "arcade",
+        "since": "2026-11-27 01:59"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3118,10 +3124,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1166,
-        "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags"
-      },
       {
         "n": 1171,
         "head": "Multiplayer: WATCH a live table",
@@ -3930,5 +3932,5 @@
       "2026-11-27": 8
     }
   },
-  "changed": "2026-11-27T07:59:16.983Z"
+  "changed": "2026-11-27T08:04:19.371Z"
 }
