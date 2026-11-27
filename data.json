@@ -3109,6 +3109,12 @@
         "since": "2026-11-27 09:24"
       },
       {
+        "n": 1201,
+        "head": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row",
+        "lane": "arcade",
+        "since": "2026-11-27 09:55"
+      },
+      {
         "n": 1350,
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
         "lane": "arcade2",
@@ -3122,10 +3128,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1201,
-        "head": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row"
-      },
       {
         "n": 1205,
         "head": "Skate: the \"KICKFLIP +200 · land it\" pop lands on top of the goal cards on a 390 phone"
@@ -3977,5 +3979,5 @@
       "2026-11-27": 20
     }
   },
-  "changed": "2026-11-27T15:54:15.146Z"
+  "changed": "2026-11-27T15:59:14.088Z"
 }
