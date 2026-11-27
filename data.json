@@ -3032,6 +3032,18 @@
   "stack": {
     "building": [
       {
+        "n": 780,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SPLATFLAG becomes",
+        "lane": "arcade",
+        "since": "2026-11-26 20:34"
+      },
+      {
+        "n": 948,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) Live Wire: a simp",
+        "lane": "arcade2",
+        "since": "2026-11-26 20:34"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3040,20 +3052,12 @@
     ],
     "next": [
       {
-        "n": 780,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SPLATFLAG becomes"
-      },
-      {
         "n": 786,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) EVERY PARTY GAME "
       },
       {
         "n": 850,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) Party island: han"
-      },
-      {
-        "n": 948,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) Live Wire: a simp"
       },
       {
         "n": 962,
@@ -3873,5 +3877,5 @@
       "2026-11-26": 44
     }
   },
-  "changed": "2026-11-27T00:54:14.346Z"
+  "changed": "2026-11-27T02:39:14.071Z"
 }
