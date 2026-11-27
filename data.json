@@ -3103,12 +3103,6 @@
   "stack": {
     "building": [
       {
-        "n": 1194,
-        "head": "Ping pong: your own head can sit over a ball coming down your left side on desk",
-        "lane": "arcade",
-        "since": "2026-11-27 09:24"
-      },
-      {
         "n": 1201,
         "head": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row",
         "lane": "arcade",
@@ -3882,6 +3876,10 @@
       {
         "n": 1617,
         "head": "Ping pong: the house never lifts its bat, so its hardest shot looks like its softest"
+      },
+      {
+        "n": 1618,
+        "head": "pong-see-check: \"the far half is 146 px (5%)\" reads 137 px on the tip without row 1194 too"
       }
     ],
     "waiting": [
@@ -3941,6 +3939,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1194,
+        "head": "Ping pong: your own head can sit over a ball coming down your left side on desk",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1191,
         "head": "Ping pong: the FAR bat still floats",
         "detail": "give the house a body and put a friend's bat in their figure's hand",
@@ -3960,15 +3963,9 @@
         "n": 1172,
         "head": "Multiplayer: a game against the HOUSE at a party table never locks it",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1171,
-        "head": "Multiplayer: WATCH a live table",
-        "detail": "the third player can only queue today, never spectate",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1116,
+    "shippedTotal": 1117,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3976,8 +3973,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 20
+      "2026-11-27": 21
     }
   },
-  "changed": "2026-11-27T15:59:14.088Z"
+  "changed": "2026-11-27T16:24:14.812Z"
 }
