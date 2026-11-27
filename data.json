@@ -3115,6 +3115,13 @@
         "detail": "read the room's settlement instead of the price (left by row 659, 2026-11-22)",
         "lane": "arcade2",
         "since": "2026-11-27 01:45"
+      },
+      {
+        "n": 1341,
+        "head": "Broadside Bay: from a frigate up, one perfect broadside still sinks a sloop",
+        "detail": "the \"one shot the farther along you get\" complaint, measured",
+        "lane": "arcade2",
+        "since": "2026-11-27 03:07"
       }
     ],
     "next": [
@@ -3278,11 +3285,6 @@
         "n": 1326,
         "head": "Skins: Orchid and Scout are plain robots with small accessories",
         "detail": "make the accessory the read, or retire them (left by arcade building row 649, 2026-11-22)"
-      },
-      {
-        "n": 1341,
-        "head": "Broadside Bay: from a frigate up, one perfect broadside still sinks a sloop",
-        "detail": "the \"one shot the farther along you get\" complaint, measured"
       },
       {
         "n": 1347,
@@ -3929,5 +3931,5 @@
       "2026-11-27": 9
     }
   },
-  "changed": "2026-11-27T08:53:13.867Z"
+  "changed": "2026-11-27T09:09:13.523Z"
 }
