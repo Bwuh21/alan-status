@@ -3848,6 +3848,14 @@
       {
         "n": 1601,
         "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-27)"
+      },
+      {
+        "n": 1602,
+        "head": "LiveWire's own check.mjs went red (nightly instrument sweep, 2026-11-27)"
+      },
+      {
+        "n": 1603,
+        "head": "Riposte's own check.mjs went red (nightly instrument sweep, 2026-11-27)"
       }
     ],
     "waiting": [
@@ -3945,5 +3953,5 @@
       "2026-11-27": 14
     }
   },
-  "changed": "2026-11-27T12:04:43.176Z"
+  "changed": "2026-11-27T12:18:10.492Z"
 }
