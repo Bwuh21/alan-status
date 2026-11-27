@@ -3866,6 +3866,10 @@
       {
         "n": 1622,
         "head": "Topple Pull: check.mjs's bot ladder never measures the mean bot's attack"
+      },
+      {
+        "n": 1623,
+        "head": "Bar air hockey: a puck resting in the house's own goal-mouth pocket can go in its own net when the house digs it out"
       }
     ],
     "waiting": [
@@ -3961,5 +3965,5 @@
       "2026-11-27": 30
     }
   },
-  "changed": "2026-11-27T20:39:14.437Z"
+  "changed": "2026-11-27T21:14:14.239Z"
 }
