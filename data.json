@@ -7,6 +7,11 @@
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
         {
+          "text": "Toy house: walking in through the front or garage door, the camera jumped in instead of gliding (row 1132)",
+          "status": "done",
+          "note": "Live 11-27. The camera now sees the doorway coming and slides in as you walk, instead of leaping forward the moment the door frame gets between it and you. Biggest jump at the doors is less than half what it was, on…"
+        },
+        {
           "text": "Air hockey with a friend took a coin and paid tickets at the bell (row 1101)",
           "status": "done",
           "note": "Live 11-27. A friend's air hockey match is now free, like pool, darts and ping pong: no coin at either end and nothing paid at the bell, so two people can't trade wins for tickets. Playing the house still costs a coin…"
@@ -3093,12 +3098,6 @@
   "stack": {
     "building": [
       {
-        "n": 1132,
-        "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding",
-        "lane": "arcade",
-        "since": "2026-11-27 00:59"
-      },
-      {
         "n": 1163,
         "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME",
         "lane": "arcade",
@@ -3864,6 +3863,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1132,
+        "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1101,
         "head": "(air hockey half live: a friend's match is free, vault 9e057fac, clone dace2cc5, deployment 8104268439 success; foosball half moot) (row 117",
         "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m",
@@ -3913,15 +3917,9 @@
         "head": "LAUNCH: MULTIPLAYER",
         "detail": "a fast ball or puck must never look laggy on a friend's screen (Zack, keyboard, 2026-11-26) fable",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1540,
-        "head": "LAUNCH: TOY FURY",
-        "detail": "the bugs and the clipping a racer hits",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1103,
+    "shippedTotal": 1104,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3929,8 +3927,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 7
+      "2026-11-27": 8
     }
   },
-  "changed": "2026-11-27T07:49:19.223Z"
+  "changed": "2026-11-27T07:59:16.983Z"
 }
