@@ -3833,6 +3833,10 @@
       {
         "n": 1592,
         "head": "Broadside Bay duel on a phone held sideways: the \"QUIT EARLY AND EVERY STAKE COMES BACK\" line runs under the how-to card"
+      },
+      {
+        "n": 1593,
+        "head": "the nightly instrument sweep files a slow box's TIMEOUT as a red game: rerun a TIMEOUT once, alone, before filing it"
       }
     ],
     "waiting": [
@@ -3932,5 +3936,5 @@
       "2026-11-27": 8
     }
   },
-  "changed": "2026-11-27T08:04:19.371Z"
+  "changed": "2026-11-27T08:29:50.062Z"
 }
