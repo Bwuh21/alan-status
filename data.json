@@ -3103,13 +3103,6 @@
   "stack": {
     "building": [
       {
-        "n": 1191,
-        "head": "Ping pong: the FAR bat still floats",
-        "detail": "give the house a body and put a friend's bat in their figure's hand",
-        "lane": "arcade",
-        "since": "2026-11-27 09:04"
-      },
-      {
         "n": 1194,
         "head": "Ping pong: your own head can sit over a ball coming down your left side on desk",
         "lane": "arcade",
@@ -3875,6 +3868,18 @@
       {
         "n": 1614,
         "head": "Topple Pull: on a slow phone the pull and settle frames run 100-180 ms"
+      },
+      {
+        "n": 1615,
+        "head": "Ping pong on a phone: at the far left and far right of your reach your own arm settles stretched (1.24 / 1.19 of its length, bar 1.12)"
+      },
+      {
+        "n": 1616,
+        "head": "pong-party-check: \"the pink end's prompt offers an end too\" is red on the live site"
+      },
+      {
+        "n": 1617,
+        "head": "Ping pong: the house never lifts its bat, so its hardest shot looks like its softest"
       }
     ],
     "waiting": [
@@ -3934,6 +3939,12 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1191,
+        "head": "Ping pong: the FAR bat still floats",
+        "detail": "give the house a body and put a friend's bat in their figure's hand",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable",
         "date": "2026-11-27"
@@ -3953,14 +3964,9 @@
         "head": "Multiplayer: WATCH a live table",
         "detail": "the third player can only queue today, never spectate",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1166,
-        "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1115,
+    "shippedTotal": 1116,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3968,8 +3974,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 19
+      "2026-11-27": 20
     }
   },
-  "changed": "2026-11-27T15:29:15.877Z"
+  "changed": "2026-11-27T15:54:15.146Z"
 }
