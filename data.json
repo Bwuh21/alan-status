@@ -3842,6 +3842,10 @@
       {
         "n": 1600,
         "head": "KitchenClash's own party-check.mjs went red (nightly instrument sweep, 2026-11-27)"
+      },
+      {
+        "n": 1601,
+        "head": "KnockOn's own check.mjs went red (nightly instrument sweep, 2026-11-27)"
       }
     ],
     "waiting": [
@@ -3939,5 +3943,5 @@
       "2026-11-27": 14
     }
   },
-  "changed": "2026-11-27T11:29:36.320Z"
+  "changed": "2026-11-27T11:40:39.395Z"
 }
