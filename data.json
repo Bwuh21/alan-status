@@ -3109,6 +3109,12 @@
         "since": "2026-11-27 07:10"
       },
       {
+        "n": 1184,
+        "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable",
+        "lane": "arcade",
+        "since": "2026-11-27 08:35"
+      },
+      {
         "n": 1348,
         "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s",
         "lane": "arcade2",
@@ -3122,10 +3128,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1184,
-        "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
-      },
       {
         "n": 1191,
         "head": "Ping pong: the FAR bat still floats",
@@ -3974,5 +3976,5 @@
       "2026-11-27": 16
     }
   },
-  "changed": "2026-11-27T14:34:14.300Z"
+  "changed": "2026-11-27T14:39:14.270Z"
 }
