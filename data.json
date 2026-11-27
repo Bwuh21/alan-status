@@ -3063,6 +3063,18 @@
   "stack": {
     "building": [
       {
+        "n": 850,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) Party island: han",
+        "lane": "arcade",
+        "since": "2026-11-26 23:59"
+      },
+      {
+        "n": 963,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LastCall: a first",
+        "lane": "arcade2",
+        "since": "2026-11-26 23:59"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3070,14 +3082,6 @@
       }
     ],
     "next": [
-      {
-        "n": 850,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) Party island: han"
-      },
-      {
-        "n": 963,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LastCall: a first"
-      },
       {
         "n": 964,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LiveWire's two \"<"
@@ -3904,5 +3908,5 @@
       "2026-11-26": 48
     }
   },
-  "changed": "2026-11-27T03:24:13.212Z"
+  "changed": "2026-11-27T06:04:13.588Z"
 }
