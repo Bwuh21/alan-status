@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T00:06:00.000Z",
+  "updated": "2026-11-27T00:15:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1152,6 +1152,11 @@
           "text": "Still choppy next to the lobby, and a friend's own body is the rawest thing on screen",
           "status": "done",
           "note": "Live 10-30. You were right, and it was not the frame rate. The lobby moves your character every time it draws a picture. This game worked out where everybody was sixty times a second and then drew them only at those…"
+        },
+        {
+          "text": "Party standard: one round, spectate when out (row 776)",
+          "status": "done",
+          "note": "Live 11-26. One round now: last one on the rock wins, then the results card. Rounds run about 20 seconds with two players and 40-55 with a full rock, well under your 2-minute ceiling. Knocked out, you watch the rest. No…"
         }
       ]
     },
@@ -3000,13 +3005,6 @@
   "stack": {
     "building": [
       {
-        "n": 776,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SHOVE OFF: the pa",
-        "detail": "he likes it",
-        "lane": "arcade2",
-        "since": "2026-11-26 17:14"
-      },
-      {
         "n": 777,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LAST HEX: the par",
         "lane": "arcade",
@@ -3837,7 +3835,7 @@
         "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1089,
+    "shippedTotal": 1090,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3845,8 +3843,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 41
+      "2026-11-26": 42
     }
   },
-  "changed": "2026-11-27T00:04:14.227Z"
+  "changed": "2026-11-27T00:14:13.886Z"
 }
