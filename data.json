@@ -3841,6 +3841,10 @@
       {
         "n": 1596,
         "head": "the room's solo-paid names no receipt, so a game cannot tell which round a slow settle belongs to"
+      },
+      {
+        "n": 1597,
+        "head": "bowling with 3 in a room: the phone friend standing by the alley bench never sees \"X is waiting at Lane 2 · Join\""
       }
     ],
     "waiting": [
@@ -3938,5 +3942,5 @@
       "2026-11-27": 11
     }
   },
-  "changed": "2026-11-27T09:39:13.577Z"
+  "changed": "2026-11-27T10:14:15.899Z"
 }
