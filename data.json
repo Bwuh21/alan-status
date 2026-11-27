@@ -3116,12 +3116,6 @@
         "since": "2026-11-27 04:59"
       },
       {
-        "n": 1347,
-        "head": "Toy Fury: on a phone the SLIPSTREAM meter is up by GO + 2 in some first races, 6 pieces on the glass against first-five's bar of 5",
-        "lane": "arcade2",
-        "since": "2026-11-27 03:38"
-      },
-      {
         "n": 1348,
         "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s",
         "lane": "arcade2",
@@ -3840,6 +3834,14 @@
       {
         "n": 1598,
         "head": "Broadside Bay's rating-check fails two input steps on and off: \"the wheel answers a drag\" and \"the arrows walk the gold patch out\""
+      },
+      {
+        "n": 1599,
+        "head": "KilnRush's own check.mjs went red (nightly instrument sweep, 2026-11-27)"
+      },
+      {
+        "n": 1600,
+        "head": "KitchenClash's own party-check.mjs went red (nightly instrument sweep, 2026-11-27)"
       }
     ],
     "waiting": [
@@ -3861,6 +3863,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1347,
+        "head": "Toy Fury: on a phone the SLIPSTREAM meter is up by GO + 2 in some first races, 6 pieces on the glass against first-five's bar of 5",
+        "date": "2026-11-27"
+      },
       {
         "n": 1341,
         "head": "Broadside Bay: from a frigate up, one perfect broadside still sinks a sloop",
@@ -3919,14 +3926,9 @@
         "n": 964,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LiveWire's two \"<",
         "date": "2026-11-27"
-      },
-      {
-        "n": 963,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LastCall: a first",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1109,
+    "shippedTotal": 1110,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3934,8 +3936,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 13
+      "2026-11-27": 14
     }
   },
-  "changed": "2026-11-27T11:04:15.524Z"
+  "changed": "2026-11-27T11:29:36.320Z"
 }
