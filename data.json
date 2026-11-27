@@ -3103,12 +3103,6 @@
   "stack": {
     "building": [
       {
-        "n": 1179,
-        "head": "Multiplayer: move the backup relay off the work laptop onto the rented server",
-        "lane": "arcade",
-        "since": "2026-11-27 07:10"
-      },
-      {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable",
         "lane": "arcade",
@@ -3879,6 +3873,10 @@
       {
         "n": 1611,
         "head": "Shuffleboard and ping pong solo-house legs in seat-lock-check"
+      },
+      {
+        "n": 1613,
+        "head": "Toy Fury's first-five-check goes red on luck twice: a no-items race makes \"?\" read \"1 of 4\", and once the ITEM button was missing from the c"
       }
     ],
     "waiting": [
@@ -3933,6 +3931,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1179,
+        "head": "Multiplayer: move the backup relay off the work laptop onto the rented server",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1172,
         "head": "Multiplayer: a game against the HOUSE at a party table never locks it",
         "date": "2026-11-27"
@@ -3957,15 +3960,9 @@
         "n": 1132,
         "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1101,
-        "head": "(air hockey half live: a friend's match is free, vault 9e057fac, clone dace2cc5, deployment 8104268439 success; foosball half moot) (row 117",
-        "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1112,
+    "shippedTotal": 1113,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3973,8 +3970,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 16
+      "2026-11-27": 17
     }
   },
-  "changed": "2026-11-27T14:39:14.270Z"
+  "changed": "2026-11-27T15:04:14.195Z"
 }
