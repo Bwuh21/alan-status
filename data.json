@@ -3109,11 +3109,11 @@
         "since": "2026-11-27 01:59"
       },
       {
-        "n": 1333,
-        "head": "Corner Pocket: the end card says \"2 TICKETS\" and the round paid 3",
-        "detail": "read the room's settlement instead of the price (left by row 659, 2026-11-22)",
-        "lane": "arcade2",
-        "since": "2026-11-27 01:45"
+        "n": 1171,
+        "head": "Multiplayer: WATCH a live table",
+        "detail": "the third player can only queue today, never spectate",
+        "lane": "arcade",
+        "since": "2026-11-27 03:19"
       },
       {
         "n": 1341,
@@ -3124,11 +3124,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1171,
-        "head": "Multiplayer: WATCH a live table",
-        "detail": "the third player can only queue today, never spectate"
-      },
       {
         "n": 1172,
         "head": "Multiplayer: a game against the HOUSE at a party table never locks it"
@@ -3840,6 +3835,10 @@
       {
         "n": 1595,
         "head": "pool-rack-check never presses ready: \"one friend match starts\" fails since the friends' join screen"
+      },
+      {
+        "n": 1596,
+        "head": "the room's solo-paid names no receipt, so a game cannot tell which round a slow settle belongs to"
       }
     ],
     "waiting": [
@@ -3861,6 +3860,12 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1333,
+        "head": "Corner Pocket: the end card says \"2 TICKETS\" and the round paid 3",
+        "detail": "read the room's settlement instead of the price (left by row 659, 2026-11-22)",
+        "date": "2026-11-27"
+      },
       {
         "n": 1318,
         "head": "Broadside Bay: the two-player duel title has never been looked at on a phone held sideways",
@@ -3918,15 +3923,9 @@
         "head": "LAUNCH: CONNECT DISCORD",
         "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1543,
-        "head": "LAUNCH: TOY FURY",
-        "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1106,
+    "shippedTotal": 1107,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3934,8 +3933,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 10
+      "2026-11-27": 11
     }
   },
-  "changed": "2026-11-27T09:19:14.325Z"
+  "changed": "2026-11-27T09:24:13.466Z"
 }
