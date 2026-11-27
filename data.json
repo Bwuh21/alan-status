@@ -3114,6 +3114,12 @@
         "since": "2026-11-27 11:19"
       },
       {
+        "n": 1212,
+        "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens",
+        "lane": "arcade",
+        "since": "2026-11-27 12:10"
+      },
+      {
         "n": 1350,
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
         "lane": "arcade2",
@@ -3127,10 +3133,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1212,
-        "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens"
-      },
       {
         "n": 1213,
         "head": "BAR POOL: does the red-pocket warning actually cut a stranger's scratches? Replay the stranger hand"
@@ -3970,5 +3972,5 @@
       "2026-11-27": 24
     }
   },
-  "changed": "2026-11-27T18:09:14.383Z"
+  "changed": "2026-11-27T18:14:13.664Z"
 }
