@@ -3103,12 +3103,6 @@
   "stack": {
     "building": [
       {
-        "n": 1172,
-        "head": "Multiplayer: a game against the HOUSE at a party table never locks it",
-        "lane": "arcade",
-        "since": "2026-11-27 04:59"
-      },
-      {
         "n": 1179,
         "head": "Multiplayer: move the backup relay off the work laptop onto the rented server",
         "lane": "arcade",
@@ -3871,6 +3865,18 @@
       {
         "n": 1608,
         "head": "The watcher's figure stays standing at the rail and can block the players' view"
+      },
+      {
+        "n": 1609,
+        "head": "A player re-holding a table after a friend leaves can lose it to the line"
+      },
+      {
+        "n": 1610,
+        "head": "A false \"friend left\" after a 10 s network stall cannot re-hold the seat"
+      },
+      {
+        "n": 1611,
+        "head": "Shuffleboard and ping pong solo-house legs in seat-lock-check"
       }
     ],
     "waiting": [
@@ -3925,6 +3931,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1172,
+        "head": "Multiplayer: a game against the HOUSE at a party table never locks it",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1171,
         "head": "Multiplayer: WATCH a live table",
         "detail": "the third player can only queue today, never spectate",
@@ -3950,15 +3961,9 @@
         "head": "(air hockey half live: a friend's match is free, vault 9e057fac, clone dace2cc5, deployment 8104268439 success; foosball half moot) (row 117",
         "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m",
         "date": "2026-11-27"
-      },
-      {
-        "n": 966,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SecondWind has ze",
-        "detail": "every down in a blind run happened with no attacker, no flash, nothing readable",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1111,
+    "shippedTotal": 1112,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3966,8 +3971,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 15
+      "2026-11-27": 16
     }
   },
-  "changed": "2026-11-27T13:14:13.782Z"
+  "changed": "2026-11-27T14:34:14.300Z"
 }
