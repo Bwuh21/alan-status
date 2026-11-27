@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T00:45:00.000Z",
+  "updated": "2026-11-27T00:51:50.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
@@ -1168,6 +1168,22 @@
           "text": "Party standard: one round, spectate when out (row 777)",
           "status": "done",
           "note": "Live 11-26. Falling out no longer ends a party round for you: you watch whoever is still standing. You also get a ghost crack: tap any tile to crack it under them, once every 6 seconds. A whole round runs about 75…"
+        }
+      ]
+    },
+    {
+      "title": "Live Wire",
+      "status": "active",
+      "subtasks": [
+        {
+          "text": "You WANT the bomb: hold it when it blows to score, first to 3 (row 779)",
+          "status": "done",
+          "note": "Live 11-26. Turned around as you asked. Whoever holds the bomb when it blows gets a point, and everyone else is trying to take it off you. First to 3 wins, or most points at 2 minutes. The start card says HOLD THE BOMB…"
+        },
+        {
+          "text": "A better map: cover, cut-off routes, something to look at (row 779)",
+          "status": "active",
+          "note": "Built and live as a PREVIEW only, at bwuhgames.com/games/LiveWire/?map=new. The normal floor has not changed. The new map is a power substation: four bunker walls to hide behind and cut people off, three cable drums,…"
         }
       ]
     },
@@ -3016,13 +3032,6 @@
   "stack": {
     "building": [
       {
-        "n": 779,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LIVE WIRE: you WA",
-        "detail": "hold it when it blows and you score; and a better map",
-        "lane": "arcade2",
-        "since": "2026-11-26 17:19"
-      },
-      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3754,6 +3763,14 @@
         "n": 1580,
         "head": "LAST HEX: the ghost crack's loose ends",
         "detail": "a refused tap gives no answer, and no party test drives a guest whose own fall the host overrules"
+      },
+      {
+        "n": 1581,
+        "head": "LIVE WIRE loose ends after the want-the-bomb flip"
+      },
+      {
+        "n": 1582,
+        "head": "arcade: the Live Wire party blurb still describes the OLD rule"
       }
     ],
     "waiting": [
@@ -3845,7 +3862,7 @@
         "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1091,
+    "shippedTotal": 1092,
     "shippedOn": {
       "2026-11-20": 45,
       "2026-11-21": 69,
@@ -3853,8 +3870,8 @@
       "2026-11-23": 81,
       "2026-11-24": 43,
       "2026-11-25": 1,
-      "2026-11-26": 43
+      "2026-11-26": 44
     }
   },
-  "changed": "2026-11-27T00:29:13.911Z"
+  "changed": "2026-11-27T00:54:14.346Z"
 }
