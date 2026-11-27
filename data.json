@@ -3091,6 +3091,12 @@
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
         "since": "2026-11-24 23:09"
+      },
+      {
+        "n": 1311,
+        "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags",
+        "lane": "arcade2",
+        "since": "2026-11-27 00:24"
       }
     ],
     "next": [
@@ -3253,10 +3259,6 @@
       {
         "n": 1308,
         "head": "Team picker: a team change made twice inside one round trip can bounce once"
-      },
-      {
-        "n": 1311,
-        "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags"
       },
       {
         "n": 1318,
@@ -3919,5 +3921,5 @@
       "2026-11-27": 1
     }
   },
-  "changed": "2026-11-27T06:24:13.692Z"
+  "changed": "2026-11-27T06:29:13.652Z"
 }
