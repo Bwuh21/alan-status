@@ -3111,15 +3111,7 @@
     }
   ],
   "stack": {
-    "building": [
-      {
-        "n": 1215,
-        "head": "BAR AIR HOCKEY: a puck resting in the house's own corner is a dead table",
-        "detail": "the house parks against it forever",
-        "lane": "arcade",
-        "since": "2026-11-27 13:35"
-      }
-    ],
+    "building": [],
     "next": [
       {
         "n": 1216,
@@ -3944,17 +3936,18 @@
         "date": "2026-11-27"
       },
       {
-        "n": 1213,
-        "head": "BAR POOL: does the red-pocket warning actually cut a stranger's scratches? Replay the stranger hand",
+        "n": 1215,
+        "head": "BAR AIR HOCKEY: a puck resting in the house's own corner is a dead table",
+        "detail": "the house parks against it forever",
         "date": "2026-11-27"
       },
       {
-        "n": 1212,
-        "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens",
+        "n": 1213,
+        "head": "BAR POOL: does the red-pocket warning actually cut a stranger's scratches? Replay the stranger hand",
         "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1126,
+    "shippedTotal": 1127,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3962,8 +3955,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 30
+      "2026-11-27": 31
     }
   },
-  "changed": "2026-11-27T21:14:14.239Z"
+  "changed": "2026-11-27T21:19:14.242Z"
 }
