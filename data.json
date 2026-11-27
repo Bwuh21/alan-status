@@ -3116,12 +3116,6 @@
         "since": "2026-11-27 09:04"
       },
       {
-        "n": 1348,
-        "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s",
-        "lane": "arcade2",
-        "since": "2026-11-27 04:55"
-      },
-      {
         "n": 1350,
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
         "lane": "arcade2",
@@ -3879,6 +3873,10 @@
       {
         "n": 1613,
         "head": "Toy Fury's first-five-check goes red on luck twice: a no-items race makes \"?\" read \"1 of 4\", and once the ITEM button was missing from the c"
+      },
+      {
+        "n": 1614,
+        "head": "Topple Pull: on a slow phone the pull and settle frames run 100-180 ms"
       }
     ],
     "waiting": [
@@ -3900,6 +3898,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1348,
+        "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s",
+        "date": "2026-11-27"
+      },
       {
         "n": 1347,
         "head": "Toy Fury: on a phone the SLIPSTREAM meter is up by GO + 2 in some first races, 6 pieces on the glass against first-five's bar of 5",
@@ -3957,14 +3960,9 @@
         "n": 1163,
         "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1132,
-        "head": "Toy house: walking in through the front or garage door, the camera jumps in rather than gliding",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1113,
+    "shippedTotal": 1114,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3972,8 +3970,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 17
+      "2026-11-27": 18
     }
   },
-  "changed": "2026-11-27T15:09:15.057Z"
+  "changed": "2026-11-27T15:14:14.380Z"
 }
