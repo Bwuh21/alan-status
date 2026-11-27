@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-27T18:40:00.000Z",
+  "updated": "2026-11-27T18:44:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Skate: dropping onto a rail snapped the board down in one frame (row 1209)",
+          "status": "done",
+          "note": "Live 11-27. Falling onto a rail from above, the board used to grab it from as much as 30 cm up and jump straight down onto it. Now it only catches once the wheels are within 10 cm of the rail, so you visibly land on it.…"
+        },
         {
           "text": "Skate on a phone: the rider's own boots hid the board while it flipped (row 1206)",
           "status": "done",
@@ -3108,12 +3113,6 @@
   "stack": {
     "building": [
       {
-        "n": 1209,
-        "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame",
-        "lane": "arcade",
-        "since": "2026-11-27 11:19"
-      },
-      {
         "n": 1212,
         "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens",
         "lane": "arcade",
@@ -3873,6 +3872,14 @@
       {
         "n": 1619,
         "head": "Topple Pull: the rollout picks which end to pull from the camera at think time, the real turn at the tap"
+      },
+      {
+        "n": 1620,
+        "head": "skate-fuzz --plant=1 reads \"planted 8, caught 6: PLANT MISSED\" on HEAD too"
+      },
+      {
+        "n": 1621,
+        "head": "Skate: catching a rail from BELOW still lifts the true height up to ~0.3 m in one step"
       }
     ],
     "waiting": [
@@ -3937,6 +3944,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1209,
+        "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1206,
         "head": "Skate: on a phone the rider's own body hides the board while it flips",
         "date": "2026-11-27"
@@ -3951,14 +3963,9 @@
         "head": "no site change rides with it, the row is the switch) arcade",
         "detail": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1194,
-        "head": "Ping pong: your own head can sit over a ball coming down your left side on desk",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1121,
+    "shippedTotal": 1122,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3966,8 +3973,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 25
+      "2026-11-27": 26
     }
   },
-  "changed": "2026-11-27T18:44:15.079Z"
+  "changed": "2026-11-27T18:49:13.339Z"
 }
