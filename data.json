@@ -3110,6 +3110,12 @@
         "since": "2026-11-27 09:04"
       },
       {
+        "n": 1194,
+        "head": "Ping pong: your own head can sit over a ball coming down your left side on desk",
+        "lane": "arcade",
+        "since": "2026-11-27 09:24"
+      },
+      {
         "n": 1350,
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
         "lane": "arcade2",
@@ -3123,10 +3129,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1194,
-        "head": "Ping pong: your own head can sit over a ball coming down your left side on desk"
-      },
       {
         "n": 1201,
         "head": "Bar shuffleboard is FREE: the new table took foosball's spot and never got a price row"
@@ -3969,5 +3971,5 @@
       "2026-11-27": 19
     }
   },
-  "changed": "2026-11-27T15:24:14.984Z"
+  "changed": "2026-11-27T15:29:15.877Z"
 }
