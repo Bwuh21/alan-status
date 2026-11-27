@@ -3103,12 +3103,6 @@
   "stack": {
     "building": [
       {
-        "n": 1184,
-        "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable",
-        "lane": "arcade",
-        "since": "2026-11-27 08:35"
-      },
-      {
         "n": 1191,
         "head": "Ping pong: the FAR bat still floats",
         "detail": "give the house a body and put a friend's bat in their figure's hand",
@@ -3120,6 +3114,12 @@
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
         "lane": "arcade2",
         "since": "2026-11-27 05:57"
+      },
+      {
+        "n": 1351,
+        "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it",
+        "lane": "arcade2",
+        "since": "2026-11-27 09:21"
       }
     ],
     "next": [
@@ -3261,10 +3261,6 @@
         "n": 1326,
         "head": "Skins: Orchid and Scout are plain robots with small accessories",
         "detail": "make the accessory the read, or retire them (left by arcade building row 649, 2026-11-22)"
-      },
-      {
-        "n": 1351,
-        "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it"
       },
       {
         "n": 1352,
@@ -3936,6 +3932,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1184,
+        "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1179,
         "head": "Multiplayer: move the backup relay off the work laptop onto the rented server",
         "date": "2026-11-27"
@@ -3955,14 +3956,9 @@
         "n": 1166,
         "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1163,
-        "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1114,
+    "shippedTotal": 1115,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3970,8 +3966,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 18
+      "2026-11-27": 19
     }
   },
-  "changed": "2026-11-27T15:14:14.380Z"
+  "changed": "2026-11-27T15:24:14.984Z"
 }
