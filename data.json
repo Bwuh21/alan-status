@@ -3105,12 +3105,6 @@
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
         "since": "2026-11-24 23:09"
-      },
-      {
-        "n": 1318,
-        "head": "Broadside Bay: the two-player duel title has never been looked at on a phone held sideways",
-        "lane": "arcade2",
-        "since": "2026-11-27 00:50"
       }
     ],
     "next": [
@@ -3832,6 +3826,10 @@
       {
         "n": 1591,
         "head": "SecondWind's party check fails one step: \"both friends down ends the round, and a new one starts with everyone up\""
+      },
+      {
+        "n": 1592,
+        "head": "Broadside Bay duel on a phone held sideways: the \"QUIT EARLY AND EVERY STAKE COMES BACK\" line runs under the how-to card"
       }
     ],
     "waiting": [
@@ -3853,6 +3851,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1318,
+        "head": "Broadside Bay: the two-player duel title has never been looked at on a phone held sideways",
+        "date": "2026-11-27"
+      },
       {
         "n": 1311,
         "head": "IceHockey: on a phone the room's sign-in toast, stepping down past the how-to card, lands on the far skaters' name tags",
@@ -3914,15 +3917,9 @@
         "head": "LAUNCH: TOY FURY's island",
         "detail": "clear the way to the portal (Zack, keyboard, 2026-11-26) fable",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1538,
-        "head": "LAUNCH: THE CAMERA IN SMALL ROOMS",
-        "detail": "put the camera between you and a wall and it \"bugs out crazy\" (Zack, keyboard, 2026-11-26) fable",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1101,
+    "shippedTotal": 1102,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3930,8 +3927,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 5
+      "2026-11-27": 6
     }
   },
-  "changed": "2026-11-27T07:04:13.812Z"
+  "changed": "2026-11-27T07:24:14.063Z"
 }
