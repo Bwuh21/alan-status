@@ -3126,12 +3126,6 @@
         "since": "2026-11-27 13:35"
       },
       {
-        "n": 1351,
-        "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it",
-        "lane": "arcade2",
-        "since": "2026-11-27 09:21"
-      },
-      {
         "n": 1352,
         "head": "Topple Pull: when the tower falls, the loser cannot see which block did it",
         "lane": "arcade2",
@@ -3880,6 +3874,10 @@
       {
         "n": 1621,
         "head": "Skate: catching a rail from BELOW still lifts the true height up to ~0.3 m in one step"
+      },
+      {
+        "n": 1622,
+        "head": "Topple Pull: check.mjs's bot ladder never measures the mean bot's attack"
       }
     ],
     "waiting": [
@@ -3901,6 +3899,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1351,
+        "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it",
+        "date": "2026-11-27"
+      },
       {
         "n": 1350,
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
@@ -3957,14 +3960,9 @@
         "n": 1206,
         "head": "Skate: on a phone the rider's own body hides the board while it flips",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1205,
-        "head": "Skate: the \"KICKFLIP +200 · land it\" pop lands on top of the goal cards on a 390 phone",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1123,
+    "shippedTotal": 1124,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3972,8 +3970,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 27
+      "2026-11-27": 28
     }
   },
-  "changed": "2026-11-27T19:39:17.750Z"
+  "changed": "2026-11-27T20:19:13.980Z"
 }
