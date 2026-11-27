@@ -3109,6 +3109,12 @@
         "since": "2026-11-27 04:59"
       },
       {
+        "n": 1179,
+        "head": "Multiplayer: move the backup relay off the work laptop onto the rented server",
+        "lane": "arcade",
+        "since": "2026-11-27 07:10"
+      },
+      {
         "n": 1348,
         "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s",
         "lane": "arcade2",
@@ -3122,10 +3128,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1179,
-        "head": "Multiplayer: move the backup relay off the work laptop onto the rented server"
-      },
       {
         "n": 1184,
         "head": "Arcade room: the old \"sit anyway\" card code for optional-lesson tables is now unreachable"
@@ -3967,5 +3969,5 @@
       "2026-11-27": 15
     }
   },
-  "changed": "2026-11-27T13:04:13.615Z"
+  "changed": "2026-11-27T13:14:13.782Z"
 }
