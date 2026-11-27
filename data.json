@@ -3103,12 +3103,6 @@
   "stack": {
     "building": [
       {
-        "n": 1166,
-        "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags",
-        "lane": "arcade",
-        "since": "2026-11-27 01:59"
-      },
-      {
         "n": 1171,
         "head": "Multiplayer: WATCH a live table",
         "detail": "the third player can only queue today, never spectate",
@@ -3888,6 +3882,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 1166,
+        "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1163,
         "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME",
         "date": "2026-11-27"
@@ -3923,15 +3922,9 @@
         "n": 850,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) Party island: han",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1551,
-        "head": "LAUNCH: CONNECT DISCORD",
-        "detail": "join our Discord, get a free case spin and a Discord name tag (Zack, keyboard, 2026-11-26: \"yes build the connect discord free spin\") fable",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1107,
+    "shippedTotal": 1108,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3939,8 +3932,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 11
+      "2026-11-27": 12
     }
   },
-  "changed": "2026-11-27T10:14:15.899Z"
+  "changed": "2026-11-27T10:44:15.084Z"
 }
