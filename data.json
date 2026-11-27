@@ -3119,6 +3119,13 @@
         "since": "2026-11-27 12:50"
       },
       {
+        "n": 1215,
+        "head": "BAR AIR HOCKEY: a puck resting in the house's own corner is a dead table",
+        "detail": "the house parks against it forever",
+        "lane": "arcade",
+        "since": "2026-11-27 13:35"
+      },
+      {
         "n": 1351,
         "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it",
         "lane": "arcade2",
@@ -3132,11 +3139,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1215,
-        "head": "BAR AIR HOCKEY: a puck resting in the house's own corner is a dead table",
-        "detail": "the house parks against it forever"
-      },
       {
         "n": 1216,
         "head": "BAR AIR HOCKEY with a friend: the far end's table never heats up",
@@ -3973,5 +3975,5 @@
       "2026-11-27": 27
     }
   },
-  "changed": "2026-11-27T19:34:13.976Z"
+  "changed": "2026-11-27T19:39:17.750Z"
 }
