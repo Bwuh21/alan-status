@@ -3109,6 +3109,12 @@
         "since": "2026-11-27 09:55"
       },
       {
+        "n": 1205,
+        "head": "Skate: the \"KICKFLIP +200 · land it\" pop lands on top of the goal cards on a 390 phone",
+        "lane": "arcade",
+        "since": "2026-11-27 10:24"
+      },
+      {
         "n": 1350,
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
         "lane": "arcade2",
@@ -3122,10 +3128,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1205,
-        "head": "Skate: the \"KICKFLIP +200 · land it\" pop lands on top of the goal cards on a 390 phone"
-      },
       {
         "n": 1206,
         "head": "Skate: on a phone the rider's own body hides the board while it flips"
@@ -3976,5 +3978,5 @@
       "2026-11-27": 21
     }
   },
-  "changed": "2026-11-27T16:24:14.812Z"
+  "changed": "2026-11-27T16:29:15.676Z"
 }
