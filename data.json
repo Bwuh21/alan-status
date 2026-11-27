@@ -3109,6 +3109,12 @@
         "since": "2026-11-27 10:55"
       },
       {
+        "n": 1209,
+        "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame",
+        "lane": "arcade",
+        "since": "2026-11-27 11:19"
+      },
+      {
         "n": 1350,
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
         "lane": "arcade2",
@@ -3122,10 +3128,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1209,
-        "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame"
-      },
       {
         "n": 1212,
         "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens"
@@ -3969,5 +3971,5 @@
       "2026-11-27": 23
     }
   },
-  "changed": "2026-11-27T17:19:14.107Z"
+  "changed": "2026-11-27T17:24:15.590Z"
 }
