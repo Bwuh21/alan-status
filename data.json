@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-27T08:20:00.000Z",
+  "updated": "2026-11-27T09:14:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Bar pool on a phone: calling the 8, the top corner pockets sat under LEAVE GAME (row 1163)",
+          "status": "done",
+          "note": "Live 11-27. On an upright phone the whole table now fits between the top buttons and the bottom panel, so the pocket you tap to call the 8 is the table, never a button. The arrows and the shoot key stay on one line.…"
+        },
         {
           "text": "Toy house: walking in through the front or garage door, the camera jumped in instead of gliding (row 1132)",
           "status": "done",
@@ -3098,12 +3103,6 @@
   "stack": {
     "building": [
       {
-        "n": 1163,
-        "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME",
-        "lane": "arcade",
-        "since": "2026-11-27 01:40"
-      },
-      {
         "n": 1166,
         "head": "Bowling with friends: light the bowler's FIGURE and dim the others' figures, not only their name tags",
         "lane": "arcade",
@@ -3833,6 +3832,14 @@
       {
         "n": 1593,
         "head": "the nightly instrument sweep files a slow box's TIMEOUT as a red game: rerun a TIMEOUT once, alone, before filing it"
+      },
+      {
+        "n": 1594,
+        "head": "BAR POOL phone held sideways: calling the 8, the two near corner pockets sit under the panel's text"
+      },
+      {
+        "n": 1595,
+        "head": "pool-rack-check never presses ready: \"one friend match starts\" fails since the friends' join screen"
       }
     ],
     "waiting": [
@@ -3867,6 +3874,11 @@
       {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
+        "date": "2026-11-27"
+      },
+      {
+        "n": 1163,
+        "head": "BAR POOL phone: calling the 8, the top-left corner pocket sits under LEAVE GAME",
         "date": "2026-11-27"
       },
       {
@@ -3912,15 +3924,9 @@
         "head": "LAUNCH: TOY FURY",
         "detail": "make the racing more fun: five changes from the outside deep dive (Zack, keyboard, 2026-11-26) fable",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1542,
-        "head": "LAUNCH: COMET CLASH with a friend",
-        "detail": "a thrown ball is pushed ahead by a fixed 85 ms whatever the line is (Codex read, 2026-11-26)",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1105,
+    "shippedTotal": 1106,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3928,8 +3934,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 9
+      "2026-11-27": 10
     }
   },
-  "changed": "2026-11-27T09:09:13.523Z"
+  "changed": "2026-11-27T09:19:14.325Z"
 }
