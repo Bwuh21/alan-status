@@ -3114,6 +3114,12 @@
         "head": "Toy Fury: on a phone the SLIPSTREAM meter is up by GO + 2 in some first races, 6 pieces on the glass against first-five's bar of 5",
         "lane": "arcade2",
         "since": "2026-11-27 03:38"
+      },
+      {
+        "n": 1348,
+        "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s",
+        "lane": "arcade2",
+        "since": "2026-11-27 04:55"
       }
     ],
     "next": [
@@ -3272,10 +3278,6 @@
         "n": 1326,
         "head": "Skins: Orchid and Scout are plain robots with small accessories",
         "detail": "make the accessory the read, or retire them (left by arcade building row 649, 2026-11-22)"
-      },
-      {
-        "n": 1348,
-        "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s"
       },
       {
         "n": 1350,
@@ -3933,5 +3935,5 @@
       "2026-11-27": 13
     }
   },
-  "changed": "2026-11-27T10:54:13.646Z"
+  "changed": "2026-11-27T10:59:14.571Z"
 }
