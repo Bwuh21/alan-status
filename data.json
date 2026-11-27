@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-27T07:40:00.000Z",
+  "updated": "2026-11-27T07:41:00.000Z",
   "mainPoints": [
     {
       "title": "The Arcade — polish pass",
       "status": "doing",
       "insight": "Self-feeding queue (polish-chain.ps1) -- it restarts itself the moment one item ships, no prompt needed. 11-03: it could hand the same job to two workers; today it did, and about 35 minutes went on a job already finished. It now asks a worker what it is holding before giving it anything, with a test that fails if that comes back.",
       "subtasks": [
+        {
+          "text": "Live Wire: the two top corners read alike, 'X HAS 2 OF 3' next to 'X HAS IT' (row 964)",
+          "status": "done",
+          "note": "Live 11-27. A stranger read the wrong corner as who's holding the bomb. Now the left corner only talks score ('MOSS LEADS 2/3', never 'has'), and who holds it right now sits in one solid pill under the fuse: orange…"
+        },
         {
           "text": "Party Planet: Blend In is back, 2 to 4 players, bots fill the empty seats (row 850)",
           "status": "done",
@@ -3078,12 +3083,6 @@
   "stack": {
     "building": [
       {
-        "n": 964,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LiveWire's two \"<",
-        "lane": "arcade",
-        "since": "2026-11-27 00:04"
-      },
-      {
         "n": 1101,
         "head": "(row 1176, 11-20: the FOOSBALL half is moot",
         "detail": "foosball is gone; build the AIR HOCKEY half only) FOOSBALL and AIR HOCKEY with a friend: foosball has no two-page party check, and both host ends call the settle step at the end of a friend's (free) m",
@@ -3860,6 +3859,11 @@
         "date": "2026-11-27"
       },
       {
+        "n": 964,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LiveWire's two \"<",
+        "date": "2026-11-27"
+      },
+      {
         "n": 963,
         "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LastCall: a first",
         "date": "2026-11-27"
@@ -3915,15 +3919,9 @@
         "n": 1537,
         "head": "LAUNCH: HAUNT, KITCHEN CLASH and GNOME WATCH come off the site",
         "date": "2026-11-26"
-      },
-      {
-        "n": 1535,
-        "head": "LAUNCH: one rule for three bar tables",
-        "detail": "after a friend's match the far end cannot play the house its own card offers (air hockey, shuffleboard, ping pong)",
-        "date": "2026-11-26"
       }
     ],
-    "shippedTotal": 1099,
+    "shippedTotal": 1100,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3931,8 +3929,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 3
+      "2026-11-27": 4
     }
   },
-  "changed": "2026-11-27T06:54:14.170Z"
+  "changed": "2026-11-27T06:59:13.738Z"
 }
