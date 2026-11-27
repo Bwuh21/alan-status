@@ -3075,6 +3075,19 @@
         "since": "2026-11-26 23:59"
       },
       {
+        "n": 964,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LiveWire's two \"<",
+        "lane": "arcade",
+        "since": "2026-11-27 00:04"
+      },
+      {
+        "n": 966,
+        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SecondWind has ze",
+        "detail": "every down in a blind run happened with no attacker, no flash, nothing readable",
+        "lane": "arcade2",
+        "since": "2026-11-27 00:04"
+      },
+      {
         "n": 1290,
         "head": "AirHockey's own check.mjs went red (nightly instrument sweep, 2026-11-22)",
         "lane": "arcade2",
@@ -3082,15 +3095,6 @@
       }
     ],
     "next": [
-      {
-        "n": 964,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) LiveWire's two \"<"
-      },
-      {
-        "n": 966,
-        "head": "(un-parked 2026-11-26: Zack, \"today's focus to be party games\"; read Logs/deep-dive-2026-11-26/codex/party-games.md first) SecondWind has ze",
-        "detail": "every down in a blind run happened with no attacker, no flash, nothing readable"
-      },
       {
         "n": 1101,
         "head": "(row 1176, 11-20: the FOOSBALL half is moot",
@@ -3908,5 +3912,5 @@
       "2026-11-26": 48
     }
   },
-  "changed": "2026-11-27T06:04:13.588Z"
+  "changed": "2026-11-27T06:09:13.624Z"
 }
