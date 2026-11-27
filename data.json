@@ -3109,6 +3109,12 @@
         "since": "2026-11-27 10:24"
       },
       {
+        "n": 1206,
+        "head": "Skate: on a phone the rider's own body hides the board while it flips",
+        "lane": "arcade",
+        "since": "2026-11-27 10:55"
+      },
+      {
         "n": 1350,
         "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
         "lane": "arcade2",
@@ -3122,10 +3128,6 @@
       }
     ],
     "next": [
-      {
-        "n": 1206,
-        "head": "Skate: on a phone the rider's own body hides the board while it flips"
-      },
       {
         "n": 1209,
         "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame"
@@ -3973,5 +3975,5 @@
       "2026-11-27": 22
     }
   },
-  "changed": "2026-11-27T16:54:14.225Z"
+  "changed": "2026-11-27T16:59:17.227Z"
 }
