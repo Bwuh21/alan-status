@@ -3120,6 +3120,12 @@
         "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s",
         "lane": "arcade2",
         "since": "2026-11-27 04:55"
+      },
+      {
+        "n": 1350,
+        "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
+        "lane": "arcade2",
+        "since": "2026-11-27 05:57"
       }
     ],
     "next": [
@@ -3274,10 +3280,6 @@
         "n": 1326,
         "head": "Skins: Orchid and Scout are plain robots with small accessories",
         "detail": "make the accessory the read, or retire them (left by arcade building row 649, 2026-11-22)"
-      },
-      {
-        "n": 1350,
-        "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found"
       },
       {
         "n": 1351,
@@ -3943,5 +3945,5 @@
       "2026-11-27": 14
     }
   },
-  "changed": "2026-11-27T11:40:39.395Z"
+  "changed": "2026-11-27T12:04:43.176Z"
 }
