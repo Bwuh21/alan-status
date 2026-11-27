@@ -3120,12 +3120,6 @@
         "since": "2026-11-27 12:10"
       },
       {
-        "n": 1350,
-        "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
-        "lane": "arcade2",
-        "since": "2026-11-27 05:57"
-      },
-      {
         "n": 1351,
         "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it",
         "lane": "arcade2",
@@ -3875,6 +3869,10 @@
       {
         "n": 1618,
         "head": "pong-see-check: \"the far half is 146 px (5%)\" reads 137 px on the tip without row 1194 too"
+      },
+      {
+        "n": 1619,
+        "head": "Topple Pull: the rollout picks which end to pull from the camera at think time, the real turn at the tap"
       }
     ],
     "waiting": [
@@ -3896,6 +3894,11 @@
       }
     ],
     "shipped": [
+      {
+        "n": 1350,
+        "head": "Topple Pull: the rollout re-creates the turn by hand, and that drift caused both bugs row 1197 found",
+        "date": "2026-11-27"
+      },
       {
         "n": 1348,
         "head": "Topple Pull: on a slow phone the decent and mean Ruby play alike, and her think still freezes the screen for 0.85 s",
@@ -3953,15 +3956,9 @@
         "n": 1194,
         "head": "Ping pong: your own head can sit over a ball coming down your left side on desk",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1191,
-        "head": "Ping pong: the FAR bat still floats",
-        "detail": "give the house a body and put a friend's bat in their figure's hand",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1120,
+    "shippedTotal": 1121,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3969,8 +3966,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 24
+      "2026-11-27": 25
     }
   },
-  "changed": "2026-11-27T18:14:13.664Z"
+  "changed": "2026-11-27T18:44:15.079Z"
 }
