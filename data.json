@@ -3118,12 +3118,6 @@
         "detail": "the house parks against it forever",
         "lane": "arcade",
         "since": "2026-11-27 13:35"
-      },
-      {
-        "n": 1352,
-        "head": "Topple Pull: when the tower falls, the loser cannot see which block did it",
-        "lane": "arcade2",
-        "since": "2026-11-27 12:50"
       }
     ],
     "next": [
@@ -3894,6 +3888,11 @@
     ],
     "shipped": [
       {
+        "n": 1352,
+        "head": "Topple Pull: when the tower falls, the loser cannot see which block did it",
+        "date": "2026-11-27"
+      },
+      {
         "n": 1351,
         "head": "Topple Pull: the mean bot's overhang is its attack, and nothing shows it",
         "date": "2026-11-27"
@@ -3949,14 +3948,9 @@
         "n": 1212,
         "head": "BAR POOL with a friend: prove the new sunk-ball tray reads right on BOTH screens",
         "date": "2026-11-27"
-      },
-      {
-        "n": 1209,
-        "head": "Skate: dropping onto a rail snaps the board down 38 cm in one frame",
-        "date": "2026-11-27"
       }
     ],
-    "shippedTotal": 1125,
+    "shippedTotal": 1126,
     "shippedOn": {
       "2026-11-21": 69,
       "2026-11-22": 62,
@@ -3964,8 +3958,8 @@
       "2026-11-24": 43,
       "2026-11-25": 1,
       "2026-11-26": 48,
-      "2026-11-27": 29
+      "2026-11-27": 30
     }
   },
-  "changed": "2026-11-27T20:24:13.834Z"
+  "changed": "2026-11-27T20:39:14.437Z"
 }
