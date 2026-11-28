@@ -3862,6 +3862,10 @@
       {
         "n": 1623,
         "head": "Bar air hockey: a puck resting in the house's own goal-mouth pocket can go in its own net when the house digs it out"
+      },
+      {
+        "n": 1624,
+        "head": "GnomeWatch's own dev/check.mjs went red (nightly instrument sweep, 2026-11-28)"
       }
     ],
     "waiting": [
@@ -3958,5 +3962,5 @@
       "2026-11-27": 31
     }
   },
-  "changed": "2026-11-27T21:19:14.242Z"
+  "changed": "2026-11-28T11:14:14.211Z"
 }
